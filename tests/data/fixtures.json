@@ -1,0 +1,6 @@
+{"syncedAt":"2026-01-01T00:00:00.000Z","events":[
+{"id":"espn:basketball:nba:900001","sport":"nba","competition":"NBA","a":"Toronto Raptors","b":"Miami Heat","scheduledAt":"2026-01-02T00:30:00.000Z","status":"upcoming"},
+{"id":"espn:basketball:nba:900002","sport":"nba","competition":"NBA","a":"New York Knicks","b":"Boston Celtics","scheduledAt":"2026-01-02T01:00:00.000Z","status":"upcoming"},
+{"id":"espn:basketball:nba:900003","sport":"nba","competition":"NBA","a":"Boston Celtics","b":"Toronto Raptors","scheduledAt":"2025-12-30T00:00:00.000Z","status":"finished"},
+{"id":"espn:hockey:nhl:900004","sport":"nhl","competition":"NHL","a":"Toronto Maple Leafs","b":"Montreal Canadiens","scheduledAt":"2026-01-03T00:00:00.000Z","status":"upcoming"}
+]}

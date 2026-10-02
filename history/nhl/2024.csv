@@ -1,0 +1,1428 @@
+date,season,league,home,away,home_score,away_score,neutral,espn_id
+2024-01-01T00:00:00Z,2024,nhl,Tampa Bay Lightning,Montreal Canadiens,4,3,0,401559797
+2024-01-01T01:00:00Z,2024,nhl,Dallas Stars,Chicago Blackhawks,8,1,0,401559798
+2024-01-01T01:00:00Z,2024,nhl,Colorado Avalanche,San Jose Sharks,3,1,0,401559799
+2024-01-01T01:00:00Z,2024,nhl,Calgary Flames,Philadelphia Flyers,4,3,0,401559800
+2024-01-01T01:00:00Z,2024,nhl,Anaheim Ducks,Edmonton Oilers,2,7,0,401559801
+2024-01-01T20:00:00Z,2024,nhl,Seattle Kraken,Vegas Golden Knights,3,0,1,401555902
+2024-01-03T00:00:00Z,2024,nhl,New York Rangers,Carolina Hurricanes,1,6,0,401559802
+2024-01-03T00:00:00Z,2024,nhl,Columbus Blue Jackets,Boston Bruins,1,4,0,401559804
+2024-01-03T00:30:00Z,2024,nhl,Pittsburgh Penguins,Washington Capitals,3,4,0,401559803
+2024-01-03T01:00:00Z,2024,nhl,Nashville Predators,Chicago Blackhawks,3,0,0,401559805
+2024-01-03T01:00:00Z,2024,nhl,Dallas Stars,Montreal Canadiens,3,4,0,401559806
+2024-01-03T01:00:00Z,2024,nhl,Minnesota Wild,Calgary Flames,1,3,0,401559807
+2024-01-03T01:00:00Z,2024,nhl,Winnipeg Jets,Tampa Bay Lightning,4,2,0,401559808
+2024-01-03T02:00:00Z,2024,nhl,Colorado Avalanche,New York Islanders,5,4,0,401559809
+2024-01-03T02:00:00Z,2024,nhl,Edmonton Oilers,Philadelphia Flyers,5,2,0,401559810
+2024-01-03T02:00:00Z,2024,nhl,Arizona Coyotes,Florida Panthers,1,4,0,401559811
+2024-01-03T03:00:00Z,2024,nhl,Vancouver Canucks,Ottawa Senators,6,3,0,401559812
+2024-01-03T03:30:00Z,2024,nhl,Los Angeles Kings,Toronto Maple Leafs,0,3,0,401559813
+2024-01-03T03:30:00Z,2024,nhl,San Jose Sharks,Detroit Red Wings,3,5,0,401559814
+2024-01-04T00:30:00Z,2024,nhl,Washington Capitals,New Jersey Devils,3,6,0,401559815
+2024-01-04T02:00:00Z,2024,nhl,Anaheim Ducks,Toronto Maple Leafs,1,2,0,401559816
+2024-01-05T00:00:00Z,2024,nhl,Boston Bruins,Pittsburgh Penguins,5,6,0,401559817
+2024-01-05T00:00:00Z,2024,nhl,Montreal Canadiens,Buffalo Sabres,1,6,0,401559818
+2024-01-05T00:00:00Z,2024,nhl,New York Rangers,Chicago Blackhawks,4,1,0,401559819
+2024-01-05T00:00:00Z,2024,nhl,Philadelphia Flyers,Columbus Blue Jackets,2,3,0,401559820
+2024-01-05T01:00:00Z,2024,nhl,St. Louis Blues,Vancouver Canucks,2,1,0,401559821
+2024-01-05T01:00:00Z,2024,nhl,Nashville Predators,Calgary Flames,3,6,0,401559822
+2024-01-05T01:00:00Z,2024,nhl,Dallas Stars,Colorado Avalanche,4,5,0,401559823
+2024-01-05T01:00:00Z,2024,nhl,Minnesota Wild,Tampa Bay Lightning,1,4,0,401559824
+2024-01-05T02:00:00Z,2024,nhl,Arizona Coyotes,New York Islanders,1,5,0,401559825
+2024-01-05T03:00:00Z,2024,nhl,Vegas Golden Knights,Florida Panthers,1,4,0,401559826
+2024-01-05T03:00:00Z,2024,nhl,Seattle Kraken,Ottawa Senators,4,1,0,401559827
+2024-01-05T03:30:00Z,2024,nhl,Los Angeles Kings,Detroit Red Wings,3,4,0,401559828
+2024-01-05T03:30:00Z,2024,nhl,San Jose Sharks,Winnipeg Jets,1,2,0,401559829
+2024-01-06T00:00:00Z,2024,nhl,New Jersey Devils,Chicago Blackhawks,4,2,0,401559830
+2024-01-06T00:00:00Z,2024,nhl,Washington Capitals,Carolina Hurricanes,2,6,0,401559831
+2024-01-06T03:00:00Z,2024,nhl,Anaheim Ducks,Winnipeg Jets,1,3,0,401559832
+2024-01-06T18:00:00Z,2024,nhl,Philadelphia Flyers,Calgary Flames,3,2,0,401559833
+2024-01-06T21:00:00Z,2024,nhl,Colorado Avalanche,Florida Panthers,4,8,0,401559834
+2024-01-07T00:00:00Z,2024,nhl,Boston Bruins,Tampa Bay Lightning,7,3,0,401559835
+2024-01-07T00:00:00Z,2024,nhl,Montreal Canadiens,New York Rangers,4,3,0,401559836
+2024-01-07T00:00:00Z,2024,nhl,New Jersey Devils,Vancouver Canucks,4,6,0,401559837
+2024-01-07T00:00:00Z,2024,nhl,Pittsburgh Penguins,Buffalo Sabres,1,3,0,401559838
+2024-01-07T00:00:00Z,2024,nhl,Columbus Blue Jackets,Minnesota Wild,3,4,0,401559840
+2024-01-07T00:00:00Z,2024,nhl,San Jose Sharks,Toronto Maple Leafs,1,4,0,401559841
+2024-01-07T01:00:00Z,2024,nhl,Carolina Hurricanes,St. Louis Blues,1,2,0,401559839
+2024-01-07T01:00:00Z,2024,nhl,Dallas Stars,Nashville Predators,3,4,0,401559842
+2024-01-07T03:00:00Z,2024,nhl,Edmonton Oilers,Ottawa Senators,3,1,0,401559843
+2024-01-07T03:00:00Z,2024,nhl,Vegas Golden Knights,New York Islanders,5,2,0,401559844
+2024-01-07T20:00:00Z,2024,nhl,Washington Capitals,Los Angeles Kings,4,3,0,401559845
+2024-01-07T20:00:00Z,2024,nhl,Chicago Blackhawks,Calgary Flames,4,3,0,401559846
+2024-01-08T00:00:00Z,2024,nhl,Arizona Coyotes,Winnipeg Jets,2,6,0,401559847
+2024-01-08T01:00:00Z,2024,nhl,Anaheim Ducks,Detroit Red Wings,2,3,0,401559848
+2024-01-09T00:00:00Z,2024,nhl,New York Rangers,Vancouver Canucks,3,6,0,401559849
+2024-01-09T00:00:00Z,2024,nhl,Philadelphia Flyers,Pittsburgh Penguins,1,4,0,401559850
+2024-01-09T01:00:00Z,2024,nhl,Minnesota Wild,Dallas Stars,0,4,0,401559851
+2024-01-09T02:00:00Z,2024,nhl,Colorado Avalanche,Boston Bruins,4,3,0,401559852
+2024-01-10T00:00:00Z,2024,nhl,Buffalo Sabres,Seattle Kraken,2,5,0,401559853
+2024-01-10T00:00:00Z,2024,nhl,Toronto Maple Leafs,San Jose Sharks,7,1,0,401559854
+2024-01-10T00:00:00Z,2024,nhl,Tampa Bay Lightning,Los Angeles Kings,3,2,0,401559855
+2024-01-10T00:30:00Z,2024,nhl,New York Islanders,Vancouver Canucks,2,5,0,401559856
+2024-01-10T01:00:00Z,2024,nhl,St. Louis Blues,Florida Panthers,1,5,0,401559857
+2024-01-10T01:00:00Z,2024,nhl,Nashville Predators,Anaheim Ducks,3,5,0,401559858
+2024-01-10T01:00:00Z,2024,nhl,Winnipeg Jets,Columbus Blue Jackets,5,0,0,401559859
+2024-01-10T01:30:00Z,2024,nhl,Chicago Blackhawks,Edmonton Oilers,1,2,0,401559860
+2024-01-10T02:00:00Z,2024,nhl,Calgary Flames,Ottawa Senators,6,3,0,401559861
+2024-01-10T02:00:00Z,2024,nhl,Arizona Coyotes,Boston Bruins,4,3,0,401559862
+2024-01-11T00:00:00Z,2024,nhl,Philadelphia Flyers,Montreal Canadiens,3,2,0,401559863
+2024-01-11T00:30:00Z,2024,nhl,Dallas Stars,Minnesota Wild,7,2,0,401559864
+2024-01-11T03:00:00Z,2024,nhl,Colorado Avalanche,Vegas Golden Knights,3,0,0,401559865
+2024-01-12T00:00:00Z,2024,nhl,Buffalo Sabres,Ottawa Senators,5,3,0,401559866
+2024-01-12T00:00:00Z,2024,nhl,Montreal Canadiens,San Jose Sharks,2,3,0,401559867
+2024-01-12T00:00:00Z,2024,nhl,Detroit Red Wings,Edmonton Oilers,2,3,0,401559868
+2024-01-12T00:00:00Z,2024,nhl,Tampa Bay Lightning,New Jersey Devils,4,3,0,401559869
+2024-01-12T00:00:00Z,2024,nhl,Florida Panthers,Los Angeles Kings,3,2,0,401559870
+2024-01-12T00:00:00Z,2024,nhl,Pittsburgh Penguins,Vancouver Canucks,3,4,0,401559871
+2024-01-12T00:00:00Z,2024,nhl,Washington Capitals,Seattle Kraken,1,4,0,401559872
+2024-01-12T00:00:00Z,2024,nhl,Carolina Hurricanes,Anaheim Ducks,6,3,0,401559873
+2024-01-12T00:00:00Z,2024,nhl,New York Islanders,Toronto Maple Leafs,4,3,0,401559874
+2024-01-12T01:00:00Z,2024,nhl,St. Louis Blues,New York Rangers,5,2,0,401559875
+2024-01-12T01:00:00Z,2024,nhl,Winnipeg Jets,Chicago Blackhawks,2,1,0,401559876
+2024-01-12T02:00:00Z,2024,nhl,Arizona Coyotes,Calgary Flames,2,6,0,401559877
+2024-01-12T03:00:00Z,2024,nhl,Vegas Golden Knights,Boston Bruins,2,1,0,401559878
+2024-01-13T01:00:00Z,2024,nhl,Dallas Stars,Nashville Predators,3,6,0,401559879
+2024-01-13T01:00:00Z,2024,nhl,Minnesota Wild,Philadelphia Flyers,3,4,0,401559880
+2024-01-13T18:00:00Z,2024,nhl,Washington Capitals,New York Rangers,3,2,0,401559881
+2024-01-13T21:00:00Z,2024,nhl,Buffalo Sabres,Vancouver Canucks,0,1,0,401559882
+2024-01-13T21:00:00Z,2024,nhl,Ottawa Senators,San Jose Sharks,5,4,0,401559883
+2024-01-13T23:00:00Z,2024,nhl,Florida Panthers,New Jersey Devils,1,4,0,401559884
+2024-01-14T00:00:00Z,2024,nhl,Toronto Maple Leafs,Colorado Avalanche,3,5,0,401559885
+2024-01-14T00:00:00Z,2024,nhl,Montreal Canadiens,Edmonton Oilers,1,2,0,401559886
+2024-01-14T00:00:00Z,2024,nhl,Detroit Red Wings,Los Angeles Kings,5,3,0,401559887
+2024-01-14T00:00:00Z,2024,nhl,Tampa Bay Lightning,Anaheim Ducks,5,1,0,401559888
+2024-01-14T00:00:00Z,2024,nhl,Carolina Hurricanes,Pittsburgh Penguins,3,2,0,401559889
+2024-01-14T00:00:00Z,2024,nhl,Columbus Blue Jackets,Seattle Kraken,4,7,0,401559890
+2024-01-14T00:00:00Z,2024,nhl,Winnipeg Jets,Philadelphia Flyers,0,2,0,401559891
+2024-01-14T01:00:00Z,2024,nhl,Chicago Blackhawks,Dallas Stars,1,3,0,401559892
+2024-01-14T01:00:00Z,2024,nhl,St. Louis Blues,Boston Bruins,3,4,0,401559893
+2024-01-14T01:00:00Z,2024,nhl,Nashville Predators,New York Islanders,3,1,0,401559894
+2024-01-14T01:00:00Z,2024,nhl,Minnesota Wild,Arizona Coyotes,0,6,0,401559895
+2024-01-14T03:00:00Z,2024,nhl,Vegas Golden Knights,Calgary Flames,1,3,0,401559896
+2024-01-14T18:00:00Z,2024,nhl,New York Rangers,Washington Capitals,2,1,0,401559897
+2024-01-15T00:30:00Z,2024,nhl,Toronto Maple Leafs,Detroit Red Wings,2,4,0,401559898
+2024-01-15T17:00:00Z,2024,nhl,Buffalo Sabres,San Jose Sharks,3,0,0,401559900
+2024-01-15T18:00:00Z,2024,nhl,Boston Bruins,New Jersey Devils,3,0,0,401559899
+2024-01-15T18:00:00Z,2024,nhl,Florida Panthers,Anaheim Ducks,4,5,0,401559901
+2024-01-15T18:00:00Z,2024,nhl,Columbus Blue Jackets,Vancouver Canucks,4,3,0,401559902
+2024-01-15T18:00:00Z,2024,nhl,Pittsburgh Penguins,Seattle Kraken,3,0,0,401559906
+2024-01-15T20:00:00Z,2024,nhl,Carolina Hurricanes,Los Angeles Kings,2,5,0,401559904
+2024-01-15T23:00:00Z,2024,nhl,Minnesota Wild,New York Islanders,5,0,0,401559903
+2024-01-15T23:00:00Z,2024,nhl,Vegas Golden Knights,Nashville Predators,4,1,0,401559908
+2024-01-16T00:00:00Z,2024,nhl,Montreal Canadiens,Colorado Avalanche,4,3,0,401559905
+2024-01-16T01:00:00Z,2024,nhl,St. Louis Blues,Philadelphia Flyers,2,4,0,401559907
+2024-01-17T00:00:00Z,2024,nhl,Ottawa Senators,Colorado Avalanche,4,7,0,401559909
+2024-01-17T00:00:00Z,2024,nhl,New York Rangers,Seattle Kraken,5,2,0,401559910
+2024-01-17T00:00:00Z,2024,nhl,Washington Capitals,Anaheim Ducks,2,0,0,401559911
+2024-01-17T01:00:00Z,2024,nhl,Dallas Stars,Los Angeles Kings,5,1,0,401559912
+2024-01-17T01:00:00Z,2024,nhl,Winnipeg Jets,New York Islanders,4,2,0,401559913
+2024-01-17T01:30:00Z,2024,nhl,Chicago Blackhawks,San Jose Sharks,2,1,0,401559914
+2024-01-17T02:00:00Z,2024,nhl,Calgary Flames,Arizona Coyotes,3,2,0,401559915
+2024-01-17T02:00:00Z,2024,nhl,Edmonton Oilers,Toronto Maple Leafs,4,2,0,401559916
+2024-01-18T00:00:00Z,2024,nhl,Florida Panthers,Detroit Red Wings,2,3,0,401559917
+2024-01-18T00:00:00Z,2024,nhl,New Jersey Devils,Montreal Canadiens,2,3,0,401559918
+2024-01-19T00:00:00Z,2024,nhl,Boston Bruins,Colorado Avalanche,5,2,0,401559920
+2024-01-19T00:00:00Z,2024,nhl,Ottawa Senators,Montreal Canadiens,6,2,0,401559921
+2024-01-19T00:00:00Z,2024,nhl,Tampa Bay Lightning,Minnesota Wild,7,3,0,401559922
+2024-01-19T00:00:00Z,2024,nhl,Philadelphia Flyers,Dallas Stars,5,1,0,401559923
+2024-01-19T00:00:00Z,2024,nhl,Washington Capitals,St. Louis Blues,5,2,0,401559924
+2024-01-19T00:00:00Z,2024,nhl,Buffalo Sabres,Chicago Blackhawks,3,0,0,401632079
+2024-01-19T02:00:00Z,2024,nhl,Calgary Flames,Toronto Maple Leafs,3,4,0,401559926
+2024-01-19T02:00:00Z,2024,nhl,Edmonton Oilers,Seattle Kraken,4,2,0,401559927
+2024-01-19T03:00:00Z,2024,nhl,Los Angeles Kings,Nashville Predators,1,2,0,401559928
+2024-01-19T03:00:00Z,2024,nhl,Vancouver Canucks,Arizona Coyotes,2,1,0,401559929
+2024-01-19T03:00:00Z,2024,nhl,Vegas Golden Knights,New York Rangers,5,1,0,401559930
+2024-01-20T00:00:00Z,2024,nhl,Florida Panthers,Minnesota Wild,4,6,0,401559931
+2024-01-20T00:00:00Z,2024,nhl,Carolina Hurricanes,Detroit Red Wings,4,2,0,401559932
+2024-01-20T00:00:00Z,2024,nhl,Columbus Blue Jackets,New Jersey Devils,1,4,0,401559933
+2024-01-20T01:30:00Z,2024,nhl,Chicago Blackhawks,New York Islanders,4,3,0,401559934
+2024-01-20T17:30:00Z,2024,nhl,Buffalo Sabres,Tampa Bay Lightning,1,3,0,401559935
+2024-01-20T18:00:00Z,2024,nhl,Philadelphia Flyers,Colorado Avalanche,4,7,0,401559936
+2024-01-20T20:00:00Z,2024,nhl,Ottawa Senators,Winnipeg Jets,1,2,0,401559937
+2024-01-20T20:00:00Z,2024,nhl,Arizona Coyotes,Nashville Predators,3,2,0,401559938
+2024-01-21T00:00:00Z,2024,nhl,Boston Bruins,Montreal Canadiens,9,4,0,401559939
+2024-01-21T00:00:00Z,2024,nhl,New Jersey Devils,Dallas Stars,2,6,0,401559940
+2024-01-21T00:00:00Z,2024,nhl,Vancouver Canucks,Toronto Maple Leafs,6,4,0,401559941
+2024-01-21T01:00:00Z,2024,nhl,St. Louis Blues,Washington Capitals,3,0,0,401559942
+2024-01-21T03:00:00Z,2024,nhl,Calgary Flames,Edmonton Oilers,1,3,0,401559943
+2024-01-21T03:00:00Z,2024,nhl,Vegas Golden Knights,Pittsburgh Penguins,3,2,0,401559944
+2024-01-21T03:00:00Z,2024,nhl,San Jose Sharks,Anaheim Ducks,5,3,0,401559945
+2024-01-21T03:30:00Z,2024,nhl,Los Angeles Kings,New York Rangers,2,1,0,401559946
+2024-01-21T18:00:00Z,2024,nhl,Philadelphia Flyers,Ottawa Senators,3,5,0,401559947
+2024-01-21T22:00:00Z,2024,nhl,Carolina Hurricanes,Minnesota Wild,2,5,0,401559949
+2024-01-22T00:00:00Z,2024,nhl,Detroit Red Wings,Tampa Bay Lightning,2,1,0,401559948
+2024-01-22T00:30:00Z,2024,nhl,New York Islanders,Dallas Stars,3,2,0,401559950
+2024-01-22T01:30:00Z,2024,nhl,Anaheim Ducks,New York Rangers,2,5,0,401559951
+2024-01-22T02:00:00Z,2024,nhl,Seattle Kraken,Toronto Maple Leafs,1,3,0,401559952
+2024-01-23T00:00:00Z,2024,nhl,Boston Bruins,Winnipeg Jets,4,1,0,401559953
+2024-01-23T00:00:00Z,2024,nhl,New Jersey Devils,Vegas Golden Knights,6,5,0,401559954
+2024-01-23T01:00:00Z,2024,nhl,Nashville Predators,Florida Panthers,1,4,0,401559955
+2024-01-23T02:00:00Z,2024,nhl,Arizona Coyotes,Pittsburgh Penguins,5,2,0,401559956
+2024-01-23T03:00:00Z,2024,nhl,Vancouver Canucks,Chicago Blackhawks,2,0,0,401559957
+2024-01-23T03:30:00Z,2024,nhl,Los Angeles Kings,San Jose Sharks,3,4,0,401559958
+2024-01-24T00:00:00Z,2024,nhl,Montreal Canadiens,Ottawa Senators,1,4,0,401559959
+2024-01-24T00:00:00Z,2024,nhl,Detroit Red Wings,Dallas Stars,4,5,0,401559960
+2024-01-24T00:00:00Z,2024,nhl,Philadelphia Flyers,Tampa Bay Lightning,3,6,0,401559961
+2024-01-24T00:30:00Z,2024,nhl,New York Islanders,Vegas Golden Knights,2,3,0,401559962
+2024-01-24T01:00:00Z,2024,nhl,Minnesota Wild,Washington Capitals,5,3,0,401559963
+2024-01-24T02:00:00Z,2024,nhl,Calgary Flames,St. Louis Blues,3,4,0,401559964
+2024-01-24T02:00:00Z,2024,nhl,Edmonton Oilers,Columbus Blue Jackets,4,1,0,401559965
+2024-01-24T03:00:00Z,2024,nhl,Anaheim Ducks,Buffalo Sabres,4,2,0,401559966
+2024-01-24T03:30:00Z,2024,nhl,San Jose Sharks,New York Rangers,3,2,0,401559967
+2024-01-25T00:00:00Z,2024,nhl,Toronto Maple Leafs,Winnipeg Jets,1,0,0,401559968
+2024-01-25T00:00:00Z,2024,nhl,Florida Panthers,Arizona Coyotes,6,2,0,401559969
+2024-01-25T00:30:00Z,2024,nhl,Boston Bruins,Carolina Hurricanes,2,3,0,401559970
+2024-01-25T02:30:00Z,2024,nhl,Colorado Avalanche,Washington Capitals,6,2,0,401559971
+2024-01-25T03:00:00Z,2024,nhl,Vancouver Canucks,St. Louis Blues,3,4,0,401559972
+2024-01-25T03:00:00Z,2024,nhl,Seattle Kraken,Chicago Blackhawks,6,2,0,401559973
+2024-01-25T03:30:00Z,2024,nhl,Los Angeles Kings,Buffalo Sabres,3,5,0,401559974
+2024-01-26T00:00:00Z,2024,nhl,Montreal Canadiens,New York Islanders,4,3,0,401559975
+2024-01-26T00:00:00Z,2024,nhl,Ottawa Senators,Boston Bruins,2,3,0,401559976
+2024-01-26T00:00:00Z,2024,nhl,Detroit Red Wings,Philadelphia Flyers,3,0,0,401559977
+2024-01-26T00:00:00Z,2024,nhl,Tampa Bay Lightning,Arizona Coyotes,6,3,0,401559978
+2024-01-26T00:30:00Z,2024,nhl,Carolina Hurricanes,New Jersey Devils,3,2,0,401559979
+2024-01-26T01:00:00Z,2024,nhl,Dallas Stars,Anaheim Ducks,4,3,0,401559980
+2024-01-26T01:00:00Z,2024,nhl,Minnesota Wild,Nashville Predators,2,3,0,401559981
+2024-01-26T02:00:00Z,2024,nhl,Calgary Flames,Columbus Blue Jackets,2,5,0,401559982
+2024-01-26T02:00:00Z,2024,nhl,Edmonton Oilers,Chicago Blackhawks,3,0,0,401559983
+2024-01-27T00:00:00Z,2024,nhl,New York Rangers,Vegas Golden Knights,2,5,0,401559984
+2024-01-27T00:00:00Z,2024,nhl,Pittsburgh Penguins,Florida Panthers,2,3,0,401559985
+2024-01-27T02:00:00Z,2024,nhl,Colorado Avalanche,Los Angeles Kings,5,1,0,401559986
+2024-01-27T03:00:00Z,2024,nhl,Seattle Kraken,St. Louis Blues,3,4,0,401559987
+2024-01-27T17:30:00Z,2024,nhl,Philadelphia Flyers,Boston Bruins,2,6,0,401559988
+2024-01-27T19:00:00Z,2024,nhl,Dallas Stars,Washington Capitals,5,4,0,401559989
+2024-01-27T21:00:00Z,2024,nhl,Edmonton Oilers,Nashville Predators,4,1,0,401559990
+2024-01-27T21:00:00Z,2024,nhl,San Jose Sharks,Buffalo Sabres,2,5,0,401559991
+2024-01-28T00:00:00Z,2024,nhl,Ottawa Senators,New York Rangers,2,7,0,401559992
+2024-01-28T00:00:00Z,2024,nhl,Tampa Bay Lightning,New Jersey Devils,6,3,0,401559994
+2024-01-28T00:00:00Z,2024,nhl,Pittsburgh Penguins,Montreal Canadiens,3,2,0,401559995
+2024-01-28T00:00:00Z,2024,nhl,Carolina Hurricanes,Arizona Coyotes,3,1,0,401559996
+2024-01-28T00:00:00Z,2024,nhl,Winnipeg Jets,Toronto Maple Leafs,2,4,0,401559997
+2024-01-28T00:30:00Z,2024,nhl,New York Islanders,Florida Panthers,2,3,0,401559998
+2024-01-28T01:00:00Z,2024,nhl,Detroit Red Wings,Vegas Golden Knights,5,2,0,401559993
+2024-01-28T02:00:00Z,2024,nhl,Minnesota Wild,Anaheim Ducks,2,3,0,401559999
+2024-01-28T03:00:00Z,2024,nhl,Calgary Flames,Chicago Blackhawks,1,0,0,401560000
+2024-01-28T03:00:00Z,2024,nhl,Vancouver Canucks,Columbus Blue Jackets,5,4,0,401560001
+2024-01-28T19:00:00Z,2024,nhl,St. Louis Blues,Los Angeles Kings,4,3,0,401560002
+2024-01-29T02:00:00Z,2024,nhl,Seattle Kraken,Columbus Blue Jackets,4,2,0,401560003
+2024-01-30T00:00:00Z,2024,nhl,Ottawa Senators,Nashville Predators,4,3,0,401560004
+2024-01-31T01:00:00Z,2024,nhl,St. Louis Blues,Columbus Blue Jackets,0,1,0,401560005
+2024-01-31T03:30:00Z,2024,nhl,San Jose Sharks,Seattle Kraken,2,0,0,401560006
+2024-02-01T00:00:00Z,2024,nhl,Detroit Red Wings,Ottawa Senators,2,3,0,401560007
+2024-02-01T00:30:00Z,2024,nhl,Nashville Predators,Los Angeles Kings,2,4,0,401560008
+2024-02-01T03:30:00Z,2024,nhl,Anaheim Ducks,San Jose Sharks,3,2,0,401560009
+2024-02-03T20:00:00Z,2024,nhl,Team McDavid,Team MacKinnon,4,3,0,401633459
+2024-02-03T21:00:00Z,2024,nhl,Team Matthews,Team Hughes,6,5,0,401633460
+2024-02-03T22:00:00Z,2024,nhl,Team Matthews,Team McDavid,7,4,0,401633461
+2024-02-06T00:00:00Z,2024,nhl,Toronto Maple Leafs,New York Islanders,2,3,0,401560010
+2024-02-06T00:00:00Z,2024,nhl,New York Rangers,Colorado Avalanche,2,1,0,401560011
+2024-02-07T00:00:00Z,2024,nhl,Boston Bruins,Calgary Flames,1,4,0,401560012
+2024-02-07T00:00:00Z,2024,nhl,Buffalo Sabres,Dallas Stars,1,2,0,401560013
+2024-02-07T00:00:00Z,2024,nhl,Florida Panthers,Philadelphia Flyers,1,2,0,401560014
+2024-02-07T00:00:00Z,2024,nhl,Pittsburgh Penguins,Winnipeg Jets,3,0,0,401560016
+2024-02-07T00:00:00Z,2024,nhl,Washington Capitals,Montreal Canadiens,2,5,0,401560017
+2024-02-07T00:00:00Z,2024,nhl,Carolina Hurricanes,Vancouver Canucks,2,3,0,401560018
+2024-02-07T00:30:00Z,2024,nhl,New Jersey Devils,Colorado Avalanche,5,3,0,401560015
+2024-02-07T03:00:00Z,2024,nhl,Vegas Golden Knights,Edmonton Oilers,3,1,0,401560019
+2024-02-08T00:00:00Z,2024,nhl,Toronto Maple Leafs,Dallas Stars,5,4,0,401560020
+2024-02-08T00:00:00Z,2024,nhl,New York Rangers,Tampa Bay Lightning,3,1,0,401560021
+2024-02-08T02:30:00Z,2024,nhl,Chicago Blackhawks,Minnesota Wild,1,2,0,401560022
+2024-02-09T00:00:00Z,2024,nhl,Boston Bruins,Vancouver Canucks,4,0,0,401560023
+2024-02-09T00:00:00Z,2024,nhl,Florida Panthers,Washington Capitals,4,2,0,401560024
+2024-02-09T00:00:00Z,2024,nhl,New Jersey Devils,Calgary Flames,3,5,0,401560025
+2024-02-09T00:00:00Z,2024,nhl,Philadelphia Flyers,Winnipeg Jets,4,1,0,401560026
+2024-02-09T00:00:00Z,2024,nhl,Carolina Hurricanes,Colorado Avalanche,5,2,0,401560028
+2024-02-09T01:00:00Z,2024,nhl,New York Islanders,Tampa Bay Lightning,6,2,0,401560027
+2024-02-09T02:00:00Z,2024,nhl,Arizona Coyotes,Vegas Golden Knights,2,3,0,401560029
+2024-02-10T01:00:00Z,2024,nhl,Minnesota Wild,Pittsburgh Penguins,3,2,0,401560030
+2024-02-10T01:30:00Z,2024,nhl,Chicago Blackhawks,New York Rangers,3,4,0,401560031
+2024-02-10T03:00:00Z,2024,nhl,Anaheim Ducks,Edmonton Oilers,3,5,0,401560032
+2024-02-10T18:00:00Z,2024,nhl,Buffalo Sabres,St. Louis Blues,1,3,0,401560033
+2024-02-10T18:00:00Z,2024,nhl,Montreal Canadiens,Dallas Stars,2,3,0,401560034
+2024-02-10T18:00:00Z,2024,nhl,Detroit Red Wings,Vancouver Canucks,4,3,0,401560035
+2024-02-10T18:00:00Z,2024,nhl,New York Islanders,Calgary Flames,2,5,0,401560036
+2024-02-10T20:30:00Z,2024,nhl,Boston Bruins,Washington Capitals,0,3,0,401560037
+2024-02-10T23:00:00Z,2024,nhl,Florida Panthers,Colorado Avalanche,4,0,0,401560038
+2024-02-11T00:00:00Z,2024,nhl,Ottawa Senators,Toronto Maple Leafs,5,3,0,401560039
+2024-02-11T00:00:00Z,2024,nhl,Philadelphia Flyers,Seattle Kraken,3,2,0,401560040
+2024-02-11T00:00:00Z,2024,nhl,Carolina Hurricanes,New Jersey Devils,1,0,0,401560041
+2024-02-11T00:00:00Z,2024,nhl,Columbus Blue Jackets,Tampa Bay Lightning,2,4,0,401560042
+2024-02-11T00:00:00Z,2024,nhl,Winnipeg Jets,Pittsburgh Penguins,2,1,0,401560043
+2024-02-11T01:00:00Z,2024,nhl,Nashville Predators,Arizona Coyotes,5,4,0,401560044
+2024-02-11T03:00:00Z,2024,nhl,Los Angeles Kings,Edmonton Oilers,4,0,0,401560045
+2024-02-11T18:00:00Z,2024,nhl,Montreal Canadiens,St. Louis Blues,2,7,0,401560046
+2024-02-11T18:30:00Z,2024,nhl,Washington Capitals,Vancouver Canucks,2,3,0,401560047
+2024-02-13T00:00:00Z,2024,nhl,New Jersey Devils,Seattle Kraken,3,1,0,401560048
+2024-02-13T00:00:00Z,2024,nhl,New York Rangers,Calgary Flames,2,0,0,401560049
+2024-02-13T00:00:00Z,2024,nhl,Philadelphia Flyers,Arizona Coyotes,5,3,0,401560050
+2024-02-13T03:00:00Z,2024,nhl,Vegas Golden Knights,Minnesota Wild,3,5,0,401560051
+2024-02-14T00:00:00Z,2024,nhl,Boston Bruins,Tampa Bay Lightning,2,3,0,401560052
+2024-02-14T00:00:00Z,2024,nhl,Buffalo Sabres,Los Angeles Kings,7,0,0,401560053
+2024-02-14T00:00:00Z,2024,nhl,Toronto Maple Leafs,St. Louis Blues,4,1,0,401560054
+2024-02-14T00:00:00Z,2024,nhl,Montreal Canadiens,Anaheim Ducks,5,0,0,401560055
+2024-02-14T00:00:00Z,2024,nhl,Ottawa Senators,Columbus Blue Jackets,6,3,0,401560056
+2024-02-14T00:00:00Z,2024,nhl,Washington Capitals,Colorado Avalanche,3,6,0,401560057
+2024-02-14T00:30:00Z,2024,nhl,New York Islanders,Seattle Kraken,1,2,0,401560058
+2024-02-14T01:00:00Z,2024,nhl,Nashville Predators,New Jersey Devils,2,4,0,401560059
+2024-02-14T01:00:00Z,2024,nhl,Dallas Stars,Carolina Hurricanes,4,2,0,401560060
+2024-02-14T01:30:00Z,2024,nhl,Chicago Blackhawks,Vancouver Canucks,2,4,0,401560061
+2024-02-14T02:00:00Z,2024,nhl,Edmonton Oilers,Detroit Red Wings,8,4,0,401560062
+2024-02-15T00:30:00Z,2024,nhl,Pittsburgh Penguins,Florida Panthers,2,5,0,401560063
+2024-02-15T00:30:00Z,2024,nhl,Winnipeg Jets,San Jose Sharks,1,0,0,401560064
+2024-02-15T02:30:00Z,2024,nhl,Arizona Coyotes,Minnesota Wild,1,3,0,401560065
+2024-02-16T00:00:00Z,2024,nhl,Boston Bruins,Seattle Kraken,1,4,0,401560066
+2024-02-16T00:00:00Z,2024,nhl,Buffalo Sabres,Florida Panthers,0,4,0,401560067
+2024-02-16T00:00:00Z,2024,nhl,Toronto Maple Leafs,Philadelphia Flyers,4,3,0,401560068
+2024-02-16T00:00:00Z,2024,nhl,Ottawa Senators,Anaheim Ducks,1,5,0,401560069
+2024-02-16T00:00:00Z,2024,nhl,Tampa Bay Lightning,Colorado Avalanche,6,3,0,401560070
+2024-02-16T00:00:00Z,2024,nhl,New Jersey Devils,Los Angeles Kings,1,2,0,401560071
+2024-02-16T00:00:00Z,2024,nhl,New York Rangers,Montreal Canadiens,7,4,0,401560072
+2024-02-16T01:00:00Z,2024,nhl,St. Louis Blues,Edmonton Oilers,6,3,0,401560073
+2024-02-16T01:00:00Z,2024,nhl,Nashville Predators,Dallas Stars,2,9,0,401560075
+2024-02-16T01:30:00Z,2024,nhl,Chicago Blackhawks,Pittsburgh Penguins,1,4,0,401560074
+2024-02-16T02:00:00Z,2024,nhl,Calgary Flames,San Jose Sharks,3,6,0,401560076
+2024-02-16T03:00:00Z,2024,nhl,Vancouver Canucks,Detroit Red Wings,4,1,0,401560077
+2024-02-17T02:00:00Z,2024,nhl,Arizona Coyotes,Carolina Hurricanes,1,5,0,401560078
+2024-02-17T17:30:00Z,2024,nhl,Boston Bruins,Los Angeles Kings,4,5,0,401560082
+2024-02-17T20:00:00Z,2024,nhl,Dallas Stars,Edmonton Oilers,3,4,0,401560079
+2024-02-17T20:00:00Z,2024,nhl,Chicago Blackhawks,Ottawa Senators,3,2,0,401560080
+2024-02-17T21:00:00Z,2024,nhl,Calgary Flames,Detroit Red Wings,0,5,0,401560081
+2024-02-17T22:00:00Z,2024,nhl,Tampa Bay Lightning,Florida Panthers,2,9,0,401560083
+2024-02-17T22:00:00Z,2024,nhl,St. Louis Blues,Nashville Predators,2,5,0,401560084
+2024-02-17T22:00:00Z,2024,nhl,Minnesota Wild,Buffalo Sabres,2,3,0,401560085
+2024-02-18T00:00:00Z,2024,nhl,Toronto Maple Leafs,Anaheim Ducks,9,2,0,401560086
+2024-02-18T00:00:00Z,2024,nhl,Montreal Canadiens,Washington Capitals,3,4,0,401560087
+2024-02-18T01:00:00Z,2024,nhl,New Jersey Devils,Philadelphia Flyers,6,3,1,401555900
+2024-02-18T03:00:00Z,2024,nhl,Vancouver Canucks,Winnipeg Jets,2,4,0,401560088
+2024-02-18T03:30:00Z,2024,nhl,Vegas Golden Knights,Carolina Hurricanes,1,3,0,401560089
+2024-02-18T03:30:00Z,2024,nhl,San Jose Sharks,Columbus Blue Jackets,3,4,0,401560090
+2024-02-18T20:00:00Z,2024,nhl,New York Islanders,New York Rangers,5,6,1,401555901
+2024-02-18T23:00:00Z,2024,nhl,Pittsburgh Penguins,Los Angeles Kings,1,2,0,401560091
+2024-02-18T23:00:00Z,2024,nhl,Colorado Avalanche,Arizona Coyotes,4,3,0,401560092
+2024-02-19T17:30:00Z,2024,nhl,Buffalo Sabres,Anaheim Ducks,3,4,0,401560093
+2024-02-19T18:00:00Z,2024,nhl,Boston Bruins,Dallas Stars,4,3,0,401560094
+2024-02-19T18:00:00Z,2024,nhl,St. Louis Blues,Toronto Maple Leafs,2,4,0,401560096
+2024-02-19T19:00:00Z,2024,nhl,Minnesota Wild,Vancouver Canucks,10,7,0,401560097
+2024-02-19T20:30:00Z,2024,nhl,Seattle Kraken,Detroit Red Wings,3,4,0,401560098
+2024-02-19T21:00:00Z,2024,nhl,Calgary Flames,Winnipeg Jets,6,3,0,401560099
+2024-02-19T21:00:00Z,2024,nhl,Arizona Coyotes,Edmonton Oilers,3,6,0,401560100
+2024-02-19T21:00:00Z,2024,nhl,San Jose Sharks,Vegas Golden Knights,0,4,0,401560101
+2024-02-20T00:00:00Z,2024,nhl,Carolina Hurricanes,Chicago Blackhawks,6,3,0,401560095
+2024-02-20T00:00:00Z,2024,nhl,Tampa Bay Lightning,Ottawa Senators,2,4,0,401560102
+2024-02-21T00:00:00Z,2024,nhl,Florida Panthers,Ottawa Senators,3,2,0,401560103
+2024-02-21T00:00:00Z,2024,nhl,New York Rangers,Dallas Stars,3,1,0,401560104
+2024-02-21T00:00:00Z,2024,nhl,Pittsburgh Penguins,New York Islanders,4,5,0,401560105
+2024-02-21T00:00:00Z,2024,nhl,Washington Capitals,New Jersey Devils,6,2,0,401560106
+2024-02-21T01:00:00Z,2024,nhl,Winnipeg Jets,Minnesota Wild,6,3,0,401560107
+2024-02-21T02:00:00Z,2024,nhl,Colorado Avalanche,Vancouver Canucks,3,1,0,401560108
+2024-02-21T03:00:00Z,2024,nhl,Vegas Golden Knights,Nashville Predators,3,5,0,401560109
+2024-02-21T03:30:00Z,2024,nhl,Los Angeles Kings,Columbus Blue Jackets,5,1,0,401560110
+2024-02-22T00:00:00Z,2024,nhl,Montreal Canadiens,Buffalo Sabres,2,3,0,401560111
+2024-02-22T00:30:00Z,2024,nhl,Chicago Blackhawks,Philadelphia Flyers,1,3,0,401560112
+2024-02-22T03:00:00Z,2024,nhl,Edmonton Oilers,Boston Bruins,5,6,0,401560113
+2024-02-22T03:00:00Z,2024,nhl,Arizona Coyotes,Toronto Maple Leafs,3,6,0,401560114
+2024-02-22T03:00:00Z,2024,nhl,Anaheim Ducks,Columbus Blue Jackets,4,7,0,401560115
+2024-02-23T00:00:00Z,2024,nhl,Ottawa Senators,Dallas Stars,4,1,0,401560116
+2024-02-23T00:00:00Z,2024,nhl,Detroit Red Wings,Colorado Avalanche,2,1,0,401560117
+2024-02-23T00:00:00Z,2024,nhl,Tampa Bay Lightning,Washington Capitals,3,5,0,401560118
+2024-02-23T00:00:00Z,2024,nhl,New Jersey Devils,New York Rangers,1,5,0,401560119
+2024-02-23T00:00:00Z,2024,nhl,Pittsburgh Penguins,Montreal Canadiens,4,1,0,401560120
+2024-02-23T00:00:00Z,2024,nhl,Carolina Hurricanes,Florida Panthers,1,0,0,401560121
+2024-02-23T01:00:00Z,2024,nhl,St. Louis Blues,New York Islanders,4,0,0,401560122
+2024-02-23T02:00:00Z,2024,nhl,Calgary Flames,Boston Bruins,3,2,0,401560123
+2024-02-23T03:00:00Z,2024,nhl,Vegas Golden Knights,Toronto Maple Leafs,3,7,0,401560124
+2024-02-23T03:00:00Z,2024,nhl,Seattle Kraken,Vancouver Canucks,5,2,0,401560125
+2024-02-23T03:30:00Z,2024,nhl,Los Angeles Kings,Nashville Predators,1,4,0,401560126
+2024-02-24T00:00:00Z,2024,nhl,Columbus Blue Jackets,Buffalo Sabres,1,2,0,401560127
+2024-02-24T01:30:00Z,2024,nhl,Chicago Blackhawks,Winnipeg Jets,2,3,0,401560128
+2024-02-24T02:00:00Z,2024,nhl,Edmonton Oilers,Minnesota Wild,2,4,0,401560129
+2024-02-24T17:00:00Z,2024,nhl,Detroit Red Wings,St. Louis Blues,6,1,0,401560135
+2024-02-24T19:00:00Z,2024,nhl,New Jersey Devils,Montreal Canadiens,4,3,0,401560130
+2024-02-24T19:00:00Z,2024,nhl,New York Islanders,Tampa Bay Lightning,2,4,0,401560131
+2024-02-24T20:00:00Z,2024,nhl,Philadelphia Flyers,New York Rangers,1,2,0,401560132
+2024-02-24T23:00:00Z,2024,nhl,Florida Panthers,Washington Capitals,3,2,0,401560133
+2024-02-25T00:00:00Z,2024,nhl,Ottawa Senators,Vegas Golden Knights,4,3,0,401560134
+2024-02-25T00:00:00Z,2024,nhl,Colorado Avalanche,Toronto Maple Leafs,3,4,0,401560137
+2024-02-25T00:00:00Z,2024,nhl,Vancouver Canucks,Boston Bruins,3,2,0,401560138
+2024-02-25T01:00:00Z,2024,nhl,Carolina Hurricanes,Dallas Stars,1,2,0,401560136
+2024-02-25T03:00:00Z,2024,nhl,Edmonton Oilers,Calgary Flames,3,6,0,401560139
+2024-02-25T03:00:00Z,2024,nhl,San Jose Sharks,Nashville Predators,2,4,0,401560140
+2024-02-25T03:00:00Z,2024,nhl,Seattle Kraken,Minnesota Wild,2,5,0,401560141
+2024-02-25T03:30:00Z,2024,nhl,Los Angeles Kings,Anaheim Ducks,3,2,0,401560142
+2024-02-25T18:00:00Z,2024,nhl,New Jersey Devils,Tampa Bay Lightning,1,4,0,401560143
+2024-02-25T20:30:00Z,2024,nhl,Pittsburgh Penguins,Philadelphia Flyers,7,6,0,401560144
+2024-02-25T23:00:00Z,2024,nhl,Buffalo Sabres,Carolina Hurricanes,3,2,0,401560145
+2024-02-25T23:00:00Z,2024,nhl,Columbus Blue Jackets,New York Rangers,4,2,0,401560146
+2024-02-25T23:00:00Z,2024,nhl,Chicago Blackhawks,Detroit Red Wings,2,3,0,401560147
+2024-02-25T23:00:00Z,2024,nhl,Winnipeg Jets,Arizona Coyotes,4,3,0,401560148
+2024-02-26T01:00:00Z,2024,nhl,Anaheim Ducks,Nashville Predators,2,4,0,401560149
+2024-02-27T00:00:00Z,2024,nhl,Washington Capitals,Ottawa Senators,6,3,0,401560150
+2024-02-27T01:00:00Z,2024,nhl,Dallas Stars,New York Islanders,2,3,0,401560151
+2024-02-27T02:30:00Z,2024,nhl,Edmonton Oilers,Los Angeles Kings,4,2,0,401560152
+2024-02-27T03:00:00Z,2024,nhl,Seattle Kraken,Boston Bruins,4,3,0,401560153
+2024-02-28T00:00:00Z,2024,nhl,Toronto Maple Leafs,Vegas Golden Knights,2,6,0,401560154
+2024-02-28T00:00:00Z,2024,nhl,Montreal Canadiens,Arizona Coyotes,4,2,0,401560155
+2024-02-28T00:00:00Z,2024,nhl,Detroit Red Wings,Washington Capitals,8,3,0,401560156
+2024-02-28T00:00:00Z,2024,nhl,Florida Panthers,Buffalo Sabres,3,2,0,401560157
+2024-02-28T00:00:00Z,2024,nhl,Philadelphia Flyers,Tampa Bay Lightning,6,2,0,401560158
+2024-02-28T01:00:00Z,2024,nhl,Nashville Predators,Ottawa Senators,4,1,0,401560159
+2024-02-28T01:00:00Z,2024,nhl,Minnesota Wild,Carolina Hurricanes,2,3,0,401560160
+2024-02-28T01:00:00Z,2024,nhl,Winnipeg Jets,St. Louis Blues,4,2,0,401560161
+2024-02-28T02:00:00Z,2024,nhl,Calgary Flames,Los Angeles Kings,4,2,0,401560163
+2024-02-28T02:30:00Z,2024,nhl,Colorado Avalanche,Dallas Stars,5,1,0,401560162
+2024-02-28T03:00:00Z,2024,nhl,Vancouver Canucks,Pittsburgh Penguins,3,4,0,401560164
+2024-02-28T03:30:00Z,2024,nhl,San Jose Sharks,New Jersey Devils,2,7,0,401560165
+2024-02-29T00:00:00Z,2024,nhl,New York Rangers,Columbus Blue Jackets,4,1,0,401560166
+2024-02-29T01:30:00Z,2024,nhl,Edmonton Oilers,St. Louis Blues,3,2,0,401560167
+2024-03-01T00:00:00Z,2024,nhl,Boston Bruins,Vegas Golden Knights,5,4,0,401560168
+2024-03-01T00:00:00Z,2024,nhl,Toronto Maple Leafs,Arizona Coyotes,4,2,0,401560169
+2024-03-01T00:00:00Z,2024,nhl,Detroit Red Wings,New York Islanders,3,5,0,401560170
+2024-03-01T00:00:00Z,2024,nhl,Tampa Bay Lightning,Buffalo Sabres,2,3,0,401560171
+2024-03-01T00:00:00Z,2024,nhl,Florida Panthers,Montreal Canadiens,4,3,0,401560172
+2024-03-01T00:00:00Z,2024,nhl,Columbus Blue Jackets,Carolina Hurricanes,2,4,0,401560173
+2024-03-01T01:00:00Z,2024,nhl,Nashville Predators,Minnesota Wild,6,1,0,401560174
+2024-03-01T01:00:00Z,2024,nhl,Dallas Stars,Winnipeg Jets,4,1,0,401560175
+2024-03-01T02:00:00Z,2024,nhl,Chicago Blackhawks,Colorado Avalanche,0,5,0,401560176
+2024-03-01T03:00:00Z,2024,nhl,Vancouver Canucks,Los Angeles Kings,1,5,0,401560177
+2024-03-01T03:00:00Z,2024,nhl,Seattle Kraken,Pittsburgh Penguins,2,0,0,401560178
+2024-03-01T03:30:00Z,2024,nhl,San Jose Sharks,Anaheim Ducks,4,6,0,401560179
+2024-03-02T00:00:00Z,2024,nhl,Ottawa Senators,Arizona Coyotes,3,5,0,401560180
+2024-03-02T00:00:00Z,2024,nhl,Washington Capitals,Philadelphia Flyers,5,2,0,401560181
+2024-03-02T03:00:00Z,2024,nhl,Anaheim Ducks,New Jersey Devils,4,3,0,401560182
+2024-03-02T17:30:00Z,2024,nhl,Carolina Hurricanes,Winnipeg Jets,3,5,0,401560183
+2024-03-02T20:00:00Z,2024,nhl,Detroit Red Wings,Florida Panthers,0,4,0,401560188
+2024-03-02T21:00:00Z,2024,nhl,Seattle Kraken,Edmonton Oilers,1,2,0,401560185
+2024-03-02T23:00:00Z,2024,nhl,St. Louis Blues,Minnesota Wild,3,1,0,401560192
+2024-03-02T23:00:00Z,2024,nhl,Nashville Predators,Colorado Avalanche,5,1,0,401560193
+2024-03-03T00:00:00Z,2024,nhl,Buffalo Sabres,Vegas Golden Knights,7,2,0,401560186
+2024-03-03T00:00:00Z,2024,nhl,Toronto Maple Leafs,New York Rangers,4,3,0,401560187
+2024-03-03T00:00:00Z,2024,nhl,Tampa Bay Lightning,Montreal Canadiens,4,3,0,401560189
+2024-03-03T00:00:00Z,2024,nhl,Philadelphia Flyers,Ottawa Senators,4,2,0,401560190
+2024-03-03T00:30:00Z,2024,nhl,New York Islanders,Boston Bruins,5,1,0,401560184
+2024-03-03T01:00:00Z,2024,nhl,Chicago Blackhawks,Columbus Blue Jackets,2,5,0,401560191
+2024-03-03T01:00:00Z,2024,nhl,Dallas Stars,San Jose Sharks,3,2,0,401560194
+2024-03-03T03:00:00Z,2024,nhl,Calgary Flames,Pittsburgh Penguins,4,3,0,401560195
+2024-03-03T18:00:00Z,2024,nhl,Washington Capitals,Arizona Coyotes,2,5,0,401560196
+2024-03-03T20:30:00Z,2024,nhl,Los Angeles Kings,New Jersey Devils,5,1,0,401560197
+2024-03-04T00:00:00Z,2024,nhl,Buffalo Sabres,Winnipeg Jets,2,5,0,401560198
+2024-03-04T00:00:00Z,2024,nhl,Minnesota Wild,San Jose Sharks,4,3,0,401560199
+2024-03-04T01:00:00Z,2024,nhl,Anaheim Ducks,Vancouver Canucks,1,2,0,401560200
+2024-03-04T02:00:00Z,2024,nhl,Edmonton Oilers,Pittsburgh Penguins,6,1,0,401560201
+2024-03-05T00:00:00Z,2024,nhl,Toronto Maple Leafs,Boston Bruins,1,4,0,401560202
+2024-03-05T00:00:00Z,2024,nhl,New York Rangers,Florida Panthers,2,4,0,401560203
+2024-03-05T00:00:00Z,2024,nhl,Philadelphia Flyers,St. Louis Blues,1,2,0,401560204
+2024-03-05T00:00:00Z,2024,nhl,Columbus Blue Jackets,Vegas Golden Knights,6,3,0,401560205
+2024-03-05T02:00:00Z,2024,nhl,Colorado Avalanche,Chicago Blackhawks,5,0,0,401560206
+2024-03-05T02:30:00Z,2024,nhl,Calgary Flames,Seattle Kraken,2,4,0,401560207
+2024-03-06T00:00:00Z,2024,nhl,New Jersey Devils,Florida Panthers,3,5,0,401560209
+2024-03-06T00:00:00Z,2024,nhl,Pittsburgh Penguins,Columbus Blue Jackets,5,3,0,401560210
+2024-03-06T00:30:00Z,2024,nhl,Boston Bruins,Edmonton Oilers,1,2,0,401560208
+2024-03-06T00:30:00Z,2024,nhl,New York Islanders,St. Louis Blues,4,2,0,401560211
+2024-03-06T01:00:00Z,2024,nhl,Nashville Predators,Montreal Canadiens,3,4,0,401560212
+2024-03-06T01:00:00Z,2024,nhl,Winnipeg Jets,Seattle Kraken,3,4,0,401560213
+2024-03-06T02:00:00Z,2024,nhl,Arizona Coyotes,Chicago Blackhawks,2,5,0,401560214
+2024-03-06T03:30:00Z,2024,nhl,Los Angeles Kings,Vancouver Canucks,1,2,0,401560215
+2024-03-06T03:30:00Z,2024,nhl,San Jose Sharks,Dallas Stars,6,7,0,401560216
+2024-03-07T00:00:00Z,2024,nhl,Toronto Maple Leafs,Buffalo Sabres,2,1,0,401560217
+2024-03-07T02:30:00Z,2024,nhl,Colorado Avalanche,Detroit Red Wings,7,2,0,401560218
+2024-03-07T03:00:00Z,2024,nhl,Anaheim Ducks,Ottawa Senators,2,1,0,401560219
+2024-03-08T00:00:00Z,2024,nhl,Boston Bruins,Toronto Maple Leafs,4,1,0,401560220
+2024-03-08T00:00:00Z,2024,nhl,Tampa Bay Lightning,Calgary Flames,3,6,0,401560221
+2024-03-08T00:00:00Z,2024,nhl,Florida Panthers,Philadelphia Flyers,1,2,0,401560222
+2024-03-08T00:00:00Z,2024,nhl,New Jersey Devils,St. Louis Blues,4,1,0,401560223
+2024-03-08T00:00:00Z,2024,nhl,Pittsburgh Penguins,Washington Capitals,0,6,0,401560224
+2024-03-08T00:00:00Z,2024,nhl,Carolina Hurricanes,Montreal Canadiens,4,1,0,401560225
+2024-03-08T00:00:00Z,2024,nhl,Columbus Blue Jackets,Edmonton Oilers,4,2,0,401560226
+2024-03-08T01:00:00Z,2024,nhl,Nashville Predators,Buffalo Sabres,4,2,0,401560227
+2024-03-08T02:00:00Z,2024,nhl,Arizona Coyotes,Minnesota Wild,2,5,0,401560228
+2024-03-08T03:00:00Z,2024,nhl,Vegas Golden Knights,Vancouver Canucks,1,3,0,401560229
+2024-03-08T03:30:00Z,2024,nhl,Los Angeles Kings,Ottawa Senators,4,3,0,401560230
+2024-03-08T03:30:00Z,2024,nhl,San Jose Sharks,New York Islanders,2,7,0,401560231
+2024-03-09T02:00:00Z,2024,nhl,Colorado Avalanche,Minnesota Wild,2,1,0,401560232
+2024-03-09T02:00:00Z,2024,nhl,Arizona Coyotes,Detroit Red Wings,4,0,0,401560233
+2024-03-09T03:00:00Z,2024,nhl,Anaheim Ducks,Dallas Stars,2,6,0,401560234
+2024-03-09T03:00:00Z,2024,nhl,Seattle Kraken,Winnipeg Jets,0,3,0,401560235
+2024-03-09T17:30:00Z,2024,nhl,Buffalo Sabres,Edmonton Oilers,3,2,0,401560236
+2024-03-09T17:30:00Z,2024,nhl,New Jersey Devils,Carolina Hurricanes,2,4,0,401560237
+2024-03-09T17:30:00Z,2024,nhl,Columbus Blue Jackets,Nashville Predators,1,2,0,401560238
+2024-03-09T20:00:00Z,2024,nhl,Boston Bruins,Pittsburgh Penguins,5,1,0,401560239
+2024-03-09T21:00:00Z,2024,nhl,Florida Panthers,Calgary Flames,5,1,0,401560240
+2024-03-10T00:00:00Z,2024,nhl,Montreal Canadiens,Toronto Maple Leafs,2,3,0,401560241
+2024-03-10T00:00:00Z,2024,nhl,Tampa Bay Lightning,Philadelphia Flyers,7,0,0,401560242
+2024-03-10T00:00:00Z,2024,nhl,Washington Capitals,Chicago Blackhawks,4,1,0,401560243
+2024-03-10T00:00:00Z,2024,nhl,San Jose Sharks,Ottawa Senators,2,1,0,401560244
+2024-03-10T00:30:00Z,2024,nhl,New York Rangers,St. Louis Blues,4,0,0,401560245
+2024-03-10T03:00:00Z,2024,nhl,Vancouver Canucks,Winnipeg Jets,5,0,0,401560246
+2024-03-10T03:00:00Z,2024,nhl,Vegas Golden Knights,Detroit Red Wings,5,3,0,401560247
+2024-03-10T03:30:00Z,2024,nhl,Los Angeles Kings,Dallas Stars,1,4,0,401560248
+2024-03-10T17:00:00Z,2024,nhl,Pittsburgh Penguins,Edmonton Oilers,0,4,0,401560249
+2024-03-10T19:30:00Z,2024,nhl,Minnesota Wild,Nashville Predators,4,3,0,401560250
+2024-03-10T21:00:00Z,2024,nhl,Carolina Hurricanes,Calgary Flames,7,2,0,401560251
+2024-03-10T22:00:00Z,2024,nhl,Chicago Blackhawks,Arizona Coyotes,7,4,0,401560252
+2024-03-11T00:00:00Z,2024,nhl,Anaheim Ducks,New York Islanders,1,6,0,401560253
+2024-03-11T23:00:00Z,2024,nhl,Boston Bruins,St. Louis Blues,1,5,0,401560254
+2024-03-11T23:00:00Z,2024,nhl,New York Rangers,New Jersey Devils,3,1,0,401560255
+2024-03-11T23:30:00Z,2024,nhl,Winnipeg Jets,Washington Capitals,3,0,0,401560256
+2024-03-12T02:30:00Z,2024,nhl,Los Angeles Kings,New York Islanders,3,0,0,401560257
+2024-03-12T23:00:00Z,2024,nhl,Buffalo Sabres,Detroit Red Wings,7,3,0,401560258
+2024-03-12T23:00:00Z,2024,nhl,Montreal Canadiens,Columbus Blue Jackets,3,0,0,401560259
+2024-03-12T23:00:00Z,2024,nhl,Ottawa Senators,Pittsburgh Penguins,2,1,0,401560260
+2024-03-12T23:00:00Z,2024,nhl,Philadelphia Flyers,San Jose Sharks,3,2,0,401560261
+2024-03-12T23:00:00Z,2024,nhl,Carolina Hurricanes,New York Rangers,0,1,0,401560262
+2024-03-13T00:00:00Z,2024,nhl,Dallas Stars,Florida Panthers,3,4,0,401560263
+2024-03-13T00:00:00Z,2024,nhl,Minnesota Wild,Arizona Coyotes,4,1,0,401560264
+2024-03-13T00:30:00Z,2024,nhl,Chicago Blackhawks,Anaheim Ducks,7,2,0,401560265
+2024-03-13T01:00:00Z,2024,nhl,Calgary Flames,Colorado Avalanche,2,6,0,401560266
+2024-03-13T02:00:00Z,2024,nhl,Seattle Kraken,Vegas Golden Knights,4,5,0,401560267
+2024-03-13T23:30:00Z,2024,nhl,St. Louis Blues,Los Angeles Kings,3,1,0,401560268
+2024-03-13T23:30:00Z,2024,nhl,Winnipeg Jets,Nashville Predators,2,4,0,401560269
+2024-03-14T02:00:00Z,2024,nhl,Edmonton Oilers,Washington Capitals,7,2,0,401560270
+2024-03-14T02:30:00Z,2024,nhl,Vancouver Canucks,Colorado Avalanche,3,4,0,401560271
+2024-03-14T23:00:00Z,2024,nhl,Buffalo Sabres,New York Islanders,4,0,0,401560272
+2024-03-14T23:00:00Z,2024,nhl,Montreal Canadiens,Boston Bruins,1,2,0,401560273
+2024-03-14T23:00:00Z,2024,nhl,Detroit Red Wings,Arizona Coyotes,1,4,0,401560274
+2024-03-14T23:00:00Z,2024,nhl,Tampa Bay Lightning,New York Rangers,6,3,0,401560275
+2024-03-14T23:00:00Z,2024,nhl,Pittsburgh Penguins,San Jose Sharks,6,3,0,401560277
+2024-03-14T23:00:00Z,2024,nhl,Carolina Hurricanes,Florida Panthers,4,0,0,401560278
+2024-03-14T23:00:00Z,2024,nhl,Columbus Blue Jackets,Ottawa Senators,2,3,0,401560279
+2024-03-14T23:30:00Z,2024,nhl,Philadelphia Flyers,Toronto Maple Leafs,2,6,0,401560276
+2024-03-15T00:00:00Z,2024,nhl,Dallas Stars,New Jersey Devils,2,6,0,401560280
+2024-03-15T00:00:00Z,2024,nhl,Minnesota Wild,Anaheim Ducks,2,0,0,401560281
+2024-03-15T01:00:00Z,2024,nhl,Calgary Flames,Vegas Golden Knights,4,1,0,401560282
+2024-03-15T02:00:00Z,2024,nhl,Seattle Kraken,Washington Capitals,1,2,0,401560283
+2024-03-16T00:00:00Z,2024,nhl,Winnipeg Jets,Anaheim Ducks,6,0,0,401560284
+2024-03-16T00:30:00Z,2024,nhl,Chicago Blackhawks,Los Angeles Kings,0,5,0,401560285
+2024-03-16T16:30:00Z,2024,nhl,Detroit Red Wings,Buffalo Sabres,4,1,0,401560286
+2024-03-16T16:30:00Z,2024,nhl,New York Islanders,Ottawa Senators,3,4,0,401560287
+2024-03-16T19:00:00Z,2024,nhl,Pittsburgh Penguins,New York Rangers,4,7,0,401560288
+2024-03-16T21:00:00Z,2024,nhl,Arizona Coyotes,New Jersey Devils,4,1,0,401560289
+2024-03-16T22:00:00Z,2024,nhl,Florida Panthers,Tampa Bay Lightning,3,5,0,401560290
+2024-03-16T23:00:00Z,2024,nhl,Boston Bruins,Philadelphia Flyers,6,5,0,401560291
+2024-03-16T23:00:00Z,2024,nhl,Toronto Maple Leafs,Carolina Hurricanes,4,5,0,401560292
+2024-03-16T23:00:00Z,2024,nhl,Columbus Blue Jackets,San Jose Sharks,4,2,0,401560293
+2024-03-16T23:00:00Z,2024,nhl,Calgary Flames,Montreal Canadiens,5,2,0,401560294
+2024-03-17T00:00:00Z,2024,nhl,St. Louis Blues,Minnesota Wild,3,2,0,401560295
+2024-03-17T00:00:00Z,2024,nhl,Dallas Stars,Los Angeles Kings,4,1,0,401560296
+2024-03-17T02:00:00Z,2024,nhl,Edmonton Oilers,Colorado Avalanche,2,3,0,401560297
+2024-03-17T02:00:00Z,2024,nhl,Vancouver Canucks,Washington Capitals,1,2,0,401560298
+2024-03-17T02:00:00Z,2024,nhl,Seattle Kraken,Nashville Predators,1,4,0,401560299
+2024-03-17T17:00:00Z,2024,nhl,New York Rangers,New York Islanders,5,2,0,401560300
+2024-03-17T19:30:00Z,2024,nhl,Vegas Golden Knights,New Jersey Devils,3,1,0,401560301
+2024-03-17T22:00:00Z,2024,nhl,Ottawa Senators,Carolina Hurricanes,2,7,0,401560302
+2024-03-17T22:00:00Z,2024,nhl,Pittsburgh Penguins,Detroit Red Wings,6,3,0,401560303
+2024-03-17T22:00:00Z,2024,nhl,Columbus Blue Jackets,Winnipeg Jets,1,6,0,401560304
+2024-03-17T22:00:00Z,2024,nhl,Chicago Blackhawks,San Jose Sharks,5,2,0,401560305
+2024-03-17T23:00:00Z,2024,nhl,St. Louis Blues,Anaheim Ducks,4,2,0,401560306
+2024-03-19T00:30:00Z,2024,nhl,Calgary Flames,Washington Capitals,2,5,0,401560308
+2024-03-19T02:00:00Z,2024,nhl,Seattle Kraken,Buffalo Sabres,2,6,0,401560309
+2024-03-19T23:00:00Z,2024,nhl,Boston Bruins,Ottawa Senators,6,2,0,401560310
+2024-03-19T23:00:00Z,2024,nhl,Detroit Red Wings,Columbus Blue Jackets,4,3,0,401560311
+2024-03-19T23:00:00Z,2024,nhl,New Jersey Devils,Pittsburgh Penguins,5,2,0,401560312
+2024-03-19T23:00:00Z,2024,nhl,New York Rangers,Winnipeg Jets,2,4,0,401560313
+2024-03-19T23:00:00Z,2024,nhl,Philadelphia Flyers,Toronto Maple Leafs,4,3,0,401560314
+2024-03-19T23:30:00Z,2024,nhl,New York Islanders,Carolina Hurricanes,1,4,0,401560315
+2024-03-20T00:00:00Z,2024,nhl,St. Louis Blues,Colorado Avalanche,3,4,0,401560316
+2024-03-20T00:00:00Z,2024,nhl,Nashville Predators,San Jose Sharks,8,2,0,401560317
+2024-03-20T01:00:00Z,2024,nhl,Edmonton Oilers,Montreal Canadiens,3,2,0,401560318
+2024-03-20T02:00:00Z,2024,nhl,Vancouver Canucks,Buffalo Sabres,3,2,0,401560319
+2024-03-20T02:00:00Z,2024,nhl,Vegas Golden Knights,Tampa Bay Lightning,3,5,0,401560320
+2024-03-20T02:00:00Z,2024,nhl,Anaheim Ducks,Minnesota Wild,0,4,0,401560321
+2024-03-20T02:00:00Z,2024,nhl,Los Angeles Kings,Chicago Blackhawks,6,2,0,401560322
+2024-03-20T23:30:00Z,2024,nhl,Washington Capitals,Toronto Maple Leafs,3,7,0,401560323
+2024-03-21T00:00:00Z,2024,nhl,Dallas Stars,Arizona Coyotes,5,2,0,401560307
+2024-03-21T02:00:00Z,2024,nhl,Los Angeles Kings,Minnesota Wild,6,0,0,401560324
+2024-03-21T23:00:00Z,2024,nhl,Boston Bruins,New York Rangers,2,5,0,401560325
+2024-03-21T23:00:00Z,2024,nhl,Ottawa Senators,St. Louis Blues,2,5,0,401560326
+2024-03-21T23:00:00Z,2024,nhl,Detroit Red Wings,New York Islanders,6,3,0,401560327
+2024-03-21T23:00:00Z,2024,nhl,New Jersey Devils,Winnipeg Jets,4,1,0,401560329
+2024-03-21T23:00:00Z,2024,nhl,Carolina Hurricanes,Philadelphia Flyers,3,2,0,401560330
+2024-03-21T23:30:00Z,2024,nhl,Florida Panthers,Nashville Predators,0,3,0,401560328
+2024-03-22T01:00:00Z,2024,nhl,Edmonton Oilers,Buffalo Sabres,8,3,0,401560331
+2024-03-22T02:00:00Z,2024,nhl,Vancouver Canucks,Montreal Canadiens,4,1,0,401560332
+2024-03-22T02:00:00Z,2024,nhl,Anaheim Ducks,Chicago Blackhawks,4,0,0,401560334
+2024-03-22T02:30:00Z,2024,nhl,Vegas Golden Knights,Seattle Kraken,3,1,0,401560333
+2024-03-22T02:30:00Z,2024,nhl,San Jose Sharks,Tampa Bay Lightning,1,4,0,401560335
+2024-03-22T23:00:00Z,2024,nhl,Washington Capitals,Carolina Hurricanes,7,6,0,401560336
+2024-03-23T00:00:00Z,2024,nhl,Dallas Stars,Pittsburgh Penguins,4,2,0,401560337
+2024-03-23T01:00:00Z,2024,nhl,Colorado Avalanche,Columbus Blue Jackets,6,1,0,401560338
+2024-03-23T02:00:00Z,2024,nhl,Arizona Coyotes,Seattle Kraken,2,1,0,401560339
+2024-03-23T17:00:00Z,2024,nhl,New York Islanders,Winnipeg Jets,6,3,0,401560340
+2024-03-23T17:00:00Z,2024,nhl,Philadelphia Flyers,Boston Bruins,3,2,0,401560341
+2024-03-23T18:00:00Z,2024,nhl,Minnesota Wild,St. Louis Blues,4,5,0,401560342
+2024-03-23T21:00:00Z,2024,nhl,Nashville Predators,Detroit Red Wings,1,0,0,401560343
+2024-03-23T23:00:00Z,2024,nhl,Toronto Maple Leafs,Edmonton Oilers,6,3,0,401560344
+2024-03-23T23:00:00Z,2024,nhl,New Jersey Devils,Ottawa Senators,2,5,0,401560345
+2024-03-24T00:00:00Z,2024,nhl,New York Rangers,Florida Panthers,4,3,0,401560346
+2024-03-24T02:00:00Z,2024,nhl,Vancouver Canucks,Calgary Flames,4,2,0,401560347
+2024-03-24T02:30:00Z,2024,nhl,Vegas Golden Knights,Columbus Blue Jackets,4,2,0,401560348
+2024-03-24T02:30:00Z,2024,nhl,Los Angeles Kings,Tampa Bay Lightning,4,3,0,401560349
+2024-03-24T02:30:00Z,2024,nhl,San Jose Sharks,Chicago Blackhawks,4,5,0,401560350
+2024-03-24T16:30:00Z,2024,nhl,Washington Capitals,Winnipeg Jets,3,0,0,401560351
+2024-03-24T18:00:00Z,2024,nhl,Colorado Avalanche,Pittsburgh Penguins,5,4,0,401560352
+2024-03-24T21:00:00Z,2024,nhl,New York Islanders,New Jersey Devils,0,4,0,401560353
+2024-03-24T22:00:00Z,2024,nhl,Ottawa Senators,Edmonton Oilers,5,3,0,401560354
+2024-03-24T22:00:00Z,2024,nhl,Philadelphia Flyers,Florida Panthers,1,4,0,401560355
+2024-03-24T22:00:00Z,2024,nhl,Carolina Hurricanes,Toronto Maple Leafs,2,1,0,401560356
+2024-03-25T00:00:00Z,2024,nhl,Arizona Coyotes,Dallas Stars,2,4,0,401560357
+2024-03-25T00:30:00Z,2024,nhl,Anaheim Ducks,Tampa Bay Lightning,2,3,0,401560358
+2024-03-25T01:00:00Z,2024,nhl,Calgary Flames,Buffalo Sabres,1,4,0,401560359
+2024-03-25T01:00:00Z,2024,nhl,Seattle Kraken,Montreal Canadiens,1,5,0,401560360
+2024-03-26T00:00:00Z,2024,nhl,St. Louis Blues,Vegas Golden Knights,1,2,0,401560361
+2024-03-26T01:00:00Z,2024,nhl,Vancouver Canucks,Los Angeles Kings,2,3,0,401560362
+2024-03-26T23:00:00Z,2024,nhl,Florida Panthers,Boston Bruins,3,4,0,401560364
+2024-03-26T23:00:00Z,2024,nhl,New York Rangers,Philadelphia Flyers,6,5,0,401560365
+2024-03-26T23:00:00Z,2024,nhl,Pittsburgh Penguins,Carolina Hurricanes,4,1,0,401560366
+2024-03-26T23:00:00Z,2024,nhl,Washington Capitals,Detroit Red Wings,4,3,0,401560367
+2024-03-26T23:30:00Z,2024,nhl,Toronto Maple Leafs,New Jersey Devils,3,6,0,401560363
+2024-03-27T00:00:00Z,2024,nhl,Nashville Predators,Vegas Golden Knights,5,4,0,401560368
+2024-03-27T00:00:00Z,2024,nhl,Winnipeg Jets,Edmonton Oilers,3,4,0,401560369
+2024-03-27T00:30:00Z,2024,nhl,Chicago Blackhawks,Calgary Flames,3,1,0,401560370
+2024-03-27T01:00:00Z,2024,nhl,Colorado Avalanche,Montreal Canadiens,1,2,0,401560371
+2024-03-27T02:00:00Z,2024,nhl,Arizona Coyotes,Columbus Blue Jackets,6,2,0,401560372
+2024-03-27T02:00:00Z,2024,nhl,Seattle Kraken,Anaheim Ducks,4,0,0,401560373
+2024-03-27T02:30:00Z,2024,nhl,San Jose Sharks,Dallas Stars,3,6,0,401560374
+2024-03-27T23:00:00Z,2024,nhl,Buffalo Sabres,Ottawa Senators,2,6,0,401560375
+2024-03-27T23:30:00Z,2024,nhl,Tampa Bay Lightning,Boston Bruins,3,1,0,401560376
+2024-03-28T23:00:00Z,2024,nhl,Toronto Maple Leafs,Washington Capitals,5,1,0,401560377
+2024-03-28T23:00:00Z,2024,nhl,Montreal Canadiens,Philadelphia Flyers,4,1,0,401560378
+2024-03-28T23:00:00Z,2024,nhl,Ottawa Senators,Chicago Blackhawks,2,0,0,401560379
+2024-03-28T23:00:00Z,2024,nhl,Florida Panthers,New York Islanders,2,3,0,401560380
+2024-03-28T23:00:00Z,2024,nhl,Pittsburgh Penguins,Columbus Blue Jackets,3,2,0,401560381
+2024-03-28T23:30:00Z,2024,nhl,Carolina Hurricanes,Detroit Red Wings,4,0,0,401560382
+2024-03-29T00:00:00Z,2024,nhl,St. Louis Blues,Calgary Flames,5,3,0,401560383
+2024-03-29T00:00:00Z,2024,nhl,Minnesota Wild,San Jose Sharks,3,1,0,401560384
+2024-03-29T00:00:00Z,2024,nhl,Winnipeg Jets,Vegas Golden Knights,1,4,0,401560385
+2024-03-29T01:00:00Z,2024,nhl,Colorado Avalanche,New York Rangers,2,3,0,401560386
+2024-03-29T01:00:00Z,2024,nhl,Edmonton Oilers,Los Angeles Kings,4,1,0,401560387
+2024-03-29T02:00:00Z,2024,nhl,Vancouver Canucks,Dallas Stars,1,3,0,401560388
+2024-03-29T02:00:00Z,2024,nhl,Arizona Coyotes,Nashville Predators,8,4,0,401560389
+2024-03-29T02:00:00Z,2024,nhl,Seattle Kraken,Anaheim Ducks,4,2,0,401560390
+2024-03-29T23:00:00Z,2024,nhl,Buffalo Sabres,New Jersey Devils,5,2,0,401560391
+2024-03-30T16:30:00Z,2024,nhl,Florida Panthers,Detroit Red Wings,3,2,0,401560392
+2024-03-30T19:30:00Z,2024,nhl,Minnesota Wild,Vegas Golden Knights,1,2,0,401560393
+2024-03-30T20:00:00Z,2024,nhl,Edmonton Oilers,Anaheim Ducks,6,1,0,401560394
+2024-03-30T22:00:00Z,2024,nhl,Colorado Avalanche,Nashville Predators,7,4,0,401560395
+2024-03-30T22:00:00Z,2024,nhl,Arizona Coyotes,New York Rangers,5,8,0,401560396
+2024-03-30T23:00:00Z,2024,nhl,Buffalo Sabres,Toronto Maple Leafs,0,3,0,401560397
+2024-03-30T23:00:00Z,2024,nhl,Montreal Canadiens,Carolina Hurricanes,0,3,0,401560398
+2024-03-30T23:00:00Z,2024,nhl,Tampa Bay Lightning,New York Islanders,4,1,0,401560399
+2024-03-30T23:00:00Z,2024,nhl,Philadelphia Flyers,Chicago Blackhawks,1,5,0,401560400
+2024-03-30T23:00:00Z,2024,nhl,Washington Capitals,Boston Bruins,2,3,0,401560401
+2024-03-30T23:00:00Z,2024,nhl,Columbus Blue Jackets,Pittsburgh Penguins,4,3,0,401560402
+2024-03-30T23:00:00Z,2024,nhl,Winnipeg Jets,Ottawa Senators,2,3,0,401560403
+2024-03-31T00:00:00Z,2024,nhl,St. Louis Blues,San Jose Sharks,0,4,0,401560404
+2024-03-31T02:00:00Z,2024,nhl,Calgary Flames,Los Angeles Kings,4,2,0,401560405
+2024-03-31T02:00:00Z,2024,nhl,Seattle Kraken,Dallas Stars,0,3,0,401560406
+2024-03-31T19:30:00Z,2024,nhl,Vancouver Canucks,Anaheim Ducks,3,2,0,401560407
+2024-04-01T23:00:00Z,2024,nhl,Toronto Maple Leafs,Florida Panthers,6,4,0,401560408
+2024-04-01T23:00:00Z,2024,nhl,Tampa Bay Lightning,Detroit Red Wings,2,4,0,401560409
+2024-04-01T23:00:00Z,2024,nhl,New York Rangers,Pittsburgh Penguins,2,5,0,401560410
+2024-04-01T23:00:00Z,2024,nhl,Philadelphia Flyers,New York Islanders,3,4,0,401560411
+2024-04-01T23:00:00Z,2024,nhl,Columbus Blue Jackets,Colorado Avalanche,4,1,0,401560412
+2024-04-02T01:00:00Z,2024,nhl,St. Louis Blues,Edmonton Oilers,3,2,0,401560413
+2024-04-02T01:00:00Z,2024,nhl,Winnipeg Jets,Los Angeles Kings,4,3,0,401560414
+2024-04-02T02:30:00Z,2024,nhl,San Jose Sharks,Seattle Kraken,2,4,0,401560415
+2024-04-02T23:00:00Z,2024,nhl,Buffalo Sabres,Washington Capitals,6,2,0,401560416
+2024-04-02T23:00:00Z,2024,nhl,Montreal Canadiens,Florida Panthers,5,3,0,401560417
+2024-04-02T23:00:00Z,2024,nhl,New Jersey Devils,Pittsburgh Penguins,3,6,0,401560418
+2024-04-02T23:30:00Z,2024,nhl,New York Islanders,Chicago Blackhawks,2,1,0,401560419
+2024-04-03T00:00:00Z,2024,nhl,Nashville Predators,Boston Bruins,0,3,0,401560420
+2024-04-03T00:00:00Z,2024,nhl,Minnesota Wild,Ottawa Senators,3,2,0,401560421
+2024-04-03T01:00:00Z,2024,nhl,Calgary Flames,Anaheim Ducks,3,5,0,401560422
+2024-04-03T02:00:00Z,2024,nhl,Vegas Golden Knights,Vancouver Canucks,6,3,0,401560423
+2024-04-03T23:00:00Z,2024,nhl,Toronto Maple Leafs,Tampa Bay Lightning,1,4,0,401560424
+2024-04-03T23:00:00Z,2024,nhl,New York Rangers,New Jersey Devils,4,3,0,401560425
+2024-04-04T01:30:00Z,2024,nhl,Dallas Stars,Edmonton Oilers,5,0,0,401560426
+2024-04-04T01:30:00Z,2024,nhl,Los Angeles Kings,Seattle Kraken,5,2,0,401560428
+2024-04-04T02:00:00Z,2024,nhl,Arizona Coyotes,Vancouver Canucks,1,2,0,401560427
+2024-04-04T23:00:00Z,2024,nhl,Montreal Canadiens,Tampa Bay Lightning,4,7,0,401560429
+2024-04-04T23:00:00Z,2024,nhl,Ottawa Senators,Florida Panthers,0,6,0,401560430
+2024-04-04T23:00:00Z,2024,nhl,Washington Capitals,Pittsburgh Penguins,1,4,0,401560431
+2024-04-04T23:00:00Z,2024,nhl,Carolina Hurricanes,Boston Bruins,1,4,0,401560432
+2024-04-04T23:00:00Z,2024,nhl,Columbus Blue Jackets,New York Islanders,2,4,0,401560433
+2024-04-05T00:00:00Z,2024,nhl,Nashville Predators,St. Louis Blues,6,3,0,401560434
+2024-04-05T00:00:00Z,2024,nhl,Minnesota Wild,Colorado Avalanche,2,5,0,401560435
+2024-04-05T00:00:00Z,2024,nhl,Winnipeg Jets,Calgary Flames,5,2,0,401560436
+2024-04-05T02:30:00Z,2024,nhl,San Jose Sharks,Los Angeles Kings,1,2,0,401560437
+2024-04-05T23:00:00Z,2024,nhl,Buffalo Sabres,Philadelphia Flyers,4,2,0,401560438
+2024-04-05T23:00:00Z,2024,nhl,Detroit Red Wings,New York Rangers,3,4,0,401560439
+2024-04-05T23:00:00Z,2024,nhl,Carolina Hurricanes,Washington Capitals,4,2,0,401560440
+2024-04-06T01:00:00Z,2024,nhl,Edmonton Oilers,Colorado Avalanche,6,2,0,401560441
+2024-04-06T02:00:00Z,2024,nhl,Arizona Coyotes,Vegas Golden Knights,7,4,0,401560442
+2024-04-06T02:00:00Z,2024,nhl,Anaheim Ducks,Seattle Kraken,1,3,0,401560443
+2024-04-06T17:00:00Z,2024,nhl,Pittsburgh Penguins,Tampa Bay Lightning,5,4,0,401560444
+2024-04-06T19:30:00Z,2024,nhl,Boston Bruins,Florida Panthers,3,2,0,401560445
+2024-04-06T19:30:00Z,2024,nhl,Chicago Blackhawks,Dallas Stars,3,2,0,401560447
+2024-04-06T20:00:00Z,2024,nhl,Minnesota Wild,Winnipeg Jets,2,4,0,401560446
+2024-04-06T22:00:00Z,2024,nhl,San Jose Sharks,St. Louis Blues,3,2,0,401560448
+2024-04-06T23:00:00Z,2024,nhl,Montreal Canadiens,Toronto Maple Leafs,2,4,0,401560449
+2024-04-06T23:00:00Z,2024,nhl,Ottawa Senators,New Jersey Devils,3,4,0,401560450
+2024-04-06T23:00:00Z,2024,nhl,Columbus Blue Jackets,Philadelphia Flyers,6,2,0,401560451
+2024-04-06T23:30:00Z,2024,nhl,New York Islanders,Nashville Predators,2,0,0,401560452
+2024-04-07T02:00:00Z,2024,nhl,Calgary Flames,Edmonton Oilers,2,4,0,401560453
+2024-04-07T02:00:00Z,2024,nhl,Los Angeles Kings,Vancouver Canucks,6,3,0,401560454
+2024-04-07T17:00:00Z,2024,nhl,Detroit Red Wings,Buffalo Sabres,3,1,0,401560455
+2024-04-07T19:30:00Z,2024,nhl,Chicago Blackhawks,Minnesota Wild,0,4,0,401560456
+2024-04-07T21:00:00Z,2024,nhl,Carolina Hurricanes,Columbus Blue Jackets,3,0,0,401560457
+2024-04-07T22:00:00Z,2024,nhl,Washington Capitals,Ottawa Senators,2,3,0,401560458
+2024-04-07T22:00:00Z,2024,nhl,San Jose Sharks,Arizona Coyotes,2,5,0,401560459
+2024-04-07T23:00:00Z,2024,nhl,New Jersey Devils,Nashville Predators,2,3,0,401560460
+2024-04-07T23:00:00Z,2024,nhl,New York Rangers,Montreal Canadiens,5,2,0,401560461
+2024-04-08T00:00:00Z,2024,nhl,Anaheim Ducks,St. Louis Blues,5,6,0,401560462
+2024-04-08T02:00:00Z,2024,nhl,Colorado Avalanche,Dallas Stars,4,7,0,401560463
+2024-04-08T23:00:00Z,2024,nhl,Toronto Maple Leafs,Pittsburgh Penguins,3,2,0,401560464
+2024-04-09T02:00:00Z,2024,nhl,Vancouver Canucks,Vegas Golden Knights,4,3,0,401560465
+2024-04-09T23:00:00Z,2024,nhl,Boston Bruins,Carolina Hurricanes,1,4,0,401560466
+2024-04-09T23:00:00Z,2024,nhl,Montreal Canadiens,Philadelphia Flyers,9,3,0,401560467
+2024-04-09T23:00:00Z,2024,nhl,Detroit Red Wings,Washington Capitals,1,2,0,401560468
+2024-04-09T23:00:00Z,2024,nhl,Tampa Bay Lightning,Columbus Blue Jackets,5,2,0,401560469
+2024-04-09T23:00:00Z,2024,nhl,Florida Panthers,Ottawa Senators,2,0,0,401560470
+2024-04-09T23:00:00Z,2024,nhl,New Jersey Devils,Toronto Maple Leafs,2,5,0,401560471
+2024-04-09T23:00:00Z,2024,nhl,New York Islanders,New York Rangers,4,2,0,401560472
+2024-04-10T00:00:00Z,2024,nhl,Nashville Predators,Winnipeg Jets,3,4,0,401560473
+2024-04-10T00:00:00Z,2024,nhl,Dallas Stars,Buffalo Sabres,3,2,0,401560474
+2024-04-10T01:30:00Z,2024,nhl,Colorado Avalanche,Minnesota Wild,5,2,0,401560475
+2024-04-10T02:00:00Z,2024,nhl,Anaheim Ducks,Los Angeles Kings,3,1,0,401560476
+2024-04-10T02:00:00Z,2024,nhl,Seattle Kraken,Arizona Coyotes,5,0,0,401560477
+2024-04-10T02:30:00Z,2024,nhl,San Jose Sharks,Calgary Flames,2,3,0,401560478
+2024-04-11T00:00:00Z,2024,nhl,St. Louis Blues,Chicago Blackhawks,5,2,0,401560479
+2024-04-11T00:30:00Z,2024,nhl,Edmonton Oilers,Vegas Golden Knights,5,1,0,401560480
+2024-04-11T02:30:00Z,2024,nhl,Vancouver Canucks,Arizona Coyotes,3,4,0,401560481
+2024-04-11T23:00:00Z,2024,nhl,Buffalo Sabres,Washington Capitals,4,2,0,401560482
+2024-04-11T23:00:00Z,2024,nhl,Toronto Maple Leafs,New Jersey Devils,5,6,0,401560483
+2024-04-11T23:00:00Z,2024,nhl,Tampa Bay Lightning,Ottawa Senators,2,3,0,401560484
+2024-04-11T23:00:00Z,2024,nhl,Florida Panthers,Columbus Blue Jackets,4,0,0,401560485
+2024-04-11T23:00:00Z,2024,nhl,New York Rangers,Philadelphia Flyers,1,4,0,401560486
+2024-04-11T23:00:00Z,2024,nhl,Pittsburgh Penguins,Detroit Red Wings,6,5,0,401560487
+2024-04-11T23:30:00Z,2024,nhl,New York Islanders,Montreal Canadiens,3,2,0,401560488
+2024-04-12T00:00:00Z,2024,nhl,Dallas Stars,Winnipeg Jets,0,3,0,401560489
+2024-04-12T02:00:00Z,2024,nhl,Seattle Kraken,San Jose Sharks,1,3,0,401560490
+2024-04-12T02:30:00Z,2024,nhl,Los Angeles Kings,Calgary Flames,4,1,0,401560491
+2024-04-13T00:00:00Z,2024,nhl,St. Louis Blues,Carolina Hurricanes,2,5,0,401560492
+2024-04-13T00:30:00Z,2024,nhl,Chicago Blackhawks,Nashville Predators,1,5,0,401560493
+2024-04-13T01:00:00Z,2024,nhl,Edmonton Oilers,Arizona Coyotes,2,3,0,401560494
+2024-04-13T02:00:00Z,2024,nhl,Vegas Golden Knights,Minnesota Wild,7,2,0,401560495
+2024-04-13T02:00:00Z,2024,nhl,Anaheim Ducks,Calgary Flames,3,6,0,401560496
+2024-04-13T16:30:00Z,2024,nhl,New York Rangers,New York Islanders,3,2,0,401560497
+2024-04-13T19:00:00Z,2024,nhl,Dallas Stars,Seattle Kraken,3,1,0,401560498
+2024-04-13T20:00:00Z,2024,nhl,Colorado Avalanche,Winnipeg Jets,0,7,0,401560499
+2024-04-13T21:00:00Z,2024,nhl,Florida Panthers,Buffalo Sabres,3,2,0,401560500
+2024-04-13T21:00:00Z,2024,nhl,Philadelphia Flyers,New Jersey Devils,1,0,0,401560501
+2024-04-13T21:30:00Z,2024,nhl,Washington Capitals,Tampa Bay Lightning,4,2,0,401560502
+2024-04-13T23:00:00Z,2024,nhl,Toronto Maple Leafs,Detroit Red Wings,4,5,0,401560503
+2024-04-13T23:00:00Z,2024,nhl,Ottawa Senators,Montreal Canadiens,5,4,0,401560504
+2024-04-14T00:00:00Z,2024,nhl,Pittsburgh Penguins,Boston Bruins,4,6,0,401560505
+2024-04-14T00:00:00Z,2024,nhl,Nashville Predators,Columbus Blue Jackets,6,4,0,401560506
+2024-04-14T02:00:00Z,2024,nhl,Edmonton Oilers,Vancouver Canucks,1,3,0,401560507
+2024-04-14T02:30:00Z,2024,nhl,Los Angeles Kings,Anaheim Ducks,3,1,0,401560508
+2024-04-14T02:30:00Z,2024,nhl,San Jose Sharks,Minnesota Wild,2,6,0,401560509
+2024-04-14T17:00:00Z,2024,nhl,St. Louis Blues,Seattle Kraken,4,1,0,401560510
+2024-04-14T19:30:00Z,2024,nhl,Vegas Golden Knights,Colorado Avalanche,4,3,0,401560511
+2024-04-14T22:00:00Z,2024,nhl,Chicago Blackhawks,Carolina Hurricanes,2,4,0,401560512
+2024-04-15T00:00:00Z,2024,nhl,Calgary Flames,Arizona Coyotes,6,5,0,401560513
+2024-04-15T23:00:00Z,2024,nhl,Detroit Red Wings,Montreal Canadiens,5,4,0,401560514
+2024-04-15T23:00:00Z,2024,nhl,Tampa Bay Lightning,Buffalo Sabres,2,4,0,401560515
+2024-04-15T23:00:00Z,2024,nhl,New Jersey Devils,New York Islanders,1,4,0,401560516
+2024-04-15T23:00:00Z,2024,nhl,Pittsburgh Penguins,Nashville Predators,4,2,0,401560517
+2024-04-15T23:00:00Z,2024,nhl,Washington Capitals,Boston Bruins,2,0,0,401560518
+2024-04-15T23:30:00Z,2024,nhl,New York Rangers,Ottawa Senators,4,0,0,401560519
+2024-04-16T01:30:00Z,2024,nhl,Edmonton Oilers,San Jose Sharks,9,2,0,401560520
+2024-04-16T01:30:00Z,2024,nhl,Los Angeles Kings,Minnesota Wild,1,3,0,401560521
+2024-04-16T23:00:00Z,2024,nhl,Boston Bruins,Ottawa Senators,1,3,0,401560522
+2024-04-16T23:00:00Z,2024,nhl,Montreal Canadiens,Detroit Red Wings,4,5,0,401560523
+2024-04-16T23:00:00Z,2024,nhl,Philadelphia Flyers,Washington Capitals,1,2,0,401560525
+2024-04-16T23:00:00Z,2024,nhl,Columbus Blue Jackets,Carolina Hurricanes,6,3,0,401560526
+2024-04-16T23:30:00Z,2024,nhl,Florida Panthers,Toronto Maple Leafs,5,2,0,401560524
+2024-04-17T00:00:00Z,2024,nhl,Winnipeg Jets,Seattle Kraken,4,3,0,401560527
+2024-04-17T02:00:00Z,2024,nhl,Vegas Golden Knights,Chicago Blackhawks,3,1,0,401560528
+2024-04-17T02:00:00Z,2024,nhl,Vancouver Canucks,Calgary Flames,4,1,0,401560529
+2024-04-17T23:00:00Z,2024,nhl,Tampa Bay Lightning,Toronto Maple Leafs,6,4,0,401560530
+2024-04-17T23:00:00Z,2024,nhl,New York Islanders,Pittsburgh Penguins,5,4,0,401560531
+2024-04-18T01:30:00Z,2024,nhl,Dallas Stars,St. Louis Blues,2,1,0,401560532
+2024-04-18T02:00:00Z,2024,nhl,Arizona Coyotes,Edmonton Oilers,5,2,0,401560533
+2024-04-18T23:00:00Z,2024,nhl,Minnesota Wild,Seattle Kraken,3,4,0,401560534
+2024-04-19T00:00:00Z,2024,nhl,Winnipeg Jets,Vancouver Canucks,4,2,0,401560535
+2024-04-19T01:00:00Z,2024,nhl,Calgary Flames,San Jose Sharks,5,1,0,401560536
+2024-04-19T01:30:00Z,2024,nhl,Colorado Avalanche,Edmonton Oilers,5,1,0,401560537
+2024-04-19T02:00:00Z,2024,nhl,Vegas Golden Knights,Anaheim Ducks,1,4,0,401560538
+2024-04-19T02:30:00Z,2024,nhl,Los Angeles Kings,Chicago Blackhawks,5,4,0,401560539
+2024-04-20T21:00:00Z,2024,nhl,Carolina Hurricanes,New York Islanders,3,1,0,401655256
+2024-04-21T00:00:00Z,2024,nhl,Boston Bruins,Toronto Maple Leafs,5,1,0,401655257
+2024-04-21T16:30:00Z,2024,nhl,Florida Panthers,Tampa Bay Lightning,3,2,0,401655258
+2024-04-21T19:00:00Z,2024,nhl,New York Rangers,Washington Capitals,4,1,0,401655259
+2024-04-21T23:00:00Z,2024,nhl,Winnipeg Jets,Colorado Avalanche,7,6,0,401655534
+2024-04-22T02:00:00Z,2024,nhl,Vancouver Canucks,Nashville Predators,4,2,0,401655535
+2024-04-22T23:00:00Z,2024,nhl,Boston Bruins,Toronto Maple Leafs,2,3,0,401655551
+2024-04-22T23:30:00Z,2024,nhl,Carolina Hurricanes,New York Islanders,5,3,0,401655577
+2024-04-23T01:47:00Z,2024,nhl,Dallas Stars,Vegas Golden Knights,3,4,0,401655558
+2024-04-23T02:16:00Z,2024,nhl,Edmonton Oilers,Los Angeles Kings,7,4,0,401655582
+2024-04-23T23:00:00Z,2024,nhl,New York Rangers,Washington Capitals,4,3,0,401655544
+2024-04-23T23:30:00Z,2024,nhl,Florida Panthers,Tampa Bay Lightning,3,2,0,401655541
+2024-04-24T01:44:00Z,2024,nhl,Winnipeg Jets,Colorado Avalanche,2,5,0,401655565
+2024-04-24T02:13:00Z,2024,nhl,Vancouver Canucks,Nashville Predators,1,4,0,401655571
+2024-04-24T23:00:00Z,2024,nhl,Toronto Maple Leafs,Boston Bruins,2,4,0,401655553
+2024-04-25T01:50:00Z,2024,nhl,Dallas Stars,Vegas Golden Knights,1,3,0,401655559
+2024-04-25T02:00:00Z,2024,nhl,Edmonton Oilers,Los Angeles Kings,4,5,0,401655583
+2024-04-25T23:00:00Z,2024,nhl,Tampa Bay Lightning,Florida Panthers,3,5,0,401655542
+2024-04-25T23:30:00Z,2024,nhl,New York Islanders,Carolina Hurricanes,2,3,0,401655580
+2024-04-26T23:00:00Z,2024,nhl,Washington Capitals,New York Rangers,1,3,0,401655547
+2024-04-26T23:30:00Z,2024,nhl,Nashville Predators,Vancouver Canucks,1,2,0,401655572
+2024-04-27T02:00:00Z,2024,nhl,Colorado Avalanche,Winnipeg Jets,6,2,0,401655566
+2024-04-27T02:30:00Z,2024,nhl,Los Angeles Kings,Edmonton Oilers,1,6,0,401655585
+2024-04-27T18:00:00Z,2024,nhl,New York Islanders,Carolina Hurricanes,3,2,0,401655581
+2024-04-27T21:00:00Z,2024,nhl,Tampa Bay Lightning,Florida Panthers,6,3,0,401655543
+2024-04-28T00:00:00Z,2024,nhl,Toronto Maple Leafs,Boston Bruins,1,3,0,401655555
+2024-04-28T02:30:00Z,2024,nhl,Vegas Golden Knights,Dallas Stars,2,3,0,401655560
+2024-04-28T18:30:00Z,2024,nhl,Colorado Avalanche,Winnipeg Jets,5,1,0,401655567
+2024-04-28T21:00:00Z,2024,nhl,Nashville Predators,Vancouver Canucks,3,4,0,401655573
+2024-04-29T00:00:00Z,2024,nhl,Washington Capitals,New York Rangers,2,4,0,401655549
+2024-04-29T02:30:00Z,2024,nhl,Los Angeles Kings,Edmonton Oilers,0,1,0,401655586
+2024-04-29T23:00:00Z,2024,nhl,Florida Panthers,Tampa Bay Lightning,6,1,0,401655545
+2024-04-30T01:48:00Z,2024,nhl,Vegas Golden Knights,Dallas Stars,2,4,0,401655561
+2024-04-30T23:00:00Z,2024,nhl,Boston Bruins,Toronto Maple Leafs,1,2,0,401655576
+2024-04-30T23:30:00Z,2024,nhl,Carolina Hurricanes,New York Islanders,6,3,0,401655584
+2024-05-01T01:52:00Z,2024,nhl,Winnipeg Jets,Colorado Avalanche,3,6,0,401655568
+2024-05-01T02:00:00Z,2024,nhl,Vancouver Canucks,Nashville Predators,1,2,0,401655574
+2024-05-01T23:30:00Z,2024,nhl,Dallas Stars,Vegas Golden Knights,3,2,0,401655562
+2024-05-02T02:00:00Z,2024,nhl,Edmonton Oilers,Los Angeles Kings,4,3,0,401655588
+2024-05-03T00:00:00Z,2024,nhl,Toronto Maple Leafs,Boston Bruins,2,1,0,401655578
+2024-05-03T23:00:00Z,2024,nhl,Nashville Predators,Vancouver Canucks,0,1,0,401655575
+2024-05-04T02:00:00Z,2024,nhl,Vegas Golden Knights,Dallas Stars,2,0,0,401655563
+2024-05-05T00:00:00Z,2024,nhl,Boston Bruins,Toronto Maple Leafs,2,1,0,401655579
+2024-05-05T20:00:00Z,2024,nhl,New York Rangers,Carolina Hurricanes,4,3,0,401657417
+2024-05-05T23:30:00Z,2024,nhl,Dallas Stars,Vegas Golden Knights,2,1,0,401655564
+2024-05-07T00:00:00Z,2024,nhl,Florida Panthers,Boston Bruins,1,5,0,401658379
+2024-05-07T23:00:00Z,2024,nhl,New York Rangers,Carolina Hurricanes,4,3,0,401658386
+2024-05-08T01:30:00Z,2024,nhl,Dallas Stars,Colorado Avalanche,3,4,0,401658446
+2024-05-08T23:30:00Z,2024,nhl,Florida Panthers,Boston Bruins,6,1,0,401658380
+2024-05-09T02:00:00Z,2024,nhl,Vancouver Canucks,Edmonton Oilers,5,4,0,401658456
+2024-05-09T23:00:00Z,2024,nhl,Carolina Hurricanes,New York Rangers,2,3,0,401658387
+2024-05-10T01:52:00Z,2024,nhl,Dallas Stars,Colorado Avalanche,5,3,0,401658447
+2024-05-10T23:00:00Z,2024,nhl,Boston Bruins,Florida Panthers,2,6,0,401658381
+2024-05-11T02:00:00Z,2024,nhl,Vancouver Canucks,Edmonton Oilers,3,4,0,401658457
+2024-05-11T23:00:00Z,2024,nhl,Carolina Hurricanes,New York Rangers,4,3,0,401658388
+2024-05-12T02:00:00Z,2024,nhl,Colorado Avalanche,Dallas Stars,1,4,0,401658448
+2024-05-12T22:30:00Z,2024,nhl,Boston Bruins,Florida Panthers,2,3,0,401658382
+2024-05-13T01:30:00Z,2024,nhl,Edmonton Oilers,Vancouver Canucks,3,4,0,401658458
+2024-05-13T23:00:00Z,2024,nhl,New York Rangers,Carolina Hurricanes,1,4,0,401658389
+2024-05-14T01:52:00Z,2024,nhl,Colorado Avalanche,Dallas Stars,1,5,0,401658449
+2024-05-14T23:00:00Z,2024,nhl,Florida Panthers,Boston Bruins,1,2,0,401658383
+2024-05-15T01:52:00Z,2024,nhl,Edmonton Oilers,Vancouver Canucks,3,2,0,401658459
+2024-05-16T00:00:00Z,2024,nhl,Dallas Stars,Colorado Avalanche,3,5,0,401658450
+2024-05-16T23:00:00Z,2024,nhl,Carolina Hurricanes,New York Rangers,3,5,0,401658390
+2024-05-17T02:00:00Z,2024,nhl,Vancouver Canucks,Edmonton Oilers,3,2,0,401658460
+2024-05-17T23:00:00Z,2024,nhl,Boston Bruins,Florida Panthers,1,2,0,401658384
+2024-05-18T02:00:00Z,2024,nhl,Colorado Avalanche,Dallas Stars,1,2,0,401658451
+2024-05-19T00:00:00Z,2024,nhl,Edmonton Oilers,Vancouver Canucks,5,1,0,401658461
+2024-05-21T01:15:00Z,2024,nhl,Vancouver Canucks,Edmonton Oilers,2,3,0,401658462
+2024-05-23T00:00:00Z,2024,nhl,New York Rangers,Florida Panthers,0,3,0,401672876
+2024-05-24T00:30:00Z,2024,nhl,Dallas Stars,Edmonton Oilers,2,3,0,401672983
+2024-05-25T00:00:00Z,2024,nhl,New York Rangers,Florida Panthers,2,1,0,401672877
+2024-05-26T00:00:00Z,2024,nhl,Dallas Stars,Edmonton Oilers,3,1,0,401672984
+2024-05-26T19:00:00Z,2024,nhl,Florida Panthers,New York Rangers,4,5,0,401672878
+2024-05-28T00:30:00Z,2024,nhl,Edmonton Oilers,Dallas Stars,3,5,0,401672985
+2024-05-29T00:00:00Z,2024,nhl,Florida Panthers,New York Rangers,3,2,0,401672879
+2024-05-30T00:30:00Z,2024,nhl,Edmonton Oilers,Dallas Stars,5,2,0,401672986
+2024-05-31T00:00:00Z,2024,nhl,New York Rangers,Florida Panthers,2,3,0,401672880
+2024-06-01T00:30:00Z,2024,nhl,Dallas Stars,Edmonton Oilers,1,3,0,401672987
+2024-06-02T00:00:00Z,2024,nhl,Florida Panthers,New York Rangers,2,1,0,401672881
+2024-06-03T00:00:00Z,2024,nhl,Edmonton Oilers,Dallas Stars,2,1,0,401672988
+2024-06-09T00:00:00Z,2024,nhl,Florida Panthers,Edmonton Oilers,3,0,0,401675105
+2024-06-11T00:00:00Z,2024,nhl,Florida Panthers,Edmonton Oilers,4,1,0,401675106
+2024-06-14T00:00:00Z,2024,nhl,Edmonton Oilers,Florida Panthers,3,4,0,401675107
+2024-06-16T00:00:00Z,2024,nhl,Edmonton Oilers,Florida Panthers,8,1,0,401675108
+2024-06-19T00:00:00Z,2024,nhl,Florida Panthers,Edmonton Oilers,3,5,0,401675109
+2024-06-22T00:00:00Z,2024,nhl,Edmonton Oilers,Florida Panthers,5,1,0,401675110
+2024-06-25T00:00:00Z,2024,nhl,Florida Panthers,Edmonton Oilers,2,1,0,401675111
+2024-10-04T17:00:00Z,2025,nhl,Buffalo Sabres,New Jersey Devils,1,4,1,401687600
+2024-10-05T14:00:00Z,2025,nhl,New Jersey Devils,Buffalo Sabres,3,1,1,401687601
+2024-10-08T20:30:00Z,2025,nhl,Seattle Kraken,St. Louis Blues,2,3,0,401687602
+2024-10-08T23:00:00Z,2025,nhl,Florida Panthers,Boston Bruins,6,4,0,401687603
+2024-10-09T02:00:00Z,2025,nhl,Utah Hockey Club,Chicago Blackhawks,5,2,0,401687604
+2024-10-09T23:00:00Z,2025,nhl,Montreal Canadiens,Toronto Maple Leafs,1,0,0,401687605
+2024-10-09T23:30:00Z,2025,nhl,Pittsburgh Penguins,New York Rangers,0,6,0,401687606
+2024-10-10T02:00:00Z,2025,nhl,Edmonton Oilers,Winnipeg Jets,0,6,0,401687607
+2024-10-10T02:00:00Z,2025,nhl,Vancouver Canucks,Calgary Flames,5,6,0,401687608
+2024-10-10T02:00:00Z,2025,nhl,Vegas Golden Knights,Colorado Avalanche,8,4,0,401687609
+2024-10-10T23:00:00Z,2025,nhl,Boston Bruins,Montreal Canadiens,6,4,0,401687610
+2024-10-10T23:00:00Z,2025,nhl,Buffalo Sabres,Los Angeles Kings,1,3,0,401687611
+2024-10-10T23:00:00Z,2025,nhl,Ottawa Senators,Florida Panthers,3,1,0,401687612
+2024-10-10T23:00:00Z,2025,nhl,New Jersey Devils,Toronto Maple Leafs,2,4,0,401687614
+2024-10-10T23:30:00Z,2025,nhl,New York Islanders,Utah Hockey Club,4,5,0,401687615
+2024-10-11T00:00:00Z,2025,nhl,Detroit Red Wings,Pittsburgh Penguins,3,6,0,401687613
+2024-10-11T00:00:00Z,2025,nhl,Nashville Predators,Dallas Stars,3,4,0,401687616
+2024-10-11T00:00:00Z,2025,nhl,Minnesota Wild,Columbus Blue Jackets,3,2,0,401687617
+2024-10-11T02:30:00Z,2025,nhl,San Jose Sharks,St. Louis Blues,4,5,0,401687618
+2024-10-11T23:00:00Z,2025,nhl,Carolina Hurricanes,Tampa Bay Lightning,1,4,0,401687619
+2024-10-12T00:00:00Z,2025,nhl,Winnipeg Jets,Chicago Blackhawks,2,1,0,401687620
+2024-10-12T02:00:00Z,2025,nhl,Vancouver Canucks,Philadelphia Flyers,2,3,0,401687621
+2024-10-12T02:00:00Z,2025,nhl,Vegas Golden Knights,St. Louis Blues,4,3,0,401687622
+2024-10-12T17:00:00Z,2025,nhl,Boston Bruins,Los Angeles Kings,2,1,0,401687623
+2024-10-12T23:00:00Z,2025,nhl,Buffalo Sabres,Florida Panthers,5,2,0,401687624
+2024-10-12T23:00:00Z,2025,nhl,Toronto Maple Leafs,Pittsburgh Penguins,4,2,0,401687625
+2024-10-12T23:00:00Z,2025,nhl,Montreal Canadiens,Ottawa Senators,4,1,0,401687626
+2024-10-12T23:00:00Z,2025,nhl,Detroit Red Wings,Nashville Predators,3,0,0,401687627
+2024-10-12T23:00:00Z,2025,nhl,New York Rangers,Utah Hockey Club,5,6,0,401687629
+2024-10-12T23:00:00Z,2025,nhl,Washington Capitals,New Jersey Devils,3,5,0,401687630
+2024-10-13T00:00:00Z,2025,nhl,Dallas Stars,New York Islanders,3,0,0,401687631
+2024-10-13T00:00:00Z,2025,nhl,Minnesota Wild,Seattle Kraken,4,5,0,401687632
+2024-10-13T01:00:00Z,2025,nhl,Colorado Avalanche,Columbus Blue Jackets,4,6,0,401687633
+2024-10-13T02:00:00Z,2025,nhl,Calgary Flames,Philadelphia Flyers,6,3,0,401687634
+2024-10-13T02:00:00Z,2025,nhl,Edmonton Oilers,Chicago Blackhawks,2,5,0,401687635
+2024-10-13T02:00:00Z,2025,nhl,San Jose Sharks,Anaheim Ducks,0,2,0,401687636
+2024-10-13T22:00:00Z,2025,nhl,Winnipeg Jets,Minnesota Wild,2,1,0,401687637
+2024-10-14T00:00:00Z,2025,nhl,Dallas Stars,Seattle Kraken,2,0,0,401687638
+2024-10-14T00:00:00Z,2025,nhl,Edmonton Oilers,Calgary Flames,1,4,0,401687639
+2024-10-14T02:00:00Z,2025,nhl,Vegas Golden Knights,Anaheim Ducks,3,1,0,401687640
+2024-10-14T17:00:00Z,2025,nhl,Boston Bruins,Florida Panthers,3,4,0,401687641
+2024-10-14T17:00:00Z,2025,nhl,Ottawa Senators,Los Angeles Kings,8,7,0,401687642
+2024-10-14T17:00:00Z,2025,nhl,New Jersey Devils,Utah Hockey Club,3,0,0,401687643
+2024-10-14T23:00:00Z,2025,nhl,New York Rangers,Detroit Red Wings,4,1,0,401687644
+2024-10-14T23:30:00Z,2025,nhl,Montreal Canadiens,Pittsburgh Penguins,3,6,0,401687645
+2024-10-15T01:00:00Z,2025,nhl,Colorado Avalanche,New York Islanders,2,6,0,401687646
+2024-10-15T23:00:00Z,2025,nhl,Tampa Bay Lightning,Vancouver Canucks,4,1,0,401687647
+2024-10-15T23:00:00Z,2025,nhl,Washington Capitals,Vegas Golden Knights,4,2,0,401687648
+2024-10-15T23:00:00Z,2025,nhl,Carolina Hurricanes,New Jersey Devils,4,2,0,401687649
+2024-10-15T23:00:00Z,2025,nhl,Columbus Blue Jackets,Florida Panthers,3,4,0,401687650
+2024-10-15T23:30:00Z,2025,nhl,St. Louis Blues,Minnesota Wild,1,4,0,401687651
+2024-10-16T00:00:00Z,2025,nhl,Nashville Predators,Seattle Kraken,3,7,0,401687652
+2024-10-16T00:00:00Z,2025,nhl,Dallas Stars,San Jose Sharks,3,2,0,401687653
+2024-10-16T01:00:00Z,2025,nhl,Calgary Flames,Chicago Blackhawks,3,1,0,401687654
+2024-10-16T02:00:00Z,2025,nhl,Edmonton Oilers,Philadelphia Flyers,4,3,0,401687655
+2024-10-16T23:00:00Z,2025,nhl,Pittsburgh Penguins,Buffalo Sabres,6,5,0,401687656
+2024-10-16T23:30:00Z,2025,nhl,Toronto Maple Leafs,Los Angeles Kings,6,2,0,401687657
+2024-10-17T01:30:00Z,2025,nhl,Colorado Avalanche,Boston Bruins,3,5,0,401687658
+2024-10-17T02:00:00Z,2025,nhl,Anaheim Ducks,Utah Hockey Club,5,4,0,401687659
+2024-10-17T23:00:00Z,2025,nhl,Montreal Canadiens,Los Angeles Kings,1,4,0,401687660
+2024-10-17T23:00:00Z,2025,nhl,Ottawa Senators,New Jersey Devils,1,3,0,401687661
+2024-10-17T23:00:00Z,2025,nhl,Tampa Bay Lightning,Vegas Golden Knights,4,3,0,401687663
+2024-10-17T23:00:00Z,2025,nhl,Florida Panthers,Vancouver Canucks,2,3,0,401687664
+2024-10-17T23:00:00Z,2025,nhl,Washington Capitals,Dallas Stars,3,2,0,401687665
+2024-10-17T23:00:00Z,2025,nhl,Columbus Blue Jackets,Buffalo Sabres,6,4,0,401687666
+2024-10-17T23:30:00Z,2025,nhl,Detroit Red Wings,New York Rangers,2,5,0,401687662
+2024-10-18T00:00:00Z,2025,nhl,St. Louis Blues,New York Islanders,1,0,0,401687667
+2024-10-18T00:00:00Z,2025,nhl,Nashville Predators,Edmonton Oilers,2,4,0,401687668
+2024-10-18T00:30:00Z,2025,nhl,Chicago Blackhawks,San Jose Sharks,4,2,0,401687669
+2024-10-18T02:00:00Z,2025,nhl,Seattle Kraken,Philadelphia Flyers,6,4,0,401687670
+2024-10-18T23:00:00Z,2025,nhl,Pittsburgh Penguins,Carolina Hurricanes,1,4,0,401687671
+2024-10-19T00:00:00Z,2025,nhl,Winnipeg Jets,San Jose Sharks,8,3,0,401687672
+2024-10-19T01:00:00Z,2025,nhl,Colorado Avalanche,Anaheim Ducks,4,3,0,401687673
+2024-10-19T17:00:00Z,2025,nhl,Ottawa Senators,Tampa Bay Lightning,5,4,0,401687674
+2024-10-19T18:00:00Z,2025,nhl,Nashville Predators,Detroit Red Wings,2,5,0,401687675
+2024-10-19T20:00:00Z,2025,nhl,Dallas Stars,Edmonton Oilers,4,1,0,401687676
+2024-10-19T22:00:00Z,2025,nhl,Florida Panthers,Vegas Golden Knights,4,3,0,401687677
+2024-10-19T23:00:00Z,2025,nhl,Toronto Maple Leafs,New York Rangers,1,4,0,401687678
+2024-10-19T23:00:00Z,2025,nhl,New Jersey Devils,Washington Capitals,5,6,0,401687679
+2024-10-19T23:00:00Z,2025,nhl,New York Islanders,Montreal Canadiens,4,3,0,401687680
+2024-10-19T23:00:00Z,2025,nhl,Philadelphia Flyers,Vancouver Canucks,0,3,0,401687681
+2024-10-19T23:00:00Z,2025,nhl,Columbus Blue Jackets,Minnesota Wild,1,3,0,401687682
+2024-10-19T23:00:00Z,2025,nhl,St. Louis Blues,Carolina Hurricanes,4,3,0,401687683
+2024-10-20T00:00:00Z,2025,nhl,Chicago Blackhawks,Buffalo Sabres,2,4,0,401687684
+2024-10-20T01:00:00Z,2025,nhl,Utah Hockey Club,Boston Bruins,2,1,0,401687685
+2024-10-20T02:00:00Z,2025,nhl,Seattle Kraken,Calgary Flames,2,1,0,401687686
+2024-10-20T19:00:00Z,2025,nhl,Winnipeg Jets,Pittsburgh Penguins,6,3,0,401687687
+2024-10-21T00:00:00Z,2025,nhl,San Jose Sharks,Colorado Avalanche,1,4,0,401687688
+2024-10-21T00:00:00Z,2025,nhl,Anaheim Ducks,Los Angeles Kings,1,4,0,401687689
+2024-10-21T23:30:00Z,2025,nhl,Toronto Maple Leafs,Tampa Bay Lightning,5,2,0,401687690
+2024-10-22T22:00:00Z,2025,nhl,Philadelphia Flyers,Washington Capitals,1,4,0,401687691
+2024-10-22T22:30:00Z,2025,nhl,Florida Panthers,Minnesota Wild,1,5,0,401687692
+2024-10-22T22:45:00Z,2025,nhl,New Jersey Devils,Tampa Bay Lightning,5,8,0,401687693
+2024-10-22T23:00:00Z,2025,nhl,Buffalo Sabres,Dallas Stars,4,2,0,401687694
+2024-10-22T23:15:00Z,2025,nhl,Montreal Canadiens,New York Rangers,2,7,0,401687695
+2024-10-22T23:30:00Z,2025,nhl,Columbus Blue Jackets,Toronto Maple Leafs,6,2,0,401687696
+2024-10-22T23:45:00Z,2025,nhl,New York Islanders,Detroit Red Wings,0,1,0,401687697
+2024-10-23T00:00:00Z,2025,nhl,St. Louis Blues,Winnipeg Jets,2,3,0,401687698
+2024-10-23T00:15:00Z,2025,nhl,Chicago Blackhawks,Vancouver Canucks,3,6,0,401687699
+2024-10-23T00:30:00Z,2025,nhl,Seattle Kraken,Colorado Avalanche,2,3,0,401687705
+2024-10-23T00:45:00Z,2025,nhl,Nashville Predators,Boston Bruins,4,0,0,401687700
+2024-10-23T01:00:00Z,2025,nhl,Edmonton Oilers,Carolina Hurricanes,2,3,0,401687702
+2024-10-23T01:15:00Z,2025,nhl,Utah Hockey Club,Ottawa Senators,0,4,0,401687703
+2024-10-23T01:30:00Z,2025,nhl,Calgary Flames,Pittsburgh Penguins,4,3,0,401687701
+2024-10-23T02:15:00Z,2025,nhl,Anaheim Ducks,San Jose Sharks,3,1,0,401687704
+2024-10-23T03:00:00Z,2025,nhl,Vegas Golden Knights,Los Angeles Kings,6,1,0,401687706
+2024-10-23T23:30:00Z,2025,nhl,Washington Capitals,Philadelphia Flyers,6,3,0,401687707
+2024-10-24T23:00:00Z,2025,nhl,Boston Bruins,Dallas Stars,2,5,0,401687708
+2024-10-24T23:00:00Z,2025,nhl,Toronto Maple Leafs,St. Louis Blues,1,5,0,401687709
+2024-10-24T23:00:00Z,2025,nhl,Detroit Red Wings,New Jersey Devils,5,3,0,401687710
+2024-10-24T23:00:00Z,2025,nhl,Tampa Bay Lightning,Minnesota Wild,2,4,0,401687711
+2024-10-24T23:00:00Z,2025,nhl,New York Rangers,Florida Panthers,1,3,0,401687712
+2024-10-25T01:00:00Z,2025,nhl,Calgary Flames,Carolina Hurricanes,2,4,0,401687713
+2024-10-25T01:00:00Z,2025,nhl,Utah Hockey Club,Colorado Avalanche,1,5,0,401687714
+2024-10-25T02:00:00Z,2025,nhl,Seattle Kraken,Winnipeg Jets,3,4,0,401687715
+2024-10-25T02:30:00Z,2025,nhl,Los Angeles Kings,San Jose Sharks,3,2,0,401687716
+2024-10-25T22:00:00Z,2025,nhl,Vegas Golden Knights,Ottawa Senators,6,4,0,401687717
+2024-10-25T23:00:00Z,2025,nhl,New Jersey Devils,New York Islanders,3,4,0,401687718
+2024-10-26T00:30:00Z,2025,nhl,Chicago Blackhawks,Nashville Predators,2,3,0,401687719
+2024-10-26T01:00:00Z,2025,nhl,Edmonton Oilers,Pittsburgh Penguins,4,0,0,401687720
+2024-10-26T17:00:00Z,2025,nhl,Buffalo Sabres,Detroit Red Wings,5,3,0,401687721
+2024-10-26T17:00:00Z,2025,nhl,Philadelphia Flyers,Minnesota Wild,7,5,0,401687722
+2024-10-26T20:00:00Z,2025,nhl,Los Angeles Kings,Utah Hockey Club,3,2,0,401687723
+2024-10-26T23:00:00Z,2025,nhl,Boston Bruins,Toronto Maple Leafs,4,3,0,401687724
+2024-10-26T23:00:00Z,2025,nhl,Montreal Canadiens,St. Louis Blues,5,2,0,401687725
+2024-10-26T23:00:00Z,2025,nhl,Tampa Bay Lightning,Washington Capitals,3,0,0,401687726
+2024-10-26T23:00:00Z,2025,nhl,New York Rangers,Anaheim Ducks,2,1,0,401687727
+2024-10-26T23:00:00Z,2025,nhl,Calgary Flames,Winnipeg Jets,3,5,0,401687728
+2024-10-26T23:30:00Z,2025,nhl,New York Islanders,Florida Panthers,3,6,0,401687729
+2024-10-27T00:00:00Z,2025,nhl,Nashville Predators,Columbus Blue Jackets,4,3,0,401687730
+2024-10-27T00:00:00Z,2025,nhl,Dallas Stars,Chicago Blackhawks,4,2,0,401687731
+2024-10-27T02:00:00Z,2025,nhl,Vancouver Canucks,Pittsburgh Penguins,4,3,0,401687732
+2024-10-27T02:00:00Z,2025,nhl,Vegas Golden Knights,San Jose Sharks,7,3,0,401687733
+2024-10-27T02:00:00Z,2025,nhl,Seattle Kraken,Carolina Hurricanes,1,4,0,401687734
+2024-10-27T22:00:00Z,2025,nhl,Detroit Red Wings,Edmonton Oilers,2,3,0,401687735
+2024-10-27T23:00:00Z,2025,nhl,New Jersey Devils,Anaheim Ducks,6,2,0,401687736
+2024-10-27T23:00:00Z,2025,nhl,Philadelphia Flyers,Montreal Canadiens,3,4,0,401687737
+2024-10-28T01:00:00Z,2025,nhl,Colorado Avalanche,Ottawa Senators,5,4,0,401687738
+2024-10-28T23:00:00Z,2025,nhl,Buffalo Sabres,Florida Panthers,2,5,0,401687739
+2024-10-28T23:00:00Z,2025,nhl,Columbus Blue Jackets,Edmonton Oilers,6,1,0,401687741
+2024-10-28T23:30:00Z,2025,nhl,Tampa Bay Lightning,Nashville Predators,3,2,0,401687740
+2024-10-28T23:30:00Z,2025,nhl,Winnipeg Jets,Toronto Maple Leafs,4,6,0,401687742
+2024-10-29T01:00:00Z,2025,nhl,Colorado Avalanche,Chicago Blackhawks,2,5,0,401687743
+2024-10-29T01:00:00Z,2025,nhl,Utah Hockey Club,San Jose Sharks,4,5,0,401687744
+2024-10-29T02:00:00Z,2025,nhl,Vancouver Canucks,Carolina Hurricanes,3,4,0,401687745
+2024-10-29T02:00:00Z,2025,nhl,Vegas Golden Knights,Calgary Flames,5,0,0,401687746
+2024-10-29T23:00:00Z,2025,nhl,Boston Bruins,Philadelphia Flyers,0,2,0,401687747
+2024-10-29T23:00:00Z,2025,nhl,Montreal Canadiens,Seattle Kraken,2,8,0,401687748
+2024-10-29T23:00:00Z,2025,nhl,New York Islanders,Anaheim Ducks,1,3,0,401687751
+2024-10-29T23:00:00Z,2025,nhl,Pittsburgh Penguins,Minnesota Wild,3,5,0,401687752
+2024-10-29T23:30:00Z,2025,nhl,Ottawa Senators,St. Louis Blues,8,1,0,401687749
+2024-10-29T23:30:00Z,2025,nhl,Washington Capitals,New York Rangers,5,3,0,401687750
+2024-10-30T02:00:00Z,2025,nhl,San Jose Sharks,Los Angeles Kings,4,2,0,401687753
+2024-10-30T23:00:00Z,2025,nhl,Columbus Blue Jackets,New York Islanders,2,0,0,401687754
+2024-10-30T23:30:00Z,2025,nhl,Detroit Red Wings,Winnipeg Jets,2,6,0,401687755
+2024-10-31T01:00:00Z,2025,nhl,Colorado Avalanche,Tampa Bay Lightning,2,5,0,401687756
+2024-10-31T01:30:00Z,2025,nhl,Utah Hockey Club,Calgary Flames,5,1,0,401687757
+2024-10-31T02:00:00Z,2025,nhl,Los Angeles Kings,Vegas Golden Knights,6,3,0,401687759
+2024-10-31T02:30:00Z,2025,nhl,Vancouver Canucks,New Jersey Devils,0,6,0,401687758
+2024-10-31T23:00:00Z,2025,nhl,Toronto Maple Leafs,Seattle Kraken,4,1,0,401687760
+2024-10-31T23:00:00Z,2025,nhl,Philadelphia Flyers,St. Louis Blues,2,1,0,401687761
+2024-10-31T23:00:00Z,2025,nhl,Pittsburgh Penguins,Anaheim Ducks,2,1,0,401687762
+2024-10-31T23:00:00Z,2025,nhl,Washington Capitals,Montreal Canadiens,6,3,0,401687763
+2024-10-31T23:00:00Z,2025,nhl,Carolina Hurricanes,Boston Bruins,8,2,0,401687764
+2024-11-01T00:00:00Z,2025,nhl,Nashville Predators,Edmonton Oilers,1,5,0,401687765
+2024-11-01T02:30:00Z,2025,nhl,San Jose Sharks,Chicago Blackhawks,3,2,0,401687766
+2024-11-01T18:00:00Z,2025,nhl,Dallas Stars,Florida Panthers,4,6,1,401687771
+2024-11-01T23:00:00Z,2025,nhl,Buffalo Sabres,New York Islanders,3,4,0,401687767
+2024-11-01T23:00:00Z,2025,nhl,New York Rangers,Ottawa Senators,2,1,0,401687768
+2024-11-01T23:00:00Z,2025,nhl,Columbus Blue Jackets,Winnipeg Jets,2,6,0,401687769
+2024-11-02T00:00:00Z,2025,nhl,Minnesota Wild,Tampa Bay Lightning,5,3,0,401687770
+2024-11-02T01:00:00Z,2025,nhl,Calgary Flames,New Jersey Devils,3,0,0,401687772
+2024-11-02T16:00:00Z,2025,nhl,Florida Panthers,Dallas Stars,4,2,1,401687776
+2024-11-02T17:00:00Z,2025,nhl,Philadelphia Flyers,Boston Bruins,0,3,0,401687773
+2024-11-02T20:00:00Z,2025,nhl,Los Angeles Kings,Chicago Blackhawks,3,4,0,401687774
+2024-11-02T21:00:00Z,2025,nhl,Washington Capitals,Columbus Blue Jackets,7,2,0,401687775
+2024-11-02T23:00:00Z,2025,nhl,Ottawa Senators,Seattle Kraken,3,0,0,401687777
+2024-11-02T23:00:00Z,2025,nhl,Detroit Red Wings,Buffalo Sabres,2,1,0,401687778
+2024-11-02T23:00:00Z,2025,nhl,Pittsburgh Penguins,Montreal Canadiens,3,1,0,401687779
+2024-11-02T23:00:00Z,2025,nhl,St. Louis Blues,Toronto Maple Leafs,4,2,0,401687780
+2024-11-03T00:00:00Z,2025,nhl,Nashville Predators,Colorado Avalanche,5,2,0,401687781
+2024-11-03T02:00:00Z,2025,nhl,Vegas Golden Knights,Utah Hockey Club,4,3,0,401687782
+2024-11-03T02:00:00Z,2025,nhl,San Jose Sharks,Vancouver Canucks,2,3,0,401687783
+2024-11-03T18:00:00Z,2025,nhl,New York Rangers,New York Islanders,5,2,0,401687784
+2024-11-03T20:00:00Z,2025,nhl,Winnipeg Jets,Tampa Bay Lightning,7,4,0,401687785
+2024-11-03T22:00:00Z,2025,nhl,Boston Bruins,Seattle Kraken,2,0,0,401687786
+2024-11-03T22:00:00Z,2025,nhl,Carolina Hurricanes,Washington Capitals,4,2,0,401687787
+2024-11-03T23:00:00Z,2025,nhl,Minnesota Wild,Toronto Maple Leafs,2,1,0,401687788
+2024-11-04T01:00:00Z,2025,nhl,Calgary Flames,Edmonton Oilers,2,4,0,401687789
+2024-11-04T01:00:00Z,2025,nhl,Anaheim Ducks,Chicago Blackhawks,2,4,0,401687790
+2024-11-05T01:00:00Z,2025,nhl,Nashville Predators,Los Angeles Kings,0,3,0,401687791
+2024-11-05T01:30:00Z,2025,nhl,Edmonton Oilers,New Jersey Devils,0,3,0,401687792
+2024-11-06T00:00:00Z,2025,nhl,Buffalo Sabres,Ottawa Senators,5,1,0,401687793
+2024-11-06T00:00:00Z,2025,nhl,Toronto Maple Leafs,Boston Bruins,4,0,0,401687794
+2024-11-06T00:00:00Z,2025,nhl,Montreal Canadiens,Calgary Flames,2,3,0,401687795
+2024-11-06T00:00:00Z,2025,nhl,Carolina Hurricanes,Philadelphia Flyers,6,4,0,401687796
+2024-11-06T00:30:00Z,2025,nhl,New York Islanders,Pittsburgh Penguins,4,3,0,401687797
+2024-11-06T01:00:00Z,2025,nhl,St. Louis Blues,Tampa Bay Lightning,3,2,0,401687798
+2024-11-06T01:00:00Z,2025,nhl,Minnesota Wild,Los Angeles Kings,1,5,0,401687799
+2024-11-06T01:00:00Z,2025,nhl,Winnipeg Jets,Utah Hockey Club,3,0,0,401687800
+2024-11-06T02:00:00Z,2025,nhl,Colorado Avalanche,Seattle Kraken,6,3,0,401687801
+2024-11-06T03:00:00Z,2025,nhl,Anaheim Ducks,Vancouver Canucks,1,5,0,401687802
+2024-11-06T03:30:00Z,2025,nhl,San Jose Sharks,Columbus Blue Jackets,2,1,0,401687803
+2024-11-07T00:00:00Z,2025,nhl,Washington Capitals,Nashville Predators,3,2,0,401687804
+2024-11-07T01:00:00Z,2025,nhl,Chicago Blackhawks,Detroit Red Wings,1,4,0,401687805
+2024-11-07T01:30:00Z,2025,nhl,Edmonton Oilers,Vegas Golden Knights,2,4,0,401687806
+2024-11-08T00:00:00Z,2025,nhl,Boston Bruins,Calgary Flames,4,3,0,401687807
+2024-11-08T00:00:00Z,2025,nhl,Ottawa Senators,New York Islanders,2,4,0,401687808
+2024-11-08T00:00:00Z,2025,nhl,Florida Panthers,Nashville Predators,6,2,0,401687810
+2024-11-08T00:00:00Z,2025,nhl,New Jersey Devils,Montreal Canadiens,5,3,0,401687811
+2024-11-08T00:00:00Z,2025,nhl,New York Rangers,Buffalo Sabres,1,6,0,401687812
+2024-11-08T00:00:00Z,2025,nhl,Carolina Hurricanes,Pittsburgh Penguins,5,1,0,401687813
+2024-11-08T00:30:00Z,2025,nhl,Tampa Bay Lightning,Philadelphia Flyers,1,2,0,401687809
+2024-11-08T01:00:00Z,2025,nhl,St. Louis Blues,Utah Hockey Club,2,4,0,401687814
+2024-11-08T01:00:00Z,2025,nhl,Dallas Stars,Chicago Blackhawks,3,1,0,401687815
+2024-11-08T01:00:00Z,2025,nhl,Winnipeg Jets,Colorado Avalanche,1,0,0,401687816
+2024-11-08T03:30:00Z,2025,nhl,Los Angeles Kings,Vancouver Canucks,2,4,0,401687817
+2024-11-08T03:30:00Z,2025,nhl,San Jose Sharks,Minnesota Wild,2,5,0,401687818
+2024-11-09T00:00:00Z,2025,nhl,Toronto Maple Leafs,Detroit Red Wings,3,1,0,401687819
+2024-11-09T00:30:00Z,2025,nhl,Washington Capitals,Pittsburgh Penguins,2,4,0,401687820
+2024-11-09T03:00:00Z,2025,nhl,Anaheim Ducks,Minnesota Wild,2,5,0,401687821
+2024-11-09T03:00:00Z,2025,nhl,Seattle Kraken,Vegas Golden Knights,4,3,0,401687822
+2024-11-09T18:00:00Z,2025,nhl,Buffalo Sabres,Calgary Flames,3,2,0,401687823
+2024-11-09T20:00:00Z,2025,nhl,Winnipeg Jets,Dallas Stars,4,1,0,401687829
+2024-11-09T23:00:00Z,2025,nhl,Florida Panthers,Philadelphia Flyers,4,3,0,401687824
+2024-11-10T00:00:00Z,2025,nhl,Boston Bruins,Ottawa Senators,2,3,0,401687825
+2024-11-10T00:00:00Z,2025,nhl,Toronto Maple Leafs,Montreal Canadiens,4,1,0,401687826
+2024-11-10T00:00:00Z,2025,nhl,Detroit Red Wings,New York Rangers,0,4,0,401687827
+2024-11-10T00:00:00Z,2025,nhl,St. Louis Blues,Washington Capitals,1,8,0,401687828
+2024-11-10T00:30:00Z,2025,nhl,New York Islanders,New Jersey Devils,3,4,0,401687830
+2024-11-10T01:00:00Z,2025,nhl,Nashville Predators,Utah Hockey Club,4,0,0,401687831
+2024-11-10T02:00:00Z,2025,nhl,Colorado Avalanche,Carolina Hurricanes,6,4,0,401687832
+2024-11-10T02:00:00Z,2025,nhl,Los Angeles Kings,Columbus Blue Jackets,5,2,0,401687833
+2024-11-10T03:00:00Z,2025,nhl,Vancouver Canucks,Edmonton Oilers,3,7,0,401687834
+2024-11-11T00:00:00Z,2025,nhl,New Jersey Devils,San Jose Sharks,0,1,0,401687835
+2024-11-11T00:00:00Z,2025,nhl,Chicago Blackhawks,Minnesota Wild,2,1,0,401687836
+2024-11-11T01:00:00Z,2025,nhl,Anaheim Ducks,Columbus Blue Jackets,4,2,0,401687837
+2024-11-11T17:30:00Z,2025,nhl,Buffalo Sabres,Montreal Canadiens,5,7,0,401687838
+2024-11-12T00:00:00Z,2025,nhl,Philadelphia Flyers,San Jose Sharks,4,3,0,401687839
+2024-11-12T00:00:00Z,2025,nhl,Pittsburgh Penguins,Dallas Stars,1,7,0,401687840
+2024-11-12T01:30:00Z,2025,nhl,Calgary Flames,Los Angeles Kings,3,1,0,401687841
+2024-11-12T02:00:00Z,2025,nhl,Colorado Avalanche,Nashville Predators,3,2,0,401687842
+2024-11-12T03:00:00Z,2025,nhl,Vegas Golden Knights,Carolina Hurricanes,2,5,0,401687843
+2024-11-13T00:00:00Z,2025,nhl,Toronto Maple Leafs,Ottawa Senators,0,3,0,401687844
+2024-11-13T00:00:00Z,2025,nhl,New York Rangers,Winnipeg Jets,3,6,0,401687846
+2024-11-13T00:30:00Z,2025,nhl,Florida Panthers,New Jersey Devils,1,4,0,401687845
+2024-11-13T01:00:00Z,2025,nhl,St. Louis Blues,Boston Bruins,2,3,0,401687847
+2024-11-13T02:00:00Z,2025,nhl,Edmonton Oilers,New York Islanders,4,3,0,401687848
+2024-11-13T03:00:00Z,2025,nhl,Vancouver Canucks,Calgary Flames,3,1,0,401687849
+2024-11-13T03:00:00Z,2025,nhl,Seattle Kraken,Columbus Blue Jackets,5,2,0,401687850
+2024-11-14T00:30:00Z,2025,nhl,Pittsburgh Penguins,Detroit Red Wings,2,3,0,401687851
+2024-11-14T00:30:00Z,2025,nhl,Washington Capitals,Toronto Maple Leafs,3,4,0,401687852
+2024-11-14T02:00:00Z,2025,nhl,Utah Hockey Club,Carolina Hurricanes,4,1,0,401687853
+2024-11-14T03:00:00Z,2025,nhl,Colorado Avalanche,Los Angeles Kings,4,2,0,401687854
+2024-11-14T03:00:00Z,2025,nhl,Anaheim Ducks,Vegas Golden Knights,2,3,0,401687855
+2024-11-15T00:00:00Z,2025,nhl,Ottawa Senators,Philadelphia Flyers,4,5,0,401687857
+2024-11-15T00:00:00Z,2025,nhl,Tampa Bay Lightning,Winnipeg Jets,4,1,0,401687858
+2024-11-15T00:00:00Z,2025,nhl,Florida Panthers,New Jersey Devils,2,6,0,401687859
+2024-11-15T00:00:00Z,2025,nhl,New York Rangers,San Jose Sharks,3,2,0,401687860
+2024-11-15T00:30:00Z,2025,nhl,Buffalo Sabres,St. Louis Blues,4,3,0,401687856
+2024-11-15T01:00:00Z,2025,nhl,Dallas Stars,Boston Bruins,7,2,0,401687861
+2024-11-15T01:00:00Z,2025,nhl,Minnesota Wild,Montreal Canadiens,3,0,0,401687862
+2024-11-15T02:00:00Z,2025,nhl,Edmonton Oilers,Nashville Predators,3,2,0,401687863
+2024-11-15T03:00:00Z,2025,nhl,Vancouver Canucks,New York Islanders,2,5,0,401687864
+2024-11-15T03:00:00Z,2025,nhl,Seattle Kraken,Chicago Blackhawks,3,1,0,401687865
+2024-11-16T00:00:00Z,2025,nhl,Columbus Blue Jackets,Pittsburgh Penguins,6,2,0,401687866
+2024-11-16T02:00:00Z,2025,nhl,Colorado Avalanche,Washington Capitals,2,5,0,401687867
+2024-11-16T02:00:00Z,2025,nhl,Calgary Flames,Nashville Predators,2,0,0,401687868
+2024-11-16T02:00:00Z,2025,nhl,Utah Hockey Club,Vegas Golden Knights,2,4,0,401687869
+2024-11-16T03:00:00Z,2025,nhl,Anaheim Ducks,Detroit Red Wings,6,4,0,401687870
+2024-11-16T18:00:00Z,2025,nhl,Boston Bruins,St. Louis Blues,2,3,0,401687871
+2024-11-16T21:00:00Z,2025,nhl,Seattle Kraken,New York Islanders,3,2,0,401687872
+2024-11-17T00:00:00Z,2025,nhl,Toronto Maple Leafs,Edmonton Oilers,4,3,0,401687873
+2024-11-17T00:00:00Z,2025,nhl,Montreal Canadiens,Columbus Blue Jackets,5,1,0,401687874
+2024-11-17T00:00:00Z,2025,nhl,Tampa Bay Lightning,New Jersey Devils,4,0,0,401687875
+2024-11-17T00:00:00Z,2025,nhl,Florida Panthers,Winnipeg Jets,5,0,0,401687876
+2024-11-17T00:00:00Z,2025,nhl,Philadelphia Flyers,Buffalo Sabres,5,2,0,401687877
+2024-11-17T00:00:00Z,2025,nhl,Pittsburgh Penguins,San Jose Sharks,4,3,0,401687878
+2024-11-17T00:00:00Z,2025,nhl,Carolina Hurricanes,Ottawa Senators,4,0,0,401687879
+2024-11-17T01:00:00Z,2025,nhl,Minnesota Wild,Dallas Stars,1,2,0,401687880
+2024-11-17T01:00:00Z,2025,nhl,Los Angeles Kings,Detroit Red Wings,4,1,0,401687881
+2024-11-17T03:00:00Z,2025,nhl,Vancouver Canucks,Chicago Blackhawks,4,1,0,401687882
+2024-11-17T22:00:00Z,2025,nhl,Carolina Hurricanes,St. Louis Blues,4,1,0,401687883
+2024-11-18T01:00:00Z,2025,nhl,Vegas Golden Knights,Washington Capitals,2,5,0,401687885
+2024-11-18T02:00:00Z,2025,nhl,Seattle Kraken,New York Rangers,0,2,0,401687886
+2024-11-18T03:00:00Z,2025,nhl,Vancouver Canucks,Nashville Predators,3,5,0,401687884
+2024-11-19T00:00:00Z,2025,nhl,Boston Bruins,Columbus Blue Jackets,1,5,0,401687887
+2024-11-19T00:00:00Z,2025,nhl,Philadelphia Flyers,Colorado Avalanche,2,3,0,401687888
+2024-11-19T00:30:00Z,2025,nhl,Montreal Canadiens,Edmonton Oilers,3,0,0,401687889
+2024-11-19T01:00:00Z,2025,nhl,Dallas Stars,Anaheim Ducks,2,4,0,401687890
+2024-11-19T02:00:00Z,2025,nhl,Utah Hockey Club,Washington Capitals,2,6,0,401687891
+2024-11-19T03:30:00Z,2025,nhl,San Jose Sharks,Detroit Red Wings,5,4,0,401687892
+2024-11-20T00:00:00Z,2025,nhl,Ottawa Senators,Edmonton Oilers,2,5,0,401687893
+2024-11-20T00:00:00Z,2025,nhl,Pittsburgh Penguins,Tampa Bay Lightning,2,3,0,401687894
+2024-11-20T01:00:00Z,2025,nhl,St. Louis Blues,Minnesota Wild,2,4,0,401687895
+2024-11-20T01:00:00Z,2025,nhl,Winnipeg Jets,Florida Panthers,6,3,0,401687896
+2024-11-20T01:30:00Z,2025,nhl,Chicago Blackhawks,Anaheim Ducks,2,3,0,401687897
+2024-11-20T02:00:00Z,2025,nhl,Calgary Flames,New York Islanders,2,1,0,401687898
+2024-11-20T03:00:00Z,2025,nhl,Vancouver Canucks,New York Rangers,3,4,0,401687899
+2024-11-21T00:30:00Z,2025,nhl,Toronto Maple Leafs,Vegas Golden Knights,3,0,0,401687900
+2024-11-21T00:30:00Z,2025,nhl,Philadelphia Flyers,Carolina Hurricanes,1,4,0,401687901
+2024-11-21T01:00:00Z,2025,nhl,Dallas Stars,San Jose Sharks,5,2,0,401687902
+2024-11-21T03:00:00Z,2025,nhl,Seattle Kraken,Nashville Predators,3,0,0,401687903
+2024-11-21T03:30:00Z,2025,nhl,Los Angeles Kings,Buffalo Sabres,0,1,0,401687904
+2024-11-22T00:00:00Z,2025,nhl,Boston Bruins,Utah Hockey Club,1,0,0,401687905
+2024-11-22T00:00:00Z,2025,nhl,Ottawa Senators,Vegas Golden Knights,2,3,0,401687906
+2024-11-22T00:00:00Z,2025,nhl,Detroit Red Wings,New York Islanders,2,1,0,401687907
+2024-11-22T00:00:00Z,2025,nhl,New Jersey Devils,Carolina Hurricanes,4,2,0,401687908
+2024-11-22T00:00:00Z,2025,nhl,Washington Capitals,Colorado Avalanche,1,2,0,401687909
+2024-11-22T00:00:00Z,2025,nhl,Columbus Blue Jackets,Tampa Bay Lightning,7,6,0,401687910
+2024-11-22T01:00:00Z,2025,nhl,St. Louis Blues,San Jose Sharks,3,2,0,401687911
+2024-11-22T01:30:00Z,2025,nhl,Chicago Blackhawks,Florida Panthers,3,1,0,401687912
+2024-11-22T02:00:00Z,2025,nhl,Calgary Flames,New York Rangers,3,2,0,401687913
+2024-11-22T02:00:00Z,2025,nhl,Edmonton Oilers,Minnesota Wild,3,5,0,401687914
+2024-11-23T00:00:00Z,2025,nhl,Pittsburgh Penguins,Winnipeg Jets,1,4,0,401687915
+2024-11-23T03:00:00Z,2025,nhl,Anaheim Ducks,Buffalo Sabres,2,3,0,401687916
+2024-11-23T18:00:00Z,2025,nhl,Philadelphia Flyers,Chicago Blackhawks,3,2,0,401687917
+2024-11-23T21:00:00Z,2025,nhl,Calgary Flames,Minnesota Wild,4,3,0,401687918
+2024-11-23T21:00:00Z,2025,nhl,Los Angeles Kings,Seattle Kraken,2,1,0,401687919
+2024-11-23T23:00:00Z,2025,nhl,Florida Panthers,Colorado Avalanche,4,7,0,401687920
+2024-11-24T00:00:00Z,2025,nhl,Montreal Canadiens,Vegas Golden Knights,2,6,0,401687921
+2024-11-24T00:00:00Z,2025,nhl,Ottawa Senators,Vancouver Canucks,3,4,0,401687922
+2024-11-24T00:00:00Z,2025,nhl,Detroit Red Wings,Boston Bruins,1,2,0,401687923
+2024-11-24T00:00:00Z,2025,nhl,Tampa Bay Lightning,Dallas Stars,2,4,0,401687924
+2024-11-24T00:00:00Z,2025,nhl,Pittsburgh Penguins,Utah Hockey Club,1,6,0,401687925
+2024-11-24T00:00:00Z,2025,nhl,Washington Capitals,New Jersey Devils,2,3,0,401687926
+2024-11-24T00:00:00Z,2025,nhl,Columbus Blue Jackets,Carolina Hurricanes,5,4,0,401687927
+2024-11-24T00:00:00Z,2025,nhl,Nashville Predators,Winnipeg Jets,4,1,0,401687928
+2024-11-24T00:30:00Z,2025,nhl,New York Islanders,St. Louis Blues,3,1,0,401687929
+2024-11-24T01:00:00Z,2025,nhl,San Jose Sharks,Buffalo Sabres,2,4,0,401687930
+2024-11-24T03:00:00Z,2025,nhl,Edmonton Oilers,New York Rangers,6,2,0,401687931
+2024-11-25T00:00:00Z,2025,nhl,Toronto Maple Leafs,Utah Hockey Club,3,2,0,401687932
+2024-11-26T00:00:00Z,2025,nhl,Tampa Bay Lightning,Colorado Avalanche,8,2,0,401687933
+2024-11-26T00:00:00Z,2025,nhl,Florida Panthers,Washington Capitals,1,4,0,401687934
+2024-11-26T00:00:00Z,2025,nhl,New Jersey Devils,Nashville Predators,5,2,0,401687935
+2024-11-26T00:00:00Z,2025,nhl,New York Rangers,St. Louis Blues,2,5,0,401687936
+2024-11-26T00:00:00Z,2025,nhl,Philadelphia Flyers,Vegas Golden Knights,4,5,0,401687937
+2024-11-26T00:00:00Z,2025,nhl,Carolina Hurricanes,Dallas Stars,6,4,0,401687938
+2024-11-26T00:30:00Z,2025,nhl,Ottawa Senators,Calgary Flames,4,3,0,401687939
+2024-11-26T00:30:00Z,2025,nhl,New York Islanders,Detroit Red Wings,2,4,0,401687940
+2024-11-26T01:00:00Z,2025,nhl,Minnesota Wild,Winnipeg Jets,1,4,0,401687941
+2024-11-26T03:00:00Z,2025,nhl,Anaheim Ducks,Seattle Kraken,2,3,0,401687942
+2024-11-26T03:30:00Z,2025,nhl,San Jose Sharks,Los Angeles Kings,7,2,0,401687943
+2024-11-27T00:00:00Z,2025,nhl,Boston Bruins,Vancouver Canucks,0,2,0,401687944
+2024-11-27T00:00:00Z,2025,nhl,Montreal Canadiens,Utah Hockey Club,2,3,0,401687945
+2024-11-28T00:00:00Z,2025,nhl,Buffalo Sabres,Minnesota Wild,0,1,0,401687946
+2024-11-28T00:00:00Z,2025,nhl,New Jersey Devils,St. Louis Blues,0,3,0,401687947
+2024-11-28T00:00:00Z,2025,nhl,Carolina Hurricanes,New York Rangers,4,3,0,401687948
+2024-11-28T00:30:00Z,2025,nhl,Detroit Red Wings,Calgary Flames,2,1,0,401687949
+2024-11-28T00:30:00Z,2025,nhl,Tampa Bay Lightning,Washington Capitals,4,5,0,401687950
+2024-11-28T00:30:00Z,2025,nhl,Florida Panthers,Toronto Maple Leafs,5,1,0,401687951
+2024-11-28T00:30:00Z,2025,nhl,New York Islanders,Boston Bruins,3,6,0,401687952
+2024-11-28T00:30:00Z,2025,nhl,Pittsburgh Penguins,Vancouver Canucks,5,4,0,401687953
+2024-11-28T00:30:00Z,2025,nhl,Columbus Blue Jackets,Montreal Canadiens,3,4,0,401687954
+2024-11-28T01:00:00Z,2025,nhl,Nashville Predators,Philadelphia Flyers,2,3,0,401687955
+2024-11-28T01:30:00Z,2025,nhl,Chicago Blackhawks,Dallas Stars,6,2,0,401687956
+2024-11-28T03:00:00Z,2025,nhl,Colorado Avalanche,Vegas Golden Knights,2,1,0,401687957
+2024-11-28T03:00:00Z,2025,nhl,Los Angeles Kings,Winnipeg Jets,4,1,0,401687958
+2024-11-28T03:00:00Z,2025,nhl,Seattle Kraken,Anaheim Ducks,2,5,0,401687959
+2024-11-28T03:30:00Z,2025,nhl,San Jose Sharks,Ottawa Senators,3,4,0,401687960
+2024-11-29T18:00:00Z,2025,nhl,Philadelphia Flyers,New York Rangers,3,1,0,401687961
+2024-11-29T19:00:00Z,2025,nhl,Minnesota Wild,Chicago Blackhawks,3,2,0,401687962
+2024-11-29T20:00:00Z,2025,nhl,Buffalo Sabres,Vancouver Canucks,3,4,0,401687963
+2024-11-29T20:00:00Z,2025,nhl,Detroit Red Wings,New Jersey Devils,4,5,0,401687964
+2024-11-29T20:00:00Z,2025,nhl,Washington Capitals,New York Islanders,5,4,0,401687965
+2024-11-29T20:00:00Z,2025,nhl,Carolina Hurricanes,Florida Panthers,3,6,0,401687966
+2024-11-29T20:00:00Z,2025,nhl,Columbus Blue Jackets,Calgary Flames,5,2,0,401687967
+2024-11-29T20:00:00Z,2025,nhl,Nashville Predators,Tampa Bay Lightning,2,3,0,401687968
+2024-11-29T20:30:00Z,2025,nhl,Anaheim Ducks,Los Angeles Kings,1,2,0,401687969
+2024-11-29T20:30:00Z,2025,nhl,San Jose Sharks,Seattle Kraken,8,5,0,401687970
+2024-11-29T23:30:00Z,2025,nhl,Boston Bruins,Pittsburgh Penguins,1,2,0,401687971
+2024-11-30T01:30:00Z,2025,nhl,Vegas Golden Knights,Winnipeg Jets,4,3,0,401687973
+2024-11-30T02:00:00Z,2025,nhl,Dallas Stars,Colorado Avalanche,5,3,0,401687972
+2024-11-30T02:00:00Z,2025,nhl,Utah Hockey Club,Edmonton Oilers,3,4,0,401687974
+2024-11-30T18:00:00Z,2025,nhl,New York Rangers,Montreal Canadiens,4,3,0,401687975
+2024-11-30T21:00:00Z,2025,nhl,Florida Panthers,Carolina Hurricanes,6,0,0,401687976
+2024-12-01T00:00:00Z,2025,nhl,Tampa Bay Lightning,Toronto Maple Leafs,3,5,0,401687977
+2024-12-01T00:00:00Z,2025,nhl,New Jersey Devils,Washington Capitals,5,6,0,401687978
+2024-12-01T00:00:00Z,2025,nhl,Pittsburgh Penguins,Calgary Flames,6,2,0,401687979
+2024-12-01T00:00:00Z,2025,nhl,St. Louis Blues,Philadelphia Flyers,2,3,0,401687980
+2024-12-01T00:00:00Z,2025,nhl,Los Angeles Kings,Ottawa Senators,5,2,0,401687981
+2024-12-01T00:30:00Z,2025,nhl,New York Islanders,Buffalo Sabres,3,0,0,401687982
+2024-12-01T01:00:00Z,2025,nhl,Minnesota Wild,Nashville Predators,3,2,0,401687983
+2024-12-01T03:00:00Z,2025,nhl,Colorado Avalanche,Edmonton Oilers,1,4,0,401687984
+2024-12-01T03:00:00Z,2025,nhl,Vegas Golden Knights,Utah Hockey Club,0,6,0,401687985
+2024-12-01T03:00:00Z,2025,nhl,Seattle Kraken,San Jose Sharks,2,4,0,401687986
+2024-12-01T17:30:00Z,2025,nhl,Detroit Red Wings,Vancouver Canucks,4,5,0,401687987
+2024-12-01T20:00:00Z,2025,nhl,Boston Bruins,Montreal Canadiens,6,3,0,401687988
+2024-12-01T20:00:00Z,2025,nhl,Chicago Blackhawks,Columbus Blue Jackets,3,6,0,401687989
+2024-12-01T21:30:00Z,2025,nhl,Dallas Stars,Winnipeg Jets,3,1,0,401687990
+2024-12-02T01:00:00Z,2025,nhl,Anaheim Ducks,Ottawa Senators,4,3,0,401687991
+2024-12-03T00:00:00Z,2025,nhl,New York Rangers,New Jersey Devils,1,5,0,401687992
+2024-12-03T00:30:00Z,2025,nhl,Toronto Maple Leafs,Chicago Blackhawks,4,1,0,401687993
+2024-12-03T02:00:00Z,2025,nhl,Utah Hockey Club,Dallas Stars,1,2,0,401687994
+2024-12-04T00:00:00Z,2025,nhl,Boston Bruins,Detroit Red Wings,3,2,0,401687995
+2024-12-04T00:00:00Z,2025,nhl,Buffalo Sabres,Colorado Avalanche,4,5,0,401687996
+2024-12-04T00:00:00Z,2025,nhl,Montreal Canadiens,New York Islanders,2,1,0,401687997
+2024-12-04T00:00:00Z,2025,nhl,Pittsburgh Penguins,Florida Panthers,5,4,0,401687998
+2024-12-04T00:00:00Z,2025,nhl,Washington Capitals,San Jose Sharks,1,2,0,401687999
+2024-12-04T00:00:00Z,2025,nhl,Carolina Hurricanes,Seattle Kraken,2,4,0,401688000
+2024-12-04T01:00:00Z,2025,nhl,Minnesota Wild,Vancouver Canucks,3,2,0,401688001
+2024-12-04T01:00:00Z,2025,nhl,Winnipeg Jets,St. Louis Blues,1,4,0,401688002
+2024-12-04T02:00:00Z,2025,nhl,Calgary Flames,Columbus Blue Jackets,3,0,0,401688003
+2024-12-04T03:00:00Z,2025,nhl,Vegas Golden Knights,Edmonton Oilers,1,0,0,401688004
+2024-12-05T00:30:00Z,2025,nhl,Toronto Maple Leafs,Nashville Predators,3,2,0,401688005
+2024-12-05T00:30:00Z,2025,nhl,Chicago Blackhawks,Boston Bruins,2,4,0,401688006
+2024-12-05T03:00:00Z,2025,nhl,Anaheim Ducks,Vegas Golden Knights,1,4,0,401688007
+2024-12-05T03:00:00Z,2025,nhl,Los Angeles Kings,Dallas Stars,3,2,0,401688008
+2024-12-06T00:00:00Z,2025,nhl,Buffalo Sabres,Winnipeg Jets,2,3,0,401688009
+2024-12-06T00:00:00Z,2025,nhl,Montreal Canadiens,Nashville Predators,3,0,0,401688010
+2024-12-06T00:00:00Z,2025,nhl,Ottawa Senators,Detroit Red Wings,2,1,0,401688011
+2024-12-06T00:00:00Z,2025,nhl,Tampa Bay Lightning,San Jose Sharks,8,1,0,401688012
+2024-12-06T00:00:00Z,2025,nhl,Philadelphia Flyers,Florida Panthers,5,7,0,401688013
+2024-12-06T00:00:00Z,2025,nhl,Carolina Hurricanes,Colorado Avalanche,5,3,0,401688014
+2024-12-06T00:30:00Z,2025,nhl,New York Islanders,Seattle Kraken,2,5,0,401688015
+2024-12-06T02:00:00Z,2025,nhl,Calgary Flames,St. Louis Blues,3,4,0,401688016
+2024-12-06T02:00:00Z,2025,nhl,Edmonton Oilers,Columbus Blue Jackets,6,3,0,401688017
+2024-12-07T00:00:00Z,2025,nhl,Toronto Maple Leafs,Washington Capitals,1,3,0,401688018
+2024-12-07T00:00:00Z,2025,nhl,New Jersey Devils,Seattle Kraken,3,2,0,401688019
+2024-12-07T00:30:00Z,2025,nhl,New York Rangers,Pittsburgh Penguins,4,2,0,401688020
+2024-12-07T03:00:00Z,2025,nhl,Vancouver Canucks,Columbus Blue Jackets,5,2,0,401688021
+2024-12-07T03:00:00Z,2025,nhl,Vegas Golden Knights,Dallas Stars,3,2,0,401688022
+2024-12-07T03:00:00Z,2025,nhl,Anaheim Ducks,Minnesota Wild,1,5,0,401688023
+2024-12-07T18:00:00Z,2025,nhl,Boston Bruins,Philadelphia Flyers,4,3,0,401688024
+2024-12-07T18:00:00Z,2025,nhl,Buffalo Sabres,Utah Hockey Club,2,5,0,401688025
+2024-12-07T21:00:00Z,2025,nhl,Chicago Blackhawks,Winnipeg Jets,2,4,0,401688026
+2024-12-07T22:00:00Z,2025,nhl,New York Islanders,Carolina Hurricanes,4,3,0,401688032
+2024-12-07T23:00:00Z,2025,nhl,Florida Panthers,San Jose Sharks,3,1,0,401688027
+2024-12-08T00:00:00Z,2025,nhl,Montreal Canadiens,Washington Capitals,2,4,0,401688028
+2024-12-08T00:00:00Z,2025,nhl,Ottawa Senators,Nashville Predators,3,1,0,401688029
+2024-12-08T00:00:00Z,2025,nhl,Detroit Red Wings,Colorado Avalanche,1,2,0,401688030
+2024-12-08T00:00:00Z,2025,nhl,Pittsburgh Penguins,Toronto Maple Leafs,5,2,0,401688031
+2024-12-08T01:00:00Z,2025,nhl,Los Angeles Kings,Minnesota Wild,4,1,0,401688033
+2024-12-08T03:00:00Z,2025,nhl,Edmonton Oilers,St. Louis Blues,4,2,0,401688034
+2024-12-08T18:00:00Z,2025,nhl,New York Rangers,Seattle Kraken,5,7,0,401688035
+2024-12-08T21:00:00Z,2025,nhl,Vancouver Canucks,Tampa Bay Lightning,2,4,0,401688036
+2024-12-08T22:00:00Z,2025,nhl,Ottawa Senators,New York Islanders,2,4,0,401688037
+2024-12-08T23:00:00Z,2025,nhl,Winnipeg Jets,Columbus Blue Jackets,1,4,0,401688038
+2024-12-09T00:00:00Z,2025,nhl,New Jersey Devils,Colorado Avalanche,0,4,0,401688039
+2024-12-09T00:30:00Z,2025,nhl,Philadelphia Flyers,Utah Hockey Club,2,4,0,401688040
+2024-12-09T01:00:00Z,2025,nhl,Dallas Stars,Calgary Flames,6,2,0,401688041
+2024-12-10T00:00:00Z,2025,nhl,Buffalo Sabres,Detroit Red Wings,5,6,0,401688042
+2024-12-10T00:00:00Z,2025,nhl,New York Rangers,Chicago Blackhawks,1,2,0,401688043
+2024-12-10T00:30:00Z,2025,nhl,Montreal Canadiens,Anaheim Ducks,3,2,0,401688044
+2024-12-11T00:00:00Z,2025,nhl,New Jersey Devils,Toronto Maple Leafs,1,2,0,401688045
+2024-12-11T00:00:00Z,2025,nhl,Pittsburgh Penguins,Colorado Avalanche,2,6,0,401688046
+2024-12-11T00:00:00Z,2025,nhl,Carolina Hurricanes,San Jose Sharks,3,2,0,401688047
+2024-12-11T00:00:00Z,2025,nhl,Columbus Blue Jackets,Philadelphia Flyers,3,5,0,401688048
+2024-12-11T00:30:00Z,2025,nhl,New York Islanders,Los Angeles Kings,1,3,0,401688049
+2024-12-11T01:00:00Z,2025,nhl,Nashville Predators,Calgary Flames,3,4,0,401688050
+2024-12-11T01:00:00Z,2025,nhl,Winnipeg Jets,Boston Bruins,8,1,0,401688051
+2024-12-11T02:00:00Z,2025,nhl,Edmonton Oilers,Tampa Bay Lightning,2,1,0,401688052
+2024-12-11T02:30:00Z,2025,nhl,Utah Hockey Club,Minnesota Wild,4,5,0,401688053
+2024-12-11T03:00:00Z,2025,nhl,Vancouver Canucks,St. Louis Blues,3,4,0,401688054
+2024-12-11T03:00:00Z,2025,nhl,Seattle Kraken,Florida Panthers,1,2,0,401688055
+2024-12-12T00:00:00Z,2025,nhl,Buffalo Sabres,New York Rangers,2,3,0,401688056
+2024-12-12T00:30:00Z,2025,nhl,Ottawa Senators,Anaheim Ducks,5,1,0,401688057
+2024-12-13T00:00:00Z,2025,nhl,Toronto Maple Leafs,Anaheim Ducks,3,2,0,401688058
+2024-12-13T00:00:00Z,2025,nhl,Montreal Canadiens,Pittsburgh Penguins,2,9,0,401688059
+2024-12-13T00:00:00Z,2025,nhl,New Jersey Devils,Los Angeles Kings,3,1,0,401688060
+2024-12-13T00:00:00Z,2025,nhl,Philadelphia Flyers,Detroit Red Wings,4,1,0,401688061
+2024-12-13T00:00:00Z,2025,nhl,Columbus Blue Jackets,Washington Capitals,1,2,0,401688062
+2024-12-13T00:30:00Z,2025,nhl,New York Islanders,Chicago Blackhawks,5,4,0,401688063
+2024-12-13T01:00:00Z,2025,nhl,St. Louis Blues,San Jose Sharks,3,4,0,401688064
+2024-12-13T01:00:00Z,2025,nhl,Dallas Stars,Nashville Predators,1,4,0,401688065
+2024-12-13T01:00:00Z,2025,nhl,Winnipeg Jets,Vegas Golden Knights,2,3,0,401688067
+2024-12-13T01:30:00Z,2025,nhl,Minnesota Wild,Edmonton Oilers,1,7,0,401688066
+2024-12-13T02:00:00Z,2025,nhl,Colorado Avalanche,Utah Hockey Club,1,4,0,401688068
+2024-12-13T02:00:00Z,2025,nhl,Calgary Flames,Tampa Bay Lightning,3,8,0,401688069
+2024-12-13T03:00:00Z,2025,nhl,Vancouver Canucks,Florida Panthers,4,0,0,401688070
+2024-12-13T03:00:00Z,2025,nhl,Seattle Kraken,Boston Bruins,5,1,0,401688071
+2024-12-14T00:00:00Z,2025,nhl,Carolina Hurricanes,Ottawa Senators,0,3,0,401688072
+2024-12-14T18:00:00Z,2025,nhl,New Jersey Devils,Chicago Blackhawks,4,1,0,401688073
+2024-12-14T18:00:00Z,2025,nhl,New York Rangers,Los Angeles Kings,1,5,0,401688074
+2024-12-14T19:00:00Z,2025,nhl,Minnesota Wild,Philadelphia Flyers,4,1,0,401688075
+2024-12-14T21:00:00Z,2025,nhl,Edmonton Oilers,Vegas Golden Knights,6,3,0,401688076
+2024-12-15T00:00:00Z,2025,nhl,Ottawa Senators,Pittsburgh Penguins,3,2,0,401688077
+2024-12-15T00:00:00Z,2025,nhl,Detroit Red Wings,Toronto Maple Leafs,4,2,0,401688078
+2024-12-15T00:00:00Z,2025,nhl,Washington Capitals,Buffalo Sabres,4,2,0,401688079
+2024-12-15T00:00:00Z,2025,nhl,Columbus Blue Jackets,Anaheim Ducks,3,4,0,401688080
+2024-12-15T00:00:00Z,2025,nhl,Winnipeg Jets,Montreal Canadiens,4,2,0,401688081
+2024-12-15T01:00:00Z,2025,nhl,Dallas Stars,St. Louis Blues,2,1,0,401688082
+2024-12-15T02:00:00Z,2025,nhl,Colorado Avalanche,Nashville Predators,5,2,0,401688083
+2024-12-15T03:00:00Z,2025,nhl,Calgary Flames,Florida Panthers,3,0,0,401688084
+2024-12-15T03:00:00Z,2025,nhl,Vancouver Canucks,Boston Bruins,1,5,0,401688085
+2024-12-15T03:00:00Z,2025,nhl,San Jose Sharks,Utah Hockey Club,3,4,0,401688086
+2024-12-15T03:00:00Z,2025,nhl,Seattle Kraken,Tampa Bay Lightning,1,5,0,401688087
+2024-12-15T20:00:00Z,2025,nhl,Chicago Blackhawks,New York Islanders,5,3,0,401688088
+2024-12-15T22:00:00Z,2025,nhl,Toronto Maple Leafs,Buffalo Sabres,5,3,0,401688089
+2024-12-15T22:00:00Z,2025,nhl,Carolina Hurricanes,Columbus Blue Jackets,4,1,0,401688090
+2024-12-15T23:00:00Z,2025,nhl,St. Louis Blues,New York Rangers,3,2,0,401688091
+2024-12-15T23:00:00Z,2025,nhl,Minnesota Wild,Vegas Golden Knights,2,3,0,401688092
+2024-12-17T01:00:00Z,2025,nhl,Dallas Stars,Washington Capitals,3,1,0,401688093
+2024-12-17T01:30:00Z,2025,nhl,Edmonton Oilers,Florida Panthers,5,6,0,401688094
+2024-12-17T03:30:00Z,2025,nhl,Vancouver Canucks,Colorado Avalanche,3,1,0,401688095
+2024-12-18T00:00:00Z,2025,nhl,Montreal Canadiens,Buffalo Sabres,6,1,0,401688096
+2024-12-18T00:00:00Z,2025,nhl,Tampa Bay Lightning,Columbus Blue Jackets,5,3,0,401688097
+2024-12-18T00:00:00Z,2025,nhl,Pittsburgh Penguins,Los Angeles Kings,3,2,0,401688098
+2024-12-18T00:30:00Z,2025,nhl,Carolina Hurricanes,New York Islanders,4,0,0,401688099
+2024-12-18T01:00:00Z,2025,nhl,St. Louis Blues,New Jersey Devils,1,4,0,401688100
+2024-12-18T01:00:00Z,2025,nhl,Nashville Predators,New York Rangers,2,0,0,401688101
+2024-12-18T01:30:00Z,2025,nhl,Chicago Blackhawks,Washington Capitals,3,2,0,401688102
+2024-12-18T02:00:00Z,2025,nhl,Calgary Flames,Boston Bruins,3,4,0,401688103
+2024-12-18T03:00:00Z,2025,nhl,Seattle Kraken,Ottawa Senators,0,3,0,401688104
+2024-12-18T03:30:00Z,2025,nhl,San Jose Sharks,Winnipeg Jets,3,4,0,401688105
+2024-12-19T00:00:00Z,2025,nhl,Detroit Red Wings,Philadelphia Flyers,6,4,0,401688106
+2024-12-19T00:30:00Z,2025,nhl,Dallas Stars,Toronto Maple Leafs,3,5,0,401688107
+2024-12-19T02:30:00Z,2025,nhl,Minnesota Wild,Florida Panthers,1,6,0,401688108
+2024-12-19T03:00:00Z,2025,nhl,Utah Hockey Club,Vancouver Canucks,3,2,0,401688109
+2024-12-19T03:00:00Z,2025,nhl,Anaheim Ducks,Winnipeg Jets,3,2,0,401688110
+2024-12-20T00:00:00Z,2025,nhl,Tampa Bay Lightning,St. Louis Blues,3,1,0,401688111
+2024-12-20T00:00:00Z,2025,nhl,Columbus Blue Jackets,New Jersey Devils,4,2,0,401688113
+2024-12-20T00:30:00Z,2025,nhl,Philadelphia Flyers,Los Angeles Kings,3,7,0,401688112
+2024-12-20T01:00:00Z,2025,nhl,Nashville Predators,Pittsburgh Penguins,4,5,0,401688114
+2024-12-20T01:30:00Z,2025,nhl,Chicago Blackhawks,Seattle Kraken,3,1,0,401688115
+2024-12-20T02:00:00Z,2025,nhl,Calgary Flames,Ottawa Senators,2,3,0,401688116
+2024-12-20T02:00:00Z,2025,nhl,Edmonton Oilers,Boston Bruins,3,2,0,401688117
+2024-12-20T03:00:00Z,2025,nhl,Vegas Golden Knights,Vancouver Canucks,3,1,0,401688118
+2024-12-20T03:30:00Z,2025,nhl,San Jose Sharks,Colorado Avalanche,2,4,0,401688119
+2024-12-21T00:00:00Z,2025,nhl,Buffalo Sabres,Toronto Maple Leafs,3,6,0,401688120
+2024-12-21T00:00:00Z,2025,nhl,Detroit Red Wings,Montreal Canadiens,3,4,0,401688121
+2024-12-21T00:00:00Z,2025,nhl,Florida Panthers,St. Louis Blues,2,1,0,401688122
+2024-12-21T00:00:00Z,2025,nhl,Washington Capitals,Carolina Hurricanes,3,1,0,401688123
+2024-12-21T01:00:00Z,2025,nhl,Dallas Stars,New York Rangers,1,3,0,401688124
+2024-12-21T01:00:00Z,2025,nhl,Minnesota Wild,Utah Hockey Club,1,2,0,401688125
+2024-12-21T03:00:00Z,2025,nhl,Anaheim Ducks,Colorado Avalanche,2,4,0,401688126
+2024-12-21T18:30:00Z,2025,nhl,Nashville Predators,Los Angeles Kings,3,2,0,401688127
+2024-12-21T21:00:00Z,2025,nhl,Calgary Flames,Chicago Blackhawks,6,4,0,401688128
+2024-12-21T21:00:00Z,2025,nhl,Edmonton Oilers,San Jose Sharks,3,2,0,401688129
+2024-12-22T00:00:00Z,2025,nhl,Boston Bruins,Buffalo Sabres,3,1,0,401688130
+2024-12-22T00:00:00Z,2025,nhl,Toronto Maple Leafs,New York Islanders,3,6,0,401688131
+2024-12-22T00:00:00Z,2025,nhl,Montreal Canadiens,Detroit Red Wings,5,1,0,401688132
+2024-12-22T00:00:00Z,2025,nhl,New Jersey Devils,Pittsburgh Penguins,3,0,0,401688133
+2024-12-22T00:00:00Z,2025,nhl,Philadelphia Flyers,Columbus Blue Jackets,5,4,0,401688134
+2024-12-22T00:00:00Z,2025,nhl,Winnipeg Jets,Minnesota Wild,5,0,0,401688135
+2024-12-22T03:00:00Z,2025,nhl,Vancouver Canucks,Ottawa Senators,4,5,0,401688136
+2024-12-22T03:00:00Z,2025,nhl,Vegas Golden Knights,Seattle Kraken,6,2,0,401688137
+2024-12-22T17:30:00Z,2025,nhl,New York Rangers,Carolina Hurricanes,1,3,0,401688138
+2024-12-22T22:00:00Z,2025,nhl,Tampa Bay Lightning,Florida Panthers,2,4,0,401688139
+2024-12-22T22:00:00Z,2025,nhl,Washington Capitals,Los Angeles Kings,3,1,0,401688140
+2024-12-22T22:00:00Z,2025,nhl,Utah Hockey Club,Anaheim Ducks,4,5,0,401688141
+2024-12-23T01:00:00Z,2025,nhl,Colorado Avalanche,Seattle Kraken,5,2,0,401688142
+2024-12-23T01:00:00Z,2025,nhl,Edmonton Oilers,Ottawa Senators,3,1,0,401688143
+2024-12-23T18:00:00Z,2025,nhl,New Jersey Devils,New York Rangers,5,0,0,401688144
+2024-12-23T19:00:00Z,2025,nhl,Toronto Maple Leafs,Winnipeg Jets,2,5,0,401688145
+2024-12-24T00:00:00Z,2025,nhl,Boston Bruins,Washington Capitals,4,1,0,401688146
+2024-12-24T00:00:00Z,2025,nhl,Detroit Red Wings,St. Louis Blues,0,4,0,401688147
+2024-12-24T00:00:00Z,2025,nhl,Florida Panthers,Tampa Bay Lightning,0,4,0,401688148
+2024-12-24T00:00:00Z,2025,nhl,Pittsburgh Penguins,Philadelphia Flyers,7,3,0,401688149
+2024-12-24T00:00:00Z,2025,nhl,Columbus Blue Jackets,Montreal Canadiens,5,4,0,401688150
+2024-12-24T00:30:00Z,2025,nhl,New York Islanders,Buffalo Sabres,1,7,0,401688151
+2024-12-24T01:00:00Z,2025,nhl,Nashville Predators,Carolina Hurricanes,5,2,0,401688152
+2024-12-24T01:00:00Z,2025,nhl,Minnesota Wild,Chicago Blackhawks,4,3,0,401688153
+2024-12-24T02:00:00Z,2025,nhl,Vancouver Canucks,San Jose Sharks,4,3,0,401688154
+2024-12-24T02:00:00Z,2025,nhl,Utah Hockey Club,Dallas Stars,2,3,0,401688155
+2024-12-24T03:00:00Z,2025,nhl,Vegas Golden Knights,Anaheim Ducks,3,1,0,401688156
+2024-12-28T00:00:00Z,2025,nhl,Buffalo Sabres,Chicago Blackhawks,6,2,0,401688157
+2024-12-28T00:00:00Z,2025,nhl,Detroit Red Wings,Toronto Maple Leafs,2,5,0,401688158
+2024-12-28T00:00:00Z,2025,nhl,New Jersey Devils,Carolina Hurricanes,4,2,0,401688159
+2024-12-28T00:00:00Z,2025,nhl,Columbus Blue Jackets,Boston Bruins,6,2,0,401688160
+2024-12-28T01:00:00Z,2025,nhl,St. Louis Blues,Nashville Predators,7,4,0,401688161
+2024-12-28T01:00:00Z,2025,nhl,Dallas Stars,Minnesota Wild,2,3,0,401688162
+2024-12-28T02:30:00Z,2025,nhl,Utah Hockey Club,Colorado Avalanche,1,4,0,401688163
+2024-12-28T03:30:00Z,2025,nhl,San Jose Sharks,Vegas Golden Knights,3,6,0,401688164
+2024-12-28T18:00:00Z,2025,nhl,Florida Panthers,Montreal Canadiens,0,4,0,401688165
+2024-12-28T21:00:00Z,2025,nhl,Vancouver Canucks,Seattle Kraken,4,5,0,401688166
+2024-12-28T21:00:00Z,2025,nhl,Anaheim Ducks,Philadelphia Flyers,1,3,0,401688167
+2024-12-28T21:00:00Z,2025,nhl,Los Angeles Kings,Edmonton Oilers,4,3,0,401688168
+2024-12-29T00:00:00Z,2025,nhl,Boston Bruins,Columbus Blue Jackets,4,0,0,401688169
+2024-12-29T00:00:00Z,2025,nhl,Toronto Maple Leafs,Washington Capitals,2,5,0,401688170
+2024-12-29T00:00:00Z,2025,nhl,Tampa Bay Lightning,New York Rangers,6,2,0,401688171
+2024-12-29T00:00:00Z,2025,nhl,Carolina Hurricanes,New Jersey Devils,5,2,0,401688172
+2024-12-29T00:00:00Z,2025,nhl,Winnipeg Jets,Ottawa Senators,4,2,0,401688173
+2024-12-29T00:30:00Z,2025,nhl,New York Islanders,Pittsburgh Penguins,6,3,0,401688174
+2024-12-29T03:00:00Z,2025,nhl,San Jose Sharks,Calgary Flames,1,3,0,401688175
+2024-12-29T20:00:00Z,2025,nhl,St. Louis Blues,Buffalo Sabres,2,4,0,401688181
+2024-12-29T21:00:00Z,2025,nhl,Anaheim Ducks,Edmonton Oilers,5,3,0,401688177
+2024-12-29T22:00:00Z,2025,nhl,Detroit Red Wings,Washington Capitals,4,2,0,401688178
+2024-12-29T22:00:00Z,2025,nhl,Tampa Bay Lightning,Montreal Canadiens,2,5,0,401688179
+2024-12-29T22:30:00Z,2025,nhl,Pittsburgh Penguins,New York Islanders,3,2,0,401688180
+2024-12-30T01:00:00Z,2025,nhl,Minnesota Wild,Ottawa Senators,1,3,0,401688182
+2024-12-30T01:00:00Z,2025,nhl,Vegas Golden Knights,Calgary Flames,3,0,0,401688183
+2024-12-30T01:30:00Z,2025,nhl,Chicago Blackhawks,Dallas Stars,1,5,0,401688176
+2024-12-30T02:00:00Z,2025,nhl,Los Angeles Kings,Philadelphia Flyers,5,4,0,401688184
+2024-12-31T00:00:00Z,2025,nhl,Florida Panthers,New York Rangers,5,3,0,401688185
+2024-12-31T00:30:00Z,2025,nhl,Winnipeg Jets,Nashville Predators,3,0,0,401688186
+2024-12-31T01:00:00Z,2025,nhl,Seattle Kraken,Utah Hockey Club,5,2,0,401688187
+2024-12-31T17:30:00Z,2025,nhl,Washington Capitals,Boston Bruins,3,1,0,401688188
+2024-12-31T18:00:00Z,2025,nhl,Toronto Maple Leafs,New York Islanders,3,1,0,401688189
+2024-12-31T20:00:00Z,2025,nhl,Vegas Golden Knights,Montreal Canadiens,2,3,0,401688190
+2024-12-31T22:00:00Z,2025,nhl,Chicago Blackhawks,St. Louis Blues,2,6,0,401688191

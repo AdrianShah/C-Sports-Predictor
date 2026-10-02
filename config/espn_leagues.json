@@ -1,0 +1,830 @@
+{
+  "606": {
+    "name": "FIFA World Cup",
+    "slug": "fifa.world"
+  },
+  "620": {
+    "name": "Bolivian Liga Profesional",
+    "slug": "bol.1"
+  },
+  "630": {
+    "name": "Brazilian Serie A",
+    "slug": "bra.1"
+  },
+  "640": {
+    "name": "Chilean Primera División",
+    "slug": "chi.1"
+  },
+  "650": {
+    "name": "Colombian Primera A",
+    "slug": "col.1"
+  },
+  "660": {
+    "name": "LigaPro Ecuador",
+    "slug": "ecu.1"
+  },
+  "670": {
+    "name": "Peruvian Liga 1",
+    "slug": "per.1"
+  },
+  "680": {
+    "name": "Liga AUF Uruguaya",
+    "slug": "uru.1"
+  },
+  "700": {
+    "name": "English Premier League",
+    "slug": "eng.1"
+  },
+  "710": {
+    "name": "French Ligue 1",
+    "slug": "fra.1"
+  },
+  "715": {
+    "name": "Portuguese Primeira Liga",
+    "slug": "por.1"
+  },
+  "720": {
+    "name": "German Bundesliga",
+    "slug": "ger.1"
+  },
+  "725": {
+    "name": "Dutch Eredivisie",
+    "slug": "ned.1"
+  },
+  "730": {
+    "name": "Italian Serie A",
+    "slug": "ita.1"
+  },
+  "735": {
+    "name": "Scottish Premiership",
+    "slug": "sco.1"
+  },
+  "740": {
+    "name": "Spanish LALIGA",
+    "slug": "esp.1"
+  },
+  "745": {
+    "name": "Argentine Liga Profesional de Fútbol",
+    "slug": "arg.1"
+  },
+  "750": {
+    "name": "Japanese J.League",
+    "slug": "jpn.1"
+  },
+  "760": {
+    "name": "Mexican Liga BBVA MX",
+    "slug": "mex.1"
+  },
+  "770": {
+    "name": "MLS",
+    "slug": "usa.1"
+  },
+  "775": {
+    "name": "UEFA Champions League",
+    "slug": "uefa.champions"
+  },
+  "776": {
+    "name": "UEFA Europa League",
+    "slug": "uefa.europa"
+  },
+  "780": {
+    "name": "Copa América",
+    "slug": "conmebol.america"
+  },
+  "781": {
+    "name": "UEFA European Championship",
+    "slug": "uefa.euro"
+  },
+  "782": {
+    "name": "Intercontinental Cup (India)",
+    "slug": "fifa.intercontinental.cup"
+  },
+  "783": {
+    "name": "CONMEBOL Libertadores",
+    "slug": "conmebol.libertadores"
+  },
+  "786": {
+    "name": "FIFA World Cup Qualifying - UEFA",
+    "slug": "fifa.worldq.uefa"
+  },
+  "787": {
+    "name": "FIFA World Cup Qualifying - CONMEBOL",
+    "slug": "fifa.worldq.conmebol"
+  },
+  "788": {
+    "name": "FIFA World Cup Qualifying - Concacaf",
+    "slug": "fifa.worldq.concacaf"
+  },
+  "789": {
+    "name": "FIFA World Cup Qualifying - AFC",
+    "slug": "fifa.worldq.afc"
+  },
+  "790": {
+    "name": "FIFA World Cup Qualifying - CAF",
+    "slug": "fifa.worldq.caf"
+  },
+  "792": {
+    "name": "FIFA World Cup Qualifying - OFC",
+    "slug": "fifa.worldq.ofc"
+  },
+  "795": {
+    "name": "FIFA Women's World Cup",
+    "slug": "fifa.wwc"
+  },
+  "2265": {
+    "name": "Brazilian Campeonato Carioca",
+    "slug": "bra.camp.carioca"
+  },
+  "2272": {
+    "name": "Brazilian Campeonato Gaucho",
+    "slug": "bra.camp.gaucho"
+  },
+  "2391": {
+    "name": "CAF Champions League",
+    "slug": "caf.champions"
+  },
+  "2395": {
+    "name": "UEFA Nations League",
+    "slug": "uefa.nations"
+  },
+  "2466": {
+    "name": "AFC Champions League Two",
+    "slug": "afc.cup"
+  },
+  "3901": {
+    "name": "Belgian Pro League",
+    "slug": "bel.1"
+  },
+  "3902": {
+    "name": "AFC Champions League Elite",
+    "slug": "afc.champions"
+  },
+  "3903": {
+    "name": "Argentine Nacional B",
+    "slug": "arg.2"
+  },
+  "3904": {
+    "name": "Argentine Primera B",
+    "slug": "arg.3"
+  },
+  "3906": {
+    "name": "Australian A-League Men",
+    "slug": "aus.1"
+  },
+  "3907": {
+    "name": "Austrian Bundesliga",
+    "slug": "aut.1"
+  },
+  "3908": {
+    "name": "Africa Cup of Nations",
+    "slug": "caf.nations"
+  },
+  "3913": {
+    "name": "Danish Superliga",
+    "slug": "den.1"
+  },
+  "3914": {
+    "name": "English League Championship",
+    "slug": "eng.2"
+  },
+  "3915": {
+    "name": "English League One",
+    "slug": "eng.3"
+  },
+  "3916": {
+    "name": "English League Two",
+    "slug": "eng.4"
+  },
+  "3917": {
+    "name": "English National League",
+    "slug": "eng.5"
+  },
+  "3918": {
+    "name": "English FA Cup",
+    "slug": "eng.fa"
+  },
+  "3920": {
+    "name": "English Carabao Cup",
+    "slug": "eng.league_cup"
+  },
+  "3921": {
+    "name": "Spanish LALIGA 2",
+    "slug": "esp.2"
+  },
+  "3922": {
+    "name": "International Friendly",
+    "slug": "fifa.friendly"
+  },
+  "3923": {
+    "name": "Women's International Friendly",
+    "slug": "fifa.friendly.w"
+  },
+  "3924": {
+    "name": "Men's Olympic Soccer Tournament",
+    "slug": "fifa.olympics"
+  },
+  "3925": {
+    "name": "Women's Olympic Soccer Tournament",
+    "slug": "fifa.w.olympics"
+  },
+  "3926": {
+    "name": "French Ligue 2",
+    "slug": "fra.2"
+  },
+  "3927": {
+    "name": "German 2. Bundesliga",
+    "slug": "ger.2"
+  },
+  "3928": {
+    "name": "Guatemalan Liga Nacional",
+    "slug": "gua.1"
+  },
+  "3929": {
+    "name": "Honduran Liga Nacional",
+    "slug": "hon.1"
+  },
+  "3931": {
+    "name": "Italian Serie B",
+    "slug": "ita.2"
+  },
+  "3932": {
+    "name": "Mexican Liga de Expansión MX",
+    "slug": "mex.2"
+  },
+  "3933": {
+    "name": "Dutch Keuken Kampioen Divisie",
+    "slug": "ned.2"
+  },
+  "3934": {
+    "name": "Paraguayan Primera División",
+    "slug": "par.1"
+  },
+  "3937": {
+    "name": "South African Premiership",
+    "slug": "rsa.1"
+  },
+  "3939": {
+    "name": "Russian Premier League",
+    "slug": "rus.1"
+  },
+  "3940": {
+    "name": "Scottish Championship",
+    "slug": "sco.2"
+  },
+  "3943": {
+    "name": "Salvadoran Primera Division",
+    "slug": "slv.1"
+  },
+  "3945": {
+    "name": "Swedish Allsvenskan",
+    "slug": "swe.1"
+  },
+  "3946": {
+    "name": "Turkish Super Lig",
+    "slug": "tur.1"
+  },
+  "3947": {
+    "name": "UEFA European Championship Qualifying",
+    "slug": "uefa.euroq"
+  },
+  "3949": {
+    "name": "Venezuelan Primera División",
+    "slug": "ven.1"
+  },
+  "3951": {
+    "name": "Spanish Copa del Rey",
+    "slug": "esp.copa_del_rey"
+  },
+  "3952": {
+    "name": "Coupe de France",
+    "slug": "fra.coupe_de_france"
+  },
+  "3954": {
+    "name": "German Cup",
+    "slug": "ger.dfb_pokal"
+  },
+  "3955": {
+    "name": "Greek Super League",
+    "slug": "gre.1"
+  },
+  "3956": {
+    "name": "Coppa Italia",
+    "slug": "ita.coppa_italia"
+  },
+  "3957": {
+    "name": "Dutch KNVB Beker",
+    "slug": "ned.cup"
+  },
+  "3959": {
+    "name": "Scottish Cup",
+    "slug": "sco.tennents"
+  },
+  "3960": {
+    "name": "Norwegian Eliteserien",
+    "slug": "nor.1"
+  },
+  "4002": {
+    "name": "USL Championship",
+    "slug": "usa.usl.1"
+  },
+  "4004": {
+    "name": "Concacaf Gold Cup",
+    "slug": "concacaf.gold"
+  },
+  "4005": {
+    "name": "Costa Rican Primera Division",
+    "slug": "crc.1"
+  },
+  "4007": {
+    "name": "Brazilian Serie B",
+    "slug": "bra.2"
+  },
+  "5329": {
+    "name": "English FA Community Shield",
+    "slug": "eng.charity"
+  },
+  "5330": {
+    "name": "Scottish League Cup",
+    "slug": "sco.cis"
+  },
+  "5331": {
+    "name": "Scottish League Challenge Cup",
+    "slug": "sco.challenge"
+  },
+  "5337": {
+    "name": "U.S. Open Cup",
+    "slug": "usa.open"
+  },
+  "5454": {
+    "name": "CONMEBOL Sudamericana",
+    "slug": "conmebol.sudamericana"
+  },
+  "5462": {
+    "name": "UEFA Super Cup",
+    "slug": "uefa.super_cup"
+  },
+  "5487": {
+    "name": "NCAA Men's Soccer",
+    "slug": "usa.ncaa.m.1"
+  },
+  "5499": {
+    "name": "NCAA Women's Soccer",
+    "slug": "usa.ncaa.w.1"
+  },
+  "5501": {
+    "name": "FIFA Club World Cup",
+    "slug": "fifa.cwc"
+  },
+  "5662": {
+    "name": "AFC Asian Cup Qualifiers",
+    "slug": "afc.cupq"
+  },
+  "5672": {
+    "name": "ASEAN Championship",
+    "slug": "aff.championship"
+  },
+  "5693": {
+    "name": "UEFA European Under-21 Championship",
+    "slug": "uefa.euro_u21"
+  },
+  "5694": {
+    "name": "FIFA Under-20 World Cup",
+    "slug": "fifa.world.u20"
+  },
+  "5697": {
+    "name": "FIFA Under-17 World Cup",
+    "slug": "fifa.world.u17"
+  },
+  "5698": {
+    "name": "UEFA European Under-19 Championship",
+    "slug": "uefa.euro.u19"
+  },
+  "5699": {
+    "name": "Concacaf Champions Cup",
+    "slug": "concacaf.champions"
+  },
+  "8097": {
+    "name": "English Women's Super League",
+    "slug": "eng.w.1"
+  },
+  "8101": {
+    "name": "German Supercup",
+    "slug": "ger.super_cup"
+  },
+  "8102": {
+    "name": "Spanish Supercopa",
+    "slug": "esp.super_cup"
+  },
+  "8103": {
+    "name": "Italian Supercoppa",
+    "slug": "ita.super_cup"
+  },
+  "8107": {
+    "name": "Copa Argentina",
+    "slug": "arg.copa"
+  },
+  "8207": {
+    "name": "Brazilian Campeonato Paulista",
+    "slug": "bra.camp.paulista"
+  },
+  "8301": {
+    "name": "NWSL",
+    "slug": "usa.nwsl"
+  },
+  "8304": {
+    "name": "German Bundesliga Promotion/Relegation Playoff",
+    "slug": "ger.playoff.relegation"
+  },
+  "8305": {
+    "name": "Dutch Eredivisie Promotion/Relegation Playoffs",
+    "slug": "ned.playoff.relegation"
+  },
+  "8306": {
+    "name": "Copa do Brasil",
+    "slug": "bra.copa_do_brazil"
+  },
+  "8312": {
+    "name": "Copa Chile",
+    "slug": "chi.copa_chi"
+  },
+  "8313": {
+    "name": "Copa Colombia",
+    "slug": "col.copa"
+  },
+  "8315": {
+    "name": "Africa Cup of Nations Qualifying",
+    "slug": "caf.nations_qual"
+  },
+  "8316": {
+    "name": "Indian Super League",
+    "slug": "ind.1"
+  },
+  "8333": {
+    "name": "CONMEBOL Recopa",
+    "slug": "conmebol.recopa"
+  },
+  "8346": {
+    "name": "Argentine Supercopa",
+    "slug": "arg.supercopa"
+  },
+  "8357": {
+    "name": "French Trophee des Champions",
+    "slug": "fra.super_cup"
+  },
+  "8364": {
+    "name": "Chilean Supercopa",
+    "slug": "chi.super_cup"
+  },
+  "8365": {
+    "name": "African Nations Championship",
+    "slug": "caf.championship"
+  },
+  "8376": {
+    "name": "Chinese Super League",
+    "slug": "chn.1"
+  },
+  "10749": {
+    "name": "Dutch Johan Cruyff Shield",
+    "slug": "ned.supercup"
+  },
+  "10872": {
+    "name": "Brazilian Campeonato Mineiro",
+    "slug": "bra.camp.mineiro"
+  },
+  "11108": {
+    "name": "Emirates Cup",
+    "slug": "friendly.emirates_cup"
+  },
+  "17893": {
+    "name": "Mexican Campeon de Campeones",
+    "slug": "mex.campeon"
+  },
+  "17915": {
+    "name": "UEFA Women's European Championship",
+    "slug": "uefa.weuro"
+  },
+  "17929": {
+    "name": "Trofeo Joan Gamper",
+    "slug": "esp.joan_gamper"
+  },
+  "17931": {
+    "name": "Japanese J.League World Challenge",
+    "slug": "jpn.world_challenge"
+  },
+  "18000": {
+    "name": "CAF Confederation Cup",
+    "slug": "caf.confed"
+  },
+  "18481": {
+    "name": "English EFL Trophy",
+    "slug": "eng.trophy"
+  },
+  "18771": {
+    "name": "Campeones Cup",
+    "slug": "campeones.cup"
+  },
+  "18914": {
+    "name": "SAFF Championship",
+    "slug": "afc.saff.championship"
+  },
+  "18969": {
+    "name": "Concacaf W Championship",
+    "slug": "concacaf.womens.championship"
+  },
+  "18992": {
+    "name": "Australian A-League Women",
+    "slug": "aus.w.1"
+  },
+  "19112": {
+    "name": "Colombian Superliga",
+    "slug": "col.superliga"
+  },
+  "19267": {
+    "name": "Concacaf Nations League",
+    "slug": "concacaf.nations.league"
+  },
+  "19425": {
+    "name": "Leagues Cup",
+    "slug": "concacaf.leagues.cup"
+  },
+  "19483": {
+    "name": "UEFA Women's Champions League",
+    "slug": "uefa.wchampions"
+  },
+  "19705": {
+    "name": "Argentine Trofeo de Campeones",
+    "slug": "arg.trofeo_de_la_campeones"
+  },
+  "19721": {
+    "name": "Brazilian Supercopa Rei",
+    "slug": "bra.supercopa_do_brazil"
+  },
+  "19727": {
+    "name": "CONMEBOL Pre-Olympic Tournament",
+    "slug": "fifa.conmebol.olympicsq"
+  },
+  "19728": {
+    "name": "SheBelieves Cup",
+    "slug": "fifa.shebelieves"
+  },
+  "19778": {
+    "name": "Concacaf Gold Cup Qualifying",
+    "slug": "concacaf.gold_qual"
+  },
+  "19834": {
+    "name": "Club Friendly",
+    "slug": "club.friendly"
+  },
+  "19868": {
+    "name": "NWSL Challenge Cup",
+    "slug": "usa.nwsl.cup"
+  },
+  "19871": {
+    "name": "German Bundesliga 2. Promotion/Relegation Playoffs",
+    "slug": "ger.2.promotion.relegation"
+  },
+  "19874": {
+    "name": "UEFA Champions League Qualifying",
+    "slug": "uefa.champions_qual"
+  },
+  "19887": {
+    "name": "UEFA Europa League Qualifying",
+    "slug": "uefa.europa_qual"
+  },
+  "19915": {
+    "name": "USL League One",
+    "slug": "usa.usl.l1"
+  },
+  "19945": {
+    "name": "Dutch Vrouwen Eredivisie",
+    "slug": "ned.w.1"
+  },
+  "19968": {
+    "name": "Swedish Allsvenskan Promotion/Relegation Playoffs",
+    "slug": "swe.1.promotion.relegation"
+  },
+  "19989": {
+    "name": "Norwegian Eliteserien Promotion/Relegation Playoffs",
+    "slug": "nor.1.promotion.relegation"
+  },
+  "20114": {
+    "name": "UEFA European Under-21 Championship Qualifying",
+    "slug": "uefa.euro_u21_qual"
+  },
+  "20115": {
+    "name": "Dutch KNVB Beker Vrouwen",
+    "slug": "ned.w.knvb_cup"
+  },
+  "20116": {
+    "name": "Belgian Pro League Promotion/Relegation Playoffs",
+    "slug": "bel.promotion.relegation"
+  },
+  "20132": {
+    "name": "Under-21 International Friendly",
+    "slug": "fifa.friendly_u21"
+  },
+  "20133": {
+    "name": "Scottish Premiership Promotion/Relegation Playoffs",
+    "slug": "sco.1.promotion.relegation"
+  },
+  "20134": {
+    "name": "Scottish Championship Promotion/Relegation Playoffs",
+    "slug": "sco.2.promotion.relegation"
+  },
+  "20159": {
+    "name": "French Ligue 1 Promotion/Relegation Playoffs",
+    "slug": "fra.1.promotion.relegation"
+  },
+  "20186": {
+    "name": "Portuguese Primeira Liga Promotion/Relegation Playoffs",
+    "slug": "por.1.promotion.relegation"
+  },
+  "20219": {
+    "name": "AFC Asian Cup",
+    "slug": "afc.asian.cup"
+  },
+  "20220": {
+    "name": "COSAFA Cup",
+    "slug": "caf.cosafa"
+  },
+  "20221": {
+    "name": "UEFA Conference League Qualifying",
+    "slug": "uefa.europa.conf_qual"
+  },
+  "20226": {
+    "name": "English Women's FA Cup",
+    "slug": "eng.w.fa"
+  },
+  "20296": {
+    "name": "UEFA Conference League",
+    "slug": "uefa.europa.conf"
+  },
+  "20381": {
+    "name": "Spanish Copa de la Reina",
+    "slug": "esp.copa_de_la_reina"
+  },
+  "20525": {
+    "name": "Bolivian Liga Profesional Promotion/Relegation Playoffs",
+    "slug": "bol.ply.rel"
+  },
+  "20526": {
+    "name": "Paraguayan Supercopa",
+    "slug": "par.1.supercopa"
+  },
+  "20566": {
+    "name": "Arnold Clark Cup",
+    "slug": "global.arnold.clark_cup"
+  },
+  "20571": {
+    "name": "Pinatar Cup",
+    "slug": "global.pinatar_cup"
+  },
+  "20649": {
+    "name": "FIFA Women's World Cup Qualifying - UEFA",
+    "slug": "fifa.wworldq.uefa"
+  },
+  "20703": {
+    "name": "Copa América Femenina",
+    "slug": "conmebol.america.femenina"
+  },
+  "20704": {
+    "name": "CONMEBOL-UEFA Cup of Champions",
+    "slug": "global.finalissima"
+  },
+  "20731": {
+    "name": "Russian Premier League Relegation/Promotion Playoffs",
+    "slug": "rus.1.promotion.relegation"
+  },
+  "20798": {
+    "name": "Dutch Tweede Divisie Promotion/Relegation Playoffs",
+    "slug": "ned.3.promotion.relegation"
+  },
+  "20865": {
+    "name": "FIFA Under-17 Women's World Cup",
+    "slug": "fifa.wworld.u17"
+  },
+  "20922": {
+    "name": "Taca de Portugal",
+    "slug": "por.taca.portugal"
+  },
+  "20955": {
+    "name": "French Première Ligue",
+    "slug": "fra.w.1"
+  },
+  "20956": {
+    "name": "Spanish Liga F",
+    "slug": "esp.w.1"
+  },
+  "21191": {
+    "name": "CONMEBOL-UEFA Women's Cup of Champions",
+    "slug": "global.w.finalissima"
+  },
+  "21231": {
+    "name": "Saudi Pro League",
+    "slug": "ksa.1"
+  },
+  "21597": {
+    "name": "CONMEBOL-UEFA Club Challenge",
+    "slug": "global.club_challenge"
+  },
+  "22057": {
+    "name": "Saudi King's Cup",
+    "slug": "ksa.kings.cup"
+  },
+  "22059": {
+    "name": "USL Cup",
+    "slug": "usa.usl.l1.cup"
+  },
+  "22060": {
+    "name": "Concacaf W Gold Cup",
+    "slug": "concacaf.w.gold"
+  },
+  "22781": {
+    "name": "CONMEBOL-UEFA U20 Intercontinental Cup",
+    "slug": "global.u20.intercontinental_cup"
+  },
+  "22902": {
+    "name": "FIFA Intercontinental Cup",
+    "slug": "fifa.intercontinental_cup"
+  },
+  "22946": {
+    "name": "Concacaf W Champions Cup",
+    "slug": "concacaf.w.champions_cup"
+  },
+  "22947": {
+    "name": "Concacaf Central American Cup",
+    "slug": "concacaf.central.american.cup"
+  },
+  "23088": {
+    "name": "UEFA Women's Nations League",
+    "slug": "uefa.w.nations"
+  },
+  "23107": {
+    "name": "Arabian Gulf Cup",
+    "slug": "global.gulf_cup"
+  },
+  "23284": {
+    "name": "Copa Bolivia",
+    "slug": "bol.copa"
+  },
+  "23286": {
+    "name": "Northern Super League",
+    "slug": "can.w.nsl"
+  },
+  "23348": {
+    "name": "Argentine Supercopa Internacional",
+    "slug": "arg.supercopa.internacional"
+  },
+  "23390": {
+    "name": "English WSL Players Cup",
+    "slug": "eng.w.league_cup"
+  },
+  "23449": {
+    "name": "FIFA World Cup Qualifying - Playoff Tournament",
+    "slug": "fifa.wcq.ply"
+  },
+  "23480": {
+    "name": "English FA Cup Qualifying",
+    "slug": "eng.fa_qual"
+  },
+  "23523": {
+    "name": "Women's Africa Cup of Nations",
+    "slug": "caf.w.nations"
+  },
+  "23537": {
+    "name": "AFC Women's Asian Cup",
+    "slug": "afc.w.asian.cup"
+  },
+  "23633": {
+    "name": "USL Super League",
+    "slug": "usa.w.usl.1"
+  },
+  "24079": {
+    "name": "UEFA Women's Europa Cup",
+    "slug": "uefa.w.europa"
+  },
+  "24081": {
+    "name": "FIFA Women's Champions Cup",
+    "slug": "fifa.w.champions_cup"
+  },
+  "24405": {
+    "name": "English Women's Super League Promotion/Relegation Playoff",
+    "slug": "eng.w.promotion.relegation"
+  },
+  "24452": {
+    "name": "AFC Champions League Elite Qualifying",
+    "slug": "afc.champions_qual"
+  },
+  "24455": {
+    "name": "AFC Champions League Two Qualifying",
+    "slug": "afc.cup_qual"
+  },
+  "24457": {
+    "name": "Scottish Cup Qualifying",
+    "slug": "sco.tennents_qual"
+  },
+  "24458": {
+    "name": "UEFA Women's Champions League Qualifying",
+    "slug": "uefa.wchampions_qual"
+  }
+}

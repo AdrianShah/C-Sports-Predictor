@@ -1,0 +1,835 @@
+date,season,league,home,away,home_score,away_score,neutral,espn_id
+2026-01-01T00:00:00Z,2026,nba,Chicago Bulls,New Orleans Pelicans,134,118,0,401810321
+2026-01-01T00:00:00Z,2026,nba,San Antonio Spurs,New York Knicks,134,132,0,401810322
+2026-01-01T00:30:00Z,2026,nba,Toronto Raptors,Denver Nuggets,103,106,0,401810323
+2026-01-01T01:00:00Z,2026,nba,Milwaukee Bucks,Washington Wizards,113,114,0,401810324
+2026-01-01T01:00:00Z,2026,nba,Oklahoma City Thunder,Portland Trail Blazers,124,95,0,401810325
+2026-01-01T23:00:00Z,2026,nba,Brooklyn Nets,Houston Rockets,96,120,0,401810326
+2026-01-02T00:00:00Z,2026,nba,Detroit Pistons,Miami Heat,112,118,0,401810327
+2026-01-02T01:30:00Z,2026,nba,Dallas Mavericks,Philadelphia 76ers,108,123,0,401810328
+2026-01-02T03:00:00Z,2026,nba,Sacramento Kings,Boston Celtics,106,120,0,401810329
+2026-01-02T03:30:00Z,2026,nba,LA Clippers,Utah Jazz,118,101,0,401810330
+2026-01-03T00:00:00Z,2026,nba,Indiana Pacers,San Antonio Spurs,113,123,0,401810331
+2026-01-03T00:00:00Z,2026,nba,Washington Wizards,Brooklyn Nets,119,99,0,401810332
+2026-01-03T00:30:00Z,2026,nba,Cleveland Cavaliers,Denver Nuggets,113,108,0,401810333
+2026-01-03T00:30:00Z,2026,nba,New York Knicks,Atlanta Hawks,99,111,0,401810334
+2026-01-03T01:00:00Z,2026,nba,Chicago Bulls,Orlando Magic,121,114,0,401810335
+2026-01-03T01:00:00Z,2026,nba,Milwaukee Bucks,Charlotte Hornets,122,121,0,401810336
+2026-01-03T01:00:00Z,2026,nba,New Orleans Pelicans,Portland Trail Blazers,109,122,0,401810337
+2026-01-03T02:00:00Z,2026,nba,Phoenix Suns,Sacramento Kings,129,102,0,401810338
+2026-01-03T03:00:00Z,2026,nba,Golden State Warriors,Oklahoma City Thunder,94,131,0,401810339
+2026-01-03T03:30:00Z,2026,nba,Los Angeles Lakers,Memphis Grizzlies,128,121,0,401810340
+2026-01-03T22:00:00Z,2026,nba,Miami Heat,Minnesota Timberwolves,115,125,0,401810341
+2026-01-04T00:30:00Z,2026,nba,New York Knicks,Philadelphia 76ers,119,130,0,401810342
+2026-01-04T00:30:00Z,2026,nba,Toronto Raptors,Atlanta Hawks,134,117,0,401810343
+2026-01-04T01:00:00Z,2026,nba,Chicago Bulls,Charlotte Hornets,99,112,0,401810344
+2026-01-04T01:00:00Z,2026,nba,San Antonio Spurs,Portland Trail Blazers,110,115,0,401810345
+2026-01-04T01:30:00Z,2026,nba,Dallas Mavericks,Houston Rockets,110,104,0,401810346
+2026-01-04T03:00:00Z,2026,nba,Golden State Warriors,Utah Jazz,123,114,0,401810347
+2026-01-04T03:30:00Z,2026,nba,LA Clippers,Boston Celtics,115,146,0,401810348
+2026-01-04T19:00:00Z,2026,nba,Cleveland Cavaliers,Detroit Pistons,110,114,0,401810349
+2026-01-04T20:00:00Z,2026,nba,Orlando Magic,Indiana Pacers,135,127,0,401810350
+2026-01-04T20:30:00Z,2026,nba,Brooklyn Nets,Denver Nuggets,127,115,0,401810351
+2026-01-04T23:00:00Z,2026,nba,Miami Heat,New Orleans Pelicans,125,106,0,401810352
+2026-01-04T23:00:00Z,2026,nba,Washington Wizards,Minnesota Timberwolves,115,141,0,401810353
+2026-01-05T01:00:00Z,2026,nba,Phoenix Suns,Oklahoma City Thunder,108,105,0,401810354
+2026-01-05T02:00:00Z,2026,nba,Sacramento Kings,Milwaukee Bucks,98,115,0,401810355
+2026-01-05T02:30:00Z,2026,nba,Los Angeles Lakers,Memphis Grizzlies,120,114,0,401810356
+2026-01-06T00:00:00Z,2026,nba,Detroit Pistons,New York Knicks,121,90,0,401810357
+2026-01-06T00:30:00Z,2026,nba,Boston Celtics,Chicago Bulls,115,101,0,401810358
+2026-01-06T00:30:00Z,2026,nba,Toronto Raptors,Atlanta Hawks,118,100,0,401810359
+2026-01-06T01:00:00Z,2026,nba,Houston Rockets,Phoenix Suns,100,97,0,401810360
+2026-01-06T01:00:00Z,2026,nba,Oklahoma City Thunder,Charlotte Hornets,97,124,0,401810361
+2026-01-06T01:30:00Z,2026,nba,Philadelphia 76ers,Denver Nuggets,124,125,0,401810362
+2026-01-06T03:00:00Z,2026,nba,LA Clippers,Golden State Warriors,103,102,0,401810363
+2026-01-06T03:00:00Z,2026,nba,Portland Trail Blazers,Utah Jazz,137,117,0,401810364
+2026-01-07T00:00:00Z,2026,nba,Indiana Pacers,Cleveland Cavaliers,116,120,0,401810365
+2026-01-07T00:00:00Z,2026,nba,Washington Wizards,Orlando Magic,120,112,0,401810366
+2026-01-07T01:00:00Z,2026,nba,Memphis Grizzlies,San Antonio Spurs,106,105,0,401810367
+2026-01-07T01:00:00Z,2026,nba,Minnesota Timberwolves,Miami Heat,122,94,0,401810368
+2026-01-07T01:00:00Z,2026,nba,New Orleans Pelicans,Los Angeles Lakers,103,111,0,401810369
+2026-01-07T04:00:00Z,2026,nba,Sacramento Kings,Dallas Mavericks,98,100,0,401810370
+2026-01-08T00:00:00Z,2026,nba,Charlotte Hornets,Toronto Raptors,96,97,0,401810371
+2026-01-08T00:00:00Z,2026,nba,Detroit Pistons,Chicago Bulls,108,93,0,401810372
+2026-01-08T00:00:00Z,2026,nba,Philadelphia 76ers,Washington Wizards,131,110,0,401810373
+2026-01-08T00:00:00Z,2026,nba,Boston Celtics,Denver Nuggets,110,114,0,401810375
+2026-01-08T00:30:00Z,2026,nba,Atlanta Hawks,New Orleans Pelicans,117,100,0,401810374
+2026-01-08T00:30:00Z,2026,nba,Brooklyn Nets,Orlando Magic,103,104,0,401810376
+2026-01-08T00:30:00Z,2026,nba,New York Knicks,LA Clippers,123,111,0,401810377
+2026-01-08T01:00:00Z,2026,nba,Memphis Grizzlies,Phoenix Suns,98,117,0,401810379
+2026-01-08T01:00:00Z,2026,nba,Oklahoma City Thunder,Utah Jazz,129,125,0,401810380
+2026-01-08T02:30:00Z,2026,nba,San Antonio Spurs,Los Angeles Lakers,107,91,0,401810378
+2026-01-08T03:00:00Z,2026,nba,Golden State Warriors,Milwaukee Bucks,120,113,0,401810381
+2026-01-08T03:00:00Z,2026,nba,Portland Trail Blazers,Houston Rockets,103,102,0,401810382
+2026-01-09T00:00:00Z,2026,nba,Charlotte Hornets,Indiana Pacers,112,114,0,401810383
+2026-01-09T01:00:00Z,2026,nba,Minnesota Timberwolves,Cleveland Cavaliers,131,122,0,401810385
+2026-01-09T02:00:00Z,2026,nba,Utah Jazz,Dallas Mavericks,116,114,0,401810386
+2026-01-10T00:00:00Z,2026,nba,Boston Celtics,Toronto Raptors,125,117,0,401810387
+2026-01-10T00:00:00Z,2026,nba,Orlando Magic,Philadelphia 76ers,91,103,0,401810388
+2026-01-10T00:00:00Z,2026,nba,Washington Wizards,New Orleans Pelicans,107,128,0,401810389
+2026-01-10T00:30:00Z,2026,nba,Brooklyn Nets,LA Clippers,105,121,0,401810390
+2026-01-10T01:00:00Z,2026,nba,Memphis Grizzlies,Oklahoma City Thunder,116,117,0,401810391
+2026-01-10T02:00:00Z,2026,nba,Denver Nuggets,Atlanta Hawks,87,110,0,401810392
+2026-01-10T02:00:00Z,2026,nba,Phoenix Suns,New York Knicks,112,107,0,401810393
+2026-01-10T03:00:00Z,2026,nba,Golden State Warriors,Sacramento Kings,137,103,0,401810394
+2026-01-10T03:00:00Z,2026,nba,Portland Trail Blazers,Houston Rockets,111,105,0,401810395
+2026-01-10T03:30:00Z,2026,nba,Los Angeles Lakers,Milwaukee Bucks,101,105,0,401810396
+2026-01-10T18:00:00Z,2026,nba,Cleveland Cavaliers,Minnesota Timberwolves,146,134,0,401810397
+2026-01-11T00:00:00Z,2026,nba,Indiana Pacers,Miami Heat,123,99,0,401810398
+2026-01-11T00:30:00Z,2026,nba,Detroit Pistons,LA Clippers,92,98,0,401810399
+2026-01-11T01:00:00Z,2026,nba,Boston Celtics,San Antonio Spurs,95,100,0,401810400
+2026-01-11T01:00:00Z,2026,nba,Chicago Bulls,Dallas Mavericks,125,107,0,401810401
+2026-01-11T02:30:00Z,2026,nba,Utah Jazz,Charlotte Hornets,95,150,0,401810402
+2026-01-11T20:00:00Z,2026,nba,Orlando Magic,New Orleans Pelicans,128,118,0,401810403
+2026-01-11T20:30:00Z,2026,nba,Memphis Grizzlies,Brooklyn Nets,103,98,0,401810404
+2026-01-11T23:00:00Z,2026,nba,Toronto Raptors,Philadelphia 76ers,116,115,0,401810405
+2026-01-11T23:00:00Z,2026,nba,Portland Trail Blazers,New York Knicks,114,123,0,401810406
+2026-01-12T00:00:00Z,2026,nba,Minnesota Timberwolves,San Antonio Spurs,104,103,0,401810407
+2026-01-12T00:00:00Z,2026,nba,Oklahoma City Thunder,Miami Heat,124,112,0,401810408
+2026-01-12T01:00:00Z,2026,nba,Denver Nuggets,Milwaukee Bucks,108,104,0,401810409
+2026-01-12T01:00:00Z,2026,nba,Phoenix Suns,Washington Wizards,112,93,0,401810410
+2026-01-12T01:30:00Z,2026,nba,Golden State Warriors,Atlanta Hawks,111,124,0,401810411
+2026-01-12T02:00:00Z,2026,nba,Sacramento Kings,Houston Rockets,111,98,0,401810412
+2026-01-13T00:00:00Z,2026,nba,Cleveland Cavaliers,Utah Jazz,112,123,0,401810413
+2026-01-13T00:30:00Z,2026,nba,Indiana Pacers,Boston Celtics,98,96,0,401810414
+2026-01-13T00:30:00Z,2026,nba,Toronto Raptors,Philadelphia 76ers,102,115,0,401810415
+2026-01-13T01:30:00Z,2026,nba,Dallas Mavericks,Brooklyn Nets,113,105,0,401810416
+2026-01-13T03:00:00Z,2026,nba,Sacramento Kings,Los Angeles Lakers,124,112,0,401810417
+2026-01-13T03:30:00Z,2026,nba,LA Clippers,Charlotte Hornets,117,109,0,401810418
+2026-01-14T00:30:00Z,2026,nba,Miami Heat,Phoenix Suns,127,121,0,401810419
+2026-01-14T01:00:00Z,2026,nba,Houston Rockets,Chicago Bulls,119,113,0,401810420
+2026-01-14T01:00:00Z,2026,nba,Milwaukee Bucks,Minnesota Timberwolves,106,139,0,401810421
+2026-01-14T01:00:00Z,2026,nba,New Orleans Pelicans,Denver Nuggets,116,122,0,401810422
+2026-01-14T01:00:00Z,2026,nba,Oklahoma City Thunder,San Antonio Spurs,119,98,0,401810423
+2026-01-14T03:30:00Z,2026,nba,Los Angeles Lakers,Atlanta Hawks,141,116,0,401810424
+2026-01-14T04:00:00Z,2026,nba,Golden State Warriors,Portland Trail Blazers,119,97,0,401810425
+2026-01-15T00:00:00Z,2026,nba,Indiana Pacers,Toronto Raptors,101,115,0,401810426
+2026-01-15T00:00:00Z,2026,nba,Philadelphia 76ers,Cleveland Cavaliers,107,133,0,401810427
+2026-01-15T01:00:00Z,2026,nba,Chicago Bulls,Utah Jazz,128,126,0,401810428
+2026-01-15T01:00:00Z,2026,nba,New Orleans Pelicans,Brooklyn Nets,116,113,0,401810429
+2026-01-15T02:30:00Z,2026,nba,Dallas Mavericks,Denver Nuggets,109,118,0,401810430
+2026-01-15T03:00:00Z,2026,nba,Sacramento Kings,New York Knicks,112,101,0,401810431
+2026-01-15T03:30:00Z,2026,nba,LA Clippers,Washington Wizards,119,105,0,401810432
+2026-01-15T19:00:00Z,2026,nba,Orlando Magic,Memphis Grizzlies,118,111,1,401810433
+2026-01-16T00:00:00Z,2026,nba,Detroit Pistons,Phoenix Suns,108,105,0,401810434
+2026-01-16T00:30:00Z,2026,nba,Miami Heat,Boston Celtics,114,119,0,401810435
+2026-01-16T00:30:00Z,2026,nba,Houston Rockets,Oklahoma City Thunder,91,111,0,401810436
+2026-01-16T01:00:00Z,2026,nba,San Antonio Spurs,Milwaukee Bucks,119,101,0,401810437
+2026-01-16T01:30:00Z,2026,nba,Dallas Mavericks,Utah Jazz,144,122,0,401810438
+2026-01-16T03:00:00Z,2026,nba,Golden State Warriors,New York Knicks,126,113,0,401810439
+2026-01-16T03:00:00Z,2026,nba,Portland Trail Blazers,Atlanta Hawks,117,101,0,401810440
+2026-01-16T03:30:00Z,2026,nba,Los Angeles Lakers,Charlotte Hornets,117,135,0,401810441
+2026-01-17T00:00:00Z,2026,nba,Indiana Pacers,New Orleans Pelicans,127,119,0,401810443
+2026-01-17T00:00:00Z,2026,nba,Philadelphia 76ers,Cleveland Cavaliers,115,117,0,401810444
+2026-01-17T00:30:00Z,2026,nba,Brooklyn Nets,Chicago Bulls,112,109,0,401810442
+2026-01-17T00:30:00Z,2026,nba,Toronto Raptors,LA Clippers,117,121,0,401810445
+2026-01-17T02:30:00Z,2026,nba,Houston Rockets,Minnesota Timberwolves,110,105,0,401810446
+2026-01-17T03:00:00Z,2026,nba,Sacramento Kings,Washington Wizards,128,115,0,401810447
+2026-01-17T22:00:00Z,2026,nba,Dallas Mavericks,Utah Jazz,138,120,0,401810448
+2026-01-18T00:30:00Z,2026,nba,Atlanta Hawks,Boston Celtics,106,132,0,401810449
+2026-01-18T00:30:00Z,2026,nba,Detroit Pistons,Indiana Pacers,121,78,0,401810450
+2026-01-18T00:30:00Z,2026,nba,New York Knicks,Phoenix Suns,99,106,0,401810451
+2026-01-18T01:00:00Z,2026,nba,Miami Heat,Oklahoma City Thunder,122,120,0,401810452
+2026-01-18T01:00:00Z,2026,nba,San Antonio Spurs,Minnesota Timberwolves,126,123,0,401810453
+2026-01-18T01:30:00Z,2026,nba,Golden State Warriors,Charlotte Hornets,136,116,0,401810454
+2026-01-18T02:00:00Z,2026,nba,Denver Nuggets,Washington Wizards,121,115,0,401810455
+2026-01-18T03:00:00Z,2026,nba,Portland Trail Blazers,Los Angeles Lakers,132,116,0,401810456
+2026-01-18T17:00:00Z,2026,nba,Memphis Grizzlies,Orlando Magic,126,109,1,401810457
+2026-01-19T00:00:00Z,2026,nba,Chicago Bulls,Brooklyn Nets,124,102,0,401810458
+2026-01-19T00:00:00Z,2026,nba,Houston Rockets,New Orleans Pelicans,119,110,0,401810459
+2026-01-19T01:00:00Z,2026,nba,Denver Nuggets,Charlotte Hornets,87,110,0,401810460
+2026-01-19T02:00:00Z,2026,nba,Sacramento Kings,Portland Trail Blazers,110,117,0,401810461
+2026-01-19T02:30:00Z,2026,nba,Los Angeles Lakers,Toronto Raptors,110,93,0,401810462
+2026-01-19T18:00:00Z,2026,nba,Atlanta Hawks,Milwaukee Bucks,110,112,0,401809247
+2026-01-19T19:30:00Z,2026,nba,Cleveland Cavaliers,Oklahoma City Thunder,104,136,0,401809248
+2026-01-19T20:00:00Z,2026,nba,Washington Wizards,LA Clippers,106,110,0,401810463
+2026-01-19T22:00:00Z,2026,nba,New York Knicks,Dallas Mavericks,97,114,0,401809249
+2026-01-19T22:00:00Z,2026,nba,San Antonio Spurs,Utah Jazz,123,110,0,401810466
+2026-01-20T00:00:00Z,2026,nba,Philadelphia 76ers,Indiana Pacers,113,104,0,401810464
+2026-01-20T00:30:00Z,2026,nba,Brooklyn Nets,Phoenix Suns,117,126,0,401810465
+2026-01-20T01:00:00Z,2026,nba,Detroit Pistons,Boston Celtics,104,103,0,401809250
+2026-01-20T03:00:00Z,2026,nba,Golden State Warriors,Miami Heat,135,112,0,401810467
+2026-01-21T00:00:00Z,2026,nba,Philadelphia 76ers,Phoenix Suns,110,116,0,401810468
+2026-01-21T01:00:00Z,2026,nba,Chicago Bulls,LA Clippers,138,110,0,401810469
+2026-01-21T01:00:00Z,2026,nba,Houston Rockets,San Antonio Spurs,111,106,0,401810470
+2026-01-21T02:00:00Z,2026,nba,Utah Jazz,Minnesota Timberwolves,127,122,0,401810471
+2026-01-21T03:00:00Z,2026,nba,Denver Nuggets,Los Angeles Lakers,107,115,0,401810472
+2026-01-21T03:00:00Z,2026,nba,Golden State Warriors,Toronto Raptors,127,145,0,401810473
+2026-01-21T03:00:00Z,2026,nba,Sacramento Kings,Miami Heat,117,130,0,401810474
+2026-01-22T00:00:00Z,2026,nba,Charlotte Hornets,Cleveland Cavaliers,87,94,0,401810475
+2026-01-22T00:30:00Z,2026,nba,Boston Celtics,Indiana Pacers,119,104,0,401810476
+2026-01-22T00:30:00Z,2026,nba,New York Knicks,Brooklyn Nets,120,66,0,401810477
+2026-01-22T01:00:00Z,2026,nba,Memphis Grizzlies,Atlanta Hawks,122,124,0,401810478
+2026-01-22T01:00:00Z,2026,nba,New Orleans Pelicans,Detroit Pistons,104,112,0,401810479
+2026-01-22T02:30:00Z,2026,nba,Milwaukee Bucks,Oklahoma City Thunder,102,122,0,401810480
+2026-01-22T03:00:00Z,2026,nba,Sacramento Kings,Toronto Raptors,109,122,0,401810481
+2026-01-23T00:00:00Z,2026,nba,Orlando Magic,Charlotte Hornets,97,124,0,401810482
+2026-01-23T00:00:00Z,2026,nba,Philadelphia 76ers,Houston Rockets,128,122,0,401810483
+2026-01-23T00:00:00Z,2026,nba,Washington Wizards,Denver Nuggets,97,107,0,401810484
+2026-01-23T00:30:00Z,2026,nba,Dallas Mavericks,Golden State Warriors,123,115,0,401810485
+2026-01-23T01:00:00Z,2026,nba,Minnesota Timberwolves,Chicago Bulls,115,120,0,401810486
+2026-01-23T02:00:00Z,2026,nba,Utah Jazz,San Antonio Spurs,109,126,0,401810487
+2026-01-23T03:00:00Z,2026,nba,LA Clippers,Los Angeles Lakers,112,104,0,401810488
+2026-01-23T03:00:00Z,2026,nba,Portland Trail Blazers,Miami Heat,127,110,0,401810489
+2026-01-24T00:00:00Z,2026,nba,Detroit Pistons,Houston Rockets,104,111,0,401810490
+2026-01-24T00:30:00Z,2026,nba,Atlanta Hawks,Phoenix Suns,110,103,0,401810491
+2026-01-24T00:30:00Z,2026,nba,Brooklyn Nets,Boston Celtics,126,130,0,401810492
+2026-01-24T00:30:00Z,2026,nba,Cleveland Cavaliers,Sacramento Kings,123,118,0,401810493
+2026-01-24T01:00:00Z,2026,nba,Memphis Grizzlies,New Orleans Pelicans,127,133,0,401810494
+2026-01-24T01:00:00Z,2026,nba,Oklahoma City Thunder,Indiana Pacers,114,117,0,401810496
+2026-01-24T02:30:00Z,2026,nba,Milwaukee Bucks,Denver Nuggets,100,102,0,401810495
+2026-01-24T03:00:00Z,2026,nba,Portland Trail Blazers,Toronto Raptors,98,110,0,401810497
+2026-01-24T17:00:00Z,2026,nba,Charlotte Hornets,Washington Wizards,119,115,0,401810500
+2026-01-24T20:00:00Z,2026,nba,Philadelphia 76ers,New York Knicks,109,112,0,401810498
+2026-01-25T00:00:00Z,2026,nba,Orlando Magic,Cleveland Cavaliers,105,119,0,401810501
+2026-01-25T01:00:00Z,2026,nba,Chicago Bulls,Boston Celtics,114,111,0,401810502
+2026-01-25T01:30:00Z,2026,nba,Dallas Mavericks,Los Angeles Lakers,110,116,0,401810503
+2026-01-25T02:30:00Z,2026,nba,Utah Jazz,Miami Heat,116,147,0,401810504
+2026-01-25T20:00:00Z,2026,nba,Detroit Pistons,Sacramento Kings,139,116,0,401810505
+2026-01-25T22:30:00Z,2026,nba,Minnesota Timberwolves,Golden State Warriors,85,111,0,401857824
+2026-01-26T00:00:00Z,2026,nba,Oklahoma City Thunder,Toronto Raptors,101,103,0,401810508
+2026-01-26T00:00:00Z,2026,nba,San Antonio Spurs,New Orleans Pelicans,95,104,0,401810509
+2026-01-26T01:00:00Z,2026,nba,Phoenix Suns,Miami Heat,102,111,0,401810510
+2026-01-26T02:00:00Z,2026,nba,LA Clippers,Brooklyn Nets,126,89,0,401810511
+2026-01-26T18:30:00Z,2026,nba,Atlanta Hawks,Indiana Pacers,132,116,0,401810514
+2026-01-26T20:00:00Z,2026,nba,Charlotte Hornets,Philadelphia 76ers,130,93,0,401810512
+2026-01-27T00:00:00Z,2026,nba,Cleveland Cavaliers,Orlando Magic,114,98,0,401810513
+2026-01-27T01:00:00Z,2026,nba,Boston Celtics,Portland Trail Blazers,102,94,0,401810515
+2026-01-27T01:00:00Z,2026,nba,Chicago Bulls,Los Angeles Lakers,118,129,0,401810516
+2026-01-27T01:00:00Z,2026,nba,Houston Rockets,Memphis Grizzlies,108,99,0,401810517
+2026-01-27T02:30:00Z,2026,nba,Minnesota Timberwolves,Golden State Warriors,108,83,0,401810518
+2026-01-28T00:00:00Z,2026,nba,Washington Wizards,Portland Trail Blazers,115,111,0,401810519
+2026-01-28T00:30:00Z,2026,nba,New York Knicks,Sacramento Kings,103,87,0,401810520
+2026-01-28T01:00:00Z,2026,nba,Philadelphia 76ers,Milwaukee Bucks,139,122,0,401810521
+2026-01-28T01:00:00Z,2026,nba,Oklahoma City Thunder,New Orleans Pelicans,104,95,0,401810522
+2026-01-28T02:00:00Z,2026,nba,Denver Nuggets,Detroit Pistons,107,109,0,401810523
+2026-01-28T02:00:00Z,2026,nba,Phoenix Suns,Brooklyn Nets,106,102,0,401810524
+2026-01-28T03:00:00Z,2026,nba,Utah Jazz,LA Clippers,103,115,0,401810525
+2026-01-29T00:00:00Z,2026,nba,Cleveland Cavaliers,Los Angeles Lakers,129,99,0,401810526
+2026-01-29T00:00:00Z,2026,nba,Indiana Pacers,Chicago Bulls,113,110,0,401810527
+2026-01-29T00:30:00Z,2026,nba,Boston Celtics,Atlanta Hawks,106,117,0,401810528
+2026-01-29T00:30:00Z,2026,nba,Miami Heat,Orlando Magic,124,133,0,401810529
+2026-01-29T00:30:00Z,2026,nba,Toronto Raptors,New York Knicks,92,119,0,401810530
+2026-01-29T01:00:00Z,2026,nba,Memphis Grizzlies,Charlotte Hornets,97,112,0,401810531
+2026-01-29T01:30:00Z,2026,nba,Dallas Mavericks,Minnesota Timberwolves,105,118,0,401810532
+2026-01-29T02:00:00Z,2026,nba,Utah Jazz,Golden State Warriors,124,140,0,401810533
+2026-01-29T02:42:00Z,2026,nba,Houston Rockets,San Antonio Spurs,99,111,0,401810534
+2026-01-30T00:00:00Z,2026,nba,Philadelphia 76ers,Sacramento Kings,113,111,0,401810535
+2026-01-30T00:00:00Z,2026,nba,Washington Wizards,Milwaukee Bucks,109,99,0,401810536
+2026-01-30T01:00:00Z,2026,nba,Atlanta Hawks,Houston Rockets,86,104,0,401810537
+2026-01-30T01:00:00Z,2026,nba,Chicago Bulls,Miami Heat,113,116,0,401850920
+2026-01-30T01:30:00Z,2026,nba,Dallas Mavericks,Charlotte Hornets,121,123,0,401810538
+2026-01-30T02:00:00Z,2026,nba,Denver Nuggets,Brooklyn Nets,107,103,0,401810539
+2026-01-30T02:00:00Z,2026,nba,Phoenix Suns,Detroit Pistons,114,96,0,401810540
+2026-01-30T02:30:00Z,2026,nba,Minnesota Timberwolves,Oklahoma City Thunder,123,111,0,401810541
+2026-01-31T00:00:00Z,2026,nba,Washington Wizards,Los Angeles Lakers,111,142,0,401810543
+2026-01-31T00:30:00Z,2026,nba,Orlando Magic,Toronto Raptors,130,120,0,401810542
+2026-01-31T00:30:00Z,2026,nba,Boston Celtics,Sacramento Kings,112,93,0,401810544
+2026-01-31T00:30:00Z,2026,nba,New York Knicks,Portland Trail Blazers,127,97,0,401810545
+2026-01-31T00:30:00Z,2026,nba,New Orleans Pelicans,Memphis Grizzlies,114,106,0,401810546
+2026-01-31T02:00:00Z,2026,nba,Phoenix Suns,Cleveland Cavaliers,126,113,0,401810548
+2026-01-31T02:00:00Z,2026,nba,Denver Nuggets,LA Clippers,122,109,0,401810550
+2026-01-31T02:30:00Z,2026,nba,Utah Jazz,Brooklyn Nets,99,109,0,401810549
+2026-01-31T03:00:00Z,2026,nba,Golden State Warriors,Detroit Pistons,124,131,0,401810551
+2026-01-31T17:00:00Z,2026,nba,Charlotte Hornets,San Antonio Spurs,111,106,0,401810552
+2026-02-01T00:00:00Z,2026,nba,Indiana Pacers,Atlanta Hawks,129,124,0,401810553
+2026-02-01T00:30:00Z,2026,nba,Philadelphia 76ers,New Orleans Pelicans,124,114,0,401810554
+2026-02-01T01:00:00Z,2026,nba,Miami Heat,Chicago Bulls,118,125,0,401810547
+2026-02-01T01:00:00Z,2026,nba,Memphis Grizzlies,Minnesota Timberwolves,114,131,0,401810555
+2026-02-01T01:30:00Z,2026,nba,Houston Rockets,Dallas Mavericks,111,107,0,401810556
+2026-02-01T20:30:00Z,2026,nba,Boston Celtics,Milwaukee Bucks,107,79,0,401810557
+2026-02-01T23:00:00Z,2026,nba,Detroit Pistons,Brooklyn Nets,130,77,0,401810559
+2026-02-01T23:00:00Z,2026,nba,Miami Heat,Chicago Bulls,134,91,0,401810560
+2026-02-01T23:00:00Z,2026,nba,Toronto Raptors,Utah Jazz,107,100,0,401810561
+2026-02-01T23:00:00Z,2026,nba,Washington Wizards,Sacramento Kings,116,112,0,401810562
+2026-02-02T00:00:00Z,2026,nba,New York Knicks,Los Angeles Lakers,112,100,0,401810563
+2026-02-02T01:00:00Z,2026,nba,Phoenix Suns,LA Clippers,93,117,0,401810564
+2026-02-02T02:00:00Z,2026,nba,San Antonio Spurs,Orlando Magic,112,103,0,401810558
+2026-02-02T02:00:00Z,2026,nba,Portland Trail Blazers,Cleveland Cavaliers,111,130,0,401810565
+2026-02-02T02:30:00Z,2026,nba,Denver Nuggets,Oklahoma City Thunder,111,121,0,401810566
+2026-02-02T20:00:00Z,2026,nba,Charlotte Hornets,New Orleans Pelicans,102,95,0,401810567
+2026-02-03T00:00:00Z,2026,nba,Indiana Pacers,Houston Rockets,114,118,0,401810568
+2026-02-03T00:30:00Z,2026,nba,Memphis Grizzlies,Minnesota Timberwolves,137,128,0,401810569
+2026-02-03T03:00:00Z,2026,nba,LA Clippers,Philadelphia 76ers,113,128,0,401810570
+2026-02-04T00:00:00Z,2026,nba,Detroit Pistons,Denver Nuggets,124,121,0,401810571
+2026-02-04T00:00:00Z,2026,nba,Indiana Pacers,Utah Jazz,122,131,0,401810572
+2026-02-04T00:00:00Z,2026,nba,Washington Wizards,New York Knicks,101,132,0,401810573
+2026-02-04T00:30:00Z,2026,nba,Brooklyn Nets,Los Angeles Lakers,109,125,0,401810574
+2026-02-04T00:30:00Z,2026,nba,Miami Heat,Atlanta Hawks,115,127,0,401810575
+2026-02-04T01:00:00Z,2026,nba,Dallas Mavericks,Boston Celtics,100,110,0,401810576
+2026-02-04T01:00:00Z,2026,nba,Milwaukee Bucks,Chicago Bulls,131,115,0,401810577
+2026-02-04T01:00:00Z,2026,nba,Oklahoma City Thunder,Orlando Magic,128,92,0,401810578
+2026-02-04T03:00:00Z,2026,nba,Golden State Warriors,Philadelphia 76ers,94,113,0,401810579
+2026-02-04T04:00:00Z,2026,nba,Portland Trail Blazers,Phoenix Suns,125,130,0,401810580
+2026-02-05T00:00:00Z,2026,nba,New York Knicks,Denver Nuggets,134,127,0,401810581
+2026-02-05T00:30:00Z,2026,nba,Toronto Raptors,Minnesota Timberwolves,126,128,0,401810582
+2026-02-05T01:00:00Z,2026,nba,Houston Rockets,Boston Celtics,93,114,0,401810583
+2026-02-05T01:00:00Z,2026,nba,Milwaukee Bucks,New Orleans Pelicans,141,137,0,401810584
+2026-02-05T02:30:00Z,2026,nba,San Antonio Spurs,Oklahoma City Thunder,116,106,0,401810585
+2026-02-05T03:00:00Z,2026,nba,Sacramento Kings,Memphis Grizzlies,125,129,0,401810586
+2026-02-05T03:30:00Z,2026,nba,LA Clippers,Cleveland Cavaliers,91,124,0,401810587
+2026-02-06T00:00:00Z,2026,nba,Detroit Pistons,Washington Wizards,117,126,0,401810588
+2026-02-06T00:00:00Z,2026,nba,Orlando Magic,Brooklyn Nets,118,98,0,401810589
+2026-02-06T00:30:00Z,2026,nba,Atlanta Hawks,Utah Jazz,121,119,0,401810590
+2026-02-06T00:30:00Z,2026,nba,Toronto Raptors,Chicago Bulls,123,107,0,401810591
+2026-02-06T01:00:00Z,2026,nba,Houston Rockets,Charlotte Hornets,99,109,0,401810592
+2026-02-06T01:30:00Z,2026,nba,Dallas Mavericks,San Antonio Spurs,123,135,0,401810593
+2026-02-06T03:00:00Z,2026,nba,Phoenix Suns,Golden State Warriors,97,101,0,401810594
+2026-02-06T03:00:00Z,2026,nba,Los Angeles Lakers,Philadelphia 76ers,119,115,0,401810595
+2026-02-07T00:30:00Z,2026,nba,Boston Celtics,Miami Heat,98,96,0,401810596
+2026-02-07T00:30:00Z,2026,nba,Detroit Pistons,New York Knicks,118,80,0,401810597
+2026-02-07T01:00:00Z,2026,nba,Milwaukee Bucks,Indiana Pacers,105,99,0,401810598
+2026-02-07T01:00:00Z,2026,nba,Minnesota Timberwolves,New Orleans Pelicans,115,119,0,401810599
+2026-02-07T03:00:00Z,2026,nba,Portland Trail Blazers,Memphis Grizzlies,135,115,0,401810600
+2026-02-07T03:00:00Z,2026,nba,Sacramento Kings,LA Clippers,111,114,0,401810601
+2026-02-07T20:00:00Z,2026,nba,Brooklyn Nets,Washington Wizards,127,113,0,401810602
+2026-02-07T20:30:00Z,2026,nba,Oklahoma City Thunder,Houston Rockets,106,112,0,401810603
+2026-02-07T23:00:00Z,2026,nba,San Antonio Spurs,Dallas Mavericks,138,125,0,401810604
+2026-02-08T00:00:00Z,2026,nba,Orlando Magic,Utah Jazz,120,117,0,401810605
+2026-02-08T00:30:00Z,2026,nba,Atlanta Hawks,Charlotte Hornets,119,126,0,401810606
+2026-02-08T01:00:00Z,2026,nba,Chicago Bulls,Denver Nuggets,120,136,0,401810607
+2026-02-08T01:30:00Z,2026,nba,Los Angeles Lakers,Golden State Warriors,105,99,0,401810608
+2026-02-08T02:00:00Z,2026,nba,Phoenix Suns,Philadelphia 76ers,103,109,0,401810609
+2026-02-08T03:00:00Z,2026,nba,Portland Trail Blazers,Memphis Grizzlies,122,115,0,401810610
+2026-02-08T03:00:00Z,2026,nba,Sacramento Kings,Cleveland Cavaliers,126,132,0,401810611
+2026-02-08T17:30:00Z,2026,nba,Boston Celtics,New York Knicks,89,111,0,401810612
+2026-02-08T19:00:00Z,2026,nba,Washington Wizards,Miami Heat,101,132,0,401810613
+2026-02-08T20:00:00Z,2026,nba,Toronto Raptors,Indiana Pacers,122,104,0,401810614
+2026-02-08T20:00:00Z,2026,nba,Minnesota Timberwolves,LA Clippers,96,115,0,401810615
+2026-02-10T00:00:00Z,2026,nba,Charlotte Hornets,Detroit Pistons,104,110,0,401810616
+2026-02-10T00:30:00Z,2026,nba,Brooklyn Nets,Chicago Bulls,123,115,0,401810617
+2026-02-10T00:30:00Z,2026,nba,Miami Heat,Utah Jazz,111,115,0,401810618
+2026-02-10T00:30:00Z,2026,nba,Orlando Magic,Milwaukee Bucks,118,99,0,401810619
+2026-02-10T01:00:00Z,2026,nba,Minnesota Timberwolves,Atlanta Hawks,138,116,0,401810620
+2026-02-10T01:00:00Z,2026,nba,New Orleans Pelicans,Sacramento Kings,120,94,0,401810621
+2026-02-10T02:00:00Z,2026,nba,Denver Nuggets,Cleveland Cavaliers,117,119,0,401810622
+2026-02-10T03:00:00Z,2026,nba,Golden State Warriors,Memphis Grizzlies,114,113,0,401810623
+2026-02-10T03:00:00Z,2026,nba,Los Angeles Lakers,Oklahoma City Thunder,110,119,0,401810624
+2026-02-10T03:00:00Z,2026,nba,Portland Trail Blazers,Philadelphia 76ers,135,118,0,401810625
+2026-02-11T00:30:00Z,2026,nba,New York Knicks,Indiana Pacers,134,137,0,401810626
+2026-02-11T01:00:00Z,2026,nba,Houston Rockets,LA Clippers,102,95,0,401810627
+2026-02-11T02:00:00Z,2026,nba,Phoenix Suns,Dallas Mavericks,120,111,0,401810628
+2026-02-11T03:30:00Z,2026,nba,Los Angeles Lakers,San Antonio Spurs,108,136,0,401810629
+2026-02-12T00:00:00Z,2026,nba,Charlotte Hornets,Atlanta Hawks,110,107,0,401810630
+2026-02-12T00:00:00Z,2026,nba,Cleveland Cavaliers,Washington Wizards,138,113,0,401810631
+2026-02-12T00:00:00Z,2026,nba,Orlando Magic,Milwaukee Bucks,108,116,0,401810632
+2026-02-12T00:30:00Z,2026,nba,Boston Celtics,Chicago Bulls,124,105,0,401810633
+2026-02-12T00:30:00Z,2026,nba,Brooklyn Nets,Indiana Pacers,110,115,0,401810634
+2026-02-12T00:30:00Z,2026,nba,Philadelphia 76ers,New York Knicks,89,138,0,401810635
+2026-02-12T00:30:00Z,2026,nba,Toronto Raptors,Detroit Pistons,95,113,0,401810636
+2026-02-12T01:00:00Z,2026,nba,Houston Rockets,LA Clippers,102,105,0,401810637
+2026-02-12T01:00:00Z,2026,nba,Minnesota Timberwolves,Portland Trail Blazers,133,109,0,401810638
+2026-02-12T01:00:00Z,2026,nba,New Orleans Pelicans,Miami Heat,111,123,0,401810639
+2026-02-12T02:00:00Z,2026,nba,Phoenix Suns,Oklahoma City Thunder,109,136,0,401810640
+2026-02-12T02:00:00Z,2026,nba,Utah Jazz,Sacramento Kings,121,93,0,401810641
+2026-02-12T02:00:00Z,2026,nba,Denver Nuggets,Memphis Grizzlies,122,116,0,401810642
+2026-02-12T03:00:00Z,2026,nba,Golden State Warriors,San Antonio Spurs,113,126,0,401810643
+2026-02-13T00:30:00Z,2026,nba,Oklahoma City Thunder,Milwaukee Bucks,93,110,0,401810644
+2026-02-13T02:00:00Z,2026,nba,Utah Jazz,Portland Trail Blazers,119,135,0,401810645
+2026-02-13T03:00:00Z,2026,nba,Los Angeles Lakers,Dallas Mavericks,124,104,0,401810646
+2026-02-15T22:00:00Z,2026,nba,Team Stars,World,37,35,0,401838140
+2026-02-15T22:55:00Z,2026,nba,Team Stripes,Team Stars,42,40,0,401838141
+2026-02-15T23:25:00Z,2026,nba,Team Stripes,World,48,45,0,401838142
+2026-02-16T00:10:00Z,2026,nba,Team Stripes,Team Stars,21,47,0,401838143
+2026-02-20T00:00:00Z,2026,nba,Charlotte Hornets,Houston Rockets,101,105,0,401810647
+2026-02-20T00:00:00Z,2026,nba,Cleveland Cavaliers,Brooklyn Nets,112,84,0,401810648
+2026-02-20T00:00:00Z,2026,nba,Philadelphia 76ers,Atlanta Hawks,107,117,0,401810649
+2026-02-20T00:00:00Z,2026,nba,Washington Wizards,Indiana Pacers,112,105,0,401810650
+2026-02-20T00:30:00Z,2026,nba,New York Knicks,Detroit Pistons,111,126,0,401810651
+2026-02-20T01:00:00Z,2026,nba,Chicago Bulls,Toronto Raptors,101,110,0,401810652
+2026-02-20T01:30:00Z,2026,nba,San Antonio Spurs,Phoenix Suns,121,94,0,401810653
+2026-02-20T03:00:00Z,2026,nba,Golden State Warriors,Boston Celtics,110,121,0,401810654
+2026-02-20T03:00:00Z,2026,nba,Sacramento Kings,Orlando Magic,94,131,0,401810655
+2026-02-20T03:30:00Z,2026,nba,LA Clippers,Denver Nuggets,115,114,0,401810656
+2026-02-21T00:00:00Z,2026,nba,Charlotte Hornets,Cleveland Cavaliers,113,118,0,401810657
+2026-02-21T00:00:00Z,2026,nba,Washington Wizards,Indiana Pacers,131,118,0,401810658
+2026-02-21T00:00:00Z,2026,nba,Memphis Grizzlies,Utah Jazz,123,114,0,401810659
+2026-02-21T00:30:00Z,2026,nba,Atlanta Hawks,Miami Heat,97,128,0,401810660
+2026-02-21T00:30:00Z,2026,nba,Minnesota Timberwolves,Dallas Mavericks,122,111,0,401810661
+2026-02-21T01:00:00Z,2026,nba,New Orleans Pelicans,Milwaukee Bucks,118,139,0,401810662
+2026-02-21T01:00:00Z,2026,nba,Oklahoma City Thunder,Brooklyn Nets,105,86,0,401810663
+2026-02-21T03:00:00Z,2026,nba,Portland Trail Blazers,Denver Nuggets,103,157,0,401810665
+2026-02-21T03:15:00Z,2026,nba,Los Angeles Lakers,LA Clippers,125,122,0,401810664
+2026-02-21T22:00:00Z,2026,nba,Phoenix Suns,Orlando Magic,113,110,0,401810666
+2026-02-22T00:00:00Z,2026,nba,New Orleans Pelicans,Philadelphia 76ers,126,111,0,401810667
+2026-02-22T01:00:00Z,2026,nba,Miami Heat,Memphis Grizzlies,136,120,0,401810668
+2026-02-22T01:00:00Z,2026,nba,Chicago Bulls,Detroit Pistons,110,126,0,401810669
+2026-02-22T01:00:00Z,2026,nba,San Antonio Spurs,Sacramento Kings,139,122,0,401810670
+2026-02-22T01:30:00Z,2026,nba,New York Knicks,Houston Rockets,108,106,0,401810671
+2026-02-22T18:00:00Z,2026,nba,Oklahoma City Thunder,Cleveland Cavaliers,121,113,0,401810672
+2026-02-22T20:30:00Z,2026,nba,Atlanta Hawks,Brooklyn Nets,115,104,0,401810673
+2026-02-22T20:30:00Z,2026,nba,Milwaukee Bucks,Toronto Raptors,94,122,0,401810674
+2026-02-22T20:30:00Z,2026,nba,Golden State Warriors,Denver Nuggets,128,117,0,401810675
+2026-02-22T22:00:00Z,2026,nba,Indiana Pacers,Dallas Mavericks,130,134,0,401810676
+2026-02-22T23:00:00Z,2026,nba,Washington Wizards,Charlotte Hornets,112,129,0,401810677
+2026-02-22T23:30:00Z,2026,nba,Los Angeles Lakers,Boston Celtics,89,111,0,401810678
+2026-02-23T00:00:00Z,2026,nba,Minnesota Timberwolves,Philadelphia 76ers,108,135,0,401810679
+2026-02-23T01:00:00Z,2026,nba,Chicago Bulls,New York Knicks,99,105,0,401810680
+2026-02-23T01:00:00Z,2026,nba,Phoenix Suns,Portland Trail Blazers,77,92,0,401810681
+2026-02-23T02:00:00Z,2026,nba,LA Clippers,Orlando Magic,109,111,0,401810682
+2026-02-24T00:00:00Z,2026,nba,Detroit Pistons,San Antonio Spurs,103,114,0,401810683
+2026-02-24T01:00:00Z,2026,nba,Memphis Grizzlies,Sacramento Kings,114,123,0,401810684
+2026-02-24T02:30:00Z,2026,nba,Houston Rockets,Utah Jazz,125,105,0,401810685
+2026-02-25T00:00:00Z,2026,nba,Indiana Pacers,Philadelphia 76ers,114,135,0,401810686
+2026-02-25T00:30:00Z,2026,nba,Atlanta Hawks,Washington Wizards,119,98,0,401810687
+2026-02-25T00:30:00Z,2026,nba,Brooklyn Nets,Dallas Mavericks,114,123,0,401810688
+2026-02-25T00:30:00Z,2026,nba,Toronto Raptors,Oklahoma City Thunder,107,116,0,401810689
+2026-02-25T00:30:00Z,2026,nba,Cleveland Cavaliers,New York Knicks,109,94,0,401810690
+2026-02-25T01:00:00Z,2026,nba,Chicago Bulls,Charlotte Hornets,99,131,0,401810691
+2026-02-25T01:00:00Z,2026,nba,Milwaukee Bucks,Miami Heat,128,117,0,401810692
+2026-02-25T01:00:00Z,2026,nba,New Orleans Pelicans,Golden State Warriors,113,109,0,401810693
+2026-02-25T02:00:00Z,2026,nba,Phoenix Suns,Boston Celtics,81,97,0,401810694
+2026-02-25T03:00:00Z,2026,nba,Portland Trail Blazers,Minnesota Timberwolves,121,124,0,401810696
+2026-02-25T03:30:00Z,2026,nba,Los Angeles Lakers,Orlando Magic,109,110,0,401810695
+2026-02-26T00:30:00Z,2026,nba,Detroit Pistons,Oklahoma City Thunder,124,116,0,401810697
+2026-02-26T00:30:00Z,2026,nba,Toronto Raptors,San Antonio Spurs,107,110,0,401810698
+2026-02-26T00:30:00Z,2026,nba,Memphis Grizzlies,Golden State Warriors,112,133,0,401810699
+2026-02-26T01:00:00Z,2026,nba,Houston Rockets,Sacramento Kings,128,97,0,401810700
+2026-02-26T01:00:00Z,2026,nba,Milwaukee Bucks,Cleveland Cavaliers,118,116,0,401810701
+2026-02-26T03:00:00Z,2026,nba,Denver Nuggets,Boston Celtics,103,84,0,401810702
+2026-02-27T00:00:00Z,2026,nba,Indiana Pacers,Charlotte Hornets,109,133,0,401810703
+2026-02-27T00:00:00Z,2026,nba,Philadelphia 76ers,Miami Heat,124,117,0,401810704
+2026-02-27T00:30:00Z,2026,nba,Atlanta Hawks,Washington Wizards,126,96,0,401810705
+2026-02-27T00:30:00Z,2026,nba,Brooklyn Nets,San Antonio Spurs,110,126,0,401810706
+2026-02-27T00:30:00Z,2026,nba,Orlando Magic,Houston Rockets,108,113,0,401810707
+2026-02-27T01:00:00Z,2026,nba,Chicago Bulls,Portland Trail Blazers,112,121,0,401810708
+2026-02-27T01:30:00Z,2026,nba,Dallas Mavericks,Sacramento Kings,121,130,0,401810709
+2026-02-27T02:00:00Z,2026,nba,Phoenix Suns,Los Angeles Lakers,113,110,0,401810710
+2026-02-27T02:00:00Z,2026,nba,Utah Jazz,New Orleans Pelicans,118,129,0,401810711
+2026-02-27T03:00:00Z,2026,nba,LA Clippers,Minnesota Timberwolves,88,94,0,401810712
+2026-02-28T00:00:00Z,2026,nba,Detroit Pistons,Cleveland Cavaliers,122,119,0,401810713
+2026-02-28T00:30:00Z,2026,nba,Boston Celtics,Brooklyn Nets,148,111,0,401810714
+2026-02-28T01:00:00Z,2026,nba,Milwaukee Bucks,New York Knicks,98,127,0,401810715
+2026-02-28T01:30:00Z,2026,nba,Dallas Mavericks,Memphis Grizzlies,105,124,0,401810716
+2026-02-28T02:47:00Z,2026,nba,Oklahoma City Thunder,Denver Nuggets,127,121,0,401810717
+2026-02-28T18:00:00Z,2026,nba,Charlotte Hornets,Portland Trail Blazers,109,93,0,401810718
+2026-02-28T20:30:00Z,2026,nba,Miami Heat,Houston Rockets,115,105,0,401810719
+2026-03-01T00:00:00Z,2026,nba,Washington Wizards,Toronto Raptors,125,134,0,401810720
+2026-03-01T01:30:00Z,2026,nba,Golden State Warriors,Los Angeles Lakers,101,129,0,401810721
+2026-03-01T02:30:00Z,2026,nba,Utah Jazz,New Orleans Pelicans,105,115,0,401810722
+2026-03-01T18:00:00Z,2026,nba,New York Knicks,San Antonio Spurs,114,89,0,401810723
+2026-03-01T20:30:00Z,2026,nba,Brooklyn Nets,Cleveland Cavaliers,102,106,0,401810724
+2026-03-01T20:30:00Z,2026,nba,Chicago Bulls,Milwaukee Bucks,120,97,0,401810725
+2026-03-01T20:30:00Z,2026,nba,Denver Nuggets,Minnesota Timberwolves,108,117,0,401810726
+2026-03-01T22:00:00Z,2026,nba,Indiana Pacers,Memphis Grizzlies,106,125,0,401810727
+2026-03-01T23:00:00Z,2026,nba,Atlanta Hawks,Portland Trail Blazers,135,101,0,401810728
+2026-03-01T23:00:00Z,2026,nba,Orlando Magic,Detroit Pistons,92,106,0,401810730
+2026-03-02T01:00:00Z,2026,nba,Boston Celtics,Philadelphia 76ers,114,98,0,401810729
+2026-03-02T01:00:00Z,2026,nba,Dallas Mavericks,Oklahoma City Thunder,87,100,0,401810731
+2026-03-02T02:00:00Z,2026,nba,LA Clippers,New Orleans Pelicans,137,117,0,401810732
+2026-03-02T02:30:00Z,2026,nba,Los Angeles Lakers,Sacramento Kings,128,104,0,401810733
+2026-03-03T00:00:00Z,2026,nba,Washington Wizards,Houston Rockets,118,123,0,401810734
+2026-03-03T00:30:00Z,2026,nba,Milwaukee Bucks,Boston Celtics,81,108,0,401810735
+2026-03-03T02:00:00Z,2026,nba,Utah Jazz,Denver Nuggets,125,128,0,401810736
+2026-03-03T03:00:00Z,2026,nba,Golden State Warriors,LA Clippers,101,114,0,401810737
+2026-03-04T00:00:00Z,2026,nba,Charlotte Hornets,Dallas Mavericks,117,90,0,401810738
+2026-03-04T00:00:00Z,2026,nba,Cleveland Cavaliers,Detroit Pistons,113,109,0,401810739
+2026-03-04T00:00:00Z,2026,nba,Orlando Magic,Washington Wizards,126,109,0,401810740
+2026-03-04T00:30:00Z,2026,nba,Miami Heat,Brooklyn Nets,124,98,0,401810741
+2026-03-04T00:30:00Z,2026,nba,Toronto Raptors,New York Knicks,95,111,0,401810742
+2026-03-04T01:00:00Z,2026,nba,Philadelphia 76ers,San Antonio Spurs,91,131,0,401810743
+2026-03-04T01:00:00Z,2026,nba,Chicago Bulls,Oklahoma City Thunder,108,116,0,401810744
+2026-03-04T01:00:00Z,2026,nba,Minnesota Timberwolves,Memphis Grizzlies,117,110,0,401810745
+2026-03-04T03:30:00Z,2026,nba,Los Angeles Lakers,New Orleans Pelicans,110,101,0,401810746
+2026-03-04T04:00:00Z,2026,nba,Sacramento Kings,Phoenix Suns,103,114,0,401810747
+2026-03-05T00:00:00Z,2026,nba,New York Knicks,Oklahoma City Thunder,100,103,0,401810748
+2026-03-05T00:30:00Z,2026,nba,Boston Celtics,Charlotte Hornets,89,118,0,401810749
+2026-03-05T00:30:00Z,2026,nba,Philadelphia 76ers,Utah Jazz,106,102,0,401810750
+2026-03-05T01:00:00Z,2026,nba,Memphis Grizzlies,Portland Trail Blazers,114,122,0,401810751
+2026-03-05T02:30:00Z,2026,nba,Milwaukee Bucks,Atlanta Hawks,113,131,0,401810752
+2026-03-05T03:30:00Z,2026,nba,LA Clippers,Indiana Pacers,130,107,0,401810753
+2026-03-06T00:00:00Z,2026,nba,Orlando Magic,Dallas Mavericks,115,114,0,401810754
+2026-03-06T00:00:00Z,2026,nba,Washington Wizards,Utah Jazz,112,122,0,401810755
+2026-03-06T00:30:00Z,2026,nba,Miami Heat,Brooklyn Nets,126,110,0,401810756
+2026-03-06T00:30:00Z,2026,nba,Houston Rockets,Golden State Warriors,113,115,0,401810757
+2026-03-06T01:00:00Z,2026,nba,Minnesota Timberwolves,Toronto Raptors,115,107,0,401810758
+2026-03-06T01:00:00Z,2026,nba,San Antonio Spurs,Detroit Pistons,121,106,0,401810759
+2026-03-06T02:00:00Z,2026,nba,Phoenix Suns,Chicago Bulls,103,105,0,401810760
+2026-03-06T03:00:00Z,2026,nba,Denver Nuggets,Los Angeles Lakers,120,113,0,401810761
+2026-03-06T03:00:00Z,2026,nba,Sacramento Kings,New Orleans Pelicans,123,133,0,401810762
+2026-03-07T00:00:00Z,2026,nba,Boston Celtics,Dallas Mavericks,120,100,0,401810763
+2026-03-07T00:00:00Z,2026,nba,Charlotte Hornets,Miami Heat,120,128,0,401810764
+2026-03-07T01:00:00Z,2026,nba,Houston Rockets,Portland Trail Blazers,106,99,0,401810765
+2026-03-07T02:00:00Z,2026,nba,Denver Nuggets,New York Knicks,103,142,0,401810766
+2026-03-07T02:00:00Z,2026,nba,Phoenix Suns,New Orleans Pelicans,118,116,0,401810767
+2026-03-07T02:30:00Z,2026,nba,San Antonio Spurs,LA Clippers,116,112,0,401810768
+2026-03-07T03:30:00Z,2026,nba,Los Angeles Lakers,Indiana Pacers,128,117,0,401810769
+2026-03-07T20:00:00Z,2026,nba,Minnesota Timberwolves,Orlando Magic,92,119,0,401810770
+2026-03-07T23:00:00Z,2026,nba,Detroit Pistons,Brooklyn Nets,105,107,0,401810771
+2026-03-07T23:00:00Z,2026,nba,Atlanta Hawks,Philadelphia 76ers,125,116,0,401810772
+2026-03-08T01:00:00Z,2026,nba,Memphis Grizzlies,LA Clippers,120,123,0,401810773
+2026-03-08T01:00:00Z,2026,nba,Milwaukee Bucks,Utah Jazz,113,99,0,401810774
+2026-03-08T01:30:00Z,2026,nba,Oklahoma City Thunder,Golden State Warriors,104,97,0,401810775
+2026-03-08T17:00:00Z,2026,nba,Cleveland Cavaliers,Boston Celtics,98,109,0,401810776
+2026-03-08T19:30:00Z,2026,nba,Los Angeles Lakers,New York Knicks,110,97,0,401810777
+2026-03-08T22:00:00Z,2026,nba,Miami Heat,Detroit Pistons,121,110,0,401810778
+2026-03-08T22:00:00Z,2026,nba,Toronto Raptors,Dallas Mavericks,122,92,0,401810779
+2026-03-08T23:00:00Z,2026,nba,New Orleans Pelicans,Washington Wizards,138,118,0,401810780
+2026-03-09T00:00:00Z,2026,nba,Milwaukee Bucks,Orlando Magic,91,130,0,401810781
+2026-03-09T00:00:00Z,2026,nba,San Antonio Spurs,Houston Rockets,145,120,0,401810782
+2026-03-09T01:00:00Z,2026,nba,Portland Trail Blazers,Indiana Pacers,131,111,0,401810784
+2026-03-09T01:00:00Z,2026,nba,Sacramento Kings,Chicago Bulls,126,110,0,401810785
+2026-03-09T02:00:00Z,2026,nba,Phoenix Suns,Charlotte Hornets,111,99,0,401810783
+2026-03-09T23:00:00Z,2026,nba,Cleveland Cavaliers,Philadelphia 76ers,115,101,0,401810786
+2026-03-09T23:30:00Z,2026,nba,Brooklyn Nets,Memphis Grizzlies,126,115,0,401810787
+2026-03-09T23:30:00Z,2026,nba,Oklahoma City Thunder,Denver Nuggets,129,126,0,401810788
+2026-03-10T01:00:00Z,2026,nba,Utah Jazz,Golden State Warriors,119,116,0,401810789
+2026-03-10T02:00:00Z,2026,nba,LA Clippers,New York Knicks,126,118,0,401810790
+2026-03-10T23:00:00Z,2026,nba,Philadelphia 76ers,Memphis Grizzlies,139,129,0,401810791
+2026-03-10T23:30:00Z,2026,nba,Brooklyn Nets,Detroit Pistons,100,138,0,401810792
+2026-03-10T23:30:00Z,2026,nba,Miami Heat,Washington Wizards,150,129,0,401810793
+2026-03-10T23:30:00Z,2026,nba,Atlanta Hawks,Dallas Mavericks,124,112,0,401810794
+2026-03-11T00:00:00Z,2026,nba,Houston Rockets,Toronto Raptors,113,99,0,401810795
+2026-03-11T00:00:00Z,2026,nba,Milwaukee Bucks,Phoenix Suns,114,129,0,401810796
+2026-03-11T00:00:00Z,2026,nba,San Antonio Spurs,Boston Celtics,125,116,0,401810797
+2026-03-11T02:00:00Z,2026,nba,Golden State Warriors,Chicago Bulls,124,130,0,401810798
+2026-03-11T02:00:00Z,2026,nba,Portland Trail Blazers,Charlotte Hornets,101,103,0,401810799
+2026-03-11T02:00:00Z,2026,nba,Sacramento Kings,Indiana Pacers,114,109,0,401810800
+2026-03-11T03:00:00Z,2026,nba,Los Angeles Lakers,Minnesota Timberwolves,120,106,0,401810801
+2026-03-11T23:30:00Z,2026,nba,Orlando Magic,Cleveland Cavaliers,128,122,0,401810802
+2026-03-12T00:00:00Z,2026,nba,New Orleans Pelicans,Toronto Raptors,122,111,0,401810803
+2026-03-12T01:00:00Z,2026,nba,Utah Jazz,New York Knicks,117,134,0,401810804
+2026-03-12T02:00:00Z,2026,nba,Denver Nuggets,Houston Rockets,129,93,0,401810805
+2026-03-12T02:00:00Z,2026,nba,Sacramento Kings,Charlotte Hornets,109,117,0,401810806
+2026-03-12T02:30:00Z,2026,nba,LA Clippers,Minnesota Timberwolves,153,128,0,401810807
+2026-03-12T23:00:00Z,2026,nba,Detroit Pistons,Philadelphia 76ers,131,109,0,401810808
+2026-03-12T23:00:00Z,2026,nba,Indiana Pacers,Phoenix Suns,108,123,0,401810809
+2026-03-12T23:00:00Z,2026,nba,Orlando Magic,Washington Wizards,136,131,0,401810810
+2026-03-12T23:30:00Z,2026,nba,Atlanta Hawks,Brooklyn Nets,108,97,0,401810811
+2026-03-12T23:30:00Z,2026,nba,Miami Heat,Milwaukee Bucks,112,105,0,401810812
+2026-03-13T00:00:00Z,2026,nba,Memphis Grizzlies,Dallas Mavericks,112,120,0,401810966
+2026-03-13T01:00:00Z,2026,nba,San Antonio Spurs,Denver Nuggets,131,136,0,401810813
+2026-03-13T01:30:00Z,2026,nba,Oklahoma City Thunder,Boston Celtics,104,102,0,401810814
+2026-03-13T02:30:00Z,2026,nba,Los Angeles Lakers,Chicago Bulls,142,130,0,401810815
+2026-03-13T23:30:00Z,2026,nba,Detroit Pistons,Memphis Grizzlies,126,110,0,401810816
+2026-03-13T23:30:00Z,2026,nba,Indiana Pacers,New York Knicks,92,101,0,401810817
+2026-03-13T23:30:00Z,2026,nba,Toronto Raptors,Phoenix Suns,122,115,0,401810818
+2026-03-13T23:30:00Z,2026,nba,Dallas Mavericks,Cleveland Cavaliers,105,138,0,401810820
+2026-03-14T00:00:00Z,2026,nba,Houston Rockets,New Orleans Pelicans,107,105,0,401810819
+2026-03-14T02:00:00Z,2026,nba,Golden State Warriors,Minnesota Timberwolves,117,127,0,401810821
+2026-03-14T02:00:00Z,2026,nba,Portland Trail Blazers,Utah Jazz,124,114,0,401810822
+2026-03-14T02:30:00Z,2026,nba,LA Clippers,Chicago Bulls,119,108,0,401810823
+2026-03-14T17:00:00Z,2026,nba,Philadelphia 76ers,Brooklyn Nets,104,97,0,401810824
+2026-03-14T19:00:00Z,2026,nba,Atlanta Hawks,Milwaukee Bucks,122,99,0,401810825
+2026-03-14T19:30:00Z,2026,nba,San Antonio Spurs,Charlotte Hornets,115,102,0,401810828
+2026-03-14T22:00:00Z,2026,nba,Boston Celtics,Washington Wizards,111,100,0,401810826
+2026-03-15T00:00:00Z,2026,nba,Miami Heat,Orlando Magic,117,121,0,401810827
+2026-03-15T00:30:00Z,2026,nba,Los Angeles Lakers,Denver Nuggets,127,125,0,401810829
+2026-03-15T02:30:00Z,2026,nba,LA Clippers,Sacramento Kings,109,118,0,401810830
+2026-03-15T17:00:00Z,2026,nba,Oklahoma City Thunder,Minnesota Timberwolves,116,103,0,401810831
+2026-03-15T19:30:00Z,2026,nba,Cleveland Cavaliers,Dallas Mavericks,120,130,0,401810832
+2026-03-15T19:30:00Z,2026,nba,Toronto Raptors,Detroit Pistons,119,108,0,401810833
+2026-03-15T19:30:00Z,2026,nba,Milwaukee Bucks,Indiana Pacers,134,123,0,401810834
+2026-03-15T22:00:00Z,2026,nba,Philadelphia 76ers,Portland Trail Blazers,109,103,0,401810835
+2026-03-16T00:00:00Z,2026,nba,New York Knicks,Golden State Warriors,110,107,0,401810836
+2026-03-16T02:00:00Z,2026,nba,Sacramento Kings,Utah Jazz,116,111,0,401810837
+2026-03-16T23:00:00Z,2026,nba,Atlanta Hawks,Orlando Magic,124,112,0,401810838
+2026-03-16T23:00:00Z,2026,nba,Washington Wizards,Golden State Warriors,117,125,0,401810839
+2026-03-16T23:30:00Z,2026,nba,Brooklyn Nets,Portland Trail Blazers,95,114,0,401810840
+2026-03-16T23:30:00Z,2026,nba,Boston Celtics,Phoenix Suns,120,112,0,401810841
+2026-03-17T00:00:00Z,2026,nba,Chicago Bulls,Memphis Grizzlies,132,107,0,401810842
+2026-03-17T00:00:00Z,2026,nba,New Orleans Pelicans,Dallas Mavericks,129,111,0,401810843
+2026-03-17T01:30:00Z,2026,nba,Houston Rockets,Los Angeles Lakers,92,100,0,401810844
+2026-03-17T02:00:00Z,2026,nba,LA Clippers,San Antonio Spurs,115,119,0,401810845
+2026-03-17T23:00:00Z,2026,nba,Charlotte Hornets,Miami Heat,136,106,0,401810846
+2026-03-17T23:00:00Z,2026,nba,Orlando Magic,Oklahoma City Thunder,108,113,0,401810847
+2026-03-17T23:00:00Z,2026,nba,Washington Wizards,Detroit Pistons,117,130,0,401810848
+2026-03-17T23:30:00Z,2026,nba,New York Knicks,Indiana Pacers,136,110,0,401810849
+2026-03-18T00:00:00Z,2026,nba,Milwaukee Bucks,Cleveland Cavaliers,116,123,0,401810850
+2026-03-18T00:00:00Z,2026,nba,Minnesota Timberwolves,Phoenix Suns,116,104,0,401810851
+2026-03-18T02:00:00Z,2026,nba,Denver Nuggets,Philadelphia 76ers,124,96,0,401810852
+2026-03-18T02:00:00Z,2026,nba,Sacramento Kings,San Antonio Spurs,104,132,0,401810853
+2026-03-18T23:00:00Z,2026,nba,Boston Celtics,Golden State Warriors,120,99,0,401810854
+2026-03-18T23:30:00Z,2026,nba,Brooklyn Nets,Oklahoma City Thunder,92,121,0,401810855
+2026-03-18T23:30:00Z,2026,nba,Indiana Pacers,Portland Trail Blazers,119,127,0,401810856
+2026-03-19T00:00:00Z,2026,nba,Chicago Bulls,Toronto Raptors,109,139,0,401810857
+2026-03-19T00:00:00Z,2026,nba,Minnesota Timberwolves,Utah Jazz,147,111,0,401810859
+2026-03-19T00:00:00Z,2026,nba,New Orleans Pelicans,LA Clippers,124,109,0,401810860
+2026-03-19T00:30:00Z,2026,nba,Dallas Mavericks,Atlanta Hawks,120,135,0,401810861
+2026-03-19T00:30:00Z,2026,nba,Memphis Grizzlies,Denver Nuggets,125,118,0,401858693
+2026-03-19T01:30:00Z,2026,nba,Houston Rockets,Los Angeles Lakers,116,124,0,401810862
+2026-03-19T23:00:00Z,2026,nba,Charlotte Hornets,Orlando Magic,130,111,0,401810863
+2026-03-19T23:00:00Z,2026,nba,Washington Wizards,Detroit Pistons,95,117,0,401810864
+2026-03-20T00:00:00Z,2026,nba,Miami Heat,Los Angeles Lakers,126,134,0,401810865
+2026-03-20T00:00:00Z,2026,nba,Chicago Bulls,Cleveland Cavaliers,110,115,0,401810866
+2026-03-20T00:00:00Z,2026,nba,New Orleans Pelicans,LA Clippers,105,99,0,401810867
+2026-03-20T00:00:00Z,2026,nba,San Antonio Spurs,Phoenix Suns,101,100,0,401810868
+2026-03-20T01:00:00Z,2026,nba,Utah Jazz,Milwaukee Bucks,128,96,0,401810869
+2026-03-20T02:00:00Z,2026,nba,Sacramento Kings,Philadelphia 76ers,118,139,0,401810870
+2026-03-20T23:30:00Z,2026,nba,Brooklyn Nets,New York Knicks,92,93,0,401810871
+2026-03-20T23:30:00Z,2026,nba,Detroit Pistons,Golden State Warriors,115,101,0,401810872
+2026-03-21T00:00:00Z,2026,nba,Houston Rockets,Atlanta Hawks,117,95,0,401810873
+2026-03-21T00:00:00Z,2026,nba,Memphis Grizzlies,Boston Celtics,112,117,0,401810874
+2026-03-21T00:00:00Z,2026,nba,Minnesota Timberwolves,Portland Trail Blazers,104,108,0,401810875
+2026-03-21T01:00:00Z,2026,nba,Denver Nuggets,Toronto Raptors,121,115,0,401810876
+2026-03-21T21:00:00Z,2026,nba,Washington Wizards,Oklahoma City Thunder,111,132,0,401810877
+2026-03-21T23:00:00Z,2026,nba,Charlotte Hornets,Memphis Grizzlies,124,101,0,401810878
+2026-03-21T23:00:00Z,2026,nba,Orlando Magic,Los Angeles Lakers,104,105,0,401810879
+2026-03-21T23:00:00Z,2026,nba,New Orleans Pelicans,Cleveland Cavaliers,106,111,0,401810880
+2026-03-22T00:00:00Z,2026,nba,Atlanta Hawks,Golden State Warriors,126,110,0,401810881
+2026-03-22T00:00:00Z,2026,nba,Houston Rockets,Miami Heat,123,122,0,401810882
+2026-03-22T00:00:00Z,2026,nba,San Antonio Spurs,Indiana Pacers,134,119,0,401810883
+2026-03-22T00:30:00Z,2026,nba,Dallas Mavericks,LA Clippers,131,138,0,401810884
+2026-03-22T01:30:00Z,2026,nba,Utah Jazz,Philadelphia 76ers,116,126,0,401810885
+2026-03-22T02:00:00Z,2026,nba,Phoenix Suns,Milwaukee Bucks,105,108,0,401810886
+2026-03-22T21:00:00Z,2026,nba,Denver Nuggets,Portland Trail Blazers,128,112,0,401810887
+2026-03-22T22:00:00Z,2026,nba,Sacramento Kings,Brooklyn Nets,126,122,0,401810888
+2026-03-22T23:30:00Z,2026,nba,New York Knicks,Washington Wizards,145,113,0,401810889
+2026-03-23T00:00:00Z,2026,nba,Boston Celtics,Minnesota Timberwolves,92,102,0,401810890
+2026-03-23T01:00:00Z,2026,nba,Phoenix Suns,Toronto Raptors,120,98,0,401810891
+2026-03-23T23:00:00Z,2026,nba,Detroit Pistons,Los Angeles Lakers,113,110,0,401810893
+2026-03-23T23:00:00Z,2026,nba,Orlando Magic,Indiana Pacers,126,128,0,401810894
+2026-03-23T23:00:00Z,2026,nba,Philadelphia 76ers,Oklahoma City Thunder,103,123,0,401810895
+2026-03-23T23:00:00Z,2026,nba,Miami Heat,San Antonio Spurs,111,136,0,401810896
+2026-03-23T23:30:00Z,2026,nba,Atlanta Hawks,Memphis Grizzlies,146,107,0,401810892
+2026-03-24T00:00:00Z,2026,nba,Chicago Bulls,Houston Rockets,132,124,0,401810897
+2026-03-24T01:00:00Z,2026,nba,Utah Jazz,Toronto Raptors,127,143,0,401810898
+2026-03-24T01:30:00Z,2026,nba,Dallas Mavericks,Golden State Warriors,131,137,0,401810899
+2026-03-24T02:00:00Z,2026,nba,Portland Trail Blazers,Brooklyn Nets,134,99,0,401810900
+2026-03-24T02:30:00Z,2026,nba,LA Clippers,Milwaukee Bucks,129,96,0,401810901
+2026-03-24T23:00:00Z,2026,nba,Charlotte Hornets,Sacramento Kings,134,90,0,401810902
+2026-03-24T23:30:00Z,2026,nba,New York Knicks,New Orleans Pelicans,121,116,0,401810903
+2026-03-25T00:00:00Z,2026,nba,Cleveland Cavaliers,Orlando Magic,136,131,0,401810904
+2026-03-25T03:00:00Z,2026,nba,Phoenix Suns,Denver Nuggets,123,125,0,401810905
+2026-03-25T23:00:00Z,2026,nba,Detroit Pistons,Atlanta Hawks,129,130,0,401810906
+2026-03-25T23:00:00Z,2026,nba,Indiana Pacers,Los Angeles Lakers,130,137,0,401810907
+2026-03-25T23:00:00Z,2026,nba,Philadelphia 76ers,Chicago Bulls,157,137,0,401810908
+2026-03-25T23:30:00Z,2026,nba,Boston Celtics,Oklahoma City Thunder,119,109,0,401810909
+2026-03-25T23:30:00Z,2026,nba,Cleveland Cavaliers,Miami Heat,103,120,0,401810910
+2026-03-26T00:00:00Z,2026,nba,Memphis Grizzlies,San Antonio Spurs,98,123,0,401810911
+2026-03-26T01:00:00Z,2026,nba,Utah Jazz,Washington Wizards,110,133,0,401810912
+2026-03-26T01:42:00Z,2026,nba,Minnesota Timberwolves,Houston Rockets,110,108,0,401810913
+2026-03-26T02:00:00Z,2026,nba,Denver Nuggets,Dallas Mavericks,142,135,0,401810914
+2026-03-26T02:00:00Z,2026,nba,Golden State Warriors,Brooklyn Nets,109,106,0,401810915
+2026-03-26T02:00:00Z,2026,nba,Portland Trail Blazers,Milwaukee Bucks,130,99,0,401810916
+2026-03-26T02:30:00Z,2026,nba,LA Clippers,Toronto Raptors,119,94,0,401810917
+2026-03-26T23:00:00Z,2026,nba,Charlotte Hornets,New York Knicks,114,103,0,401810918
+2026-03-26T23:00:00Z,2026,nba,Detroit Pistons,New Orleans Pelicans,129,108,0,401810919
+2026-03-26T23:00:00Z,2026,nba,Orlando Magic,Sacramento Kings,121,117,0,401810920
+2026-03-27T23:00:00Z,2026,nba,Indiana Pacers,LA Clippers,113,114,0,401810921
+2026-03-27T23:30:00Z,2026,nba,Boston Celtics,Atlanta Hawks,109,102,0,401810922
+2026-03-27T23:30:00Z,2026,nba,Cleveland Cavaliers,Miami Heat,149,128,0,401810923
+2026-03-28T00:00:00Z,2026,nba,Memphis Grizzlies,Houston Rockets,109,119,0,401810924
+2026-03-28T00:00:00Z,2026,nba,Oklahoma City Thunder,Chicago Bulls,131,113,0,401810925
+2026-03-28T00:30:00Z,2026,nba,Toronto Raptors,New Orleans Pelicans,119,106,0,401810926
+2026-03-28T01:00:00Z,2026,nba,Denver Nuggets,Utah Jazz,135,129,0,401810927
+2026-03-28T02:00:00Z,2026,nba,Golden State Warriors,Washington Wizards,131,126,0,401810928
+2026-03-28T02:00:00Z,2026,nba,Portland Trail Blazers,Dallas Mavericks,93,100,0,401810929
+2026-03-28T02:30:00Z,2026,nba,Los Angeles Lakers,Brooklyn Nets,116,99,0,401810930
+2026-03-28T19:00:00Z,2026,nba,Milwaukee Bucks,San Antonio Spurs,95,127,0,401810931
+2026-03-28T21:30:00Z,2026,nba,Minnesota Timberwolves,Detroit Pistons,87,109,0,401810935
+2026-03-28T22:00:00Z,2026,nba,Charlotte Hornets,Philadelphia 76ers,114,118,0,401810932
+2026-03-28T23:30:00Z,2026,nba,Atlanta Hawks,Sacramento Kings,123,113,0,401810933
+2026-03-29T00:00:00Z,2026,nba,Memphis Grizzlies,Chicago Bulls,125,124,0,401810934
+2026-03-29T02:00:00Z,2026,nba,Phoenix Suns,Utah Jazz,134,109,0,401810936
+2026-03-29T19:30:00Z,2026,nba,Milwaukee Bucks,LA Clippers,113,127,0,401810937
+2026-03-29T21:00:00Z,2026,nba,Indiana Pacers,Miami Heat,135,118,0,401810938
+2026-03-29T22:00:00Z,2026,nba,Brooklyn Nets,Sacramento Kings,116,99,0,401810939
+2026-03-29T22:00:00Z,2026,nba,Charlotte Hornets,Boston Celtics,99,114,0,401810940
+2026-03-29T22:00:00Z,2026,nba,Toronto Raptors,Orlando Magic,139,87,0,401810941
+2026-03-29T22:00:00Z,2026,nba,Portland Trail Blazers,Washington Wizards,123,88,0,401810942
+2026-03-29T23:00:00Z,2026,nba,New Orleans Pelicans,Houston Rockets,102,134,0,401810943
+2026-03-29T23:30:00Z,2026,nba,Oklahoma City Thunder,New York Knicks,111,100,0,401810944
+2026-03-30T02:00:00Z,2026,nba,Denver Nuggets,Golden State Warriors,116,93,0,401810945
+2026-03-30T23:00:00Z,2026,nba,Miami Heat,Philadelphia 76ers,119,109,0,401810946
+2026-03-30T23:30:00Z,2026,nba,Atlanta Hawks,Boston Celtics,112,102,0,401810947
+2026-03-31T00:00:00Z,2026,nba,Memphis Grizzlies,Phoenix Suns,105,131,0,401810948
+2026-03-31T00:00:00Z,2026,nba,San Antonio Spurs,Chicago Bulls,129,114,0,401810949
+2026-03-31T00:30:00Z,2026,nba,Dallas Mavericks,Minnesota Timberwolves,94,124,0,401810950
+2026-03-31T01:00:00Z,2026,nba,Utah Jazz,Cleveland Cavaliers,113,122,0,401810951
+2026-03-31T01:30:00Z,2026,nba,Oklahoma City Thunder,Detroit Pistons,114,110,0,401810952
+2026-03-31T02:00:00Z,2026,nba,Los Angeles Lakers,Washington Wizards,120,101,0,401810953
+2026-03-31T23:00:00Z,2026,nba,Orlando Magic,Phoenix Suns,115,111,0,401810954
+2026-03-31T23:30:00Z,2026,nba,Brooklyn Nets,Charlotte Hornets,86,117,0,401810955
+2026-04-01T00:00:00Z,2026,nba,Detroit Pistons,Toronto Raptors,127,116,0,401810956
+2026-04-01T00:00:00Z,2026,nba,Houston Rockets,New York Knicks,111,94,0,401810957
+2026-04-01T00:00:00Z,2026,nba,Milwaukee Bucks,Dallas Mavericks,123,99,0,401858694
+2026-04-01T02:30:00Z,2026,nba,Los Angeles Lakers,Cleveland Cavaliers,127,113,0,401810958
+2026-04-01T03:00:00Z,2026,nba,LA Clippers,Portland Trail Blazers,104,114,0,401810959
+2026-04-01T23:00:00Z,2026,nba,Washington Wizards,Philadelphia 76ers,131,153,0,401810960
+2026-04-01T23:00:00Z,2026,nba,Orlando Magic,Atlanta Hawks,101,130,0,401810962
+2026-04-01T23:30:00Z,2026,nba,Miami Heat,Boston Celtics,129,147,0,401810961
+2026-04-02T00:00:00Z,2026,nba,Memphis Grizzlies,New York Knicks,119,130,0,401810858
+2026-04-02T00:00:00Z,2026,nba,Toronto Raptors,Sacramento Kings,115,123,0,401810963
+2026-04-02T00:00:00Z,2026,nba,Chicago Bulls,Indiana Pacers,126,145,0,401810964
+2026-04-02T00:00:00Z,2026,nba,Houston Rockets,Milwaukee Bucks,119,113,0,401810965
+2026-04-02T01:00:00Z,2026,nba,Utah Jazz,Denver Nuggets,117,130,0,401810967
+2026-04-02T02:00:00Z,2026,nba,Golden State Warriors,San Antonio Spurs,113,127,0,401810968
+2026-04-02T23:00:00Z,2026,nba,Charlotte Hornets,Phoenix Suns,127,107,0,401810969
+2026-04-02T23:00:00Z,2026,nba,Detroit Pistons,Minnesota Timberwolves,113,108,0,401810970
+2026-04-03T01:30:00Z,2026,nba,Oklahoma City Thunder,Los Angeles Lakers,139,96,0,401810971
+2026-04-03T02:00:00Z,2026,nba,Golden State Warriors,Cleveland Cavaliers,111,118,0,401810972
+2026-04-03T02:00:00Z,2026,nba,Portland Trail Blazers,New Orleans Pelicans,118,106,0,401810973
+2026-04-03T02:30:00Z,2026,nba,LA Clippers,San Antonio Spurs,99,118,0,401810974
+2026-04-03T23:00:00Z,2026,nba,Charlotte Hornets,Indiana Pacers,129,108,0,401810975
+2026-04-03T23:00:00Z,2026,nba,Philadelphia 76ers,Minnesota Timberwolves,115,103,0,401810976
+2026-04-03T23:30:00Z,2026,nba,Brooklyn Nets,Atlanta Hawks,107,141,0,401810977
+2026-04-03T23:30:00Z,2026,nba,New York Knicks,Chicago Bulls,136,96,0,401810978
+2026-04-04T00:00:00Z,2026,nba,Houston Rockets,Utah Jazz,140,106,0,401810979
+2026-04-04T00:00:00Z,2026,nba,Memphis Grizzlies,Toronto Raptors,96,128,0,401810980
+2026-04-04T00:00:00Z,2026,nba,Milwaukee Bucks,Boston Celtics,101,133,0,401810981
+2026-04-04T00:30:00Z,2026,nba,Dallas Mavericks,Orlando Magic,127,138,0,401810982
+2026-04-04T02:00:00Z,2026,nba,Sacramento Kings,New Orleans Pelicans,117,113,0,401810983
+2026-04-04T19:00:00Z,2026,nba,Miami Heat,Washington Wizards,152,136,0,401810984
+2026-04-04T19:00:00Z,2026,nba,Denver Nuggets,San Antonio Spurs,136,134,0,401810985
+2026-04-04T23:00:00Z,2026,nba,Philadelphia 76ers,Detroit Pistons,93,116,0,401810986
+2026-04-05T19:30:00Z,2026,nba,Boston Celtics,Toronto Raptors,115,101,0,401810987
+2026-04-05T19:30:00Z,2026,nba,Brooklyn Nets,Washington Wizards,121,115,0,401810988
+2026-04-05T19:30:00Z,2026,nba,Chicago Bulls,Phoenix Suns,110,120,0,401810989
+2026-04-05T19:30:00Z,2026,nba,Milwaukee Bucks,Memphis Grizzlies,131,115,0,401810990
+2026-04-05T22:00:00Z,2026,nba,Cleveland Cavaliers,Indiana Pacers,117,108,0,401810991
+2026-04-05T23:00:00Z,2026,nba,Minnesota Timberwolves,Charlotte Hornets,108,122,0,401810992
+2026-04-05T23:00:00Z,2026,nba,New Orleans Pelicans,Orlando Magic,108,112,0,401810993
+2026-04-05T23:00:00Z,2026,nba,Oklahoma City Thunder,Utah Jazz,146,111,0,401810994
+2026-04-05T23:30:00Z,2026,nba,Dallas Mavericks,Los Angeles Lakers,134,128,0,401810995
+2026-04-06T01:00:00Z,2026,nba,Sacramento Kings,LA Clippers,109,138,0,401810996
+2026-04-06T02:00:00Z,2026,nba,Golden State Warriors,Houston Rockets,116,117,0,401810997
+2026-04-06T23:00:00Z,2026,nba,Atlanta Hawks,New York Knicks,105,108,0,401810998
+2026-04-06T23:00:00Z,2026,nba,Orlando Magic,Detroit Pistons,123,107,0,401810999
+2026-04-07T00:00:00Z,2026,nba,Memphis Grizzlies,Cleveland Cavaliers,126,142,0,401811000
+2026-04-07T00:00:00Z,2026,nba,San Antonio Spurs,Philadelphia 76ers,115,102,0,401811001
+2026-04-07T01:00:00Z,2026,nba,Denver Nuggets,Portland Trail Blazers,137,132,0,401811002
+2026-04-07T23:00:00Z,2026,nba,Washington Wizards,Chicago Bulls,98,129,0,401811003
+2026-04-07T23:00:00Z,2026,nba,Indiana Pacers,Minnesota Timberwolves,104,124,0,401811007
+2026-04-07T23:30:00Z,2026,nba,Brooklyn Nets,Milwaukee Bucks,96,90,0,401811005
+2026-04-07T23:30:00Z,2026,nba,Toronto Raptors,Miami Heat,121,95,0,401811006
+2026-04-08T00:00:00Z,2026,nba,Boston Celtics,Charlotte Hornets,113,102,0,401811004
+2026-04-08T00:00:00Z,2026,nba,New Orleans Pelicans,Utah Jazz,156,137,0,401811008
+2026-04-08T02:00:00Z,2026,nba,Golden State Warriors,Sacramento Kings,110,105,0,401811009
+2026-04-08T02:30:00Z,2026,nba,Los Angeles Lakers,Oklahoma City Thunder,87,123,0,401811010
+2026-04-08T02:30:00Z,2026,nba,LA Clippers,Dallas Mavericks,116,103,0,401811011
+2026-04-08T03:00:00Z,2026,nba,Phoenix Suns,Houston Rockets,105,119,0,401811012
+2026-04-08T23:00:00Z,2026,nba,Cleveland Cavaliers,Atlanta Hawks,122,116,0,401811013
+2026-04-08T23:00:00Z,2026,nba,Orlando Magic,Minnesota Timberwolves,132,120,0,401811014
+2026-04-08T23:00:00Z,2026,nba,Detroit Pistons,Milwaukee Bucks,137,111,0,401811015
+2026-04-09T01:00:00Z,2026,nba,Denver Nuggets,Memphis Grizzlies,136,119,0,401811017
+2026-04-09T01:30:00Z,2026,nba,San Antonio Spurs,Portland Trail Blazers,112,101,0,401811016
+2026-04-09T02:00:00Z,2026,nba,LA Clippers,Oklahoma City Thunder,110,128,0,401811018
+2026-04-09T02:00:00Z,2026,nba,Phoenix Suns,Dallas Mavericks,112,107,0,401811019
+2026-04-09T23:00:00Z,2026,nba,Toronto Raptors,Miami Heat,128,114,0,401811020
+2026-04-09T23:00:00Z,2026,nba,Washington Wizards,Chicago Bulls,108,119,0,401811021
+2026-04-09T23:30:00Z,2026,nba,Brooklyn Nets,Indiana Pacers,94,123,0,401811022
+2026-04-09T23:30:00Z,2026,nba,New York Knicks,Boston Celtics,112,106,0,401811023
+2026-04-10T00:00:00Z,2026,nba,Houston Rockets,Philadelphia 76ers,113,102,0,401811024
+2026-04-10T02:00:00Z,2026,nba,Golden State Warriors,Los Angeles Lakers,103,119,0,401811025
+2026-04-10T23:00:00Z,2026,nba,Charlotte Hornets,Detroit Pistons,100,118,0,401811026
+2026-04-10T23:00:00Z,2026,nba,Washington Wizards,Miami Heat,117,140,0,401811027
+2026-04-10T23:00:00Z,2026,nba,Atlanta Hawks,Cleveland Cavaliers,124,102,0,401811028
+2026-04-10T23:30:00Z,2026,nba,Boston Celtics,New Orleans Pelicans,144,118,0,401811029
+2026-04-10T23:30:00Z,2026,nba,Indiana Pacers,Philadelphia 76ers,94,105,0,401811030
+2026-04-10T23:30:00Z,2026,nba,New York Knicks,Toronto Raptors,112,95,0,401811031
+2026-04-11T00:00:00Z,2026,nba,Chicago Bulls,Orlando Magic,103,127,0,401811032
+2026-04-11T00:00:00Z,2026,nba,Milwaukee Bucks,Brooklyn Nets,125,108,0,401811034
+2026-04-11T00:00:00Z,2026,nba,San Antonio Spurs,Dallas Mavericks,139,120,0,401811035
+2026-04-11T01:00:00Z,2026,nba,Denver Nuggets,Oklahoma City Thunder,127,107,0,401811037
+2026-04-11T01:30:00Z,2026,nba,Houston Rockets,Minnesota Timberwolves,132,136,0,401811033
+2026-04-11T01:30:00Z,2026,nba,Utah Jazz,Memphis Grizzlies,147,101,0,401811036
+2026-04-11T02:00:00Z,2026,nba,Portland Trail Blazers,LA Clippers,116,97,0,401811038
+2026-04-11T02:00:00Z,2026,nba,Sacramento Kings,Golden State Warriors,124,118,0,401811039
+2026-04-11T02:30:00Z,2026,nba,Los Angeles Lakers,Phoenix Suns,101,73,0,401811040
+2026-04-12T22:00:00Z,2026,nba,Boston Celtics,Orlando Magic,113,108,0,401811041
+2026-04-12T22:00:00Z,2026,nba,Cleveland Cavaliers,Washington Wizards,130,117,0,401811042
+2026-04-12T22:00:00Z,2026,nba,Indiana Pacers,Detroit Pistons,121,133,0,401811043
+2026-04-12T22:00:00Z,2026,nba,Miami Heat,Atlanta Hawks,143,117,0,401811044
+2026-04-12T22:00:00Z,2026,nba,New York Knicks,Charlotte Hornets,96,110,0,401811045
+2026-04-12T22:00:00Z,2026,nba,Philadelphia 76ers,Milwaukee Bucks,126,106,0,401811046
+2026-04-12T22:00:00Z,2026,nba,Toronto Raptors,Brooklyn Nets,136,101,0,401811047
+2026-04-13T00:30:00Z,2026,nba,Dallas Mavericks,Chicago Bulls,149,128,0,401811048
+2026-04-13T00:30:00Z,2026,nba,Houston Rockets,Memphis Grizzlies,132,101,0,401811049
+2026-04-13T00:30:00Z,2026,nba,Minnesota Timberwolves,New Orleans Pelicans,132,126,0,401811050
+2026-04-13T00:30:00Z,2026,nba,Oklahoma City Thunder,Phoenix Suns,103,135,0,401811051
+2026-04-13T00:30:00Z,2026,nba,San Antonio Spurs,Denver Nuggets,118,128,0,401811052
+2026-04-13T00:30:00Z,2026,nba,Los Angeles Lakers,Utah Jazz,131,107,0,401811053
+2026-04-13T00:30:00Z,2026,nba,LA Clippers,Golden State Warriors,115,110,0,401811054
+2026-04-13T00:30:00Z,2026,nba,Portland Trail Blazers,Sacramento Kings,122,110,0,401811055
+2026-04-14T23:30:00Z,2026,nba,Charlotte Hornets,Miami Heat,127,126,0,401866755
+2026-04-15T02:00:00Z,2026,nba,Phoenix Suns,Portland Trail Blazers,110,114,0,401866754
+2026-04-15T23:30:00Z,2026,nba,Philadelphia 76ers,Orlando Magic,109,97,0,401866757
+2026-04-16T02:00:00Z,2026,nba,LA Clippers,Golden State Warriors,121,126,0,401866756
+2026-04-17T23:30:00Z,2026,nba,Orlando Magic,Charlotte Hornets,121,90,0,401866758
+2026-04-18T02:00:00Z,2026,nba,Phoenix Suns,Golden State Warriors,111,96,0,401866759
+2026-04-18T17:00:00Z,2026,nba,Cleveland Cavaliers,Toronto Raptors,126,113,0,401869187
+2026-04-18T19:30:00Z,2026,nba,Denver Nuggets,Minnesota Timberwolves,116,105,0,401869188
+2026-04-18T22:00:00Z,2026,nba,New York Knicks,Atlanta Hawks,113,102,0,401869189
+2026-04-19T00:30:00Z,2026,nba,Los Angeles Lakers,Houston Rockets,107,98,0,401869190
+2026-04-19T17:00:00Z,2026,nba,Boston Celtics,Philadelphia 76ers,123,91,0,401869191
+2026-04-19T19:30:00Z,2026,nba,Oklahoma City Thunder,Phoenix Suns,119,84,0,401869192
+2026-04-19T22:30:00Z,2026,nba,Detroit Pistons,Orlando Magic,101,112,0,401869193
+2026-04-20T01:00:00Z,2026,nba,San Antonio Spurs,Portland Trail Blazers,111,98,0,401869194
+2026-04-20T23:00:00Z,2026,nba,Cleveland Cavaliers,Toronto Raptors,115,105,0,401869369
+2026-04-21T00:00:00Z,2026,nba,New York Knicks,Atlanta Hawks,106,107,0,401869387
+2026-04-21T02:30:00Z,2026,nba,Denver Nuggets,Minnesota Timberwolves,114,119,0,401869395
+2026-04-21T23:00:00Z,2026,nba,Boston Celtics,Philadelphia 76ers,97,111,0,401869396
+2026-04-22T00:00:00Z,2026,nba,San Antonio Spurs,Portland Trail Blazers,103,106,0,401869378
+2026-04-22T02:30:00Z,2026,nba,Los Angeles Lakers,Houston Rockets,101,94,0,401869397
+2026-04-22T23:00:00Z,2026,nba,Detroit Pistons,Orlando Magic,98,83,0,401869411
+2026-04-23T01:30:00Z,2026,nba,Oklahoma City Thunder,Phoenix Suns,120,107,0,401869368
+2026-04-23T23:00:00Z,2026,nba,Atlanta Hawks,New York Knicks,109,108,0,401869389
+2026-04-24T00:00:00Z,2026,nba,Toronto Raptors,Cleveland Cavaliers,126,104,0,401869375
+2026-04-24T01:30:00Z,2026,nba,Minnesota Timberwolves,Denver Nuggets,113,96,0,401869398
+2026-04-24T23:00:00Z,2026,nba,Philadelphia 76ers,Boston Celtics,100,108,0,401869404
+2026-04-25T00:00:00Z,2026,nba,Houston Rockets,Los Angeles Lakers,108,112,0,401869400
+2026-04-25T02:30:00Z,2026,nba,Portland Trail Blazers,San Antonio Spurs,108,120,0,401869382
+2026-04-25T17:00:00Z,2026,nba,Orlando Magic,Detroit Pistons,113,105,0,401869414
+2026-04-25T19:30:00Z,2026,nba,Phoenix Suns,Oklahoma City Thunder,109,121,0,401869370
+2026-04-25T22:00:00Z,2026,nba,Atlanta Hawks,New York Knicks,98,114,0,401869391
+2026-04-26T00:30:00Z,2026,nba,Minnesota Timberwolves,Denver Nuggets,112,96,0,401869399
+2026-04-26T17:00:00Z,2026,nba,Toronto Raptors,Cleveland Cavaliers,93,89,0,401869377
+2026-04-26T19:30:00Z,2026,nba,Portland Trail Blazers,San Antonio Spurs,93,114,0,401869385
+2026-04-26T23:00:00Z,2026,nba,Philadelphia 76ers,Boston Celtics,96,128,0,401869406
+2026-04-27T01:30:00Z,2026,nba,Houston Rockets,Los Angeles Lakers,115,96,0,401869405
+2026-04-28T00:00:00Z,2026,nba,Orlando Magic,Detroit Pistons,94,88,0,401869415
+2026-04-28T01:30:00Z,2026,nba,Phoenix Suns,Oklahoma City Thunder,122,131,0,401869373
+2026-04-28T02:30:00Z,2026,nba,Denver Nuggets,Minnesota Timberwolves,125,113,0,401869401
+2026-04-28T23:00:00Z,2026,nba,Boston Celtics,Philadelphia 76ers,97,113,0,401869408
+2026-04-29T00:00:00Z,2026,nba,New York Knicks,Atlanta Hawks,126,97,0,401869392
+2026-04-29T01:30:00Z,2026,nba,San Antonio Spurs,Portland Trail Blazers,114,95,0,401869386
+2026-04-29T23:00:00Z,2026,nba,Detroit Pistons,Orlando Magic,116,109,0,401869416
+2026-04-29T23:30:00Z,2026,nba,Cleveland Cavaliers,Toronto Raptors,125,120,0,401869380
+2026-04-30T02:00:00Z,2026,nba,Los Angeles Lakers,Houston Rockets,93,99,0,401869407
+2026-04-30T23:00:00Z,2026,nba,Atlanta Hawks,New York Knicks,89,140,0,401869393
+2026-05-01T00:00:00Z,2026,nba,Philadelphia 76ers,Boston Celtics,106,93,0,401869410
+2026-05-01T01:30:00Z,2026,nba,Minnesota Timberwolves,Denver Nuggets,110,98,0,401869402
+2026-05-01T23:00:00Z,2026,nba,Orlando Magic,Detroit Pistons,79,93,0,401869417
+2026-05-01T23:30:00Z,2026,nba,Toronto Raptors,Cleveland Cavaliers,112,110,0,401869381
+2026-05-02T01:30:00Z,2026,nba,Houston Rockets,Los Angeles Lakers,78,98,0,401869409
+2026-05-02T23:30:00Z,2026,nba,Boston Celtics,Philadelphia 76ers,100,109,0,401869412
+2026-05-03T19:30:00Z,2026,nba,Detroit Pistons,Orlando Magic,116,94,0,401869418
+2026-05-03T23:30:00Z,2026,nba,Cleveland Cavaliers,Toronto Raptors,114,102,0,401869384
+2026-05-05T00:00:00Z,2026,nba,New York Knicks,Philadelphia 76ers,137,98,0,401871159
+2026-05-05T01:30:00Z,2026,nba,San Antonio Spurs,Minnesota Timberwolves,102,104,0,401871152
+2026-05-05T23:00:00Z,2026,nba,Detroit Pistons,Cleveland Cavaliers,111,101,0,401871333
+2026-05-06T00:30:00Z,2026,nba,Oklahoma City Thunder,Los Angeles Lakers,108,90,0,401871326
+2026-05-06T23:00:00Z,2026,nba,New York Knicks,Philadelphia 76ers,108,102,0,401871160
+2026-05-07T01:30:00Z,2026,nba,San Antonio Spurs,Minnesota Timberwolves,133,95,0,401871153
+2026-05-07T23:00:00Z,2026,nba,Detroit Pistons,Cleveland Cavaliers,107,97,0,401871334
+2026-05-08T01:30:00Z,2026,nba,Oklahoma City Thunder,Los Angeles Lakers,125,107,0,401871327
+2026-05-08T23:00:00Z,2026,nba,Philadelphia 76ers,New York Knicks,94,108,0,401871161
+2026-05-09T01:30:00Z,2026,nba,Minnesota Timberwolves,San Antonio Spurs,108,115,0,401871154
+2026-05-09T19:00:00Z,2026,nba,Cleveland Cavaliers,Detroit Pistons,116,109,0,401871335
+2026-05-10T00:30:00Z,2026,nba,Los Angeles Lakers,Oklahoma City Thunder,108,131,0,401871328
+2026-05-10T19:30:00Z,2026,nba,Philadelphia 76ers,New York Knicks,114,144,0,401871162
+2026-05-10T23:30:00Z,2026,nba,Minnesota Timberwolves,San Antonio Spurs,114,109,0,401871155
+2026-05-12T00:00:00Z,2026,nba,Cleveland Cavaliers,Detroit Pistons,112,103,0,401871336
+2026-05-12T02:30:00Z,2026,nba,Los Angeles Lakers,Oklahoma City Thunder,110,115,0,401871329
+2026-05-13T00:00:00Z,2026,nba,San Antonio Spurs,Minnesota Timberwolves,126,97,0,401871156
+2026-05-14T00:00:00Z,2026,nba,Detroit Pistons,Cleveland Cavaliers,113,117,0,401871337
+2026-05-15T23:00:00Z,2026,nba,Cleveland Cavaliers,Detroit Pistons,94,115,0,401871338
+2026-05-16T01:30:00Z,2026,nba,Minnesota Timberwolves,San Antonio Spurs,109,139,0,401871157
+2026-05-18T00:00:00Z,2026,nba,Detroit Pistons,Cleveland Cavaliers,94,125,0,401871339
+2026-05-19T00:30:00Z,2026,nba,Oklahoma City Thunder,San Antonio Spurs,115,122,0,401873197
+2026-05-20T00:00:00Z,2026,nba,New York Knicks,Cleveland Cavaliers,115,104,0,401873341
+2026-05-21T00:30:00Z,2026,nba,Oklahoma City Thunder,San Antonio Spurs,122,113,0,401873198
+2026-05-22T00:00:00Z,2026,nba,New York Knicks,Cleveland Cavaliers,109,93,0,401873342
+2026-05-23T00:30:00Z,2026,nba,San Antonio Spurs,Oklahoma City Thunder,108,123,0,401873199
+2026-05-24T00:00:00Z,2026,nba,Cleveland Cavaliers,New York Knicks,108,121,0,401873343
+2026-05-25T00:00:00Z,2026,nba,San Antonio Spurs,Oklahoma City Thunder,103,82,0,401873200
+2026-05-26T00:00:00Z,2026,nba,Cleveland Cavaliers,New York Knicks,93,130,0,401873344
+2026-05-27T00:30:00Z,2026,nba,Oklahoma City Thunder,San Antonio Spurs,127,114,0,401873201
+2026-05-29T00:30:00Z,2026,nba,San Antonio Spurs,Oklahoma City Thunder,118,91,0,401873202
+2026-05-31T00:00:00Z,2026,nba,Oklahoma City Thunder,San Antonio Spurs,103,111,0,401873203
+2026-06-04T00:30:00Z,2026,nba,San Antonio Spurs,New York Knicks,95,105,0,401859963
+2026-06-06T00:30:00Z,2026,nba,San Antonio Spurs,New York Knicks,104,105,0,401859964
+2026-06-09T00:30:00Z,2026,nba,New York Knicks,San Antonio Spurs,111,115,0,401859965
+2026-06-11T00:30:00Z,2026,nba,New York Knicks,San Antonio Spurs,107,106,0,401859966
+2026-06-14T00:30:00Z,2026,nba,San Antonio Spurs,New York Knicks,90,94,0,401859967

@@ -1,0 +1,769 @@
+date,season,league,home,away,home_score,away_score,neutral,espn_id
+2026-01-01T00:00:00Z,2026,nhl,Columbus Blue Jackets,New Jersey Devils,2,3,0,401802978
+2026-01-01T01:00:00Z,2026,nhl,Dallas Stars,Buffalo Sabres,1,4,0,401802979
+2026-01-01T02:00:00Z,2026,nhl,Colorado Avalanche,St. Louis Blues,6,1,0,401802980
+2026-01-01T02:30:00Z,2026,nhl,Calgary Flames,Philadelphia Flyers,5,1,0,401802981
+2026-01-01T02:30:00Z,2026,nhl,Edmonton Oilers,Boston Bruins,2,6,0,401802982
+2026-01-01T18:00:00Z,2026,nhl,Ottawa Senators,Washington Capitals,4,3,0,401802983
+2026-01-01T20:00:00Z,2026,nhl,New York Islanders,Utah Mammoth,2,7,0,401802984
+2026-01-02T00:00:00Z,2026,nhl,Toronto Maple Leafs,Winnipeg Jets,6,5,0,401802985
+2026-01-02T00:00:00Z,2026,nhl,Pittsburgh Penguins,Detroit Red Wings,4,3,0,401802986
+2026-01-02T00:00:00Z,2026,nhl,Carolina Hurricanes,Montreal Canadiens,5,7,0,401802987
+2026-01-02T00:00:00Z,2026,nhl,Los Angeles Kings,Tampa Bay Lightning,3,5,0,401802990
+2026-01-02T01:30:00Z,2026,nhl,Chicago Blackhawks,Dallas Stars,4,3,0,401802988
+2026-01-02T03:00:00Z,2026,nhl,Seattle Kraken,Nashville Predators,4,1,0,401802989
+2026-01-02T20:00:00Z,2026,nhl,St. Louis Blues,Vegas Golden Knights,4,3,0,401802991
+2026-01-03T01:00:00Z,2026,nhl,Florida Panthers,New York Rangers,1,5,1,401802992
+2026-01-03T03:30:00Z,2026,nhl,Vancouver Canucks,Seattle Kraken,3,4,0,401802993
+2026-01-03T03:30:00Z,2026,nhl,Anaheim Ducks,Minnesota Wild,2,5,0,401802994
+2026-01-03T17:00:00Z,2026,nhl,Detroit Red Wings,Pittsburgh Penguins,1,4,0,401802995
+2026-01-03T20:00:00Z,2026,nhl,New Jersey Devils,Utah Mammoth,4,1,0,401802996
+2026-01-03T20:00:00Z,2026,nhl,Columbus Blue Jackets,Buffalo Sabres,5,1,0,401802997
+2026-01-03T20:30:00Z,2026,nhl,Edmonton Oilers,Philadelphia Flyers,2,5,0,401802998
+2026-01-03T21:00:00Z,2026,nhl,St. Louis Blues,Montreal Canadiens,2,0,0,401802999
+2026-01-03T21:00:00Z,2026,nhl,San Jose Sharks,Tampa Bay Lightning,3,7,0,401803000
+2026-01-04T00:00:00Z,2026,nhl,Ottawa Senators,Winnipeg Jets,4,2,0,401803001
+2026-01-04T00:00:00Z,2026,nhl,New York Islanders,Toronto Maple Leafs,4,3,0,401803002
+2026-01-04T00:00:00Z,2026,nhl,Washington Capitals,Chicago Blackhawks,2,3,0,401803003
+2026-01-04T00:00:00Z,2026,nhl,Carolina Hurricanes,Colorado Avalanche,3,5,0,401803004
+2026-01-04T00:00:00Z,2026,nhl,Calgary Flames,Nashville Predators,3,4,0,401803005
+2026-01-04T02:00:00Z,2026,nhl,Los Angeles Kings,Minnesota Wild,5,4,0,401803006
+2026-01-04T03:00:00Z,2026,nhl,Vancouver Canucks,Boston Bruins,2,3,0,401803007
+2026-01-04T19:00:00Z,2026,nhl,Dallas Stars,Montreal Canadiens,3,4,0,401803008
+2026-01-04T20:00:00Z,2026,nhl,Columbus Blue Jackets,Pittsburgh Penguins,4,5,0,401803009
+2026-01-04T22:00:00Z,2026,nhl,Florida Panthers,Colorado Avalanche,2,1,0,401803010
+2026-01-05T00:00:00Z,2026,nhl,New Jersey Devils,Carolina Hurricanes,1,3,0,401803011
+2026-01-05T00:00:00Z,2026,nhl,Chicago Blackhawks,Vegas Golden Knights,3,2,0,401803012
+2026-01-06T00:00:00Z,2026,nhl,New York Rangers,Utah Mammoth,2,3,0,401803013
+2026-01-06T00:00:00Z,2026,nhl,Washington Capitals,Anaheim Ducks,7,4,0,401803014
+2026-01-06T00:30:00Z,2026,nhl,Ottawa Senators,Detroit Red Wings,3,5,0,401803015
+2026-01-06T02:30:00Z,2026,nhl,Calgary Flames,Seattle Kraken,1,5,0,401803016
+2026-01-06T03:30:00Z,2026,nhl,Los Angeles Kings,Minnesota Wild,4,2,0,401803017
+2026-01-07T00:00:00Z,2026,nhl,Buffalo Sabres,Vancouver Canucks,5,3,0,401803018
+2026-01-07T00:00:00Z,2026,nhl,Tampa Bay Lightning,Colorado Avalanche,4,2,0,401803019
+2026-01-07T00:00:00Z,2026,nhl,Philadelphia Flyers,Anaheim Ducks,5,2,0,401803021
+2026-01-07T00:00:00Z,2026,nhl,Carolina Hurricanes,Dallas Stars,6,3,0,401803022
+2026-01-07T00:30:00Z,2026,nhl,New York Islanders,New Jersey Devils,9,0,0,401803020
+2026-01-07T00:30:00Z,2026,nhl,Toronto Maple Leafs,Florida Panthers,4,1,0,401803023
+2026-01-07T01:00:00Z,2026,nhl,Winnipeg Jets,Vegas Golden Knights,3,4,0,401803024
+2026-01-07T02:00:00Z,2026,nhl,Edmonton Oilers,Nashville Predators,6,2,0,401803025
+2026-01-07T03:00:00Z,2026,nhl,San Jose Sharks,Columbus Blue Jackets,5,2,0,401803026
+2026-01-07T03:00:00Z,2026,nhl,Seattle Kraken,Boston Bruins,7,4,0,401803027
+2026-01-08T00:00:00Z,2026,nhl,Washington Capitals,Dallas Stars,1,4,0,401803028
+2026-01-08T00:30:00Z,2026,nhl,Montreal Canadiens,Calgary Flames,4,1,0,401803029
+2026-01-08T02:30:00Z,2026,nhl,Chicago Blackhawks,St. Louis Blues,7,3,0,401803030
+2026-01-08T02:30:00Z,2026,nhl,Utah Mammoth,Ottawa Senators,3,1,0,401803031
+2026-01-08T03:30:00Z,2026,nhl,Los Angeles Kings,San Jose Sharks,3,4,0,401803032
+2026-01-09T00:00:00Z,2026,nhl,Boston Bruins,Calgary Flames,4,1,0,401803033
+2026-01-09T00:00:00Z,2026,nhl,Montreal Canadiens,Florida Panthers,6,2,0,401803034
+2026-01-09T00:00:00Z,2026,nhl,Detroit Red Wings,Vancouver Canucks,5,1,0,401803035
+2026-01-09T00:00:00Z,2026,nhl,New York Rangers,Buffalo Sabres,2,5,0,401803036
+2026-01-09T00:00:00Z,2026,nhl,Philadelphia Flyers,Toronto Maple Leafs,1,2,0,401803037
+2026-01-09T00:00:00Z,2026,nhl,Pittsburgh Penguins,New Jersey Devils,4,1,0,401803038
+2026-01-09T00:00:00Z,2026,nhl,Carolina Hurricanes,Anaheim Ducks,5,2,0,401803039
+2026-01-09T01:00:00Z,2026,nhl,Nashville Predators,New York Islanders,2,1,0,401803040
+2026-01-09T01:00:00Z,2026,nhl,Winnipeg Jets,Edmonton Oilers,3,4,0,401803041
+2026-01-09T02:00:00Z,2026,nhl,Colorado Avalanche,Ottawa Senators,8,2,0,401803042
+2026-01-09T03:00:00Z,2026,nhl,Vegas Golden Knights,Columbus Blue Jackets,5,3,0,401803043
+2026-01-09T03:00:00Z,2026,nhl,Seattle Kraken,Minnesota Wild,2,3,0,401803044
+2026-01-10T01:00:00Z,2026,nhl,Chicago Blackhawks,Washington Capitals,1,5,0,401803045
+2026-01-10T01:00:00Z,2026,nhl,Winnipeg Jets,Los Angeles Kings,5,1,0,401803046
+2026-01-10T02:00:00Z,2026,nhl,Utah Mammoth,St. Louis Blues,4,2,0,401803047
+2026-01-10T18:00:00Z,2026,nhl,Boston Bruins,New York Rangers,10,2,0,401803048
+2026-01-10T20:30:00Z,2026,nhl,Pittsburgh Penguins,Calgary Flames,1,2,0,401803049
+2026-01-10T21:00:00Z,2026,nhl,Colorado Avalanche,Columbus Blue Jackets,4,0,0,401803050
+2026-01-10T21:00:00Z,2026,nhl,San Jose Sharks,Dallas Stars,5,4,0,401803051
+2026-01-11T00:00:00Z,2026,nhl,Buffalo Sabres,Anaheim Ducks,5,3,0,401803052
+2026-01-11T00:00:00Z,2026,nhl,Toronto Maple Leafs,Vancouver Canucks,5,0,0,401803053
+2026-01-11T00:00:00Z,2026,nhl,Montreal Canadiens,Detroit Red Wings,0,4,0,401803054
+2026-01-11T00:00:00Z,2026,nhl,Ottawa Senators,Florida Panthers,2,3,0,401803055
+2026-01-11T00:00:00Z,2026,nhl,Philadelphia Flyers,Tampa Bay Lightning,2,7,0,401803056
+2026-01-11T00:00:00Z,2026,nhl,Carolina Hurricanes,Seattle Kraken,3,2,0,401803057
+2026-01-11T01:00:00Z,2026,nhl,Nashville Predators,Chicago Blackhawks,0,3,0,401803058
+2026-01-11T01:00:00Z,2026,nhl,Minnesota Wild,New York Islanders,3,4,0,401803059
+2026-01-11T03:00:00Z,2026,nhl,Edmonton Oilers,Los Angeles Kings,3,4,0,401803060
+2026-01-11T03:00:00Z,2026,nhl,Vegas Golden Knights,St. Louis Blues,4,2,0,401803061
+2026-01-11T19:00:00Z,2026,nhl,Winnipeg Jets,New Jersey Devils,4,3,0,401803062
+2026-01-11T22:00:00Z,2026,nhl,Boston Bruins,Pittsburgh Penguins,1,0,0,401803063
+2026-01-12T00:00:00Z,2026,nhl,Nashville Predators,Washington Capitals,3,2,0,401803064
+2026-01-12T00:00:00Z,2026,nhl,Utah Mammoth,Columbus Blue Jackets,2,3,0,401803065
+2026-01-12T01:00:00Z,2026,nhl,San Jose Sharks,Vegas Golden Knights,2,7,0,401803066
+2026-01-13T00:00:00Z,2026,nhl,Buffalo Sabres,Florida Panthers,3,4,0,401803067
+2026-01-13T00:00:00Z,2026,nhl,Detroit Red Wings,Carolina Hurricanes,4,3,0,401803068
+2026-01-13T00:00:00Z,2026,nhl,New York Rangers,Seattle Kraken,2,4,0,401803069
+2026-01-13T00:00:00Z,2026,nhl,Philadelphia Flyers,Tampa Bay Lightning,1,5,0,401803070
+2026-01-13T00:30:00Z,2026,nhl,Montreal Canadiens,Vancouver Canucks,6,3,0,401803071
+2026-01-13T01:00:00Z,2026,nhl,Minnesota Wild,New Jersey Devils,2,5,0,401803072
+2026-01-13T01:30:00Z,2026,nhl,Chicago Blackhawks,Edmonton Oilers,1,4,0,401803073
+2026-01-13T03:00:00Z,2026,nhl,Colorado Avalanche,Toronto Maple Leafs,3,4,0,401803074
+2026-01-13T03:00:00Z,2026,nhl,Los Angeles Kings,Dallas Stars,1,3,0,401803075
+2026-01-14T00:00:00Z,2026,nhl,Ottawa Senators,Vancouver Canucks,2,1,0,401803076
+2026-01-14T00:00:00Z,2026,nhl,Pittsburgh Penguins,Tampa Bay Lightning,1,2,0,401803077
+2026-01-14T00:00:00Z,2026,nhl,Washington Capitals,Montreal Canadiens,3,2,0,401803078
+2026-01-14T00:00:00Z,2026,nhl,Columbus Blue Jackets,Calgary Flames,5,3,0,401803079
+2026-01-14T00:30:00Z,2026,nhl,Boston Bruins,Detroit Red Wings,3,0,0,401803080
+2026-01-14T00:30:00Z,2026,nhl,St. Louis Blues,Carolina Hurricanes,3,0,0,401803081
+2026-01-14T01:00:00Z,2026,nhl,Nashville Predators,Edmonton Oilers,4,3,0,401803082
+2026-01-14T01:00:00Z,2026,nhl,Winnipeg Jets,New York Islanders,5,4,0,401803083
+2026-01-14T03:00:00Z,2026,nhl,Utah Mammoth,Toronto Maple Leafs,6,1,0,401803084
+2026-01-14T03:00:00Z,2026,nhl,Anaheim Ducks,Dallas Stars,3,1,0,401803085
+2026-01-15T00:00:00Z,2026,nhl,New Jersey Devils,Seattle Kraken,3,2,0,401803086
+2026-01-15T00:30:00Z,2026,nhl,Buffalo Sabres,Philadelphia Flyers,5,2,0,401803087
+2026-01-15T00:30:00Z,2026,nhl,New York Rangers,Ottawa Senators,4,8,0,401803088
+2026-01-15T03:00:00Z,2026,nhl,Los Angeles Kings,Vegas Golden Knights,2,3,0,401803089
+2026-01-16T00:00:00Z,2026,nhl,Buffalo Sabres,Montreal Canadiens,5,3,0,401803091
+2026-01-16T00:00:00Z,2026,nhl,Pittsburgh Penguins,Philadelphia Flyers,6,3,0,401803092
+2026-01-16T00:00:00Z,2026,nhl,Washington Capitals,San Jose Sharks,2,3,0,401803093
+2026-01-16T00:00:00Z,2026,nhl,Columbus Blue Jackets,Vancouver Canucks,4,1,0,401803094
+2026-01-16T01:00:00Z,2026,nhl,Boston Bruins,Seattle Kraken,4,2,0,401803090
+2026-01-16T01:00:00Z,2026,nhl,Minnesota Wild,Winnipeg Jets,2,6,0,401803095
+2026-01-16T01:30:00Z,2026,nhl,Chicago Blackhawks,Calgary Flames,1,3,0,401803096
+2026-01-16T02:00:00Z,2026,nhl,Utah Mammoth,Dallas Stars,2,1,0,401803097
+2026-01-16T02:00:00Z,2026,nhl,Edmonton Oilers,New York Islanders,0,1,0,401803098
+2026-01-16T02:30:00Z,2026,nhl,Vegas Golden Knights,Toronto Maple Leafs,6,5,0,401803099
+2026-01-17T00:00:00Z,2026,nhl,Detroit Red Wings,San Jose Sharks,4,2,0,401803100
+2026-01-17T00:00:00Z,2026,nhl,Carolina Hurricanes,Florida Panthers,9,1,0,401803101
+2026-01-17T01:00:00Z,2026,nhl,St. Louis Blues,Tampa Bay Lightning,3,2,0,401803102
+2026-01-17T02:00:00Z,2026,nhl,Colorado Avalanche,Nashville Predators,3,7,0,401803103
+2026-01-17T03:30:00Z,2026,nhl,Los Angeles Kings,Anaheim Ducks,2,3,0,401803104
+2026-01-17T17:30:00Z,2026,nhl,Buffalo Sabres,Minnesota Wild,4,5,0,401803105
+2026-01-17T18:00:00Z,2026,nhl,Philadelphia Flyers,New York Rangers,3,6,0,401803106
+2026-01-17T20:00:00Z,2026,nhl,Calgary Flames,New York Islanders,4,2,0,401803107
+2026-01-17T22:00:00Z,2026,nhl,Utah Mammoth,Seattle Kraken,6,3,0,401803108
+2026-01-18T00:00:00Z,2026,nhl,Ottawa Senators,Montreal Canadiens,5,6,0,401803109
+2026-01-18T00:00:00Z,2026,nhl,New Jersey Devils,Carolina Hurricanes,1,4,0,401803110
+2026-01-18T00:00:00Z,2026,nhl,Pittsburgh Penguins,Columbus Blue Jackets,3,4,0,401803111
+2026-01-18T00:00:00Z,2026,nhl,Washington Capitals,Florida Panthers,2,5,0,401803112
+2026-01-18T00:00:00Z,2026,nhl,Winnipeg Jets,Toronto Maple Leafs,3,4,0,401803113
+2026-01-18T01:00:00Z,2026,nhl,Chicago Blackhawks,Boston Bruins,2,5,0,401803114
+2026-01-18T03:00:00Z,2026,nhl,Vancouver Canucks,Edmonton Oilers,0,6,0,401803115
+2026-01-18T03:00:00Z,2026,nhl,Vegas Golden Knights,Nashville Predators,7,2,0,401803116
+2026-01-18T03:00:00Z,2026,nhl,Anaheim Ducks,Los Angeles Kings,2,1,0,401803117
+2026-01-18T19:00:00Z,2026,nhl,Dallas Stars,Tampa Bay Lightning,1,4,0,401803118
+2026-01-18T22:00:00Z,2026,nhl,Detroit Red Wings,Ottawa Senators,4,3,0,401803119
+2026-01-19T01:00:00Z,2026,nhl,Edmonton Oilers,St. Louis Blues,5,0,0,401803120
+2026-01-19T18:30:00Z,2026,nhl,Carolina Hurricanes,Buffalo Sabres,2,1,0,401803121
+2026-01-19T21:00:00Z,2026,nhl,Colorado Avalanche,Washington Capitals,5,2,0,401803122
+2026-01-19T22:00:00Z,2026,nhl,Seattle Kraken,Pittsburgh Penguins,3,6,0,401803123
+2026-01-19T23:00:00Z,2026,nhl,Florida Panthers,San Jose Sharks,1,4,0,401803124
+2026-01-20T00:30:00Z,2026,nhl,Toronto Maple Leafs,Minnesota Wild,3,6,0,401803125
+2026-01-20T01:00:00Z,2026,nhl,Vegas Golden Knights,Philadelphia Flyers,1,2,0,401803126
+2026-01-20T01:30:00Z,2026,nhl,Chicago Blackhawks,Winnipeg Jets,2,0,0,401803127
+2026-01-20T02:00:00Z,2026,nhl,Calgary Flames,New Jersey Devils,1,2,0,401803128
+2026-01-20T03:00:00Z,2026,nhl,Vancouver Canucks,New York Islanders,3,4,0,401803129
+2026-01-20T03:00:00Z,2026,nhl,Anaheim Ducks,New York Rangers,5,3,0,401803130
+2026-01-21T00:00:00Z,2026,nhl,Montreal Canadiens,Minnesota Wild,4,3,0,401803131
+2026-01-21T00:00:00Z,2026,nhl,Tampa Bay Lightning,San Jose Sharks,4,1,0,401803132
+2026-01-21T00:00:00Z,2026,nhl,Columbus Blue Jackets,Ottawa Senators,1,4,0,401803133
+2026-01-21T00:30:00Z,2026,nhl,Dallas Stars,Boston Bruins,6,2,0,401803134
+2026-01-21T01:00:00Z,2026,nhl,Nashville Predators,Buffalo Sabres,3,5,0,401803135
+2026-01-21T01:00:00Z,2026,nhl,Winnipeg Jets,St. Louis Blues,3,1,0,401803136
+2026-01-21T03:00:00Z,2026,nhl,Edmonton Oilers,New Jersey Devils,1,2,0,401803137
+2026-01-21T03:00:00Z,2026,nhl,Los Angeles Kings,New York Rangers,4,3,0,401803138
+2026-01-22T00:00:00Z,2026,nhl,Toronto Maple Leafs,Detroit Red Wings,1,2,0,401803139
+2026-01-22T02:00:00Z,2026,nhl,Colorado Avalanche,Anaheim Ducks,1,2,0,401803140
+2026-01-22T02:00:00Z,2026,nhl,Utah Mammoth,Philadelphia Flyers,5,4,0,401803141
+2026-01-22T02:30:00Z,2026,nhl,Calgary Flames,Pittsburgh Penguins,1,4,0,401803142
+2026-01-22T02:30:00Z,2026,nhl,Seattle Kraken,New York Islanders,4,1,0,401803144
+2026-01-22T03:00:00Z,2026,nhl,Vancouver Canucks,Washington Capitals,4,3,0,401803143
+2026-01-23T00:00:00Z,2026,nhl,Boston Bruins,Vegas Golden Knights,4,3,0,401803145
+2026-01-23T00:00:00Z,2026,nhl,Montreal Canadiens,Buffalo Sabres,2,4,0,401803146
+2026-01-23T00:00:00Z,2026,nhl,Carolina Hurricanes,Chicago Blackhawks,3,4,0,401803147
+2026-01-23T00:00:00Z,2026,nhl,Columbus Blue Jackets,Dallas Stars,1,0,0,401803148
+2026-01-23T01:00:00Z,2026,nhl,Nashville Predators,Ottawa Senators,5,3,0,401803149
+2026-01-23T01:00:00Z,2026,nhl,Winnipeg Jets,Florida Panthers,1,2,0,401803150
+2026-01-23T02:00:00Z,2026,nhl,Edmonton Oilers,Pittsburgh Penguins,2,6,0,401803151
+2026-01-23T02:30:00Z,2026,nhl,Minnesota Wild,Detroit Red Wings,4,3,0,401803152
+2026-01-24T00:00:00Z,2026,nhl,Toronto Maple Leafs,Vegas Golden Knights,3,6,0,401803153
+2026-01-24T00:00:00Z,2026,nhl,Chicago Blackhawks,Tampa Bay Lightning,1,2,0,401803154
+2026-01-24T01:00:00Z,2026,nhl,Dallas Stars,St. Louis Blues,3,2,0,401803155
+2026-01-24T02:00:00Z,2026,nhl,Colorado Avalanche,Philadelphia Flyers,3,7,0,401803156
+2026-01-24T02:00:00Z,2026,nhl,Calgary Flames,Washington Capitals,1,3,0,401803157
+2026-01-24T03:00:00Z,2026,nhl,Vancouver Canucks,New Jersey Devils,4,5,0,401803158
+2026-01-24T03:00:00Z,2026,nhl,San Jose Sharks,New York Rangers,3,1,0,401803159
+2026-01-24T03:00:00Z,2026,nhl,Seattle Kraken,Anaheim Ducks,2,4,0,401803160
+2026-01-24T18:00:00Z,2026,nhl,New York Islanders,Buffalo Sabres,0,5,0,401803161
+2026-01-24T18:30:00Z,2026,nhl,Nashville Predators,Utah Mammoth,2,5,0,401803162
+2026-01-25T00:00:00Z,2026,nhl,Boston Bruins,Montreal Canadiens,4,3,0,401803163
+2026-01-25T00:00:00Z,2026,nhl,Ottawa Senators,Carolina Hurricanes,1,4,0,401803164
+2026-01-25T00:00:00Z,2026,nhl,Columbus Blue Jackets,Tampa Bay Lightning,8,5,0,401803165
+2026-01-25T00:00:00Z,2026,nhl,Winnipeg Jets,Detroit Red Wings,1,5,0,401803166
+2026-01-25T01:00:00Z,2026,nhl,St. Louis Blues,Los Angeles Kings,4,5,0,401803167
+2026-01-25T02:00:00Z,2026,nhl,Minnesota Wild,Florida Panthers,3,4,0,401803168
+2026-01-25T03:00:00Z,2026,nhl,Edmonton Oilers,Washington Capitals,6,5,0,401803169
+2026-01-25T18:30:00Z,2026,nhl,Toronto Maple Leafs,Colorado Avalanche,1,4,0,401803170
+2026-01-25T20:00:00Z,2026,nhl,Seattle Kraken,New Jersey Devils,4,2,0,401803171
+2026-01-25T22:00:00Z,2026,nhl,Ottawa Senators,Vegas Golden Knights,7,1,0,401803172
+2026-01-25T23:00:00Z,2026,nhl,Vancouver Canucks,Pittsburgh Penguins,2,3,0,401803173
+2026-01-26T00:00:00Z,2026,nhl,Chicago Blackhawks,Florida Panthers,1,5,0,401803174
+2026-01-26T01:00:00Z,2026,nhl,Calgary Flames,Anaheim Ducks,3,4,0,401803175
+2026-01-27T00:00:00Z,2026,nhl,Tampa Bay Lightning,Utah Mammoth,2,0,0,401803176
+2026-01-27T00:00:00Z,2026,nhl,New York Rangers,Boston Bruins,4,3,0,401803177
+2026-01-27T00:00:00Z,2026,nhl,Philadelphia Flyers,New York Islanders,0,4,0,401803178
+2026-01-27T01:30:00Z,2026,nhl,Edmonton Oilers,Anaheim Ducks,7,4,0,401803180
+2026-01-28T00:00:00Z,2026,nhl,Boston Bruins,Nashville Predators,3,2,0,401803181
+2026-01-28T00:00:00Z,2026,nhl,Toronto Maple Leafs,Buffalo Sabres,4,7,0,401803182
+2026-01-28T00:00:00Z,2026,nhl,Montreal Canadiens,Vegas Golden Knights,3,2,0,401803183
+2026-01-28T00:00:00Z,2026,nhl,Detroit Red Wings,Los Angeles Kings,1,3,0,401803184
+2026-01-28T00:00:00Z,2026,nhl,Florida Panthers,Utah Mammoth,3,4,0,401803185
+2026-01-28T00:00:00Z,2026,nhl,New Jersey Devils,Winnipeg Jets,3,4,0,401803186
+2026-01-28T01:00:00Z,2026,nhl,St. Louis Blues,Dallas Stars,3,4,0,401803187
+2026-01-28T01:00:00Z,2026,nhl,Minnesota Wild,Chicago Blackhawks,4,3,0,401803188
+2026-01-28T03:00:00Z,2026,nhl,Vancouver Canucks,San Jose Sharks,2,5,0,401803189
+2026-01-28T03:00:00Z,2026,nhl,Seattle Kraken,Washington Capitals,5,1,0,401803190
+2026-01-29T00:00:00Z,2026,nhl,New York Islanders,New York Rangers,5,2,0,401803193
+2026-01-29T00:30:00Z,2026,nhl,Columbus Blue Jackets,Philadelphia Flyers,5,3,0,401803191
+2026-01-29T00:30:00Z,2026,nhl,Ottawa Senators,Colorado Avalanche,5,2,0,401803192
+2026-01-30T00:00:00Z,2026,nhl,Boston Bruins,Philadelphia Flyers,6,3,0,401803194
+2026-01-30T00:00:00Z,2026,nhl,Buffalo Sabres,Los Angeles Kings,4,1,0,401803195
+2026-01-30T00:00:00Z,2026,nhl,Montreal Canadiens,Colorado Avalanche,7,3,0,401803196
+2026-01-30T00:00:00Z,2026,nhl,Tampa Bay Lightning,Winnipeg Jets,4,1,0,401803198
+2026-01-30T00:00:00Z,2026,nhl,New Jersey Devils,Nashville Predators,3,2,0,401803199
+2026-01-30T00:00:00Z,2026,nhl,New York Rangers,New York Islanders,1,2,0,401803200
+2026-01-30T00:00:00Z,2026,nhl,Pittsburgh Penguins,Chicago Blackhawks,6,2,0,401803201
+2026-01-30T00:00:00Z,2026,nhl,Carolina Hurricanes,Utah Mammoth,5,4,0,401803202
+2026-01-30T00:30:00Z,2026,nhl,Detroit Red Wings,Washington Capitals,3,4,0,401803197
+2026-01-30T01:00:00Z,2026,nhl,St. Louis Blues,Florida Panthers,5,4,0,401803203
+2026-01-30T01:00:00Z,2026,nhl,Minnesota Wild,Calgary Flames,4,1,0,401803204
+2026-01-30T02:00:00Z,2026,nhl,Edmonton Oilers,San Jose Sharks,4,3,0,401803205
+2026-01-30T03:00:00Z,2026,nhl,Vancouver Canucks,Anaheim Ducks,2,0,0,401803206
+2026-01-30T03:00:00Z,2026,nhl,Vegas Golden Knights,Dallas Stars,4,5,0,401803207
+2026-01-30T03:00:00Z,2026,nhl,Seattle Kraken,Toronto Maple Leafs,5,2,0,401803208
+2026-01-31T01:30:00Z,2026,nhl,Chicago Blackhawks,Columbus Blue Jackets,2,4,0,401803209
+2026-01-31T17:30:00Z,2026,nhl,Philadelphia Flyers,Los Angeles Kings,2,3,0,401803210
+2026-01-31T18:00:00Z,2026,nhl,Detroit Red Wings,Colorado Avalanche,0,5,0,401803211
+2026-01-31T20:30:00Z,2026,nhl,Pittsburgh Penguins,New York Rangers,6,5,0,401803212
+2026-01-31T21:00:00Z,2026,nhl,Florida Panthers,Winnipeg Jets,1,2,0,401803213
+2026-01-31T21:00:00Z,2026,nhl,Calgary Flames,San Jose Sharks,3,2,0,401803214
+2026-01-31T22:00:00Z,2026,nhl,Washington Capitals,Carolina Hurricanes,4,3,0,401803215
+2026-02-01T00:00:00Z,2026,nhl,Buffalo Sabres,Montreal Canadiens,2,4,0,401803216
+2026-02-01T00:00:00Z,2026,nhl,Ottawa Senators,New Jersey Devils,4,1,0,401803217
+2026-02-01T00:00:00Z,2026,nhl,New York Islanders,Nashville Predators,3,4,0,401803218
+2026-02-01T00:00:00Z,2026,nhl,St. Louis Blues,Columbus Blue Jackets,3,5,0,401803219
+2026-02-01T00:00:00Z,2026,nhl,Vancouver Canucks,Toronto Maple Leafs,2,3,0,401803220
+2026-02-01T02:00:00Z,2026,nhl,Utah Mammoth,Dallas Stars,2,3,0,401803221
+2026-02-01T03:00:00Z,2026,nhl,Edmonton Oilers,Minnesota Wild,3,7,0,401803222
+2026-02-01T03:00:00Z,2026,nhl,Vegas Golden Knights,Seattle Kraken,2,3,0,401803223
+2026-02-01T20:00:00Z,2026,nhl,Carolina Hurricanes,Los Angeles Kings,3,2,0,401803225
+2026-02-01T23:30:00Z,2026,nhl,Tampa Bay Lightning,Boston Bruins,6,5,1,401803224
+2026-02-02T02:30:00Z,2026,nhl,Anaheim Ducks,Vegas Golden Knights,4,3,0,401803226
+2026-02-03T00:00:00Z,2026,nhl,Florida Panthers,Buffalo Sabres,3,5,0,401803227
+2026-02-03T00:00:00Z,2026,nhl,Pittsburgh Penguins,Ottawa Senators,2,3,0,401803228
+2026-02-03T00:00:00Z,2026,nhl,Washington Capitals,New York Islanders,4,1,0,401803229
+2026-02-03T00:30:00Z,2026,nhl,Minnesota Wild,Montreal Canadiens,4,3,0,401803230
+2026-02-03T01:00:00Z,2026,nhl,Nashville Predators,St. Louis Blues,6,5,0,401803231
+2026-02-03T01:30:00Z,2026,nhl,Chicago Blackhawks,San Jose Sharks,6,3,0,401803232
+2026-02-03T01:30:00Z,2026,nhl,Dallas Stars,Winnipeg Jets,4,3,0,401803233
+2026-02-03T02:00:00Z,2026,nhl,Colorado Avalanche,Detroit Red Wings,0,2,0,401803234
+2026-02-03T02:30:00Z,2026,nhl,Utah Mammoth,Vancouver Canucks,6,2,0,401803235
+2026-02-03T03:00:00Z,2026,nhl,Calgary Flames,Toronto Maple Leafs,2,4,0,401803236
+2026-02-04T00:00:00Z,2026,nhl,New Jersey Devils,Columbus Blue Jackets,0,3,0,401803238
+2026-02-04T00:00:00Z,2026,nhl,Philadelphia Flyers,Washington Capitals,4,2,0,401803240
+2026-02-04T00:00:00Z,2026,nhl,Carolina Hurricanes,Ottawa Senators,4,3,0,401803241
+2026-02-04T00:30:00Z,2026,nhl,Tampa Bay Lightning,Buffalo Sabres,4,3,0,401803237
+2026-02-04T00:30:00Z,2026,nhl,New York Islanders,Pittsburgh Penguins,5,4,0,401803239
+2026-02-04T01:30:00Z,2026,nhl,Edmonton Oilers,Toronto Maple Leafs,2,5,0,401803242
+2026-02-04T03:00:00Z,2026,nhl,Anaheim Ducks,Seattle Kraken,4,2,0,401803243
+2026-02-05T00:00:00Z,2026,nhl,Florida Panthers,Boston Bruins,5,4,0,401803244
+2026-02-05T00:00:00Z,2026,nhl,Columbus Blue Jackets,Chicago Blackhawks,4,0,0,401803245
+2026-02-05T00:00:00Z,2026,nhl,Winnipeg Jets,Montreal Canadiens,1,5,0,401803246
+2026-02-05T01:00:00Z,2026,nhl,Nashville Predators,Minnesota Wild,5,6,0,401803247
+2026-02-05T02:00:00Z,2026,nhl,Colorado Avalanche,San Jose Sharks,4,2,0,401803248
+2026-02-05T02:00:00Z,2026,nhl,Utah Mammoth,Detroit Red Wings,4,1,0,401803249
+2026-02-05T02:30:00Z,2026,nhl,Dallas Stars,St. Louis Blues,5,4,0,401803250
+2026-02-05T03:00:00Z,2026,nhl,Calgary Flames,Edmonton Oilers,4,3,0,401803251
+2026-02-05T03:00:00Z,2026,nhl,Vegas Golden Knights,Vancouver Canucks,5,2,0,401803252
+2026-02-05T03:00:00Z,2026,nhl,Los Angeles Kings,Seattle Kraken,2,4,0,401803253
+2026-02-06T00:00:00Z,2026,nhl,Buffalo Sabres,Pittsburgh Penguins,2,5,0,401803254
+2026-02-06T00:00:00Z,2026,nhl,New Jersey Devils,New York Islanders,1,3,0,401803256
+2026-02-06T00:00:00Z,2026,nhl,New York Rangers,Carolina Hurricanes,0,2,0,401803257
+2026-02-06T00:00:00Z,2026,nhl,Philadelphia Flyers,Ottawa Senators,1,2,0,401803258
+2026-02-06T00:00:00Z,2026,nhl,Washington Capitals,Nashville Predators,4,2,0,401803259
+2026-02-06T00:30:00Z,2026,nhl,Tampa Bay Lightning,Florida Panthers,6,1,0,401803255
+2026-02-06T03:00:00Z,2026,nhl,Vegas Golden Knights,Los Angeles Kings,4,1,0,401803260
+2026-02-26T00:00:00Z,2026,nhl,New Jersey Devils,Buffalo Sabres,1,2,0,401803261
+2026-02-26T00:00:00Z,2026,nhl,Washington Capitals,Philadelphia Flyers,3,1,0,401803262
+2026-02-26T00:30:00Z,2026,nhl,Tampa Bay Lightning,Toronto Maple Leafs,4,2,0,401803263
+2026-02-26T01:00:00Z,2026,nhl,Dallas Stars,Seattle Kraken,4,1,0,401803264
+2026-02-26T02:00:00Z,2026,nhl,Utah Mammoth,Colorado Avalanche,2,4,0,401803265
+2026-02-26T03:00:00Z,2026,nhl,Vancouver Canucks,Winnipeg Jets,2,3,0,401803266
+2026-02-26T03:20:00Z,2026,nhl,Los Angeles Kings,Vegas Golden Knights,4,6,0,401803267
+2026-02-26T03:30:00Z,2026,nhl,Anaheim Ducks,Edmonton Oilers,6,5,0,401803268
+2026-02-27T00:00:00Z,2026,nhl,Boston Bruins,Columbus Blue Jackets,4,2,0,401803269
+2026-02-27T00:00:00Z,2026,nhl,Montreal Canadiens,New York Islanders,3,4,0,401803270
+2026-02-27T00:00:00Z,2026,nhl,Ottawa Senators,Detroit Red Wings,1,2,0,401803271
+2026-02-27T00:00:00Z,2026,nhl,Florida Panthers,Toronto Maple Leafs,5,1,0,401803272
+2026-02-27T00:00:00Z,2026,nhl,Pittsburgh Penguins,New Jersey Devils,4,1,0,401803273
+2026-02-27T00:00:00Z,2026,nhl,Carolina Hurricanes,Tampa Bay Lightning,5,4,0,401803274
+2026-02-27T01:00:00Z,2026,nhl,New York Rangers,Philadelphia Flyers,2,3,0,401803275
+2026-02-27T01:00:00Z,2026,nhl,St. Louis Blues,Seattle Kraken,5,1,0,401803276
+2026-02-27T01:00:00Z,2026,nhl,Nashville Predators,Chicago Blackhawks,4,2,0,401803277
+2026-02-27T02:00:00Z,2026,nhl,Colorado Avalanche,Minnesota Wild,2,5,0,401803278
+2026-02-27T03:00:00Z,2026,nhl,San Jose Sharks,Calgary Flames,1,4,0,401803279
+2026-02-27T03:30:00Z,2026,nhl,Los Angeles Kings,Edmonton Oilers,1,8,0,401803280
+2026-02-28T00:00:00Z,2026,nhl,Florida Panthers,Buffalo Sabres,2,3,0,401803281
+2026-02-28T00:00:00Z,2026,nhl,Washington Capitals,Vegas Golden Knights,3,2,0,401803282
+2026-02-28T02:00:00Z,2026,nhl,Utah Mammoth,Minnesota Wild,5,2,0,401803283
+2026-02-28T03:00:00Z,2026,nhl,Anaheim Ducks,Winnipeg Jets,5,4,0,401803284
+2026-02-28T17:30:00Z,2026,nhl,New York Rangers,Pittsburgh Penguins,3,2,0,401803285
+2026-02-28T20:20:00Z,2026,nhl,Philadelphia Flyers,Boston Bruins,3,1,0,401803286
+2026-02-28T21:00:00Z,2026,nhl,San Jose Sharks,Edmonton Oilers,5,4,0,401803287
+2026-02-28T22:00:00Z,2026,nhl,St. Louis Blues,New Jersey Devils,1,3,0,401803294
+2026-02-28T23:00:00Z,2026,nhl,Columbus Blue Jackets,New York Islanders,3,4,0,401803288
+2026-02-28T23:00:00Z,2026,nhl,Colorado Avalanche,Chicago Blackhawks,3,1,0,401803289
+2026-03-01T00:00:00Z,2026,nhl,Toronto Maple Leafs,Ottawa Senators,2,5,0,401803290
+2026-03-01T00:00:00Z,2026,nhl,Montreal Canadiens,Washington Capitals,6,2,0,401803291
+2026-03-01T00:00:00Z,2026,nhl,Tampa Bay Lightning,Buffalo Sabres,2,6,0,401803292
+2026-03-01T00:00:00Z,2026,nhl,Carolina Hurricanes,Detroit Red Wings,5,2,0,401803293
+2026-03-01T00:00:00Z,2026,nhl,Los Angeles Kings,Calgary Flames,2,0,0,401803295
+2026-03-01T01:00:00Z,2026,nhl,Dallas Stars,Nashville Predators,3,2,0,401803296
+2026-03-01T03:00:00Z,2026,nhl,Seattle Kraken,Vancouver Canucks,5,1,0,401803297
+2026-03-01T18:00:00Z,2026,nhl,Pittsburgh Penguins,Vegas Golden Knights,5,0,0,401803298
+2026-03-01T21:00:00Z,2026,nhl,Utah Mammoth,Chicago Blackhawks,0,4,0,401803300
+2026-03-01T21:00:00Z,2026,nhl,San Jose Sharks,Winnipeg Jets,2,1,0,401803301
+2026-03-01T22:00:00Z,2026,nhl,Minnesota Wild,St. Louis Blues,1,3,0,401803302
+2026-03-01T23:30:00Z,2026,nhl,New York Islanders,Florida Panthers,5,4,0,401803299
+2026-03-02T01:00:00Z,2026,nhl,Anaheim Ducks,Calgary Flames,3,2,0,401803303
+2026-03-02T19:00:00Z,2026,nhl,Nashville Predators,Detroit Red Wings,2,4,0,401803306
+2026-03-03T00:00:00Z,2026,nhl,New York Rangers,Columbus Blue Jackets,4,5,0,401803304
+2026-03-03T00:30:00Z,2026,nhl,Toronto Maple Leafs,Philadelphia Flyers,2,3,0,401803305
+2026-03-03T03:00:00Z,2026,nhl,Vancouver Canucks,Dallas Stars,1,6,0,401803307
+2026-03-03T03:00:00Z,2026,nhl,Seattle Kraken,Carolina Hurricanes,2,1,0,401803308
+2026-03-03T03:30:00Z,2026,nhl,Los Angeles Kings,Colorado Avalanche,2,4,0,401803309
+2026-03-04T00:00:00Z,2026,nhl,Boston Bruins,Pittsburgh Penguins,2,1,0,401803310
+2026-03-04T00:00:00Z,2026,nhl,Buffalo Sabres,Vegas Golden Knights,3,2,0,401803311
+2026-03-04T00:00:00Z,2026,nhl,New Jersey Devils,Florida Panthers,5,1,0,401803312
+2026-03-04T00:00:00Z,2026,nhl,Washington Capitals,Utah Mammoth,2,3,0,401803313
+2026-03-04T00:00:00Z,2026,nhl,Columbus Blue Jackets,Nashville Predators,3,2,0,401803314
+2026-03-04T01:00:00Z,2026,nhl,Winnipeg Jets,Chicago Blackhawks,3,2,0,401803315
+2026-03-04T02:00:00Z,2026,nhl,Calgary Flames,Dallas Stars,1,6,0,401803316
+2026-03-04T02:00:00Z,2026,nhl,Edmonton Oilers,Ottawa Senators,5,4,0,401803317
+2026-03-04T02:30:00Z,2026,nhl,Minnesota Wild,Tampa Bay Lightning,5,1,0,401803318
+2026-03-04T03:00:00Z,2026,nhl,Anaheim Ducks,Colorado Avalanche,1,5,0,401803319
+2026-03-04T03:00:00Z,2026,nhl,San Jose Sharks,Montreal Canadiens,7,5,0,401803320
+2026-03-05T00:00:00Z,2026,nhl,Detroit Red Wings,Vegas Golden Knights,3,4,0,401803321
+2026-03-05T00:00:00Z,2026,nhl,New Jersey Devils,Toronto Maple Leafs,4,3,0,401803322
+2026-03-05T03:00:00Z,2026,nhl,Vancouver Canucks,Carolina Hurricanes,4,6,0,401803323
+2026-03-05T03:00:00Z,2026,nhl,Anaheim Ducks,New York Islanders,5,1,0,401803324
+2026-03-05T03:00:00Z,2026,nhl,Seattle Kraken,St. Louis Blues,2,3,0,401803325
+2026-03-06T00:00:00Z,2026,nhl,New York Rangers,Toronto Maple Leafs,6,2,0,401803326
+2026-03-06T00:00:00Z,2026,nhl,Philadelphia Flyers,Utah Mammoth,0,3,0,401803327
+2026-03-06T00:00:00Z,2026,nhl,Pittsburgh Penguins,Buffalo Sabres,1,5,0,401803328
+2026-03-06T00:00:00Z,2026,nhl,Columbus Blue Jackets,Florida Panthers,4,2,0,401803329
+2026-03-06T01:00:00Z,2026,nhl,Nashville Predators,Boston Bruins,6,3,0,401803330
+2026-03-06T01:00:00Z,2026,nhl,Winnipeg Jets,Tampa Bay Lightning,4,1,0,401803331
+2026-03-06T02:00:00Z,2026,nhl,Calgary Flames,Ottawa Senators,1,4,0,401803332
+2026-03-06T02:30:00Z,2026,nhl,Los Angeles Kings,New York Islanders,5,3,0,401803333
+2026-03-07T00:00:00Z,2026,nhl,Detroit Red Wings,Florida Panthers,1,3,0,401803334
+2026-03-07T01:00:00Z,2026,nhl,Dallas Stars,Colorado Avalanche,4,5,0,401803335
+2026-03-07T01:30:00Z,2026,nhl,Chicago Blackhawks,Vancouver Canucks,3,6,0,401803336
+2026-03-07T02:00:00Z,2026,nhl,Edmonton Oilers,Carolina Hurricanes,3,6,0,401803337
+2026-03-07T02:00:00Z,2026,nhl,Anaheim Ducks,Montreal Canadiens,6,5,0,401803338
+2026-03-07T03:00:00Z,2026,nhl,Vegas Golden Knights,Minnesota Wild,2,4,0,401803339
+2026-03-07T03:00:00Z,2026,nhl,San Jose Sharks,St. Louis Blues,2,3,0,401803340
+2026-03-07T17:30:00Z,2026,nhl,Boston Bruins,Washington Capitals,3,1,0,401803341
+2026-03-07T20:00:00Z,2026,nhl,New Jersey Devils,New York Rangers,6,3,0,401803342
+2026-03-07T22:30:00Z,2026,nhl,Buffalo Sabres,Nashville Predators,3,2,0,401803343
+2026-03-07T22:30:00Z,2026,nhl,Pittsburgh Penguins,Philadelphia Flyers,3,4,0,401803344
+2026-03-08T00:00:00Z,2026,nhl,Toronto Maple Leafs,Tampa Bay Lightning,2,5,0,401803345
+2026-03-08T00:00:00Z,2026,nhl,Columbus Blue Jackets,Utah Mammoth,4,5,0,401803346
+2026-03-08T00:00:00Z,2026,nhl,Winnipeg Jets,Vancouver Canucks,3,2,0,401803347
+2026-03-08T00:00:00Z,2026,nhl,Los Angeles Kings,Montreal Canadiens,3,4,0,401803348
+2026-03-08T03:00:00Z,2026,nhl,Calgary Flames,Carolina Hurricanes,5,4,0,401803349
+2026-03-08T03:00:00Z,2026,nhl,San Jose Sharks,New York Islanders,1,2,0,401803350
+2026-03-08T03:00:00Z,2026,nhl,Seattle Kraken,Ottawa Senators,4,7,0,401803351
+2026-03-08T18:00:00Z,2026,nhl,Colorado Avalanche,Minnesota Wild,3,2,0,401803352
+2026-03-08T20:30:00Z,2026,nhl,Pittsburgh Penguins,Boston Bruins,5,4,0,401803353
+2026-03-08T22:00:00Z,2026,nhl,Buffalo Sabres,Tampa Bay Lightning,8,7,0,401803354
+2026-03-08T22:00:00Z,2026,nhl,Dallas Stars,Chicago Blackhawks,4,3,0,401803355
+2026-03-08T23:00:00Z,2026,nhl,New Jersey Devils,Detroit Red Wings,0,3,0,401803356
+2026-03-09T01:00:00Z,2026,nhl,Anaheim Ducks,St. Louis Blues,0,4,0,401803357
+2026-03-09T01:45:00Z,2026,nhl,Vegas Golden Knights,Edmonton Oilers,2,4,0,401803358
+2026-03-09T20:00:00Z,2026,nhl,Columbus Blue Jackets,Los Angeles Kings,4,5,0,401857755
+2026-03-09T23:00:00Z,2026,nhl,Philadelphia Flyers,New York Rangers,2,6,0,401803359
+2026-03-09T23:00:00Z,2026,nhl,Washington Capitals,Calgary Flames,7,3,0,401803360
+2026-03-10T00:30:00Z,2026,nhl,Chicago Blackhawks,Utah Mammoth,3,2,0,401803361
+2026-03-10T01:00:00Z,2026,nhl,Vancouver Canucks,Ottawa Senators,0,2,0,401803362
+2026-03-10T23:00:00Z,2026,nhl,Boston Bruins,Los Angeles Kings,2,1,0,401803363
+2026-03-10T23:00:00Z,2026,nhl,Buffalo Sabres,San Jose Sharks,6,3,0,401803364
+2026-03-10T23:00:00Z,2026,nhl,Montreal Canadiens,Toronto Maple Leafs,3,1,0,401803365
+2026-03-10T23:00:00Z,2026,nhl,Tampa Bay Lightning,Columbus Blue Jackets,2,5,0,401803366
+2026-03-10T23:00:00Z,2026,nhl,Florida Panthers,Detroit Red Wings,4,3,0,401803367
+2026-03-10T23:00:00Z,2026,nhl,New York Rangers,Calgary Flames,4,0,0,401803368
+2026-03-10T23:00:00Z,2026,nhl,Carolina Hurricanes,Pittsburgh Penguins,5,4,0,401803369
+2026-03-10T23:30:00Z,2026,nhl,St. Louis Blues,New York Islanders,3,4,0,401803370
+2026-03-11T00:00:00Z,2026,nhl,Dallas Stars,Vegas Golden Knights,2,1,0,401803371
+2026-03-11T00:00:00Z,2026,nhl,Minnesota Wild,Utah Mammoth,5,0,0,401803372
+2026-03-11T00:30:00Z,2026,nhl,Winnipeg Jets,Anaheim Ducks,1,4,0,401803373
+2026-03-11T02:00:00Z,2026,nhl,Colorado Avalanche,Edmonton Oilers,3,4,0,401803374
+2026-03-11T02:00:00Z,2026,nhl,Seattle Kraken,Nashville Predators,2,4,0,401803375
+2026-03-11T23:30:00Z,2026,nhl,Ottawa Senators,Montreal Canadiens,2,3,0,401803376
+2026-03-11T23:30:00Z,2026,nhl,Philadelphia Flyers,Washington Capitals,4,1,0,401803377
+2026-03-12T23:00:00Z,2026,nhl,Boston Bruins,San Jose Sharks,2,4,0,401803378
+2026-03-12T23:00:00Z,2026,nhl,Buffalo Sabres,Washington Capitals,1,2,0,401803379
+2026-03-12T23:00:00Z,2026,nhl,Toronto Maple Leafs,Anaheim Ducks,6,4,0,401803380
+2026-03-12T23:00:00Z,2026,nhl,Tampa Bay Lightning,Detroit Red Wings,4,1,0,401803381
+2026-03-12T23:00:00Z,2026,nhl,Florida Panthers,Columbus Blue Jackets,2,1,0,401803382
+2026-03-12T23:00:00Z,2026,nhl,New Jersey Devils,Calgary Flames,4,5,0,401803383
+2026-03-12T23:00:00Z,2026,nhl,Carolina Hurricanes,St. Louis Blues,1,3,0,401803384
+2026-03-13T00:00:00Z,2026,nhl,Dallas Stars,Edmonton Oilers,7,2,0,401803385
+2026-03-13T00:00:00Z,2026,nhl,Minnesota Wild,Philadelphia Flyers,2,3,0,401803386
+2026-03-13T00:00:00Z,2026,nhl,Winnipeg Jets,New York Rangers,3,6,0,401803387
+2026-03-13T01:00:00Z,2026,nhl,Utah Mammoth,Chicago Blackhawks,2,3,0,401803388
+2026-03-13T02:00:00Z,2026,nhl,Vancouver Canucks,Nashville Predators,4,3,0,401803389
+2026-03-13T02:00:00Z,2026,nhl,Vegas Golden Knights,Pittsburgh Penguins,6,2,0,401803390
+2026-03-13T02:00:00Z,2026,nhl,Seattle Kraken,Colorado Avalanche,1,5,0,401803391
+2026-03-13T23:00:00Z,2026,nhl,New York Islanders,Los Angeles Kings,2,3,0,401803392
+2026-03-14T00:00:00Z,2026,nhl,St. Louis Blues,Edmonton Oilers,3,2,0,401803393
+2026-03-14T17:00:00Z,2026,nhl,Ottawa Senators,Anaheim Ducks,2,0,0,401803394
+2026-03-14T19:00:00Z,2026,nhl,Washington Capitals,Boston Bruins,2,3,0,401803395
+2026-03-14T20:00:00Z,2026,nhl,Winnipeg Jets,Colorado Avalanche,3,1,0,401803396
+2026-03-14T22:00:00Z,2026,nhl,Minnesota Wild,New York Rangers,2,4,0,401803397
+2026-03-14T23:00:00Z,2026,nhl,Buffalo Sabres,Toronto Maple Leafs,3,2,0,401803398
+2026-03-14T23:00:00Z,2026,nhl,Montreal Canadiens,San Jose Sharks,2,4,0,401803399
+2026-03-14T23:00:00Z,2026,nhl,Tampa Bay Lightning,Carolina Hurricanes,2,4,0,401803400
+2026-03-14T23:00:00Z,2026,nhl,New Jersey Devils,Los Angeles Kings,6,4,0,401803401
+2026-03-14T23:00:00Z,2026,nhl,New York Islanders,Calgary Flames,3,2,0,401803402
+2026-03-14T23:30:00Z,2026,nhl,Philadelphia Flyers,Columbus Blue Jackets,1,2,0,401803403
+2026-03-15T00:00:00Z,2026,nhl,Dallas Stars,Detroit Red Wings,3,2,0,401803404
+2026-03-15T01:00:00Z,2026,nhl,Utah Mammoth,Pittsburgh Penguins,3,4,0,401803405
+2026-03-15T02:00:00Z,2026,nhl,Vancouver Canucks,Seattle Kraken,2,5,0,401803406
+2026-03-15T02:00:00Z,2026,nhl,Vegas Golden Knights,Chicago Blackhawks,4,0,0,401803407
+2026-03-15T19:00:00Z,2026,nhl,Winnipeg Jets,St. Louis Blues,3,2,0,401803408
+2026-03-15T21:00:00Z,2026,nhl,Ottawa Senators,San Jose Sharks,7,4,0,401803409
+2026-03-15T23:00:00Z,2026,nhl,Montreal Canadiens,Anaheim Ducks,3,4,0,401803410
+2026-03-15T23:30:00Z,2026,nhl,Minnesota Wild,Toronto Maple Leafs,2,4,0,401803411
+2026-03-16T00:00:00Z,2026,nhl,Edmonton Oilers,Nashville Predators,3,1,0,401803412
+2026-03-16T00:00:00Z,2026,nhl,Seattle Kraken,Florida Panthers,6,2,0,401803413
+2026-03-16T23:00:00Z,2026,nhl,Detroit Red Wings,Calgary Flames,5,2,0,401803414
+2026-03-16T23:00:00Z,2026,nhl,New Jersey Devils,Boston Bruins,4,3,0,401803415
+2026-03-16T23:00:00Z,2026,nhl,New York Rangers,Los Angeles Kings,1,4,0,401803416
+2026-03-17T00:00:00Z,2026,nhl,Dallas Stars,Utah Mammoth,3,6,0,401803417
+2026-03-17T01:50:00Z,2026,nhl,Colorado Avalanche,Pittsburgh Penguins,2,7,0,401803418
+2026-03-17T23:00:00Z,2026,nhl,Toronto Maple Leafs,New York Islanders,1,3,0,401803419
+2026-03-17T23:00:00Z,2026,nhl,Montreal Canadiens,Boston Bruins,3,2,0,401803420
+2026-03-17T23:00:00Z,2026,nhl,Columbus Blue Jackets,Carolina Hurricanes,5,1,0,401803421
+2026-03-17T23:30:00Z,2026,nhl,Chicago Blackhawks,Minnesota Wild,3,4,0,401803423
+2026-03-18T00:00:00Z,2026,nhl,Winnipeg Jets,Nashville Predators,3,4,0,401803422
+2026-03-18T01:00:00Z,2026,nhl,Edmonton Oilers,San Jose Sharks,5,3,0,401803424
+2026-03-18T02:00:00Z,2026,nhl,Vancouver Canucks,Florida Panthers,5,2,0,401803425
+2026-03-18T02:00:00Z,2026,nhl,Vegas Golden Knights,Buffalo Sabres,0,2,0,401803426
+2026-03-18T02:00:00Z,2026,nhl,Seattle Kraken,Tampa Bay Lightning,2,6,0,401803427
+2026-03-18T23:00:00Z,2026,nhl,New York Rangers,New Jersey Devils,3,6,0,401803428
+2026-03-18T23:00:00Z,2026,nhl,Carolina Hurricanes,Pittsburgh Penguins,6,5,0,401803429
+2026-03-18T23:30:00Z,2026,nhl,Washington Capitals,Ottawa Senators,4,1,0,401803430
+2026-03-19T01:30:00Z,2026,nhl,Colorado Avalanche,Dallas Stars,1,2,0,401803431
+2026-03-19T01:30:00Z,2026,nhl,Calgary Flames,St. Louis Blues,2,1,0,401803432
+2026-03-19T02:00:00Z,2026,nhl,Anaheim Ducks,Philadelphia Flyers,2,3,0,401803433
+2026-03-19T23:00:00Z,2026,nhl,Boston Bruins,Winnipeg Jets,6,1,0,401803434
+2026-03-19T23:00:00Z,2026,nhl,Ottawa Senators,New York Islanders,3,2,0,401803435
+2026-03-19T23:00:00Z,2026,nhl,Detroit Red Wings,Montreal Canadiens,3,1,0,401803436
+2026-03-19T23:00:00Z,2026,nhl,Columbus Blue Jackets,New York Rangers,6,3,0,401803437
+2026-03-19T23:30:00Z,2026,nhl,Minnesota Wild,Chicago Blackhawks,1,2,0,401803439
+2026-03-20T00:00:00Z,2026,nhl,Nashville Predators,Seattle Kraken,3,1,0,401803438
+2026-03-20T01:00:00Z,2026,nhl,Edmonton Oilers,Florida Panthers,0,4,0,401803440
+2026-03-20T02:00:00Z,2026,nhl,Vancouver Canucks,Tampa Bay Lightning,2,6,0,401803441
+2026-03-20T02:00:00Z,2026,nhl,Vegas Golden Knights,Utah Mammoth,0,4,0,401803442
+2026-03-20T02:00:00Z,2026,nhl,San Jose Sharks,Buffalo Sabres,0,5,0,401803443
+2026-03-20T02:30:00Z,2026,nhl,Los Angeles Kings,Philadelphia Flyers,3,4,0,401803444
+2026-03-20T23:00:00Z,2026,nhl,Toronto Maple Leafs,Carolina Hurricanes,3,4,0,401803445
+2026-03-20T23:00:00Z,2026,nhl,Washington Capitals,New Jersey Devils,2,1,0,401803446
+2026-03-21T00:30:00Z,2026,nhl,Chicago Blackhawks,Colorado Avalanche,1,4,0,401803447
+2026-03-21T01:00:00Z,2026,nhl,Calgary Flames,Florida Panthers,4,1,0,401803448
+2026-03-21T02:00:00Z,2026,nhl,Utah Mammoth,Anaheim Ducks,1,4,0,401803449
+2026-03-21T17:00:00Z,2026,nhl,Pittsburgh Penguins,Winnipeg Jets,5,4,0,401803450
+2026-03-21T18:00:00Z,2026,nhl,Nashville Predators,Vegas Golden Knights,4,1,0,401803451
+2026-03-21T20:00:00Z,2026,nhl,Minnesota Wild,Dallas Stars,2,1,0,401803452
+2026-03-21T20:00:00Z,2026,nhl,Los Angeles Kings,Buffalo Sabres,1,4,0,401803453
+2026-03-21T20:00:00Z,2026,nhl,San Jose Sharks,Philadelphia Flyers,1,4,0,401803454
+2026-03-21T21:00:00Z,2026,nhl,Columbus Blue Jackets,Seattle Kraken,5,2,0,401803455
+2026-03-21T23:00:00Z,2026,nhl,Montreal Canadiens,New York Islanders,7,3,0,401803456
+2026-03-21T23:00:00Z,2026,nhl,Ottawa Senators,Toronto Maple Leafs,5,2,0,401803457
+2026-03-21T23:00:00Z,2026,nhl,Vancouver Canucks,St. Louis Blues,1,3,0,401803458
+2026-03-22T00:00:00Z,2026,nhl,Detroit Red Wings,Boston Bruins,2,4,0,401803459
+2026-03-22T02:00:00Z,2026,nhl,Edmonton Oilers,Tampa Bay Lightning,2,5,0,401803460
+2026-03-22T16:00:00Z,2026,nhl,New York Rangers,Winnipeg Jets,2,3,0,401803461
+2026-03-22T16:30:00Z,2026,nhl,Washington Capitals,Colorado Avalanche,2,3,0,401803462
+2026-03-22T19:00:00Z,2026,nhl,Pittsburgh Penguins,Carolina Hurricanes,1,5,0,401803463
+2026-03-22T19:00:00Z,2026,nhl,Chicago Blackhawks,Nashville Predators,2,3,0,401803464
+2026-03-22T23:00:00Z,2026,nhl,New York Islanders,Columbus Blue Jackets,1,0,0,401803465
+2026-03-22T23:00:00Z,2026,nhl,Dallas Stars,Vegas Golden Knights,2,3,0,401803466
+2026-03-23T00:00:00Z,2026,nhl,Calgary Flames,Tampa Bay Lightning,4,3,0,401803467
+2026-03-23T00:00:00Z,2026,nhl,Anaheim Ducks,Buffalo Sabres,6,5,0,401803468
+2026-03-23T01:00:00Z,2026,nhl,Utah Mammoth,Los Angeles Kings,4,3,0,401803469
+2026-03-23T23:30:00Z,2026,nhl,New York Rangers,Ottawa Senators,1,2,0,401803470
+2026-03-24T23:00:00Z,2026,nhl,Boston Bruins,Toronto Maple Leafs,2,4,0,401803471
+2026-03-24T23:00:00Z,2026,nhl,Montreal Canadiens,Carolina Hurricanes,5,2,0,401803472
+2026-03-24T23:00:00Z,2026,nhl,Detroit Red Wings,Ottawa Senators,2,3,0,401803473
+2026-03-24T23:00:00Z,2026,nhl,Florida Panthers,Seattle Kraken,5,4,0,401803474
+2026-03-24T23:00:00Z,2026,nhl,New York Islanders,Chicago Blackhawks,3,4,0,401803475
+2026-03-24T23:00:00Z,2026,nhl,Philadelphia Flyers,Columbus Blue Jackets,2,3,0,401803476
+2026-03-24T23:00:00Z,2026,nhl,Pittsburgh Penguins,Colorado Avalanche,2,6,0,401803477
+2026-03-24T23:30:00Z,2026,nhl,Tampa Bay Lightning,Minnesota Wild,6,3,0,401803478
+2026-03-25T00:00:00Z,2026,nhl,St. Louis Blues,Washington Capitals,3,0,0,401803479
+2026-03-25T00:00:00Z,2026,nhl,Nashville Predators,San Jose Sharks,6,3,0,401803480
+2026-03-25T00:00:00Z,2026,nhl,Dallas Stars,New Jersey Devils,4,6,0,401803481
+2026-03-25T00:00:00Z,2026,nhl,Winnipeg Jets,Vegas Golden Knights,4,1,0,401803482
+2026-03-25T01:00:00Z,2026,nhl,Calgary Flames,Los Angeles Kings,3,2,0,401803484
+2026-03-25T01:30:00Z,2026,nhl,Utah Mammoth,Edmonton Oilers,2,5,0,401803483
+2026-03-25T02:00:00Z,2026,nhl,Vancouver Canucks,Anaheim Ducks,3,5,0,401803485
+2026-03-25T23:30:00Z,2026,nhl,Buffalo Sabres,Boston Bruins,3,4,0,401803486
+2026-03-25T23:30:00Z,2026,nhl,Toronto Maple Leafs,New York Rangers,4,3,0,401803487
+2026-03-26T23:00:00Z,2026,nhl,Montreal Canadiens,Columbus Blue Jackets,2,1,0,401803488
+2026-03-26T23:00:00Z,2026,nhl,Ottawa Senators,Pittsburgh Penguins,3,4,0,401803489
+2026-03-26T23:00:00Z,2026,nhl,Tampa Bay Lightning,Seattle Kraken,3,4,0,401803490
+2026-03-26T23:00:00Z,2026,nhl,Florida Panthers,Minnesota Wild,2,3,0,401803491
+2026-03-26T23:00:00Z,2026,nhl,New York Islanders,Dallas Stars,2,1,0,401803492
+2026-03-26T23:00:00Z,2026,nhl,Philadelphia Flyers,Chicago Blackhawks,5,1,0,401803493
+2026-03-27T00:00:00Z,2026,nhl,St. Louis Blues,San Jose Sharks,2,1,0,401803494
+2026-03-27T00:00:00Z,2026,nhl,Nashville Predators,New Jersey Devils,2,4,0,401803495
+2026-03-27T00:00:00Z,2026,nhl,Winnipeg Jets,Colorado Avalanche,2,3,0,401803496
+2026-03-27T01:00:00Z,2026,nhl,Utah Mammoth,Washington Capitals,4,7,0,401803497
+2026-03-27T01:00:00Z,2026,nhl,Calgary Flames,Anaheim Ducks,2,3,0,401803498
+2026-03-27T01:30:00Z,2026,nhl,Vegas Golden Knights,Edmonton Oilers,3,4,0,401803499
+2026-03-27T02:00:00Z,2026,nhl,Vancouver Canucks,Los Angeles Kings,0,4,0,401803500
+2026-03-27T23:00:00Z,2026,nhl,Buffalo Sabres,Detroit Red Wings,2,5,0,401803501
+2026-03-27T23:00:00Z,2026,nhl,New York Rangers,Chicago Blackhawks,6,1,0,401803502
+2026-03-28T17:00:00Z,2026,nhl,Tampa Bay Lightning,Ottawa Senators,4,2,0,401803503
+2026-03-28T17:00:00Z,2026,nhl,New York Islanders,Florida Panthers,5,2,0,401803504
+2026-03-28T19:30:00Z,2026,nhl,Edmonton Oilers,Anaheim Ducks,4,2,0,401803505
+2026-03-28T21:00:00Z,2026,nhl,Boston Bruins,Minnesota Wild,6,3,0,401803506
+2026-03-28T21:00:00Z,2026,nhl,Pittsburgh Penguins,Dallas Stars,3,6,0,401803507
+2026-03-28T21:00:00Z,2026,nhl,Carolina Hurricanes,New Jersey Devils,5,2,0,401803508
+2026-03-28T21:00:00Z,2026,nhl,Columbus Blue Jackets,San Jose Sharks,2,3,0,401803509
+2026-03-28T21:30:00Z,2026,nhl,Buffalo Sabres,Seattle Kraken,3,2,0,401803510
+2026-03-28T23:00:00Z,2026,nhl,St. Louis Blues,Toronto Maple Leafs,5,1,0,401803511
+2026-03-28T23:00:00Z,2026,nhl,Nashville Predators,Montreal Canadiens,1,4,0,401803512
+2026-03-28T23:00:00Z,2026,nhl,Colorado Avalanche,Winnipeg Jets,2,4,0,401803513
+2026-03-29T00:00:00Z,2026,nhl,Detroit Red Wings,Philadelphia Flyers,3,5,0,401803514
+2026-03-29T01:00:00Z,2026,nhl,Los Angeles Kings,Utah Mammoth,2,6,0,401803515
+2026-03-29T02:00:00Z,2026,nhl,Calgary Flames,Vancouver Canucks,7,3,0,401803516
+2026-03-29T02:30:00Z,2026,nhl,Vegas Golden Knights,Washington Capitals,4,5,0,401803517
+2026-03-29T17:00:00Z,2026,nhl,New York Rangers,Florida Panthers,3,1,0,401803518
+2026-03-29T21:00:00Z,2026,nhl,Tampa Bay Lightning,Nashville Predators,3,2,0,401803519
+2026-03-29T21:00:00Z,2026,nhl,Carolina Hurricanes,Montreal Canadiens,1,3,0,401803520
+2026-03-29T21:00:00Z,2026,nhl,Columbus Blue Jackets,Boston Bruins,3,4,0,401803521
+2026-03-29T23:00:00Z,2026,nhl,New Jersey Devils,Chicago Blackhawks,5,3,0,401803522
+2026-03-29T23:00:00Z,2026,nhl,Philadelphia Flyers,Dallas Stars,2,1,0,401803523
+2026-03-30T23:00:00Z,2026,nhl,New York Islanders,Pittsburgh Penguins,3,8,0,401803524
+2026-03-31T00:30:00Z,2026,nhl,Colorado Avalanche,Calgary Flames,9,2,0,401803525
+2026-03-31T02:00:00Z,2026,nhl,Vegas Golden Knights,Vancouver Canucks,4,2,0,401803526
+2026-03-31T02:00:00Z,2026,nhl,Anaheim Ducks,Toronto Maple Leafs,4,5,0,401803527
+2026-03-31T02:00:00Z,2026,nhl,San Jose Sharks,St. Louis Blues,5,4,0,401803528
+2026-03-31T23:00:00Z,2026,nhl,Boston Bruins,Dallas Stars,6,3,0,401803529
+2026-03-31T23:00:00Z,2026,nhl,Buffalo Sabres,New York Islanders,4,3,0,401803530
+2026-03-31T23:00:00Z,2026,nhl,Tampa Bay Lightning,Montreal Canadiens,1,4,0,401803531
+2026-03-31T23:00:00Z,2026,nhl,Florida Panthers,Ottawa Senators,6,3,0,401803532
+2026-03-31T23:00:00Z,2026,nhl,New York Rangers,New Jersey Devils,4,1,0,401803533
+2026-03-31T23:00:00Z,2026,nhl,Pittsburgh Penguins,Detroit Red Wings,5,1,0,401803534
+2026-03-31T23:00:00Z,2026,nhl,Washington Capitals,Philadelphia Flyers,6,4,0,401803535
+2026-03-31T23:30:00Z,2026,nhl,Columbus Blue Jackets,Carolina Hurricanes,2,5,0,401803536
+2026-04-01T00:30:00Z,2026,nhl,Chicago Blackhawks,Winnipeg Jets,3,4,0,401803537
+2026-04-01T01:00:00Z,2026,nhl,Edmonton Oilers,Seattle Kraken,3,0,0,401803538
+2026-04-02T00:30:00Z,2026,nhl,Colorado Avalanche,Vancouver Canucks,6,8,0,401803539
+2026-04-02T01:00:00Z,2026,nhl,Los Angeles Kings,St. Louis Blues,2,1,0,401803540
+2026-04-02T01:00:00Z,2026,nhl,San Jose Sharks,Anaheim Ducks,4,3,0,401803541
+2026-04-02T23:00:00Z,2026,nhl,Ottawa Senators,Buffalo Sabres,4,1,0,401803542
+2026-04-02T23:00:00Z,2026,nhl,Tampa Bay Lightning,Pittsburgh Penguins,6,3,0,401803543
+2026-04-02T23:00:00Z,2026,nhl,Florida Panthers,Boston Bruins,2,1,0,401803544
+2026-04-02T23:00:00Z,2026,nhl,New York Rangers,Montreal Canadiens,2,3,0,401803546
+2026-04-02T23:00:00Z,2026,nhl,Philadelphia Flyers,Detroit Red Wings,2,4,0,401803547
+2026-04-02T23:00:00Z,2026,nhl,Carolina Hurricanes,Columbus Blue Jackets,5,1,0,401803548
+2026-04-02T23:30:00Z,2026,nhl,New Jersey Devils,Washington Capitals,7,3,0,401803545
+2026-04-03T00:00:00Z,2026,nhl,Dallas Stars,Winnipeg Jets,3,0,0,401803549
+2026-04-03T00:00:00Z,2026,nhl,Minnesota Wild,Vancouver Canucks,5,2,0,401803550
+2026-04-03T01:00:00Z,2026,nhl,Edmonton Oilers,Chicago Blackhawks,3,1,0,401803551
+2026-04-03T02:00:00Z,2026,nhl,Vegas Golden Knights,Calgary Flames,6,3,0,401803552
+2026-04-03T02:00:00Z,2026,nhl,San Jose Sharks,Toronto Maple Leafs,4,1,0,401803553
+2026-04-03T02:00:00Z,2026,nhl,Seattle Kraken,Utah Mammoth,2,6,0,401803554
+2026-04-03T02:30:00Z,2026,nhl,Los Angeles Kings,Nashville Predators,4,5,0,401803555
+2026-04-03T23:00:00Z,2026,nhl,New York Islanders,Philadelphia Flyers,1,4,0,401803556
+2026-04-04T02:00:00Z,2026,nhl,Anaheim Ducks,St. Louis Blues,2,6,0,401803557
+2026-04-04T16:30:00Z,2026,nhl,New York Rangers,Detroit Red Wings,4,1,0,401803558
+2026-04-04T17:00:00Z,2026,nhl,Ottawa Senators,Minnesota Wild,1,4,0,401803559
+2026-04-04T19:00:00Z,2026,nhl,Dallas Stars,Colorado Avalanche,0,2,0,401803560
+2026-04-04T21:00:00Z,2026,nhl,Tampa Bay Lightning,Boston Bruins,3,1,0,401803561
+2026-04-04T21:00:00Z,2026,nhl,Pittsburgh Penguins,Florida Panthers,9,4,0,401803562
+2026-04-04T23:00:00Z,2026,nhl,New Jersey Devils,Montreal Canadiens,3,4,0,401803563
+2026-04-04T23:00:00Z,2026,nhl,Washington Capitals,Buffalo Sabres,6,2,0,401803564
+2026-04-04T23:00:00Z,2026,nhl,Carolina Hurricanes,New York Islanders,4,3,0,401803565
+2026-04-04T23:00:00Z,2026,nhl,Columbus Blue Jackets,Winnipeg Jets,1,2,0,401803566
+2026-04-04T23:00:00Z,2026,nhl,Vancouver Canucks,Utah Mammoth,4,7,0,401803567
+2026-04-04T23:00:00Z,2026,nhl,Los Angeles Kings,Toronto Maple Leafs,7,6,0,401803568
+2026-04-05T02:00:00Z,2026,nhl,Edmonton Oilers,Vegas Golden Knights,1,5,0,401803569
+2026-04-05T02:00:00Z,2026,nhl,Anaheim Ducks,Calgary Flames,3,5,0,401803570
+2026-04-05T02:00:00Z,2026,nhl,San Jose Sharks,Nashville Predators,3,6,0,401803571
+2026-04-05T02:00:00Z,2026,nhl,Seattle Kraken,Chicago Blackhawks,2,4,0,401803572
+2026-04-05T17:00:00Z,2026,nhl,Detroit Red Wings,Minnesota Wild,4,5,0,401803573
+2026-04-05T19:00:00Z,2026,nhl,Pittsburgh Penguins,Florida Panthers,5,2,0,401803574
+2026-04-05T19:30:00Z,2026,nhl,Philadelphia Flyers,Boston Bruins,2,1,0,401803575
+2026-04-05T21:00:00Z,2026,nhl,Ottawa Senators,Carolina Hurricanes,6,3,0,401803576
+2026-04-05T23:00:00Z,2026,nhl,Montreal Canadiens,New Jersey Devils,0,3,0,401803577
+2026-04-05T23:00:00Z,2026,nhl,New York Rangers,Washington Capitals,8,1,0,401803578
+2026-04-06T01:45:00Z,2026,nhl,Colorado Avalanche,St. Louis Blues,2,3,0,401803579
+2026-04-06T23:00:00Z,2026,nhl,Buffalo Sabres,Tampa Bay Lightning,4,2,0,401803580
+2026-04-06T23:30:00Z,2026,nhl,Winnipeg Jets,Seattle Kraken,6,2,0,401803581
+2026-04-07T02:00:00Z,2026,nhl,San Jose Sharks,Chicago Blackhawks,3,2,0,401803582
+2026-04-07T02:30:00Z,2026,nhl,Los Angeles Kings,Nashville Predators,3,2,0,401803583
+2026-04-07T23:00:00Z,2026,nhl,Montreal Canadiens,Florida Panthers,4,3,0,401803584
+2026-04-07T23:00:00Z,2026,nhl,Ottawa Senators,Tampa Bay Lightning,6,2,0,401803585
+2026-04-07T23:00:00Z,2026,nhl,Detroit Red Wings,Columbus Blue Jackets,3,4,0,401803586
+2026-04-07T23:00:00Z,2026,nhl,New Jersey Devils,Philadelphia Flyers,1,5,0,401803587
+2026-04-07T23:00:00Z,2026,nhl,Carolina Hurricanes,Boston Bruins,6,5,0,401803588
+2026-04-08T00:00:00Z,2026,nhl,St. Louis Blues,Colorado Avalanche,1,3,0,401803589
+2026-04-08T00:00:00Z,2026,nhl,Dallas Stars,Calgary Flames,4,3,0,401803590
+2026-04-08T00:00:00Z,2026,nhl,Minnesota Wild,Seattle Kraken,5,2,0,401803591
+2026-04-08T01:30:00Z,2026,nhl,Utah Mammoth,Edmonton Oilers,6,5,0,401803592
+2026-04-08T02:00:00Z,2026,nhl,Vancouver Canucks,Vegas Golden Knights,1,2,0,401803593
+2026-04-08T02:00:00Z,2026,nhl,Anaheim Ducks,Nashville Predators,0,5,0,401803594
+2026-04-08T23:00:00Z,2026,nhl,New York Rangers,Buffalo Sabres,3,5,0,401803595
+2026-04-08T23:30:00Z,2026,nhl,Toronto Maple Leafs,Washington Capitals,0,4,0,401803596
+2026-04-09T02:00:00Z,2026,nhl,San Jose Sharks,Edmonton Oilers,2,5,0,401803597
+2026-04-09T22:45:00Z,2026,nhl,New York Islanders,Toronto Maple Leafs,5,3,0,401803603
+2026-04-09T23:00:00Z,2026,nhl,Buffalo Sabres,Columbus Blue Jackets,5,0,0,401803598
+2026-04-09T23:00:00Z,2026,nhl,Montreal Canadiens,Tampa Bay Lightning,2,1,0,401803599
+2026-04-09T23:00:00Z,2026,nhl,Ottawa Senators,Florida Panthers,5,1,0,401803600
+2026-04-09T23:00:00Z,2026,nhl,Detroit Red Wings,Philadelphia Flyers,6,3,0,401803601
+2026-04-09T23:00:00Z,2026,nhl,New Jersey Devils,Pittsburgh Penguins,2,5,0,401803602
+2026-04-10T00:00:00Z,2026,nhl,St. Louis Blues,Winnipeg Jets,2,3,0,401803604
+2026-04-10T00:30:00Z,2026,nhl,Chicago Blackhawks,Carolina Hurricanes,2,7,0,401803606
+2026-04-10T01:00:00Z,2026,nhl,Dallas Stars,Minnesota Wild,5,4,0,401803605
+2026-04-10T01:00:00Z,2026,nhl,Colorado Avalanche,Calgary Flames,3,1,0,401803607
+2026-04-10T01:00:00Z,2026,nhl,Utah Mammoth,Nashville Predators,4,1,0,401803608
+2026-04-10T02:00:00Z,2026,nhl,Anaheim Ducks,San Jose Sharks,6,1,0,401803609
+2026-04-10T02:00:00Z,2026,nhl,Seattle Kraken,Vegas Golden Knights,4,3,0,401803610
+2026-04-10T02:30:00Z,2026,nhl,Los Angeles Kings,Vancouver Canucks,4,1,0,401803611
+2026-04-11T16:30:00Z,2026,nhl,Boston Bruins,Tampa Bay Lightning,1,2,0,401803612
+2026-04-11T17:00:00Z,2026,nhl,New York Islanders,Ottawa Senators,0,3,0,401803613
+2026-04-11T19:00:00Z,2026,nhl,Pittsburgh Penguins,Washington Capitals,3,6,0,401803614
+2026-04-11T20:00:00Z,2026,nhl,Los Angeles Kings,Edmonton Oilers,1,0,0,401803615
+2026-04-11T21:00:00Z,2026,nhl,Detroit Red Wings,New Jersey Devils,3,5,0,401803616
+2026-04-11T21:00:00Z,2026,nhl,Chicago Blackhawks,St. Louis Blues,3,5,0,401803617
+2026-04-11T21:00:00Z,2026,nhl,Nashville Predators,Minnesota Wild,2,1,0,401803618
+2026-04-11T21:00:00Z,2026,nhl,Dallas Stars,New York Rangers,2,0,0,401803619
+2026-04-11T21:00:00Z,2026,nhl,Utah Mammoth,Carolina Hurricanes,1,4,0,401803620
+2026-04-11T23:00:00Z,2026,nhl,Toronto Maple Leafs,Florida Panthers,2,6,0,401803621
+2026-04-11T23:00:00Z,2026,nhl,Montreal Canadiens,Columbus Blue Jackets,2,5,0,401803622
+2026-04-11T23:00:00Z,2026,nhl,Winnipeg Jets,Philadelphia Flyers,1,7,0,401803623
+2026-04-11T23:00:00Z,2026,nhl,Seattle Kraken,Calgary Flames,4,1,0,401803624
+2026-04-12T00:00:00Z,2026,nhl,Colorado Avalanche,Vegas Golden Knights,2,3,0,401803625
+2026-04-12T02:00:00Z,2026,nhl,San Jose Sharks,Vancouver Canucks,3,4,0,401803626
+2026-04-12T19:00:00Z,2026,nhl,Washington Capitals,Pittsburgh Penguins,3,0,0,401803627
+2026-04-12T22:00:00Z,2026,nhl,New York Islanders,Montreal Canadiens,1,4,0,401803628
+2026-04-12T22:00:00Z,2026,nhl,Columbus Blue Jackets,Boston Bruins,2,3,0,401803629
+2026-04-12T23:00:00Z,2026,nhl,New Jersey Devils,Ottawa Senators,4,3,0,401803630
+2026-04-13T00:00:00Z,2026,nhl,Anaheim Ducks,Vancouver Canucks,3,4,0,401803631
+2026-04-13T01:00:00Z,2026,nhl,Calgary Flames,Utah Mammoth,4,1,0,401803632
+2026-04-13T23:00:00Z,2026,nhl,Tampa Bay Lightning,Detroit Red Wings,4,3,0,401803633
+2026-04-13T23:00:00Z,2026,nhl,Florida Panthers,New York Rangers,3,2,0,401803634
+2026-04-13T23:00:00Z,2026,nhl,Philadelphia Flyers,Carolina Hurricanes,3,2,0,401803635
+2026-04-13T23:30:00Z,2026,nhl,Toronto Maple Leafs,Dallas Stars,5,6,0,401803636
+2026-04-14T00:00:00Z,2026,nhl,St. Louis Blues,Minnesota Wild,6,3,0,401803637
+2026-04-14T00:00:00Z,2026,nhl,Nashville Predators,San Jose Sharks,2,3,0,401803638
+2026-04-14T00:30:00Z,2026,nhl,Chicago Blackhawks,Buffalo Sabres,1,5,0,401803639
+2026-04-14T01:30:00Z,2026,nhl,Edmonton Oilers,Colorado Avalanche,1,2,0,401803640
+2026-04-14T01:30:00Z,2026,nhl,Seattle Kraken,Los Angeles Kings,3,5,0,401803642
+2026-04-14T02:00:00Z,2026,nhl,Vegas Golden Knights,Winnipeg Jets,6,2,0,401803641
+2026-04-14T23:00:00Z,2026,nhl,Boston Bruins,New Jersey Devils,4,0,0,401803643
+2026-04-14T23:00:00Z,2026,nhl,New York Islanders,Carolina Hurricanes,1,2,0,401803644
+2026-04-14T23:00:00Z,2026,nhl,Philadelphia Flyers,Montreal Canadiens,4,2,0,401803645
+2026-04-14T23:00:00Z,2026,nhl,Columbus Blue Jackets,Washington Capitals,1,2,0,401803646
+2026-04-15T00:00:00Z,2026,nhl,Minnesota Wild,Anaheim Ducks,3,2,0,401803647
+2026-04-15T01:00:00Z,2026,nhl,Utah Mammoth,Winnipeg Jets,5,3,0,401803648
+2026-04-15T01:00:00Z,2026,nhl,Calgary Flames,Colorado Avalanche,1,3,0,401803649
+2026-04-15T01:30:00Z,2026,nhl,St. Louis Blues,Pittsburgh Penguins,7,5,0,401803650
+2026-04-15T02:00:00Z,2026,nhl,Vancouver Canucks,Los Angeles Kings,4,3,0,401803651
+2026-04-15T23:00:00Z,2026,nhl,Buffalo Sabres,Dallas Stars,3,4,0,401803652
+2026-04-15T23:00:00Z,2026,nhl,Tampa Bay Lightning,New York Rangers,2,4,0,401803653
+2026-04-15T23:00:00Z,2026,nhl,Florida Panthers,Detroit Red Wings,8,1,0,401803654
+2026-04-15T23:30:00Z,2026,nhl,Ottawa Senators,Toronto Maple Leafs,3,1,0,401803655
+2026-04-16T00:30:00Z,2026,nhl,Chicago Blackhawks,San Jose Sharks,5,2,0,401803656
+2026-04-16T02:00:00Z,2026,nhl,Vegas Golden Knights,Seattle Kraken,4,1,0,401803657
+2026-04-16T23:30:00Z,2026,nhl,Utah Mammoth,St. Louis Blues,3,5,0,401803660
+2026-04-17T00:00:00Z,2026,nhl,Nashville Predators,Anaheim Ducks,4,5,0,401803658
+2026-04-17T00:00:00Z,2026,nhl,Winnipeg Jets,San Jose Sharks,1,6,0,401803659
+2026-04-17T01:00:00Z,2026,nhl,Calgary Flames,Los Angeles Kings,3,1,0,401803661
+2026-04-17T01:00:00Z,2026,nhl,Edmonton Oilers,Vancouver Canucks,6,1,0,401803662
+2026-04-17T02:00:00Z,2026,nhl,Colorado Avalanche,Seattle Kraken,2,0,0,401803663
+2026-04-18T19:00:00Z,2026,nhl,Carolina Hurricanes,Ottawa Senators,2,0,0,401869715
+2026-04-18T21:30:00Z,2026,nhl,Dallas Stars,Minnesota Wild,1,6,0,401869716
+2026-04-19T00:00:00Z,2026,nhl,Pittsburgh Penguins,Philadelphia Flyers,2,3,0,401869717
+2026-04-19T19:00:00Z,2026,nhl,Colorado Avalanche,Los Angeles Kings,2,1,0,401869721
+2026-04-19T21:45:00Z,2026,nhl,Tampa Bay Lightning,Montreal Canadiens,3,4,0,401869718
+2026-04-19T23:30:00Z,2026,nhl,Buffalo Sabres,Boston Bruins,4,3,0,401869719
+2026-04-20T02:22:00Z,2026,nhl,Vegas Golden Knights,Utah Mammoth,4,2,0,401869720
+2026-04-20T23:00:00Z,2026,nhl,Pittsburgh Penguins,Philadelphia Flyers,0,3,0,401869794
+2026-04-20T23:30:00Z,2026,nhl,Carolina Hurricanes,Ottawa Senators,3,2,0,401869781
+2026-04-21T01:50:00Z,2026,nhl,Dallas Stars,Minnesota Wild,4,2,0,401869780
+2026-04-21T02:22:00Z,2026,nhl,Edmonton Oilers,Anaheim Ducks,4,3,0,401869722
+2026-04-21T23:00:00Z,2026,nhl,Tampa Bay Lightning,Montreal Canadiens,3,2,0,401869769
+2026-04-21T23:30:00Z,2026,nhl,Buffalo Sabres,Boston Bruins,2,4,0,401869757
+2026-04-22T01:52:00Z,2026,nhl,Vegas Golden Knights,Utah Mammoth,2,3,0,401869756
+2026-04-22T02:22:00Z,2026,nhl,Colorado Avalanche,Los Angeles Kings,2,1,0,401869792
+2026-04-22T23:00:00Z,2026,nhl,Philadelphia Flyers,Pittsburgh Penguins,5,2,0,401869796
+2026-04-23T01:30:00Z,2026,nhl,Minnesota Wild,Dallas Stars,3,4,0,401869782
+2026-04-23T02:00:00Z,2026,nhl,Edmonton Oilers,Anaheim Ducks,4,6,0,401869768
+2026-04-23T23:00:00Z,2026,nhl,Boston Bruins,Buffalo Sabres,1,3,0,401869759
+2026-04-23T23:30:00Z,2026,nhl,Ottawa Senators,Carolina Hurricanes,1,2,0,401869783
+2026-04-24T02:00:00Z,2026,nhl,Los Angeles Kings,Colorado Avalanche,2,4,0,401869793
+2026-04-24T23:00:00Z,2026,nhl,Montreal Canadiens,Tampa Bay Lightning,3,2,0,401869771
+2026-04-25T01:30:00Z,2026,nhl,Utah Mammoth,Vegas Golden Knights,4,2,0,401869758
+2026-04-25T02:00:00Z,2026,nhl,Anaheim Ducks,Edmonton Oilers,6,4,0,401869770
+2026-04-25T19:00:00Z,2026,nhl,Ottawa Senators,Carolina Hurricanes,2,4,0,401869786
+2026-04-25T21:30:00Z,2026,nhl,Minnesota Wild,Dallas Stars,3,2,0,401869784
+2026-04-26T00:00:00Z,2026,nhl,Philadelphia Flyers,Pittsburgh Penguins,2,4,0,401869799
+2026-04-26T18:00:00Z,2026,nhl,Boston Bruins,Buffalo Sabres,1,6,0,401869762
+2026-04-26T20:30:00Z,2026,nhl,Los Angeles Kings,Colorado Avalanche,1,5,0,401869795
+2026-04-26T23:00:00Z,2026,nhl,Montreal Canadiens,Tampa Bay Lightning,2,3,0,401869773
+2026-04-27T01:52:00Z,2026,nhl,Anaheim Ducks,Edmonton Oilers,4,3,0,401869772
+2026-04-27T23:00:00Z,2026,nhl,Pittsburgh Penguins,Philadelphia Flyers,3,2,0,401869801
+2026-04-28T01:50:00Z,2026,nhl,Utah Mammoth,Vegas Golden Knights,4,5,0,401869760
+2026-04-28T23:30:00Z,2026,nhl,Buffalo Sabres,Boston Bruins,1,2,0,401869764
+2026-04-29T00:00:00Z,2026,nhl,Dallas Stars,Minnesota Wild,2,4,0,401869785
+2026-04-29T02:00:00Z,2026,nhl,Edmonton Oilers,Anaheim Ducks,4,1,0,401869774
+2026-04-29T23:00:00Z,2026,nhl,Tampa Bay Lightning,Montreal Canadiens,2,3,0,401869775
+2026-04-29T23:30:00Z,2026,nhl,Philadelphia Flyers,Pittsburgh Penguins,1,0,0,401869802
+2026-04-30T02:00:00Z,2026,nhl,Vegas Golden Knights,Utah Mammoth,5,4,0,401869761
+2026-04-30T23:30:00Z,2026,nhl,Minnesota Wild,Dallas Stars,5,2,0,401869787
+2026-05-01T02:00:00Z,2026,nhl,Anaheim Ducks,Edmonton Oilers,5,2,0,401869776
+2026-05-01T23:00:00Z,2026,nhl,Montreal Canadiens,Tampa Bay Lightning,0,1,0,401869777
+2026-05-01T23:30:00Z,2026,nhl,Boston Bruins,Buffalo Sabres,1,4,0,401869765
+2026-05-02T02:20:00Z,2026,nhl,Utah Mammoth,Vegas Golden Knights,1,5,0,401869763
+2026-05-03T00:00:00Z,2026,nhl,Carolina Hurricanes,Philadelphia Flyers,3,0,0,401871166
+2026-05-03T22:00:00Z,2026,nhl,Tampa Bay Lightning,Montreal Canadiens,1,2,0,401869779
+2026-05-04T01:00:00Z,2026,nhl,Colorado Avalanche,Minnesota Wild,9,6,0,401871302
+2026-05-04T23:00:00Z,2026,nhl,Carolina Hurricanes,Philadelphia Flyers,3,2,0,401871411
+2026-05-05T01:50:00Z,2026,nhl,Vegas Golden Knights,Anaheim Ducks,3,1,0,401871423
+2026-05-06T00:00:00Z,2026,nhl,Colorado Avalanche,Minnesota Wild,5,2,0,401871417
+2026-05-06T23:00:00Z,2026,nhl,Buffalo Sabres,Montreal Canadiens,4,2,0,401871404
+2026-05-07T01:30:00Z,2026,nhl,Vegas Golden Knights,Anaheim Ducks,1,3,0,401871424
+2026-05-08T00:00:00Z,2026,nhl,Philadelphia Flyers,Carolina Hurricanes,1,4,0,401871412
+2026-05-08T23:00:00Z,2026,nhl,Buffalo Sabres,Montreal Canadiens,1,5,0,401871405
+2026-05-09T01:30:00Z,2026,nhl,Anaheim Ducks,Vegas Golden Knights,2,6,0,401871425
+2026-05-09T22:00:00Z,2026,nhl,Philadelphia Flyers,Carolina Hurricanes,2,3,0,401871413
+2026-05-10T01:00:00Z,2026,nhl,Minnesota Wild,Colorado Avalanche,5,1,0,401871418
+2026-05-10T23:00:00Z,2026,nhl,Montreal Canadiens,Buffalo Sabres,6,2,0,401871406
+2026-05-11T01:30:00Z,2026,nhl,Anaheim Ducks,Vegas Golden Knights,4,3,0,401871426
+2026-05-12T00:00:00Z,2026,nhl,Minnesota Wild,Colorado Avalanche,2,5,0,401871419
+2026-05-12T23:00:00Z,2026,nhl,Montreal Canadiens,Buffalo Sabres,2,3,0,401871407
+2026-05-13T01:52:00Z,2026,nhl,Vegas Golden Knights,Anaheim Ducks,3,2,0,401871427
+2026-05-14T00:00:00Z,2026,nhl,Colorado Avalanche,Minnesota Wild,4,3,0,401871420
+2026-05-14T23:00:00Z,2026,nhl,Buffalo Sabres,Montreal Canadiens,3,6,0,401871408
+2026-05-15T01:30:00Z,2026,nhl,Anaheim Ducks,Vegas Golden Knights,1,5,0,401871428
+2026-05-17T00:00:00Z,2026,nhl,Montreal Canadiens,Buffalo Sabres,3,8,0,401871409
+2026-05-18T23:30:00Z,2026,nhl,Buffalo Sabres,Montreal Canadiens,2,3,0,401871410
+2026-05-21T00:00:00Z,2026,nhl,Colorado Avalanche,Vegas Golden Knights,2,4,0,401872903
+2026-05-22T00:00:00Z,2026,nhl,Carolina Hurricanes,Montreal Canadiens,2,6,0,401873383
+2026-05-23T00:00:00Z,2026,nhl,Colorado Avalanche,Vegas Golden Knights,1,3,0,401872904
+2026-05-23T23:00:00Z,2026,nhl,Carolina Hurricanes,Montreal Canadiens,3,2,0,401873384
+2026-05-25T00:00:00Z,2026,nhl,Vegas Golden Knights,Colorado Avalanche,5,3,0,401872905
+2026-05-26T00:00:00Z,2026,nhl,Montreal Canadiens,Carolina Hurricanes,2,3,0,401873385
+2026-05-27T01:00:00Z,2026,nhl,Vegas Golden Knights,Colorado Avalanche,2,1,0,401872906
+2026-05-28T00:00:00Z,2026,nhl,Montreal Canadiens,Carolina Hurricanes,0,4,0,401873386
+2026-05-30T00:00:00Z,2026,nhl,Carolina Hurricanes,Montreal Canadiens,6,1,0,401873387
+2026-06-03T00:00:00Z,2026,nhl,Carolina Hurricanes,Vegas Golden Knights,4,5,0,401874171
+2026-06-05T00:00:00Z,2026,nhl,Carolina Hurricanes,Vegas Golden Knights,4,3,0,401874172
+2026-06-07T00:00:00Z,2026,nhl,Vegas Golden Knights,Carolina Hurricanes,5,4,0,401874173
+2026-06-10T00:00:00Z,2026,nhl,Vegas Golden Knights,Carolina Hurricanes,3,5,0,401874174
+2026-06-12T00:00:00Z,2026,nhl,Carolina Hurricanes,Vegas Golden Knights,4,2,0,401874175
+2026-06-15T00:00:00Z,2026,nhl,Vegas Golden Knights,Carolina Hurricanes,0,3,0,401874176

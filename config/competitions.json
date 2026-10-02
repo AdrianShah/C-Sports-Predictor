@@ -1,0 +1,9 @@
+{
+  "_comment": "Competitions the model ignores, mostly women's football: ESPN often gives women's teams the same names as men's (\"Chelsea\", \"United States\"), which would mix their ratings. Patterns are case-insensitive substrings of the ESPN league/competition name; a leading '=' means the whole name. The backfill also drops leagues whose slug matches excludeLeagueSlugPattern (ESPN marks women's leagues with '.w'). predict applies excludeCompetitions to fixtures; keep kDefaultExclusions in src/main.cpp in sync.",
+  "excludeCompetitions": [
+    "women", "femen", "frauen", "femin", "fémin", "vrouwen", "damallsvenskan",
+    "nwsl", "ncaa", "shebelieves", "pinatar",
+    "=spanish liga f", "=french première ligue", "=northern super league", "=usl super league"
+  ],
+  "excludeLeagueSlugPattern": "(^|\\.)w(\\.|$)|women|femenin|ncaa"
+}

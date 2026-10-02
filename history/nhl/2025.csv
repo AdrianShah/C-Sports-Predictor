@@ -1,0 +1,1441 @@
+date,season,league,home,away,home_score,away_score,neutral,espn_id
+2025-01-01T01:00:00Z,2025,nhl,Detroit Red Wings,Pittsburgh Penguins,4,2,0,401688192
+2025-01-01T01:00:00Z,2025,nhl,Columbus Blue Jackets,Carolina Hurricanes,4,3,0,401688193
+2025-01-01T01:00:00Z,2025,nhl,Dallas Stars,Buffalo Sabres,4,2,0,401688194
+2025-01-01T01:00:00Z,2025,nhl,Minnesota Wild,Nashville Predators,5,3,0,401688195
+2025-01-01T01:00:00Z,2025,nhl,Colorado Avalanche,Winnipeg Jets,5,2,0,401688196
+2025-01-01T01:00:00Z,2025,nhl,Anaheim Ducks,New Jersey Devils,3,2,0,401688197
+2025-01-01T01:00:00Z,2025,nhl,San Jose Sharks,Philadelphia Flyers,0,4,0,401688198
+2025-01-01T02:00:00Z,2025,nhl,Calgary Flames,Vancouver Canucks,3,1,0,401688199
+2025-01-01T02:00:00Z,2025,nhl,Edmonton Oilers,Utah Hockey Club,4,1,0,401688200
+2025-01-01T23:00:00Z,2025,nhl,Los Angeles Kings,New Jersey Devils,3,0,0,401688201
+2025-01-03T00:00:00Z,2025,nhl,Florida Panthers,Carolina Hurricanes,1,3,0,401688202
+2025-01-03T00:00:00Z,2025,nhl,New York Rangers,Boston Bruins,2,1,0,401688203
+2025-01-03T00:00:00Z,2025,nhl,Washington Capitals,Minnesota Wild,3,4,0,401688204
+2025-01-03T00:00:00Z,2025,nhl,Columbus Blue Jackets,Detroit Red Wings,4,5,0,401688205
+2025-01-03T00:30:00Z,2025,nhl,New York Islanders,Toronto Maple Leafs,1,2,0,401688206
+2025-01-03T01:00:00Z,2025,nhl,Dallas Stars,Ottawa Senators,4,2,0,401688207
+2025-01-03T01:00:00Z,2025,nhl,Winnipeg Jets,Anaheim Ducks,3,4,0,401688208
+2025-01-03T02:00:00Z,2025,nhl,Colorado Avalanche,Buffalo Sabres,6,5,0,401688209
+2025-01-03T02:00:00Z,2025,nhl,Calgary Flames,Utah Hockey Club,3,5,0,401688210
+2025-01-03T03:00:00Z,2025,nhl,Vegas Golden Knights,Philadelphia Flyers,5,2,0,401688211
+2025-01-03T03:00:00Z,2025,nhl,Seattle Kraken,Vancouver Canucks,3,4,0,401688212
+2025-01-03T03:30:00Z,2025,nhl,San Jose Sharks,Tampa Bay Lightning,2,1,0,401688213
+2025-01-04T00:00:00Z,2025,nhl,Florida Panthers,Pittsburgh Penguins,3,2,0,401688214
+2025-01-04T01:00:00Z,2025,nhl,Chicago Blackhawks,Montreal Canadiens,4,2,0,401688215
+2025-01-04T01:00:00Z,2025,nhl,St. Louis Blues,Ottawa Senators,4,0,0,401688216
+2025-01-04T02:00:00Z,2025,nhl,Edmonton Oilers,Anaheim Ducks,3,2,0,401688217
+2025-01-04T03:00:00Z,2025,nhl,Vancouver Canucks,Nashville Predators,0,3,0,401688218
+2025-01-04T17:00:00Z,2025,nhl,Washington Capitals,New York Rangers,7,4,0,401688219
+2025-01-04T21:00:00Z,2025,nhl,San Jose Sharks,New Jersey Devils,3,2,0,401688221
+2025-01-05T00:00:00Z,2025,nhl,Winnipeg Jets,Detroit Red Wings,2,4,0,401688220
+2025-01-05T00:00:00Z,2025,nhl,Toronto Maple Leafs,Boston Bruins,6,4,0,401688222
+2025-01-05T00:00:00Z,2025,nhl,Carolina Hurricanes,Minnesota Wild,0,4,0,401688223
+2025-01-05T00:00:00Z,2025,nhl,Columbus Blue Jackets,St. Louis Blues,6,4,0,401688224
+2025-01-05T00:00:00Z,2025,nhl,Colorado Avalanche,Montreal Canadiens,1,2,0,401688225
+2025-01-05T01:00:00Z,2025,nhl,Dallas Stars,Utah Hockey Club,3,2,0,401688227
+2025-01-05T02:00:00Z,2025,nhl,Los Angeles Kings,Tampa Bay Lightning,2,1,0,401688228
+2025-01-05T03:00:00Z,2025,nhl,Calgary Flames,Nashville Predators,1,4,0,401688226
+2025-01-05T03:00:00Z,2025,nhl,Vegas Golden Knights,Buffalo Sabres,3,1,0,401688229
+2025-01-05T03:00:00Z,2025,nhl,Seattle Kraken,Edmonton Oilers,2,4,0,401688230
+2025-01-05T20:00:00Z,2025,nhl,Chicago Blackhawks,New York Rangers,2,6,0,401688231
+2025-01-05T23:00:00Z,2025,nhl,Boston Bruins,New York Islanders,4,5,0,401688232
+2025-01-05T23:00:00Z,2025,nhl,Carolina Hurricanes,Pittsburgh Penguins,4,3,0,401688233
+2025-01-06T00:00:00Z,2025,nhl,Toronto Maple Leafs,Philadelphia Flyers,3,2,0,401688234
+2025-01-06T01:00:00Z,2025,nhl,Anaheim Ducks,Tampa Bay Lightning,4,1,0,401688235
+2025-01-07T00:00:00Z,2025,nhl,Buffalo Sabres,Washington Capitals,4,3,0,401688236
+2025-01-07T00:30:00Z,2025,nhl,Montreal Canadiens,Vancouver Canucks,5,4,0,401688237
+2025-01-07T02:00:00Z,2025,nhl,Colorado Avalanche,Florida Panthers,3,1,0,401688238
+2025-01-07T03:00:00Z,2025,nhl,Seattle Kraken,New Jersey Devils,2,3,0,401688239
+2025-01-08T00:00:00Z,2025,nhl,Boston Bruins,Edmonton Oilers,0,4,0,401688240
+2025-01-08T00:00:00Z,2025,nhl,Detroit Red Wings,Ottawa Senators,3,2,0,401688241
+2025-01-08T00:00:00Z,2025,nhl,New York Rangers,Dallas Stars,4,5,0,401688242
+2025-01-08T00:00:00Z,2025,nhl,Pittsburgh Penguins,Columbus Blue Jackets,3,4,0,401688244
+2025-01-08T00:00:00Z,2025,nhl,Tampa Bay Lightning,Carolina Hurricanes,3,2,0,401734652
+2025-01-08T00:30:00Z,2025,nhl,Philadelphia Flyers,Toronto Maple Leafs,2,3,0,401688243
+2025-01-08T01:00:00Z,2025,nhl,Minnesota Wild,St. Louis Blues,6,4,0,401688245
+2025-01-08T01:00:00Z,2025,nhl,Winnipeg Jets,Nashville Predators,5,2,0,401688246
+2025-01-08T03:00:00Z,2025,nhl,Anaheim Ducks,Calgary Flames,2,3,0,401688247
+2025-01-08T03:30:00Z,2025,nhl,San Jose Sharks,Vegas Golden Knights,2,4,0,401688248
+2025-01-09T00:30:00Z,2025,nhl,Washington Capitals,Vancouver Canucks,2,1,0,401688249
+2025-01-09T00:30:00Z,2025,nhl,Chicago Blackhawks,Colorado Avalanche,3,1,0,401688250
+2025-01-09T03:00:00Z,2025,nhl,Utah Hockey Club,Florida Panthers,1,4,0,401688251
+2025-01-10T00:00:00Z,2025,nhl,Ottawa Senators,Buffalo Sabres,0,4,0,401688253
+2025-01-10T00:00:00Z,2025,nhl,Tampa Bay Lightning,Boston Bruins,4,1,0,401688254
+2025-01-10T00:00:00Z,2025,nhl,New York Rangers,New Jersey Devils,3,2,0,401688255
+2025-01-10T00:00:00Z,2025,nhl,Philadelphia Flyers,Dallas Stars,1,4,0,401688256
+2025-01-10T00:00:00Z,2025,nhl,Pittsburgh Penguins,Edmonton Oilers,5,3,0,401688257
+2025-01-10T00:00:00Z,2025,nhl,Columbus Blue Jackets,Seattle Kraken,6,2,0,401688259
+2025-01-10T00:30:00Z,2025,nhl,Carolina Hurricanes,Toronto Maple Leafs,6,3,0,401688258
+2025-01-10T01:00:00Z,2025,nhl,St. Louis Blues,Anaheim Ducks,6,2,0,401688260
+2025-01-10T01:00:00Z,2025,nhl,Minnesota Wild,Colorado Avalanche,1,6,0,401688261
+2025-01-10T03:00:00Z,2025,nhl,Vegas Golden Knights,New York Islanders,0,4,0,401688262
+2025-01-11T00:00:00Z,2025,nhl,Detroit Red Wings,Chicago Blackhawks,5,3,0,401688263
+2025-01-11T00:00:00Z,2025,nhl,Washington Capitals,Montreal Canadiens,2,3,0,401688264
+2025-01-11T00:00:00Z,2025,nhl,Carolina Hurricanes,Vancouver Canucks,2,0,0,401688265
+2025-01-11T01:00:00Z,2025,nhl,Winnipeg Jets,Los Angeles Kings,1,2,0,401688266
+2025-01-11T02:00:00Z,2025,nhl,Utah Hockey Club,San Jose Sharks,2,1,0,401688267
+2025-01-11T18:00:00Z,2025,nhl,Florida Panthers,Boston Bruins,3,4,0,401688268
+2025-01-11T21:00:00Z,2025,nhl,Buffalo Sabres,Seattle Kraken,2,6,0,401688269
+2025-01-11T21:00:00Z,2025,nhl,Pittsburgh Penguins,Ottawa Senators,0,5,0,401688270
+2025-01-12T00:00:00Z,2025,nhl,Toronto Maple Leafs,Vancouver Canucks,0,3,0,401688271
+2025-01-12T00:00:00Z,2025,nhl,Montreal Canadiens,Dallas Stars,1,2,0,401688272
+2025-01-12T00:00:00Z,2025,nhl,New Jersey Devils,Tampa Bay Lightning,3,2,0,401688273
+2025-01-12T00:00:00Z,2025,nhl,Philadelphia Flyers,Anaheim Ducks,6,0,0,401688274
+2025-01-12T00:00:00Z,2025,nhl,Chicago Blackhawks,Edmonton Oilers,3,4,0,401688275
+2025-01-12T00:00:00Z,2025,nhl,St. Louis Blues,Columbus Blue Jackets,1,2,0,401688276
+2025-01-12T00:00:00Z,2025,nhl,Winnipeg Jets,Colorado Avalanche,3,0,0,401688277
+2025-01-12T01:00:00Z,2025,nhl,Nashville Predators,Washington Capitals,1,4,0,401688278
+2025-01-12T02:00:00Z,2025,nhl,Utah Hockey Club,New York Islanders,1,2,0,401688279
+2025-01-12T03:00:00Z,2025,nhl,Calgary Flames,Los Angeles Kings,2,1,0,401688280
+2025-01-12T03:00:00Z,2025,nhl,Vegas Golden Knights,New York Rangers,1,2,0,401688281
+2025-01-12T03:00:00Z,2025,nhl,San Jose Sharks,Minnesota Wild,1,3,0,401688282
+2025-01-12T20:00:00Z,2025,nhl,Detroit Red Wings,Seattle Kraken,6,2,0,401688283
+2025-01-12T22:00:00Z,2025,nhl,Ottawa Senators,Dallas Stars,3,2,0,401688284
+2025-01-12T22:00:00Z,2025,nhl,Pittsburgh Penguins,Tampa Bay Lightning,2,5,0,401688285
+2025-01-12T22:00:00Z,2025,nhl,Carolina Hurricanes,Anaheim Ducks,2,3,0,401688286
+2025-01-13T01:00:00Z,2025,nhl,Vegas Golden Knights,Minnesota Wild,4,1,0,401688287
+2025-01-14T00:00:00Z,2025,nhl,Philadelphia Flyers,Florida Panthers,4,3,0,401688288
+2025-01-14T00:30:00Z,2025,nhl,Chicago Blackhawks,Calgary Flames,2,5,0,401688289
+2025-01-14T02:30:00Z,2025,nhl,Edmonton Oilers,Los Angeles Kings,1,0,0,401688290
+2025-01-15T00:00:00Z,2025,nhl,Boston Bruins,Tampa Bay Lightning,6,2,0,401688291
+2025-01-15T00:00:00Z,2025,nhl,Toronto Maple Leafs,Dallas Stars,1,4,0,401688292
+2025-01-15T00:00:00Z,2025,nhl,Detroit Red Wings,San Jose Sharks,3,6,0,401688293
+2025-01-15T00:00:00Z,2025,nhl,Pittsburgh Penguins,Seattle Kraken,2,4,0,401688295
+2025-01-15T00:00:00Z,2025,nhl,Washington Capitals,Anaheim Ducks,3,0,0,401688296
+2025-01-15T00:00:00Z,2025,nhl,Columbus Blue Jackets,Philadelphia Flyers,3,2,0,401688297
+2025-01-15T00:30:00Z,2025,nhl,New Jersey Devils,Florida Panthers,1,2,0,401688294
+2025-01-15T00:30:00Z,2025,nhl,New York Islanders,Ottawa Senators,0,2,0,401688298
+2025-01-15T01:00:00Z,2025,nhl,St. Louis Blues,Calgary Flames,2,1,0,401688299
+2025-01-15T01:00:00Z,2025,nhl,Nashville Predators,Vegas Golden Knights,5,3,0,401688300
+2025-01-15T01:00:00Z,2025,nhl,Winnipeg Jets,Vancouver Canucks,6,1,0,401688301
+2025-01-15T02:00:00Z,2025,nhl,Colorado Avalanche,New York Rangers,3,2,0,401688302
+2025-01-15T02:00:00Z,2025,nhl,Utah Hockey Club,Montreal Canadiens,3,5,0,401688303
+2025-01-15T23:00:00Z,2025,nhl,Buffalo Sabres,Carolina Hurricanes,4,2,0,401688304
+2025-01-16T01:30:00Z,2025,nhl,Minnesota Wild,Edmonton Oilers,3,5,0,401688305
+2025-01-17T00:00:00Z,2025,nhl,Toronto Maple Leafs,New Jersey Devils,4,3,0,401688306
+2025-01-17T00:00:00Z,2025,nhl,Ottawa Senators,Washington Capitals,0,1,0,401688307
+2025-01-17T00:00:00Z,2025,nhl,Tampa Bay Lightning,Anaheim Ducks,4,3,0,401688308
+2025-01-17T00:00:00Z,2025,nhl,Florida Panthers,Detroit Red Wings,2,5,0,401688309
+2025-01-17T00:00:00Z,2025,nhl,Columbus Blue Jackets,San Jose Sharks,4,1,0,401688310
+2025-01-17T00:30:00Z,2025,nhl,New York Islanders,Philadelphia Flyers,3,5,0,401688311
+2025-01-17T01:00:00Z,2025,nhl,St. Louis Blues,Calgary Flames,4,1,0,401688312
+2025-01-17T01:00:00Z,2025,nhl,Nashville Predators,Chicago Blackhawks,3,2,0,401688313
+2025-01-17T01:00:00Z,2025,nhl,Dallas Stars,Montreal Canadiens,1,3,0,401688314
+2025-01-17T01:00:00Z,2025,nhl,Winnipeg Jets,Seattle Kraken,2,1,0,401688315
+2025-01-17T02:00:00Z,2025,nhl,Utah Hockey Club,New York Rangers,3,5,0,401688316
+2025-01-17T02:30:00Z,2025,nhl,Colorado Avalanche,Edmonton Oilers,3,4,0,401688317
+2025-01-17T03:00:00Z,2025,nhl,Vancouver Canucks,Los Angeles Kings,1,5,0,401688318
+2025-01-18T00:00:00Z,2025,nhl,Buffalo Sabres,Pittsburgh Penguins,2,5,0,401688319
+2025-01-18T00:00:00Z,2025,nhl,Carolina Hurricanes,Vegas Golden Knights,3,2,0,401688320
+2025-01-18T17:30:00Z,2025,nhl,New Jersey Devils,Philadelphia Flyers,1,3,0,401688321
+2025-01-18T20:00:00Z,2025,nhl,Ottawa Senators,Boston Bruins,6,5,0,401688322
+2025-01-18T21:00:00Z,2025,nhl,Colorado Avalanche,Dallas Stars,6,3,0,401688323
+2025-01-18T23:00:00Z,2025,nhl,Florida Panthers,Anaheim Ducks,3,0,0,401688324
+2025-01-19T00:00:00Z,2025,nhl,Montreal Canadiens,Toronto Maple Leafs,3,7,0,401688325
+2025-01-19T00:00:00Z,2025,nhl,Tampa Bay Lightning,Detroit Red Wings,5,1,0,401688326
+2025-01-19T00:00:00Z,2025,nhl,New York Rangers,Columbus Blue Jackets,1,0,0,401688327
+2025-01-19T00:00:00Z,2025,nhl,Washington Capitals,Pittsburgh Penguins,4,1,0,401688328
+2025-01-19T00:00:00Z,2025,nhl,Winnipeg Jets,Calgary Flames,1,3,0,401688329
+2025-01-19T00:30:00Z,2025,nhl,New York Islanders,San Jose Sharks,4,1,0,401688330
+2025-01-19T01:00:00Z,2025,nhl,Chicago Blackhawks,Vegas Golden Knights,5,3,0,401688331
+2025-01-19T01:00:00Z,2025,nhl,Nashville Predators,Minnesota Wild,6,2,0,401688332
+2025-01-19T02:00:00Z,2025,nhl,Utah Hockey Club,St. Louis Blues,4,2,0,401688333
+2025-01-19T03:00:00Z,2025,nhl,Vancouver Canucks,Edmonton Oilers,3,2,0,401688334
+2025-01-19T03:00:00Z,2025,nhl,Seattle Kraken,Los Angeles Kings,4,2,0,401688335
+2025-01-19T18:00:00Z,2025,nhl,New Jersey Devils,Ottawa Senators,1,2,0,401688336
+2025-01-20T00:00:00Z,2025,nhl,Montreal Canadiens,New York Rangers,5,4,0,401688337
+2025-01-20T01:00:00Z,2025,nhl,Dallas Stars,Detroit Red Wings,4,1,0,401688338
+2025-01-20T18:00:00Z,2025,nhl,Boston Bruins,San Jose Sharks,6,3,0,401688339
+2025-01-20T20:00:00Z,2025,nhl,Colorado Avalanche,Minnesota Wild,1,3,0,401688340
+2025-01-20T21:00:00Z,2025,nhl,Seattle Kraken,Buffalo Sabres,6,4,0,401688341
+2025-01-20T23:00:00Z,2025,nhl,Vegas Golden Knights,St. Louis Blues,4,5,0,401688342
+2025-01-21T00:30:00Z,2025,nhl,Toronto Maple Leafs,Tampa Bay Lightning,5,3,0,401688343
+2025-01-21T00:30:00Z,2025,nhl,New York Islanders,Columbus Blue Jackets,3,1,0,401688344
+2025-01-21T01:30:00Z,2025,nhl,Chicago Blackhawks,Carolina Hurricanes,3,4,0,401688345
+2025-01-21T02:30:00Z,2025,nhl,Utah Hockey Club,Winnipeg Jets,5,2,0,401688346
+2025-01-21T03:30:00Z,2025,nhl,Los Angeles Kings,Pittsburgh Penguins,1,5,0,401688347
+2025-01-22T00:00:00Z,2025,nhl,Montreal Canadiens,Tampa Bay Lightning,3,2,0,401688348
+2025-01-22T00:00:00Z,2025,nhl,New York Rangers,Ottawa Senators,5,0,0,401688349
+2025-01-22T00:00:00Z,2025,nhl,Philadelphia Flyers,Detroit Red Wings,2,1,0,401688350
+2025-01-22T01:00:00Z,2025,nhl,Nashville Predators,San Jose Sharks,7,5,0,401688351
+2025-01-22T01:00:00Z,2025,nhl,Dallas Stars,Carolina Hurricanes,1,2,0,401688352
+2025-01-22T02:00:00Z,2025,nhl,Edmonton Oilers,Washington Capitals,2,3,0,401688353
+2025-01-22T03:00:00Z,2025,nhl,Vancouver Canucks,Buffalo Sabres,2,3,0,401688354
+2025-01-22T03:00:00Z,2025,nhl,Anaheim Ducks,Florida Panthers,2,5,0,401688355
+2025-01-23T00:00:00Z,2025,nhl,New Jersey Devils,Boston Bruins,5,1,0,401688357
+2025-01-23T00:30:00Z,2025,nhl,Toronto Maple Leafs,Columbus Blue Jackets,1,5,0,401688356
+2025-01-23T02:30:00Z,2025,nhl,Colorado Avalanche,Winnipeg Jets,2,3,0,401688358
+2025-01-23T03:00:00Z,2025,nhl,Los Angeles Kings,Florida Panthers,2,1,0,401688359
+2025-01-24T00:00:00Z,2025,nhl,Boston Bruins,Ottawa Senators,2,0,0,401688360
+2025-01-24T00:00:00Z,2025,nhl,Detroit Red Wings,Montreal Canadiens,4,2,0,401688361
+2025-01-24T00:00:00Z,2025,nhl,New York Rangers,Philadelphia Flyers,6,1,0,401688362
+2025-01-24T00:00:00Z,2025,nhl,Carolina Hurricanes,Columbus Blue Jackets,7,4,0,401688363
+2025-01-24T01:00:00Z,2025,nhl,St. Louis Blues,Vegas Golden Knights,2,4,0,401688364
+2025-01-24T01:00:00Z,2025,nhl,Minnesota Wild,Utah Hockey Club,0,4,0,401688365
+2025-01-24T02:00:00Z,2025,nhl,Calgary Flames,Buffalo Sabres,5,2,0,401688366
+2025-01-24T02:00:00Z,2025,nhl,Edmonton Oilers,Vancouver Canucks,6,2,0,401688367
+2025-01-24T03:00:00Z,2025,nhl,Anaheim Ducks,Pittsburgh Penguins,5,1,0,401688368
+2025-01-24T03:00:00Z,2025,nhl,Seattle Kraken,Washington Capitals,0,3,0,401688369
+2025-01-24T03:30:00Z,2025,nhl,San Jose Sharks,Nashville Predators,5,6,0,401688370
+2025-01-25T00:30:00Z,2025,nhl,New York Islanders,Philadelphia Flyers,3,1,0,401688371
+2025-01-25T00:30:00Z,2025,nhl,Dallas Stars,Vegas Golden Knights,4,3,0,401688373
+2025-01-25T01:00:00Z,2025,nhl,Chicago Blackhawks,Tampa Bay Lightning,3,4,0,401688372
+2025-01-25T01:00:00Z,2025,nhl,Winnipeg Jets,Utah Hockey Club,5,2,0,401688374
+2025-01-25T18:00:00Z,2025,nhl,Boston Bruins,Colorado Avalanche,3,1,0,401688375
+2025-01-25T21:00:00Z,2025,nhl,Edmonton Oilers,Buffalo Sabres,3,2,0,401688376
+2025-01-25T21:00:00Z,2025,nhl,Seattle Kraken,Pittsburgh Penguins,4,1,0,401688377
+2025-01-26T00:00:00Z,2025,nhl,Montreal Canadiens,New Jersey Devils,3,4,0,401688378
+2025-01-26T00:00:00Z,2025,nhl,Ottawa Senators,Toronto Maple Leafs,2,1,0,401688379
+2025-01-26T00:00:00Z,2025,nhl,Detroit Red Wings,Tampa Bay Lightning,2,0,0,401688380
+2025-01-26T00:00:00Z,2025,nhl,Columbus Blue Jackets,Los Angeles Kings,3,2,0,401688381
+2025-01-26T00:00:00Z,2025,nhl,St. Louis Blues,Dallas Stars,0,2,0,401688382
+2025-01-26T00:00:00Z,2025,nhl,Minnesota Wild,Calgary Flames,4,5,0,401688383
+2025-01-26T00:30:00Z,2025,nhl,New York Islanders,Carolina Hurricanes,3,2,0,401688384
+2025-01-26T03:00:00Z,2025,nhl,Vancouver Canucks,Washington Capitals,2,1,0,401688385
+2025-01-26T03:00:00Z,2025,nhl,Anaheim Ducks,Nashville Predators,5,2,0,401688386
+2025-01-26T03:00:00Z,2025,nhl,San Jose Sharks,Florida Panthers,2,7,0,401688387
+2025-01-26T18:00:00Z,2025,nhl,New York Rangers,Colorado Avalanche,4,5,0,401688388
+2025-01-26T22:00:00Z,2025,nhl,Ottawa Senators,Utah Hockey Club,3,1,0,401688389
+2025-01-26T23:00:00Z,2025,nhl,Winnipeg Jets,Calgary Flames,5,2,0,401688390
+2025-01-27T00:00:00Z,2025,nhl,Chicago Blackhawks,Minnesota Wild,2,4,0,401688391
+2025-01-27T01:00:00Z,2025,nhl,Vegas Golden Knights,Florida Panthers,4,1,0,401688392
+2025-01-28T00:00:00Z,2025,nhl,Detroit Red Wings,Los Angeles Kings,5,2,0,401688393
+2025-01-28T00:00:00Z,2025,nhl,Philadelphia Flyers,New Jersey Devils,4,2,0,401688394
+2025-01-28T00:30:00Z,2025,nhl,St. Louis Blues,Vancouver Canucks,2,5,0,401688395
+2025-01-28T02:30:00Z,2025,nhl,Edmonton Oilers,Seattle Kraken,4,2,0,401688396
+2025-01-28T03:30:00Z,2025,nhl,San Jose Sharks,Pittsburgh Penguins,2,1,0,401688397
+2025-01-29T00:00:00Z,2025,nhl,Buffalo Sabres,Boston Bruins,7,2,0,401688398
+2025-01-29T00:00:00Z,2025,nhl,Montreal Canadiens,Winnipeg Jets,1,4,0,401688399
+2025-01-29T00:00:00Z,2025,nhl,Tampa Bay Lightning,Chicago Blackhawks,1,4,0,401688400
+2025-01-29T00:00:00Z,2025,nhl,New York Rangers,Carolina Hurricanes,0,4,0,401688401
+2025-01-29T00:30:00Z,2025,nhl,New York Islanders,Colorado Avalanche,5,2,0,401688402
+2025-01-29T02:00:00Z,2025,nhl,Calgary Flames,Washington Capitals,1,3,0,401688403
+2025-01-29T03:00:00Z,2025,nhl,Vegas Golden Knights,Dallas Stars,3,4,0,401688404
+2025-01-29T03:00:00Z,2025,nhl,Seattle Kraken,Anaheim Ducks,4,6,0,401688405
+2025-01-30T00:00:00Z,2025,nhl,Toronto Maple Leafs,Minnesota Wild,1,3,0,401688406
+2025-01-30T00:00:00Z,2025,nhl,Florida Panthers,Los Angeles Kings,3,0,0,401688407
+2025-01-30T00:00:00Z,2025,nhl,New Jersey Devils,Philadelphia Flyers,5,0,0,401688408
+2025-01-30T02:00:00Z,2025,nhl,Nashville Predators,Vancouver Canucks,1,3,0,401688409
+2025-01-30T02:30:00Z,2025,nhl,Utah Hockey Club,Pittsburgh Penguins,2,3,0,401688410
+2025-01-31T00:00:00Z,2025,nhl,Boston Bruins,Winnipeg Jets,2,6,0,401688411
+2025-01-31T00:00:00Z,2025,nhl,Montreal Canadiens,Minnesota Wild,0,4,0,401688412
+2025-01-31T00:00:00Z,2025,nhl,Ottawa Senators,Washington Capitals,5,4,0,401688413
+2025-01-31T00:00:00Z,2025,nhl,Tampa Bay Lightning,Los Angeles Kings,3,0,0,401688414
+2025-01-31T00:00:00Z,2025,nhl,Carolina Hurricanes,Chicago Blackhawks,3,2,0,401688416
+2025-01-31T00:30:00Z,2025,nhl,Philadelphia Flyers,New York Islanders,0,3,0,401688415
+2025-01-31T02:00:00Z,2025,nhl,Calgary Flames,Anaheim Ducks,4,1,0,401688417
+2025-01-31T02:00:00Z,2025,nhl,Edmonton Oilers,Detroit Red Wings,2,3,0,401688418
+2025-01-31T03:00:00Z,2025,nhl,Vegas Golden Knights,Columbus Blue Jackets,1,2,0,401688419
+2025-01-31T03:30:00Z,2025,nhl,Seattle Kraken,San Jose Sharks,6,2,0,401688420
+2025-02-01T00:00:00Z,2025,nhl,Buffalo Sabres,Nashville Predators,4,3,0,401688421
+2025-02-01T01:00:00Z,2025,nhl,Dallas Stars,Vancouver Canucks,5,3,0,401688422
+2025-02-01T02:00:00Z,2025,nhl,Colorado Avalanche,St. Louis Blues,5,0,0,401688423
+2025-02-01T02:00:00Z,2025,nhl,Utah Hockey Club,Columbus Blue Jackets,2,3,0,401688424
+2025-02-01T18:00:00Z,2025,nhl,Florida Panthers,Chicago Blackhawks,5,1,0,401688425
+2025-02-01T20:30:00Z,2025,nhl,Boston Bruins,New York Rangers,6,3,0,401688426
+2025-02-02T00:00:00Z,2025,nhl,Ottawa Senators,Minnesota Wild,6,0,0,401688427
+2025-02-02T00:00:00Z,2025,nhl,Tampa Bay Lightning,New York Islanders,2,3,0,401688428
+2025-02-02T00:00:00Z,2025,nhl,Pittsburgh Penguins,Nashville Predators,3,0,0,401688429
+2025-02-02T00:00:00Z,2025,nhl,Washington Capitals,Winnipeg Jets,4,5,0,401688430
+2025-02-02T00:00:00Z,2025,nhl,Carolina Hurricanes,Los Angeles Kings,2,4,0,401688431
+2025-02-02T00:00:00Z,2025,nhl,Edmonton Oilers,Toronto Maple Leafs,3,4,0,401688432
+2025-02-02T03:00:00Z,2025,nhl,Calgary Flames,Detroit Red Wings,1,3,0,401688433
+2025-02-02T18:00:00Z,2025,nhl,Buffalo Sabres,New Jersey Devils,4,3,0,401688434
+2025-02-02T20:00:00Z,2025,nhl,Colorado Avalanche,Philadelphia Flyers,2,0,0,401688435
+2025-02-02T21:00:00Z,2025,nhl,Anaheim Ducks,Montreal Canadiens,3,2,0,401688436
+2025-02-02T23:00:00Z,2025,nhl,Florida Panthers,New York Islanders,6,3,0,401688437
+2025-02-02T23:00:00Z,2025,nhl,New York Rangers,Vegas Golden Knights,4,2,0,401688438
+2025-02-02T23:00:00Z,2025,nhl,Dallas Stars,Columbus Blue Jackets,5,3,0,401688439
+2025-02-03T00:00:00Z,2025,nhl,Utah Hockey Club,St. Louis Blues,1,2,0,401688440
+2025-02-03T01:00:00Z,2025,nhl,Vancouver Canucks,Detroit Red Wings,2,3,0,401688441
+2025-02-03T02:00:00Z,2025,nhl,Seattle Kraken,Calgary Flames,2,3,0,401688442
+2025-02-04T00:30:00Z,2025,nhl,Nashville Predators,Ottawa Senators,2,5,0,401688443
+2025-02-05T00:00:00Z,2025,nhl,Boston Bruins,Minnesota Wild,3,0,0,401688444
+2025-02-05T00:00:00Z,2025,nhl,Buffalo Sabres,Columbus Blue Jackets,3,2,0,401688445
+2025-02-05T00:00:00Z,2025,nhl,Tampa Bay Lightning,Ottawa Senators,4,3,0,401688446
+2025-02-05T00:00:00Z,2025,nhl,Pittsburgh Penguins,New Jersey Devils,2,3,0,401688447
+2025-02-05T00:00:00Z,2025,nhl,Washington Capitals,Florida Panthers,6,3,0,401688448
+2025-02-05T00:30:00Z,2025,nhl,New York Islanders,Vegas Golden Knights,2,1,0,401688449
+2025-02-05T01:00:00Z,2025,nhl,St. Louis Blues,Edmonton Oilers,2,3,0,401688450
+2025-02-05T01:00:00Z,2025,nhl,Winnipeg Jets,Carolina Hurricanes,3,0,0,401688451
+2025-02-05T02:00:00Z,2025,nhl,Calgary Flames,Toronto Maple Leafs,3,6,0,401688452
+2025-02-05T02:00:00Z,2025,nhl,Utah Hockey Club,Philadelphia Flyers,3,2,0,401688453
+2025-02-05T03:00:00Z,2025,nhl,Vancouver Canucks,Colorado Avalanche,3,0,0,401688454
+2025-02-05T03:00:00Z,2025,nhl,Seattle Kraken,Detroit Red Wings,4,5,0,401688456
+2025-02-05T03:30:00Z,2025,nhl,Anaheim Ducks,Dallas Stars,2,1,0,401688455
+2025-02-05T03:30:00Z,2025,nhl,San Jose Sharks,Montreal Canadiens,3,4,0,401688457
+2025-02-06T00:00:00Z,2025,nhl,New York Rangers,Boston Bruins,3,2,0,401688458
+2025-02-06T02:30:00Z,2025,nhl,Chicago Blackhawks,Edmonton Oilers,3,4,0,401688459
+2025-02-06T03:30:00Z,2025,nhl,Los Angeles Kings,Montreal Canadiens,6,3,0,401688460
+2025-02-07T00:00:00Z,2025,nhl,Tampa Bay Lightning,Ottawa Senators,5,1,0,401688461
+2025-02-07T00:00:00Z,2025,nhl,New Jersey Devils,Vegas Golden Knights,1,3,0,401688462
+2025-02-07T00:00:00Z,2025,nhl,Philadelphia Flyers,Washington Capitals,3,4,0,401688463
+2025-02-07T00:00:00Z,2025,nhl,Columbus Blue Jackets,Utah Hockey Club,2,3,0,401688464
+2025-02-07T00:30:00Z,2025,nhl,Minnesota Wild,Carolina Hurricanes,2,1,0,401688466
+2025-02-07T01:00:00Z,2025,nhl,St. Louis Blues,Florida Panthers,2,3,0,401688465
+2025-02-07T02:00:00Z,2025,nhl,Calgary Flames,Colorado Avalanche,2,4,0,401688467
+2025-02-07T03:00:00Z,2025,nhl,Seattle Kraken,Toronto Maple Leafs,1,3,0,401688468
+2025-02-07T03:30:00Z,2025,nhl,San Jose Sharks,Vancouver Canucks,1,2,0,401688469
+2025-02-08T00:00:00Z,2025,nhl,New York Rangers,Pittsburgh Penguins,2,3,0,401688470
+2025-02-08T01:00:00Z,2025,nhl,Winnipeg Jets,New York Islanders,4,3,0,401688471
+2025-02-08T01:30:00Z,2025,nhl,Chicago Blackhawks,Nashville Predators,6,2,0,401688472
+2025-02-08T02:00:00Z,2025,nhl,Edmonton Oilers,Colorado Avalanche,4,5,0,401688473
+2025-02-08T03:30:00Z,2025,nhl,Los Angeles Kings,Dallas Stars,5,4,0,401688474
+2025-02-08T18:00:00Z,2025,nhl,Montreal Canadiens,New Jersey Devils,0,4,0,401688475
+2025-02-08T18:00:00Z,2025,nhl,Detroit Red Wings,Tampa Bay Lightning,3,6,0,401688476
+2025-02-08T18:00:00Z,2025,nhl,Carolina Hurricanes,Utah Hockey Club,7,3,0,401688477
+2025-02-08T20:30:00Z,2025,nhl,Boston Bruins,Vegas Golden Knights,3,4,0,401688478
+2025-02-09T00:00:00Z,2025,nhl,Florida Panthers,Ottawa Senators,5,1,0,401688479
+2025-02-09T00:00:00Z,2025,nhl,Philadelphia Flyers,Pittsburgh Penguins,3,2,0,401688480
+2025-02-09T00:00:00Z,2025,nhl,Columbus Blue Jackets,New York Rangers,3,4,0,401688481
+2025-02-09T00:00:00Z,2025,nhl,St. Louis Blues,Chicago Blackhawks,6,5,0,401688482
+2025-02-09T00:00:00Z,2025,nhl,Vancouver Canucks,Toronto Maple Leafs,2,1,0,401688483
+2025-02-09T01:00:00Z,2025,nhl,Nashville Predators,Buffalo Sabres,6,4,0,401688484
+2025-02-09T01:00:00Z,2025,nhl,Minnesota Wild,New York Islanders,6,3,0,401688485
+2025-02-09T03:00:00Z,2025,nhl,Calgary Flames,Seattle Kraken,2,3,0,401688486
+2025-02-09T03:00:00Z,2025,nhl,San Jose Sharks,Dallas Stars,3,8,0,401688488
+2025-02-09T03:30:00Z,2025,nhl,Los Angeles Kings,Anaheim Ducks,1,2,0,401688487
+2025-02-09T17:30:00Z,2025,nhl,Washington Capitals,Utah Hockey Club,4,5,0,401688489
+2025-02-09T18:00:00Z,2025,nhl,Montreal Canadiens,Tampa Bay Lightning,3,5,0,401688490
+2025-02-13T01:00:00Z,2025,nhl,Sweden,Canada,3,4,1,401687575
+2025-02-14T01:00:00Z,2025,nhl,Finland,USA,1,6,1,401688916
+2025-02-15T18:00:00Z,2025,nhl,Sweden,Finland,3,4,1,401688917
+2025-02-16T01:00:00Z,2025,nhl,Canada,USA,1,3,1,401688918
+2025-02-17T18:00:00Z,2025,nhl,Finland,Canada,3,5,1,401688919
+2025-02-18T01:00:00Z,2025,nhl,USA,Sweden,1,2,1,401688920
+2025-02-21T01:00:00Z,2025,nhl,USA,Canada,2,3,1,401688921
+2025-02-22T17:30:00Z,2025,nhl,Detroit Red Wings,Minnesota Wild,3,4,0,401688493
+2025-02-22T18:00:00Z,2025,nhl,Philadelphia Flyers,Edmonton Oilers,6,3,0,401688491
+2025-02-22T20:00:00Z,2025,nhl,Pittsburgh Penguins,Washington Capitals,3,8,0,401688492
+2025-02-22T22:30:00Z,2025,nhl,Buffalo Sabres,New York Rangers,8,2,0,401688494
+2025-02-22T23:00:00Z,2025,nhl,Florida Panthers,Seattle Kraken,1,2,0,401688495
+2025-02-22T23:00:00Z,2025,nhl,New Jersey Devils,Dallas Stars,2,4,0,401688496
+2025-02-22T23:00:00Z,2025,nhl,Nashville Predators,Colorado Avalanche,2,1,0,401688497
+2025-02-23T00:00:00Z,2025,nhl,Boston Bruins,Anaheim Ducks,2,3,0,401688498
+2025-02-23T00:00:00Z,2025,nhl,Toronto Maple Leafs,Carolina Hurricanes,6,3,0,401688499
+2025-02-23T00:00:00Z,2025,nhl,Ottawa Senators,Montreal Canadiens,2,5,0,401688500
+2025-02-23T00:00:00Z,2025,nhl,Columbus Blue Jackets,Chicago Blackhawks,5,1,0,401688501
+2025-02-23T00:00:00Z,2025,nhl,St. Louis Blues,Winnipeg Jets,3,4,0,401688502
+2025-02-23T02:00:00Z,2025,nhl,Los Angeles Kings,Utah Hockey Club,5,3,0,401688503
+2025-02-23T03:00:00Z,2025,nhl,Vegas Golden Knights,Vancouver Canucks,3,1,0,401688504
+2025-02-23T18:00:00Z,2025,nhl,Washington Capitals,Edmonton Oilers,7,3,0,401688505
+2025-02-23T20:30:00Z,2025,nhl,Pittsburgh Penguins,New York Rangers,3,5,0,401688506
+2025-02-23T23:00:00Z,2025,nhl,Detroit Red Wings,Anaheim Ducks,5,4,0,401688507
+2025-02-23T23:00:00Z,2025,nhl,Tampa Bay Lightning,Seattle Kraken,4,1,0,401688508
+2025-02-23T23:00:00Z,2025,nhl,St. Louis Blues,Colorado Avalanche,3,1,0,401688509
+2025-02-23T23:00:00Z,2025,nhl,Nashville Predators,New Jersey Devils,0,5,0,401688510
+2025-02-24T00:00:00Z,2025,nhl,Chicago Blackhawks,Toronto Maple Leafs,2,5,0,401688511
+2025-02-24T00:30:00Z,2025,nhl,New York Islanders,Dallas Stars,3,4,0,401688512
+2025-02-24T01:00:00Z,2025,nhl,Calgary Flames,San Jose Sharks,3,2,0,401688513
+2025-02-24T01:00:00Z,2025,nhl,Utah Hockey Club,Vancouver Canucks,2,1,0,401688514
+2025-02-25T00:30:00Z,2025,nhl,Winnipeg Jets,San Jose Sharks,2,1,0,401688515
+2025-02-25T03:30:00Z,2025,nhl,Los Angeles Kings,Vegas Golden Knights,5,2,0,401688516
+2025-02-26T00:00:00Z,2025,nhl,Boston Bruins,Toronto Maple Leafs,4,5,0,401688517
+2025-02-26T00:00:00Z,2025,nhl,Buffalo Sabres,Anaheim Ducks,3,2,0,401688518
+2025-02-26T00:00:00Z,2025,nhl,Montreal Canadiens,Carolina Hurricanes,4,0,0,401688519
+2025-02-26T00:00:00Z,2025,nhl,Philadelphia Flyers,Pittsburgh Penguins,6,1,0,401688521
+2025-02-26T00:00:00Z,2025,nhl,Washington Capitals,Calgary Flames,1,3,0,401688522
+2025-02-26T00:00:00Z,2025,nhl,Columbus Blue Jackets,Dallas Stars,6,4,0,401688523
+2025-02-26T00:30:00Z,2025,nhl,Tampa Bay Lightning,Edmonton Oilers,4,1,0,401688520
+2025-02-26T00:30:00Z,2025,nhl,New York Islanders,New York Rangers,1,5,0,401688524
+2025-02-26T01:00:00Z,2025,nhl,St. Louis Blues,Seattle Kraken,7,2,0,401688525
+2025-02-26T01:00:00Z,2025,nhl,Nashville Predators,Florida Panthers,1,4,0,401688526
+2025-02-26T01:00:00Z,2025,nhl,Minnesota Wild,Detroit Red Wings,2,3,0,401688527
+2025-02-26T02:00:00Z,2025,nhl,Utah Hockey Club,Chicago Blackhawks,2,1,0,401688528
+2025-02-27T00:00:00Z,2025,nhl,Ottawa Senators,Winnipeg Jets,1,4,0,401688529
+2025-02-27T02:30:00Z,2025,nhl,Colorado Avalanche,New Jersey Devils,5,1,0,401688530
+2025-02-27T03:00:00Z,2025,nhl,Los Angeles Kings,Vancouver Canucks,2,3,0,401688531
+2025-02-28T00:00:00Z,2025,nhl,Boston Bruins,New York Islanders,1,2,0,401688532
+2025-02-28T00:00:00Z,2025,nhl,Montreal Canadiens,San Jose Sharks,4,3,0,401688533
+2025-02-28T00:00:00Z,2025,nhl,Detroit Red Wings,Columbus Blue Jackets,2,5,0,401688534
+2025-02-28T00:00:00Z,2025,nhl,Tampa Bay Lightning,Calgary Flames,3,0,0,401688535
+2025-02-28T00:00:00Z,2025,nhl,Florida Panthers,Edmonton Oilers,4,3,0,401688536
+2025-02-28T00:00:00Z,2025,nhl,Washington Capitals,St. Louis Blues,2,5,0,401688538
+2025-02-28T00:00:00Z,2025,nhl,Carolina Hurricanes,Buffalo Sabres,5,2,0,401688539
+2025-02-28T00:30:00Z,2025,nhl,Pittsburgh Penguins,Philadelphia Flyers,5,4,0,401688537
+2025-02-28T01:00:00Z,2025,nhl,Nashville Predators,Winnipeg Jets,2,1,0,401688540
+2025-02-28T02:00:00Z,2025,nhl,Utah Hockey Club,Minnesota Wild,6,1,0,401688541
+2025-02-28T03:00:00Z,2025,nhl,Vegas Golden Knights,Chicago Blackhawks,7,5,0,401688542
+2025-02-28T03:00:00Z,2025,nhl,Anaheim Ducks,Vancouver Canucks,5,2,0,401688543
+2025-03-01T00:00:00Z,2025,nhl,New York Rangers,Toronto Maple Leafs,2,3,0,401688544
+2025-03-01T01:00:00Z,2025,nhl,Dallas Stars,Los Angeles Kings,6,2,0,401688545
+2025-03-01T02:00:00Z,2025,nhl,Colorado Avalanche,Minnesota Wild,5,2,0,401688546
+2025-03-01T17:30:00Z,2025,nhl,New York Islanders,Nashville Predators,7,4,0,401688547
+2025-03-01T17:30:00Z,2025,nhl,Washington Capitals,Tampa Bay Lightning,1,3,0,401688548
+2025-03-01T20:00:00Z,2025,nhl,Florida Panthers,Calgary Flames,3,0,0,401688550
+2025-03-01T20:00:00Z,2025,nhl,Pittsburgh Penguins,Boston Bruins,2,3,0,401688551
+2025-03-01T23:35:00Z,2025,nhl,Columbus Blue Jackets,Detroit Red Wings,5,3,0,401688549
+2025-03-02T00:00:00Z,2025,nhl,Buffalo Sabres,Montreal Canadiens,2,4,0,401688552
+2025-03-02T00:00:00Z,2025,nhl,Ottawa Senators,San Jose Sharks,5,3,0,401688553
+2025-03-02T00:00:00Z,2025,nhl,Carolina Hurricanes,Edmonton Oilers,1,3,0,401688554
+2025-03-02T00:00:00Z,2025,nhl,Winnipeg Jets,Philadelphia Flyers,1,2,0,401688555
+2025-03-02T01:00:00Z,2025,nhl,St. Louis Blues,Los Angeles Kings,4,1,0,401688556
+2025-03-02T02:00:00Z,2025,nhl,Utah Hockey Club,New Jersey Devils,1,3,0,401688557
+2025-03-02T03:00:00Z,2025,nhl,Anaheim Ducks,Chicago Blackhawks,3,6,0,401688558
+2025-03-02T03:00:00Z,2025,nhl,Seattle Kraken,Vancouver Canucks,6,3,0,401688559
+2025-03-02T18:00:00Z,2025,nhl,Pittsburgh Penguins,Toronto Maple Leafs,5,6,0,401688560
+2025-03-02T20:30:00Z,2025,nhl,Minnesota Wild,Boston Bruins,1,0,0,401688561
+2025-03-02T22:00:00Z,2025,nhl,Carolina Hurricanes,Calgary Flames,2,1,0,401688562
+2025-03-02T23:00:00Z,2025,nhl,Dallas Stars,St. Louis Blues,6,3,0,401688563
+2025-03-03T00:00:00Z,2025,nhl,New York Rangers,Nashville Predators,4,0,0,401688564
+2025-03-03T01:00:00Z,2025,nhl,Vegas Golden Knights,New Jersey Devils,2,0,0,401688565
+2025-03-03T23:30:00Z,2025,nhl,Washington Capitals,Ottawa Senators,5,4,0,401688566
+2025-03-04T00:00:00Z,2025,nhl,Montreal Canadiens,Buffalo Sabres,4,3,0,401688567
+2025-03-04T00:00:00Z,2025,nhl,Florida Panthers,Tampa Bay Lightning,2,1,0,401688568
+2025-03-04T00:00:00Z,2025,nhl,New York Rangers,New York Islanders,4,0,0,401688569
+2025-03-04T00:30:00Z,2025,nhl,Toronto Maple Leafs,San Jose Sharks,2,3,0,401688570
+2025-03-04T01:30:00Z,2025,nhl,Chicago Blackhawks,Los Angeles Kings,5,1,0,401688571
+2025-03-05T00:00:00Z,2025,nhl,Boston Bruins,Nashville Predators,3,6,0,401688572
+2025-03-05T00:00:00Z,2025,nhl,Buffalo Sabres,San Jose Sharks,2,6,0,401688573
+2025-03-05T00:00:00Z,2025,nhl,Detroit Red Wings,Carolina Hurricanes,1,2,0,401688574
+2025-03-05T00:00:00Z,2025,nhl,Tampa Bay Lightning,Columbus Blue Jackets,6,2,0,401688575
+2025-03-05T00:00:00Z,2025,nhl,Philadelphia Flyers,Calgary Flames,3,6,0,401688576
+2025-03-05T00:30:00Z,2025,nhl,New York Islanders,Winnipeg Jets,3,2,0,401688577
+2025-03-05T01:00:00Z,2025,nhl,Dallas Stars,New Jersey Devils,4,3,0,401688578
+2025-03-05T02:00:00Z,2025,nhl,Colorado Avalanche,Pittsburgh Penguins,4,1,0,401688579
+2025-03-05T02:00:00Z,2025,nhl,Edmonton Oilers,Anaheim Ducks,2,6,0,401688580
+2025-03-05T03:00:00Z,2025,nhl,Seattle Kraken,Minnesota Wild,3,4,0,401688581
+2025-03-06T00:30:00Z,2025,nhl,New York Rangers,Washington Capitals,2,3,0,401688582
+2025-03-06T00:30:00Z,2025,nhl,Chicago Blackhawks,Ottawa Senators,3,4,0,401688583
+2025-03-06T03:00:00Z,2025,nhl,Vegas Golden Knights,Toronto Maple Leafs,5,2,0,401688584
+2025-03-06T03:30:00Z,2025,nhl,Vancouver Canucks,Anaheim Ducks,3,2,0,401688585
+2025-03-06T03:30:00Z,2025,nhl,Los Angeles Kings,St. Louis Blues,2,3,0,401688586
+2025-03-07T00:00:00Z,2025,nhl,Detroit Red Wings,Utah Hockey Club,2,4,0,401688587
+2025-03-07T00:00:00Z,2025,nhl,Tampa Bay Lightning,Buffalo Sabres,6,5,0,401688588
+2025-03-07T00:00:00Z,2025,nhl,Florida Panthers,Columbus Blue Jackets,3,0,0,401688589
+2025-03-07T00:00:00Z,2025,nhl,Philadelphia Flyers,Winnipeg Jets,1,4,0,401688590
+2025-03-07T00:00:00Z,2025,nhl,Carolina Hurricanes,Boston Bruins,3,2,0,401688591
+2025-03-07T01:00:00Z,2025,nhl,Nashville Predators,Seattle Kraken,5,3,0,401688592
+2025-03-07T01:00:00Z,2025,nhl,Dallas Stars,Calgary Flames,3,2,0,401688593
+2025-03-07T02:00:00Z,2025,nhl,Edmonton Oilers,Montreal Canadiens,3,2,0,401688594
+2025-03-07T02:30:00Z,2025,nhl,Colorado Avalanche,San Jose Sharks,7,3,0,401688595
+2025-03-08T00:00:00Z,2025,nhl,New Jersey Devils,Winnipeg Jets,1,6,0,401688596
+2025-03-08T00:00:00Z,2025,nhl,Washington Capitals,Detroit Red Wings,5,2,0,401688597
+2025-03-08T01:30:00Z,2025,nhl,Chicago Blackhawks,Utah Hockey Club,4,3,0,401688598
+2025-03-08T03:00:00Z,2025,nhl,Vancouver Canucks,Minnesota Wild,3,1,0,401688599
+2025-03-08T03:00:00Z,2025,nhl,Vegas Golden Knights,Pittsburgh Penguins,4,0,0,401688600
+2025-03-08T03:00:00Z,2025,nhl,Anaheim Ducks,St. Louis Blues,3,4,0,401688601
+2025-03-08T17:30:00Z,2025,nhl,Ottawa Senators,New York Rangers,4,3,0,401688602
+2025-03-08T17:30:00Z,2025,nhl,Philadelphia Flyers,Seattle Kraken,1,4,0,401688603
+2025-03-08T20:00:00Z,2025,nhl,Tampa Bay Lightning,Boston Bruins,0,4,0,401688604
+2025-03-08T23:00:00Z,2025,nhl,Florida Panthers,Buffalo Sabres,4,0,0,401688605
+2025-03-09T00:00:00Z,2025,nhl,Colorado Avalanche,Toronto Maple Leafs,7,4,0,401688606
+2025-03-09T00:00:00Z,2025,nhl,Calgary Flames,Montreal Canadiens,1,0,0,401688607
+2025-03-09T01:00:00Z,2025,nhl,Nashville Predators,Chicago Blackhawks,3,2,0,401688608
+2025-03-09T01:00:00Z,2025,nhl,Los Angeles Kings,St. Louis Blues,2,1,0,401688609
+2025-03-09T03:00:00Z,2025,nhl,Edmonton Oilers,Dallas Stars,5,4,0,401688610
+2025-03-09T03:00:00Z,2025,nhl,San Jose Sharks,New York Islanders,2,4,0,401688611
+2025-03-09T17:00:00Z,2025,nhl,Philadelphia Flyers,New Jersey Devils,1,3,0,401688612
+2025-03-09T19:30:00Z,2025,nhl,Washington Capitals,Seattle Kraken,4,2,0,401688613
+2025-03-09T19:30:00Z,2025,nhl,Minnesota Wild,Pittsburgh Penguins,1,3,0,401688614
+2025-03-09T21:00:00Z,2025,nhl,Carolina Hurricanes,Winnipeg Jets,4,2,0,401688615
+2025-03-09T22:00:00Z,2025,nhl,New York Rangers,Columbus Blue Jackets,3,7,0,401688616
+2025-03-10T00:00:00Z,2025,nhl,Vegas Golden Knights,Los Angeles Kings,5,6,0,401688617
+2025-03-10T01:00:00Z,2025,nhl,Vancouver Canucks,Dallas Stars,1,4,0,401688618
+2025-03-10T01:00:00Z,2025,nhl,Anaheim Ducks,New York Islanders,4,1,0,401688619
+2025-03-10T23:00:00Z,2025,nhl,Buffalo Sabres,Edmonton Oilers,3,2,0,401688620
+2025-03-10T23:30:00Z,2025,nhl,Ottawa Senators,Detroit Red Wings,2,1,0,401688621
+2025-03-11T01:00:00Z,2025,nhl,Colorado Avalanche,Chicago Blackhawks,3,0,0,401688622
+2025-03-11T02:00:00Z,2025,nhl,Utah Hockey Club,Toronto Maple Leafs,3,4,0,401688623
+2025-03-11T23:00:00Z,2025,nhl,Boston Bruins,Florida Panthers,3,2,0,401688624
+2025-03-11T23:00:00Z,2025,nhl,New Jersey Devils,Columbus Blue Jackets,5,3,0,401688625
+2025-03-11T23:00:00Z,2025,nhl,Philadelphia Flyers,Ottawa Senators,2,5,0,401688626
+2025-03-11T23:00:00Z,2025,nhl,Pittsburgh Penguins,Vegas Golden Knights,3,2,0,401688627
+2025-03-11T23:30:00Z,2025,nhl,Carolina Hurricanes,Tampa Bay Lightning,4,1,0,401688628
+2025-03-12T00:00:00Z,2025,nhl,Minnesota Wild,Colorado Avalanche,2,1,0,401688629
+2025-03-12T00:00:00Z,2025,nhl,Winnipeg Jets,New York Rangers,2,1,0,401688630
+2025-03-12T02:00:00Z,2025,nhl,Vancouver Canucks,Montreal Canadiens,2,4,0,401688631
+2025-03-12T02:00:00Z,2025,nhl,Anaheim Ducks,Washington Capitals,4,7,0,401688632
+2025-03-12T02:30:00Z,2025,nhl,Los Angeles Kings,New York Islanders,4,1,0,401688633
+2025-03-12T02:30:00Z,2025,nhl,San Jose Sharks,Nashville Predators,2,3,0,401688634
+2025-03-12T23:30:00Z,2025,nhl,Detroit Red Wings,Buffalo Sabres,7,3,0,401688635
+2025-03-13T01:00:00Z,2025,nhl,Calgary Flames,Vancouver Canucks,3,4,0,401688636
+2025-03-13T02:00:00Z,2025,nhl,Utah Hockey Club,Anaheim Ducks,3,2,0,401688637
+2025-03-13T02:30:00Z,2025,nhl,Seattle Kraken,Montreal Canadiens,5,4,0,401688638
+2025-03-13T23:00:00Z,2025,nhl,Toronto Maple Leafs,Florida Panthers,2,3,0,401688639
+2025-03-13T23:00:00Z,2025,nhl,Ottawa Senators,Boston Bruins,6,3,0,401688640
+2025-03-13T23:00:00Z,2025,nhl,Philadelphia Flyers,Tampa Bay Lightning,4,3,0,401688642
+2025-03-13T23:00:00Z,2025,nhl,Pittsburgh Penguins,St. Louis Blues,5,3,0,401688643
+2025-03-13T23:00:00Z,2025,nhl,Columbus Blue Jackets,Vegas Golden Knights,0,4,0,401688644
+2025-03-13T23:30:00Z,2025,nhl,New Jersey Devils,Edmonton Oilers,3,2,0,401688641
+2025-03-14T00:00:00Z,2025,nhl,Minnesota Wild,New York Rangers,2,3,0,401688645
+2025-03-14T02:30:00Z,2025,nhl,Los Angeles Kings,Washington Capitals,3,0,0,401688646
+2025-03-14T02:30:00Z,2025,nhl,San Jose Sharks,Chicago Blackhawks,4,2,0,401688647
+2025-03-14T23:00:00Z,2025,nhl,Carolina Hurricanes,Detroit Red Wings,4,2,0,401688648
+2025-03-14T23:30:00Z,2025,nhl,New York Islanders,Edmonton Oilers,1,2,0,401688649
+2025-03-15T00:00:00Z,2025,nhl,Winnipeg Jets,Dallas Stars,4,1,0,401688650
+2025-03-15T01:00:00Z,2025,nhl,Calgary Flames,Colorado Avalanche,2,4,0,401688651
+2025-03-15T02:00:00Z,2025,nhl,Anaheim Ducks,Nashville Predators,2,1,0,401688652
+2025-03-15T02:00:00Z,2025,nhl,Seattle Kraken,Utah Hockey Club,4,2,0,401688653
+2025-03-15T16:30:00Z,2025,nhl,Buffalo Sabres,Vegas Golden Knights,4,3,0,401688654
+2025-03-15T19:00:00Z,2025,nhl,Pittsburgh Penguins,New Jersey Devils,7,3,0,401688655
+2025-03-15T21:00:00Z,2025,nhl,San Jose Sharks,Washington Capitals,1,5,0,401688656
+2025-03-15T23:00:00Z,2025,nhl,Boston Bruins,Tampa Bay Lightning,2,6,0,401688657
+2025-03-15T23:00:00Z,2025,nhl,Toronto Maple Leafs,Ottawa Senators,2,4,0,401688658
+2025-03-15T23:00:00Z,2025,nhl,Montreal Canadiens,Florida Panthers,3,1,0,401688659
+2025-03-15T23:00:00Z,2025,nhl,Philadelphia Flyers,Carolina Hurricanes,0,5,0,401688660
+2025-03-15T23:00:00Z,2025,nhl,Columbus Blue Jackets,New York Rangers,0,4,0,401688661
+2025-03-16T00:00:00Z,2025,nhl,Minnesota Wild,St. Louis Blues,1,5,0,401688662
+2025-03-16T00:00:00Z,2025,nhl,Los Angeles Kings,Nashville Predators,1,0,0,401688663
+2025-03-16T02:00:00Z,2025,nhl,Vancouver Canucks,Chicago Blackhawks,6,2,0,401688664
+2025-03-16T17:00:00Z,2025,nhl,Detroit Red Wings,Vegas Golden Knights,3,0,0,401688665
+2025-03-16T19:30:00Z,2025,nhl,Colorado Avalanche,Dallas Stars,4,3,0,401688666
+2025-03-16T23:00:00Z,2025,nhl,New York Rangers,Edmonton Oilers,1,3,0,401688668
+2025-03-16T23:30:00Z,2025,nhl,New York Islanders,Florida Panthers,4,2,0,401688669
+2025-03-17T00:00:00Z,2025,nhl,St. Louis Blues,Anaheim Ducks,7,2,0,401688667
+2025-03-17T00:00:00Z,2025,nhl,Vancouver Canucks,Utah Hockey Club,1,3,0,401688670
+2025-03-17T01:00:00Z,2025,nhl,Seattle Kraken,Winnipeg Jets,2,3,0,401688671
+2025-03-17T23:00:00Z,2025,nhl,Boston Bruins,Buffalo Sabres,2,3,0,401688672
+2025-03-17T23:00:00Z,2025,nhl,Tampa Bay Lightning,Philadelphia Flyers,2,0,0,401688673
+2025-03-17T23:00:00Z,2025,nhl,Columbus Blue Jackets,New Jersey Devils,1,2,0,401688674
+2025-03-17T23:30:00Z,2025,nhl,Toronto Maple Leafs,Calgary Flames,6,2,0,401688675
+2025-03-18T00:00:00Z,2025,nhl,Minnesota Wild,Los Angeles Kings,3,1,0,401688676
+2025-03-18T23:00:00Z,2025,nhl,Montreal Canadiens,Ottawa Senators,6,3,0,401688677
+2025-03-18T23:00:00Z,2025,nhl,New York Rangers,Calgary Flames,1,2,0,401688678
+2025-03-18T23:00:00Z,2025,nhl,Pittsburgh Penguins,New York Islanders,2,4,0,401688679
+2025-03-18T23:00:00Z,2025,nhl,Washington Capitals,Detroit Red Wings,4,1,0,401688680
+2025-03-19T00:00:00Z,2025,nhl,Nashville Predators,St. Louis Blues,1,4,0,401688681
+2025-03-19T00:00:00Z,2025,nhl,Dallas Stars,Anaheim Ducks,4,3,0,401688682
+2025-03-19T00:30:00Z,2025,nhl,Chicago Blackhawks,Seattle Kraken,2,6,0,401688683
+2025-03-19T01:00:00Z,2025,nhl,Edmonton Oilers,Utah Hockey Club,7,1,0,401688684
+2025-03-19T02:00:00Z,2025,nhl,Vancouver Canucks,Winnipeg Jets,6,2,0,401688685
+2025-03-19T23:00:00Z,2025,nhl,Toronto Maple Leafs,Colorado Avalanche,2,1,0,401688686
+2025-03-20T01:30:00Z,2025,nhl,Minnesota Wild,Seattle Kraken,4,0,0,401688687
+2025-03-20T23:00:00Z,2025,nhl,Ottawa Senators,Colorado Avalanche,1,5,0,401688688
+2025-03-20T23:00:00Z,2025,nhl,New Jersey Devils,Calgary Flames,3,5,0,401688689
+2025-03-20T23:00:00Z,2025,nhl,New York Rangers,Toronto Maple Leafs,3,4,0,401688690
+2025-03-20T23:00:00Z,2025,nhl,Washington Capitals,Philadelphia Flyers,3,2,0,401688691
+2025-03-20T23:00:00Z,2025,nhl,Columbus Blue Jackets,Florida Panthers,0,1,0,401688692
+2025-03-20T23:30:00Z,2025,nhl,New York Islanders,Montreal Canadiens,4,3,0,401688693
+2025-03-20T23:30:00Z,2025,nhl,St. Louis Blues,Vancouver Canucks,4,3,0,401688694
+2025-03-21T00:00:00Z,2025,nhl,Nashville Predators,Anaheim Ducks,1,4,0,401688695
+2025-03-21T00:00:00Z,2025,nhl,Dallas Stars,Tampa Bay Lightning,2,3,0,401688696
+2025-03-21T00:30:00Z,2025,nhl,Chicago Blackhawks,Los Angeles Kings,1,3,0,401688697
+2025-03-21T01:00:00Z,2025,nhl,Edmonton Oilers,Winnipeg Jets,3,4,0,401688698
+2025-03-21T01:00:00Z,2025,nhl,Utah Hockey Club,Buffalo Sabres,5,2,0,401688699
+2025-03-21T02:00:00Z,2025,nhl,Vegas Golden Knights,Boston Bruins,5,1,0,401688700
+2025-03-21T02:30:00Z,2025,nhl,San Jose Sharks,Carolina Hurricanes,1,3,0,401688701
+2025-03-21T23:00:00Z,2025,nhl,Pittsburgh Penguins,Columbus Blue Jackets,6,3,0,401688702
+2025-03-22T17:00:00Z,2025,nhl,New York Rangers,Vancouver Canucks,5,3,0,401688703
+2025-03-22T18:00:00Z,2025,nhl,Dallas Stars,Philadelphia Flyers,3,2,0,401688704
+2025-03-22T18:00:00Z,2025,nhl,Minnesota Wild,Buffalo Sabres,4,1,0,401688705
+2025-03-22T19:00:00Z,2025,nhl,St. Louis Blues,Chicago Blackhawks,4,1,0,401688706
+2025-03-22T20:00:00Z,2025,nhl,New York Islanders,Calgary Flames,3,4,0,401688707
+2025-03-22T20:00:00Z,2025,nhl,Los Angeles Kings,Carolina Hurricanes,7,2,0,401688708
+2025-03-22T21:00:00Z,2025,nhl,Washington Capitals,Florida Panthers,6,3,0,401688709
+2025-03-22T21:00:00Z,2025,nhl,Utah Hockey Club,Tampa Bay Lightning,6,4,0,401688710
+2025-03-22T23:00:00Z,2025,nhl,Montreal Canadiens,Colorado Avalanche,4,5,0,401688711
+2025-03-22T23:00:00Z,2025,nhl,New Jersey Devils,Ottawa Senators,2,3,0,401688712
+2025-03-22T23:00:00Z,2025,nhl,Nashville Predators,Toronto Maple Leafs,5,2,0,401688713
+2025-03-23T00:00:00Z,2025,nhl,Vegas Golden Knights,Detroit Red Wings,6,3,0,401688714
+2025-03-23T02:00:00Z,2025,nhl,Edmonton Oilers,Seattle Kraken,5,4,0,401688715
+2025-03-23T02:30:00Z,2025,nhl,San Jose Sharks,Boston Bruins,3,1,0,401688716
+2025-03-23T19:00:00Z,2025,nhl,Chicago Blackhawks,Philadelphia Flyers,7,4,0,401688717
+2025-03-23T19:00:00Z,2025,nhl,Winnipeg Jets,Buffalo Sabres,3,5,0,401688718
+2025-03-23T22:00:00Z,2025,nhl,Florida Panthers,Pittsburgh Penguins,4,3,0,401688719
+2025-03-23T22:00:00Z,2025,nhl,St. Louis Blues,Nashville Predators,4,1,0,401688720
+2025-03-24T00:00:00Z,2025,nhl,Vegas Golden Knights,Tampa Bay Lightning,4,2,0,401688721
+2025-03-24T00:00:00Z,2025,nhl,Anaheim Ducks,Carolina Hurricanes,2,5,0,401688722
+2025-03-24T01:00:00Z,2025,nhl,Los Angeles Kings,Boston Bruins,7,2,0,401688723
+2025-03-24T23:30:00Z,2025,nhl,New Jersey Devils,Vancouver Canucks,3,4,0,401688724
+2025-03-24T23:30:00Z,2025,nhl,New York Islanders,Columbus Blue Jackets,3,4,0,401688725
+2025-03-25T00:00:00Z,2025,nhl,Dallas Stars,Minnesota Wild,3,0,0,401688726
+2025-03-25T01:00:00Z,2025,nhl,Utah Hockey Club,Detroit Red Wings,1,5,0,401688727
+2025-03-25T23:00:00Z,2025,nhl,Buffalo Sabres,Ottawa Senators,3,2,0,401688728
+2025-03-25T23:00:00Z,2025,nhl,Toronto Maple Leafs,Philadelphia Flyers,7,2,0,401688729
+2025-03-25T23:00:00Z,2025,nhl,Tampa Bay Lightning,Pittsburgh Penguins,6,1,0,401688730
+2025-03-25T23:00:00Z,2025,nhl,Carolina Hurricanes,Nashville Predators,1,3,0,401688731
+2025-03-26T00:00:00Z,2025,nhl,St. Louis Blues,Montreal Canadiens,6,1,0,401688732
+2025-03-26T00:00:00Z,2025,nhl,Minnesota Wild,Vegas Golden Knights,1,5,0,401688733
+2025-03-26T00:00:00Z,2025,nhl,Winnipeg Jets,Washington Capitals,3,2,0,401688734
+2025-03-26T01:00:00Z,2025,nhl,Colorado Avalanche,Detroit Red Wings,5,2,0,401688735
+2025-03-26T01:00:00Z,2025,nhl,Calgary Flames,Seattle Kraken,4,3,0,401688736
+2025-03-26T02:30:00Z,2025,nhl,Los Angeles Kings,New York Rangers,3,1,0,401688737
+2025-03-26T23:30:00Z,2025,nhl,New York Islanders,Vancouver Canucks,2,5,0,401688738
+2025-03-26T23:30:00Z,2025,nhl,Chicago Blackhawks,New Jersey Devils,3,5,0,401688739
+2025-03-27T02:00:00Z,2025,nhl,Edmonton Oilers,Dallas Stars,3,4,0,401688740
+2025-03-27T02:00:00Z,2025,nhl,Anaheim Ducks,Boston Bruins,6,2,0,401688741
+2025-03-27T23:00:00Z,2025,nhl,Buffalo Sabres,Pittsburgh Penguins,7,3,0,401688742
+2025-03-27T23:00:00Z,2025,nhl,Detroit Red Wings,Ottawa Senators,3,4,0,401688743
+2025-03-27T23:00:00Z,2025,nhl,Tampa Bay Lightning,Utah Hockey Club,8,0,0,401688744
+2025-03-27T23:00:00Z,2025,nhl,Philadelphia Flyers,Montreal Canadiens,6,4,0,401688745
+2025-03-27T23:30:00Z,2025,nhl,Minnesota Wild,Washington Capitals,4,2,0,401688747
+2025-03-28T00:00:00Z,2025,nhl,Nashville Predators,St. Louis Blues,2,3,0,401688746
+2025-03-28T01:00:00Z,2025,nhl,Calgary Flames,Dallas Stars,2,5,0,401688749
+2025-03-28T02:00:00Z,2025,nhl,Colorado Avalanche,Los Angeles Kings,4,0,0,401688748
+2025-03-28T02:00:00Z,2025,nhl,Seattle Kraken,Edmonton Oilers,6,1,0,401688750
+2025-03-28T02:30:00Z,2025,nhl,San Jose Sharks,Toronto Maple Leafs,6,5,0,401688751
+2025-03-28T23:00:00Z,2025,nhl,Florida Panthers,Utah Hockey Club,2,1,0,401688752
+2025-03-28T23:00:00Z,2025,nhl,Carolina Hurricanes,Montreal Canadiens,4,1,0,401688753
+2025-03-28T23:00:00Z,2025,nhl,Columbus Blue Jackets,Vancouver Canucks,7,6,0,401688754
+2025-03-29T00:00:00Z,2025,nhl,Winnipeg Jets,New Jersey Devils,4,0,0,401688755
+2025-03-29T00:30:00Z,2025,nhl,Chicago Blackhawks,Vegas Golden Knights,3,5,0,401688756
+2025-03-29T02:00:00Z,2025,nhl,Anaheim Ducks,New York Rangers,5,4,0,401688757
+2025-03-29T17:00:00Z,2025,nhl,Philadelphia Flyers,Buffalo Sabres,7,4,0,401688758
+2025-03-29T18:00:00Z,2025,nhl,Tampa Bay Lightning,New York Islanders,5,3,0,401688759
+2025-03-29T20:30:00Z,2025,nhl,Colorado Avalanche,St. Louis Blues,1,2,0,401688760
+2025-03-29T22:00:00Z,2025,nhl,Minnesota Wild,New Jersey Devils,2,5,0,401688761
+2025-03-29T22:30:00Z,2025,nhl,Nashville Predators,Vegas Golden Knights,1,3,0,401688762
+2025-03-29T23:00:00Z,2025,nhl,Ottawa Senators,Columbus Blue Jackets,3,2,0,401688763
+2025-03-29T23:00:00Z,2025,nhl,Los Angeles Kings,Toronto Maple Leafs,1,3,0,401688764
+2025-03-30T00:00:00Z,2025,nhl,Detroit Red Wings,Boston Bruins,2,1,0,401688765
+2025-03-30T02:00:00Z,2025,nhl,Edmonton Oilers,Calgary Flames,3,2,0,401688766
+2025-03-30T02:30:00Z,2025,nhl,San Jose Sharks,New York Rangers,1,6,0,401688767
+2025-03-30T02:30:00Z,2025,nhl,Seattle Kraken,Dallas Stars,1,5,0,401688768
+2025-03-30T17:00:00Z,2025,nhl,Florida Panthers,Montreal Canadiens,2,4,0,401688769
+2025-03-30T19:00:00Z,2025,nhl,Washington Capitals,Buffalo Sabres,5,8,0,401688770
+2025-03-30T19:00:00Z,2025,nhl,Winnipeg Jets,Vancouver Canucks,3,1,0,401688771
+2025-03-30T20:00:00Z,2025,nhl,Chicago Blackhawks,Utah Hockey Club,2,5,0,401688772
+2025-03-30T21:00:00Z,2025,nhl,Pittsburgh Penguins,Ottawa Senators,1,0,0,401688773
+2025-03-30T21:00:00Z,2025,nhl,Carolina Hurricanes,New York Islanders,6,4,0,401688774
+2025-03-31T00:00:00Z,2025,nhl,Anaheim Ducks,Toronto Maple Leafs,2,3,0,401688775
+2025-03-31T02:00:00Z,2025,nhl,Los Angeles Kings,San Jose Sharks,8,1,0,401688776
+2025-03-31T23:00:00Z,2025,nhl,New Jersey Devils,Minnesota Wild,3,2,0,401688777
+2025-03-31T23:00:00Z,2025,nhl,Philadelphia Flyers,Nashville Predators,2,1,0,401688778
+2025-04-01T00:30:00Z,2025,nhl,Colorado Avalanche,Calgary Flames,2,3,0,401688779
+2025-04-01T02:00:00Z,2025,nhl,Seattle Kraken,Dallas Stars,1,3,0,401688780
+2025-04-01T23:00:00Z,2025,nhl,Boston Bruins,Washington Capitals,3,4,0,401688781
+2025-04-01T23:00:00Z,2025,nhl,Montreal Canadiens,Florida Panthers,3,2,0,401688782
+2025-04-01T23:00:00Z,2025,nhl,Ottawa Senators,Buffalo Sabres,2,5,0,401688783
+2025-04-01T23:00:00Z,2025,nhl,Columbus Blue Jackets,Nashville Predators,8,4,0,401688784
+2025-04-01T23:30:00Z,2025,nhl,New York Islanders,Tampa Bay Lightning,1,4,0,401688785
+2025-04-02T00:00:00Z,2025,nhl,St. Louis Blues,Detroit Red Wings,2,1,0,401688786
+2025-04-02T01:00:00Z,2025,nhl,Utah Hockey Club,Calgary Flames,3,1,0,401688787
+2025-04-02T02:00:00Z,2025,nhl,Vegas Golden Knights,Edmonton Oilers,2,3,0,401688788
+2025-04-02T02:00:00Z,2025,nhl,Anaheim Ducks,San Jose Sharks,4,3,0,401688789
+2025-04-02T02:30:00Z,2025,nhl,Los Angeles Kings,Winnipeg Jets,4,1,0,401688790
+2025-04-02T23:00:00Z,2025,nhl,New York Rangers,Minnesota Wild,5,4,0,401688791
+2025-04-02T23:00:00Z,2025,nhl,Carolina Hurricanes,Washington Capitals,5,1,0,401688792
+2025-04-02T23:30:00Z,2025,nhl,Toronto Maple Leafs,Florida Panthers,3,2,0,401688793
+2025-04-03T01:30:00Z,2025,nhl,Chicago Blackhawks,Colorado Avalanche,2,3,0,401688794
+2025-04-03T02:30:00Z,2025,nhl,Vancouver Canucks,Seattle Kraken,0,5,0,401688795
+2025-04-03T23:00:00Z,2025,nhl,Montreal Canadiens,Boston Bruins,4,1,0,401688796
+2025-04-03T23:00:00Z,2025,nhl,Ottawa Senators,Tampa Bay Lightning,2,1,0,401688797
+2025-04-03T23:30:00Z,2025,nhl,Columbus Blue Jackets,Colorado Avalanche,3,7,0,401688798
+2025-04-04T00:00:00Z,2025,nhl,St. Louis Blues,Pittsburgh Penguins,5,4,0,401688799
+2025-04-04T00:00:00Z,2025,nhl,Dallas Stars,Nashville Predators,5,1,0,401688800
+2025-04-04T01:00:00Z,2025,nhl,Utah Hockey Club,Los Angeles Kings,2,4,0,401688801
+2025-04-04T01:30:00Z,2025,nhl,Calgary Flames,Anaheim Ducks,4,1,0,401688802
+2025-04-04T02:00:00Z,2025,nhl,Vegas Golden Knights,Winnipeg Jets,0,4,0,401688803
+2025-04-04T02:30:00Z,2025,nhl,San Jose Sharks,Edmonton Oilers,2,3,0,401688804
+2025-04-04T23:00:00Z,2025,nhl,Detroit Red Wings,Carolina Hurricanes,5,3,0,401688805
+2025-04-04T23:00:00Z,2025,nhl,Washington Capitals,Chicago Blackhawks,5,3,0,401688806
+2025-04-04T23:30:00Z,2025,nhl,New York Islanders,Minnesota Wild,3,1,0,401688807
+2025-04-05T16:30:00Z,2025,nhl,New Jersey Devils,New York Rangers,4,0,0,401688808
+2025-04-05T18:00:00Z,2025,nhl,Ottawa Senators,Florida Panthers,3,0,0,401688809
+2025-04-05T19:00:00Z,2025,nhl,Dallas Stars,Pittsburgh Penguins,3,5,0,401688810
+2025-04-05T20:00:00Z,2025,nhl,Vancouver Canucks,Anaheim Ducks,6,2,0,401688811
+2025-04-05T20:00:00Z,2025,nhl,Los Angeles Kings,Edmonton Oilers,3,0,0,401688812
+2025-04-05T23:00:00Z,2025,nhl,Boston Bruins,Carolina Hurricanes,5,1,0,401688813
+2025-04-05T23:00:00Z,2025,nhl,Buffalo Sabres,Tampa Bay Lightning,3,2,0,401688814
+2025-04-05T23:00:00Z,2025,nhl,Toronto Maple Leafs,Columbus Blue Jackets,5,0,0,401688815
+2025-04-05T23:00:00Z,2025,nhl,Montreal Canadiens,Philadelphia Flyers,3,2,0,401688816
+2025-04-05T23:00:00Z,2025,nhl,St. Louis Blues,Colorado Avalanche,5,4,0,401688817
+2025-04-05T23:00:00Z,2025,nhl,Utah Hockey Club,Winnipeg Jets,4,1,0,401688818
+2025-04-06T02:00:00Z,2025,nhl,Calgary Flames,Vegas Golden Knights,2,3,0,401688819
+2025-04-06T02:00:00Z,2025,nhl,San Jose Sharks,Seattle Kraken,1,5,0,401688820
+2025-04-06T16:30:00Z,2025,nhl,New York Islanders,Washington Capitals,4,1,0,401688821
+2025-04-06T19:00:00Z,2025,nhl,Minnesota Wild,Dallas Stars,3,2,0,401688822
+2025-04-06T21:00:00Z,2025,nhl,Ottawa Senators,Columbus Blue Jackets,4,0,0,401688823
+2025-04-06T21:30:00Z,2025,nhl,Detroit Red Wings,Florida Panthers,2,1,0,401688824
+2025-04-06T22:00:00Z,2025,nhl,Buffalo Sabres,Boston Bruins,6,3,0,401688825
+2025-04-06T22:00:00Z,2025,nhl,Chicago Blackhawks,Pittsburgh Penguins,3,1,0,401688826
+2025-04-06T23:00:00Z,2025,nhl,Nashville Predators,Montreal Canadiens,1,2,0,401688827
+2025-04-07T02:00:00Z,2025,nhl,Vancouver Canucks,Vegas Golden Knights,2,3,0,401688828
+2025-04-07T23:00:00Z,2025,nhl,New York Rangers,Tampa Bay Lightning,1,5,0,401688829
+2025-04-07T23:30:00Z,2025,nhl,Winnipeg Jets,St. Louis Blues,3,1,0,401688830
+2025-04-08T02:30:00Z,2025,nhl,Anaheim Ducks,Edmonton Oilers,3,2,0,401688831
+2025-04-08T02:30:00Z,2025,nhl,Los Angeles Kings,Seattle Kraken,1,2,0,401688832
+2025-04-08T02:30:00Z,2025,nhl,San Jose Sharks,Calgary Flames,2,3,0,401688833
+2025-04-08T23:00:00Z,2025,nhl,Buffalo Sabres,Carolina Hurricanes,3,0,0,401688834
+2025-04-08T23:00:00Z,2025,nhl,Montreal Canadiens,Detroit Red Wings,4,1,0,401688835
+2025-04-08T23:00:00Z,2025,nhl,Florida Panthers,Toronto Maple Leafs,3,1,0,401688836
+2025-04-08T23:00:00Z,2025,nhl,New Jersey Devils,Boston Bruins,2,7,0,401688837
+2025-04-08T23:00:00Z,2025,nhl,Columbus Blue Jackets,Ottawa Senators,5,2,0,401688838
+2025-04-08T23:00:00Z,2025,nhl,Pittsburgh Penguins,Chicago Blackhawks,5,0,0,401688839
+2025-04-09T00:00:00Z,2025,nhl,Nashville Predators,New York Islanders,7,6,0,401688840
+2025-04-09T00:00:00Z,2025,nhl,Dallas Stars,Vancouver Canucks,5,6,0,401688841
+2025-04-09T01:00:00Z,2025,nhl,Utah Hockey Club,Seattle Kraken,7,1,0,401688842
+2025-04-09T01:30:00Z,2025,nhl,Colorado Avalanche,Vegas Golden Knights,3,2,0,401688843
+2025-04-09T23:00:00Z,2025,nhl,Tampa Bay Lightning,Toronto Maple Leafs,3,4,0,401688844
+2025-04-09T23:30:00Z,2025,nhl,New York Rangers,Philadelphia Flyers,5,8,0,401688845
+2025-04-10T00:00:00Z,2025,nhl,Minnesota Wild,San Jose Sharks,8,7,0,401688846
+2025-04-10T02:00:00Z,2025,nhl,Edmonton Oilers,St. Louis Blues,4,3,0,401688847
+2025-04-10T02:00:00Z,2025,nhl,Anaheim Ducks,Calgary Flames,4,3,0,401688848
+2025-04-10T23:00:00Z,2025,nhl,Boston Bruins,Chicago Blackhawks,2,5,0,401688849
+2025-04-10T23:00:00Z,2025,nhl,Florida Panthers,Detroit Red Wings,4,1,0,401688850
+2025-04-10T23:00:00Z,2025,nhl,Columbus Blue Jackets,Buffalo Sabres,3,2,0,401688852
+2025-04-10T23:30:00Z,2025,nhl,Washington Capitals,Carolina Hurricanes,5,4,0,401688851
+2025-04-10T23:30:00Z,2025,nhl,New York Islanders,New York Rangers,2,9,0,401688853
+2025-04-11T00:00:00Z,2025,nhl,Dallas Stars,Winnipeg Jets,0,4,0,401688854
+2025-04-11T01:00:00Z,2025,nhl,Colorado Avalanche,Vancouver Canucks,1,4,0,401688855
+2025-04-11T01:00:00Z,2025,nhl,Utah Hockey Club,Nashville Predators,3,4,0,401688856
+2025-04-11T02:00:00Z,2025,nhl,Vegas Golden Knights,Seattle Kraken,2,1,0,401688857
+2025-04-11T02:00:00Z,2025,nhl,Los Angeles Kings,Anaheim Ducks,6,1,0,401688858
+2025-04-11T23:00:00Z,2025,nhl,Ottawa Senators,Montreal Canadiens,5,2,0,401688859
+2025-04-11T23:00:00Z,2025,nhl,Tampa Bay Lightning,Detroit Red Wings,3,4,0,401688860
+2025-04-11T23:00:00Z,2025,nhl,New Jersey Devils,Pittsburgh Penguins,2,4,0,401688861
+2025-04-12T01:30:00Z,2025,nhl,Edmonton Oilers,San Jose Sharks,4,2,0,401688862
+2025-04-12T02:00:00Z,2025,nhl,Calgary Flames,Minnesota Wild,4,2,0,401688863
+2025-04-12T16:30:00Z,2025,nhl,Philadelphia Flyers,New York Islanders,4,3,0,401688864
+2025-04-12T16:30:00Z,2025,nhl,Columbus Blue Jackets,Washington Capitals,7,0,0,401688869
+2025-04-12T19:00:00Z,2025,nhl,Carolina Hurricanes,New York Rangers,7,3,0,401688865
+2025-04-12T20:00:00Z,2025,nhl,Los Angeles Kings,Colorado Avalanche,5,4,0,401688866
+2025-04-12T22:00:00Z,2025,nhl,Florida Panthers,Buffalo Sabres,3,2,0,401688867
+2025-04-12T23:00:00Z,2025,nhl,Toronto Maple Leafs,Montreal Canadiens,1,0,0,401688868
+2025-04-12T23:00:00Z,2025,nhl,Chicago Blackhawks,Winnipeg Jets,4,5,0,401688870
+2025-04-13T00:00:00Z,2025,nhl,Dallas Stars,Utah Hockey Club,3,5,0,401688871
+2025-04-13T02:00:00Z,2025,nhl,Vancouver Canucks,Minnesota Wild,2,3,0,401688872
+2025-04-13T02:00:00Z,2025,nhl,Vegas Golden Knights,Nashville Predators,5,3,0,401688873
+2025-04-13T02:00:00Z,2025,nhl,Seattle Kraken,St. Louis Blues,4,3,0,401688874
+2025-04-13T17:00:00Z,2025,nhl,Ottawa Senators,Philadelphia Flyers,4,3,0,401688875
+2025-04-13T17:00:00Z,2025,nhl,New Jersey Devils,New York Islanders,0,1,0,401688876
+2025-04-13T19:30:00Z,2025,nhl,Pittsburgh Penguins,Boston Bruins,1,4,0,401688877
+2025-04-13T21:00:00Z,2025,nhl,Carolina Hurricanes,Toronto Maple Leafs,1,4,0,401688878
+2025-04-13T22:00:00Z,2025,nhl,Tampa Bay Lightning,Buffalo Sabres,7,4,0,401688879
+2025-04-13T22:00:00Z,2025,nhl,Washington Capitals,Columbus Blue Jackets,1,4,0,401688880
+2025-04-13T23:00:00Z,2025,nhl,Winnipeg Jets,Edmonton Oilers,1,4,0,401688881
+2025-04-14T00:00:00Z,2025,nhl,Calgary Flames,San Jose Sharks,5,2,0,401688882
+2025-04-14T02:00:00Z,2025,nhl,Anaheim Ducks,Colorado Avalanche,2,4,0,401688883
+2025-04-14T23:00:00Z,2025,nhl,Montreal Canadiens,Chicago Blackhawks,3,4,0,401688884
+2025-04-14T23:00:00Z,2025,nhl,Detroit Red Wings,Dallas Stars,6,4,0,401688885
+2025-04-14T23:00:00Z,2025,nhl,Florida Panthers,New York Rangers,3,5,0,401688886
+2025-04-15T00:00:00Z,2025,nhl,Nashville Predators,Utah Hockey Club,3,7,0,401688887
+2025-04-15T02:00:00Z,2025,nhl,Edmonton Oilers,Los Angeles Kings,0,5,0,401688888
+2025-04-15T02:00:00Z,2025,nhl,Vancouver Canucks,San Jose Sharks,2,1,0,401688889
+2025-04-15T23:00:00Z,2025,nhl,Boston Bruins,New Jersey Devils,4,5,0,401688890
+2025-04-15T23:00:00Z,2025,nhl,Buffalo Sabres,Toronto Maple Leafs,0,4,0,401688891
+2025-04-15T23:00:00Z,2025,nhl,Ottawa Senators,Chicago Blackhawks,3,4,0,401688892
+2025-04-15T23:00:00Z,2025,nhl,Philadelphia Flyers,Columbus Blue Jackets,0,3,0,401688894
+2025-04-15T23:30:00Z,2025,nhl,Tampa Bay Lightning,Florida Panthers,5,1,0,401688893
+2025-04-15T23:30:00Z,2025,nhl,New York Islanders,Washington Capitals,1,3,0,401688895
+2025-04-16T00:00:00Z,2025,nhl,St. Louis Blues,Utah Hockey Club,6,1,0,401688896
+2025-04-16T00:00:00Z,2025,nhl,Minnesota Wild,Anaheim Ducks,3,2,0,401688897
+2025-04-16T01:00:00Z,2025,nhl,Calgary Flames,Vegas Golden Knights,5,4,0,401688898
+2025-04-16T02:30:00Z,2025,nhl,Seattle Kraken,Los Angeles Kings,5,6,0,401688899
+2025-04-16T23:00:00Z,2025,nhl,Montreal Canadiens,Carolina Hurricanes,4,2,0,401688900
+2025-04-16T23:00:00Z,2025,nhl,Winnipeg Jets,Anaheim Ducks,2,1,0,401688901
+2025-04-16T23:30:00Z,2025,nhl,New Jersey Devils,Detroit Red Wings,2,5,0,401688902
+2025-04-17T00:00:00Z,2025,nhl,Nashville Predators,Dallas Stars,5,1,0,401688903
+2025-04-17T02:00:00Z,2025,nhl,Vancouver Canucks,Vegas Golden Knights,1,4,0,401688904
+2025-04-17T02:30:00Z,2025,nhl,San Jose Sharks,Edmonton Oilers,0,3,0,401688905
+2025-04-17T23:00:00Z,2025,nhl,Buffalo Sabres,Philadelphia Flyers,5,4,0,401688906
+2025-04-17T23:00:00Z,2025,nhl,Toronto Maple Leafs,Detroit Red Wings,4,3,0,401688907
+2025-04-17T23:00:00Z,2025,nhl,Ottawa Senators,Carolina Hurricanes,7,5,0,401688908
+2025-04-17T23:00:00Z,2025,nhl,New York Rangers,Tampa Bay Lightning,4,0,0,401688909
+2025-04-17T23:00:00Z,2025,nhl,Pittsburgh Penguins,Washington Capitals,5,2,0,401688910
+2025-04-17T23:00:00Z,2025,nhl,Columbus Blue Jackets,New York Islanders,6,1,0,401688911
+2025-04-18T01:30:00Z,2025,nhl,Los Angeles Kings,Calgary Flames,1,5,0,401751835
+2025-04-19T22:00:00Z,2025,nhl,Winnipeg Jets,St. Louis Blues,5,3,0,401768100
+2025-04-20T00:30:00Z,2025,nhl,Dallas Stars,Colorado Avalanche,1,5,0,401768101
+2025-04-20T19:00:00Z,2025,nhl,Carolina Hurricanes,New Jersey Devils,4,1,0,401768148
+2025-04-20T23:00:00Z,2025,nhl,Toronto Maple Leafs,Ottawa Senators,6,2,0,401768124
+2025-04-21T02:00:00Z,2025,nhl,Vegas Golden Knights,Minnesota Wild,4,2,0,401768167
+2025-04-21T23:00:00Z,2025,nhl,Washington Capitals,Montreal Canadiens,3,2,0,401768138
+2025-04-21T23:30:00Z,2025,nhl,Winnipeg Jets,St. Louis Blues,2,1,0,401768155
+2025-04-22T01:52:00Z,2025,nhl,Dallas Stars,Colorado Avalanche,4,3,0,401768161
+2025-04-22T02:22:00Z,2025,nhl,Los Angeles Kings,Edmonton Oilers,6,5,0,401768174
+2025-04-22T22:00:00Z,2025,nhl,Carolina Hurricanes,New Jersey Devils,3,1,0,401768149
+2025-04-22T23:30:00Z,2025,nhl,Toronto Maple Leafs,Ottawa Senators,3,2,0,401768125
+2025-04-23T00:48:00Z,2025,nhl,Tampa Bay Lightning,Florida Panthers,2,6,0,401768131
+2025-04-23T03:15:00Z,2025,nhl,Vegas Golden Knights,Minnesota Wild,2,5,0,401768168
+2025-04-23T23:00:00Z,2025,nhl,Washington Capitals,Montreal Canadiens,3,1,0,401768139
+2025-04-24T01:52:00Z,2025,nhl,Colorado Avalanche,Dallas Stars,1,2,0,401768162
+2025-04-24T02:00:00Z,2025,nhl,Los Angeles Kings,Edmonton Oilers,6,2,0,401768175
+2025-04-24T22:30:00Z,2025,nhl,Tampa Bay Lightning,Florida Panthers,0,2,0,401768132
+2025-04-24T23:00:00Z,2025,nhl,Ottawa Senators,Toronto Maple Leafs,2,3,0,401768126
+2025-04-25T01:00:00Z,2025,nhl,Minnesota Wild,Vegas Golden Knights,5,2,0,401768169
+2025-04-25T01:30:00Z,2025,nhl,St. Louis Blues,Winnipeg Jets,7,2,0,401768156
+2025-04-25T23:00:00Z,2025,nhl,Montreal Canadiens,Washington Capitals,6,3,0,401768140
+2025-04-26T00:00:00Z,2025,nhl,New Jersey Devils,Carolina Hurricanes,3,2,0,401768150
+2025-04-26T02:00:00Z,2025,nhl,Edmonton Oilers,Los Angeles Kings,7,4,0,401768176
+2025-04-26T17:00:00Z,2025,nhl,Florida Panthers,Tampa Bay Lightning,1,5,0,401768133
+2025-04-26T20:00:00Z,2025,nhl,Minnesota Wild,Vegas Golden Knights,3,4,0,401768170
+2025-04-26T23:00:00Z,2025,nhl,Ottawa Senators,Toronto Maple Leafs,4,3,0,401768127
+2025-04-27T01:30:00Z,2025,nhl,Colorado Avalanche,Dallas Stars,4,0,0,401768163
+2025-04-27T17:00:00Z,2025,nhl,St. Louis Blues,Winnipeg Jets,5,1,0,401768157
+2025-04-27T19:50:00Z,2025,nhl,New Jersey Devils,Carolina Hurricanes,2,5,0,401768151
+2025-04-27T22:30:00Z,2025,nhl,Montreal Canadiens,Washington Capitals,2,5,0,401768141
+2025-04-28T01:30:00Z,2025,nhl,Edmonton Oilers,Los Angeles Kings,4,3,0,401768177
+2025-04-28T23:00:00Z,2025,nhl,Florida Panthers,Tampa Bay Lightning,4,2,0,401768134
+2025-04-29T01:50:00Z,2025,nhl,Dallas Stars,Colorado Avalanche,6,2,0,401768164
+2025-04-29T23:00:00Z,2025,nhl,Toronto Maple Leafs,Ottawa Senators,0,4,0,401768128
+2025-04-29T23:30:00Z,2025,nhl,Carolina Hurricanes,New Jersey Devils,5,4,0,401768152
+2025-04-30T01:30:00Z,2025,nhl,Vegas Golden Knights,Minnesota Wild,3,2,0,401768171
+2025-04-30T02:00:00Z,2025,nhl,Los Angeles Kings,Edmonton Oilers,1,3,0,401768178
+2025-04-30T23:00:00Z,2025,nhl,Washington Capitals,Montreal Canadiens,4,1,0,401768142
+2025-04-30T23:30:00Z,2025,nhl,Tampa Bay Lightning,Florida Panthers,3,6,0,401768135
+2025-05-01T01:52:00Z,2025,nhl,Winnipeg Jets,St. Louis Blues,5,3,0,401768158
+2025-05-01T23:00:00Z,2025,nhl,Ottawa Senators,Toronto Maple Leafs,2,4,0,401768129
+2025-05-01T23:30:00Z,2025,nhl,Minnesota Wild,Vegas Golden Knights,2,3,0,401768172
+2025-05-02T01:30:00Z,2025,nhl,Colorado Avalanche,Dallas Stars,7,4,0,401768165
+2025-05-02T02:00:00Z,2025,nhl,Edmonton Oilers,Los Angeles Kings,6,4,0,401768179
+2025-05-03T00:00:00Z,2025,nhl,St. Louis Blues,Winnipeg Jets,5,2,0,401768159
+2025-05-04T00:00:00Z,2025,nhl,Dallas Stars,Colorado Avalanche,4,2,0,401768166
+2025-05-04T23:00:00Z,2025,nhl,Winnipeg Jets,St. Louis Blues,4,3,0,401768160
+2025-05-06T00:00:00Z,2025,nhl,Toronto Maple Leafs,Florida Panthers,5,4,0,401769841
+2025-05-06T23:00:00Z,2025,nhl,Washington Capitals,Carolina Hurricanes,1,2,0,401769842
+2025-05-07T01:30:00Z,2025,nhl,Vegas Golden Knights,Edmonton Oilers,2,4,0,401769956
+2025-05-07T23:00:00Z,2025,nhl,Toronto Maple Leafs,Florida Panthers,4,3,0,401769941
+2025-05-08T01:30:00Z,2025,nhl,Winnipeg Jets,Dallas Stars,2,3,0,401769971
+2025-05-08T23:00:00Z,2025,nhl,Washington Capitals,Carolina Hurricanes,3,1,0,401769950
+2025-05-09T01:50:00Z,2025,nhl,Vegas Golden Knights,Edmonton Oilers,4,5,0,401769957
+2025-05-09T23:00:00Z,2025,nhl,Florida Panthers,Toronto Maple Leafs,5,4,0,401769943
+2025-05-10T01:50:00Z,2025,nhl,Winnipeg Jets,Dallas Stars,4,0,0,401769972
+2025-05-10T22:00:00Z,2025,nhl,Carolina Hurricanes,Washington Capitals,4,0,0,401769951
+2025-05-11T01:00:00Z,2025,nhl,Edmonton Oilers,Vegas Golden Knights,3,4,0,401769958
+2025-05-11T20:30:00Z,2025,nhl,Dallas Stars,Winnipeg Jets,5,2,0,401769973
+2025-05-11T23:30:00Z,2025,nhl,Florida Panthers,Toronto Maple Leafs,2,0,0,401769944
+2025-05-12T23:00:00Z,2025,nhl,Carolina Hurricanes,Washington Capitals,5,2,0,401769952
+2025-05-13T01:30:00Z,2025,nhl,Edmonton Oilers,Vegas Golden Knights,3,0,0,401769959
+2025-05-14T00:00:00Z,2025,nhl,Dallas Stars,Winnipeg Jets,3,1,0,401769994
+2025-05-14T23:00:00Z,2025,nhl,Toronto Maple Leafs,Florida Panthers,1,6,0,401769946
+2025-05-15T01:30:00Z,2025,nhl,Vegas Golden Knights,Edmonton Oilers,0,1,0,401769960
+2025-05-15T23:00:00Z,2025,nhl,Washington Capitals,Carolina Hurricanes,1,3,0,401769953
+2025-05-16T01:30:00Z,2025,nhl,Winnipeg Jets,Dallas Stars,4,0,0,401769995
+2025-05-17T00:00:00Z,2025,nhl,Florida Panthers,Toronto Maple Leafs,0,2,0,401769947
+2025-05-18T00:00:00Z,2025,nhl,Dallas Stars,Winnipeg Jets,2,1,0,401769996
+2025-05-18T23:30:00Z,2025,nhl,Toronto Maple Leafs,Florida Panthers,1,6,0,401769949
+2025-05-21T00:00:00Z,2025,nhl,Carolina Hurricanes,Florida Panthers,2,5,0,401773328
+2025-05-22T00:00:00Z,2025,nhl,Dallas Stars,Edmonton Oilers,6,3,0,401773321
+2025-05-23T00:00:00Z,2025,nhl,Carolina Hurricanes,Florida Panthers,0,5,0,401773329
+2025-05-24T00:00:00Z,2025,nhl,Dallas Stars,Edmonton Oilers,0,3,0,401773322
+2025-05-25T00:00:00Z,2025,nhl,Florida Panthers,Carolina Hurricanes,6,2,0,401774290
+2025-05-25T19:00:00Z,2025,nhl,Edmonton Oilers,Dallas Stars,6,1,0,401773323
+2025-05-27T00:00:00Z,2025,nhl,Florida Panthers,Carolina Hurricanes,0,3,0,401774291
+2025-05-28T00:00:00Z,2025,nhl,Edmonton Oilers,Dallas Stars,4,1,0,401773324
+2025-05-29T00:00:00Z,2025,nhl,Carolina Hurricanes,Florida Panthers,3,5,0,401774292
+2025-05-30T00:00:00Z,2025,nhl,Dallas Stars,Edmonton Oilers,3,6,0,401773325
+2025-06-05T00:00:00Z,2025,nhl,Edmonton Oilers,Florida Panthers,4,3,0,401777455
+2025-06-07T00:00:00Z,2025,nhl,Edmonton Oilers,Florida Panthers,4,5,0,401777456
+2025-06-10T00:00:00Z,2025,nhl,Florida Panthers,Edmonton Oilers,6,1,0,401777457
+2025-06-13T00:00:00Z,2025,nhl,Florida Panthers,Edmonton Oilers,4,5,0,401777458
+2025-06-15T00:00:00Z,2025,nhl,Edmonton Oilers,Florida Panthers,2,5,0,401777459
+2025-06-18T00:00:00Z,2025,nhl,Florida Panthers,Edmonton Oilers,5,1,0,401777460
+2025-10-07T21:00:00Z,2026,nhl,Florida Panthers,Chicago Blackhawks,3,2,0,401801798
+2025-10-08T00:00:00Z,2026,nhl,New York Rangers,Pittsburgh Penguins,0,3,0,401801799
+2025-10-08T02:30:00Z,2026,nhl,Los Angeles Kings,Colorado Avalanche,1,4,0,401801800
+2025-10-08T23:00:00Z,2026,nhl,Toronto Maple Leafs,Montreal Canadiens,5,2,0,401802355
+2025-10-08T23:30:00Z,2026,nhl,Washington Capitals,Boston Bruins,1,3,0,401802356
+2025-10-09T02:00:00Z,2026,nhl,Edmonton Oilers,Calgary Flames,3,4,0,401802357
+2025-10-09T02:00:00Z,2026,nhl,Vegas Golden Knights,Los Angeles Kings,5,6,0,401802358
+2025-10-09T23:00:00Z,2026,nhl,Boston Bruins,Chicago Blackhawks,4,3,0,401802359
+2025-10-09T23:00:00Z,2026,nhl,Buffalo Sabres,New York Rangers,0,4,0,401802360
+2025-10-09T23:00:00Z,2026,nhl,Detroit Red Wings,Montreal Canadiens,1,5,0,401802361
+2025-10-09T23:00:00Z,2026,nhl,Tampa Bay Lightning,Ottawa Senators,4,5,0,401802362
+2025-10-09T23:00:00Z,2026,nhl,Florida Panthers,Philadelphia Flyers,2,1,0,401802363
+2025-10-09T23:00:00Z,2026,nhl,Pittsburgh Penguins,New York Islanders,4,3,0,401802364
+2025-10-09T23:30:00Z,2026,nhl,Carolina Hurricanes,New Jersey Devils,6,3,0,401802365
+2025-10-10T00:00:00Z,2026,nhl,St. Louis Blues,Minnesota Wild,0,5,0,401802366
+2025-10-10T00:00:00Z,2026,nhl,Nashville Predators,Columbus Blue Jackets,2,1,0,401802367
+2025-10-10T00:00:00Z,2026,nhl,Winnipeg Jets,Dallas Stars,4,5,0,401802368
+2025-10-10T01:00:00Z,2026,nhl,Colorado Avalanche,Utah Mammoth,2,1,0,401802369
+2025-10-10T02:00:00Z,2026,nhl,Vancouver Canucks,Calgary Flames,5,1,0,401802370
+2025-10-10T02:00:00Z,2026,nhl,San Jose Sharks,Vegas Golden Knights,3,4,0,401802371
+2025-10-10T02:00:00Z,2026,nhl,Seattle Kraken,Anaheim Ducks,3,1,0,401802372
+2025-10-11T17:30:00Z,2026,nhl,Winnipeg Jets,Los Angeles Kings,3,2,0,401802373
+2025-10-11T20:00:00Z,2026,nhl,Calgary Flames,St. Louis Blues,2,4,0,401802374
+2025-10-11T23:00:00Z,2026,nhl,Boston Bruins,Buffalo Sabres,3,1,0,401802375
+2025-10-11T23:00:00Z,2026,nhl,Detroit Red Wings,Toronto Maple Leafs,6,3,0,401802376
+2025-10-11T23:00:00Z,2026,nhl,Tampa Bay Lightning,New Jersey Devils,3,5,0,401802377
+2025-10-11T23:00:00Z,2026,nhl,Florida Panthers,Ottawa Senators,6,2,0,401802378
+2025-10-11T23:00:00Z,2026,nhl,New York Islanders,Washington Capitals,2,4,0,401802379
+2025-10-11T23:00:00Z,2026,nhl,Pittsburgh Penguins,New York Rangers,1,6,0,401802380
+2025-10-11T23:00:00Z,2026,nhl,Carolina Hurricanes,Philadelphia Flyers,4,3,0,401802381
+2025-10-11T23:00:00Z,2026,nhl,Chicago Blackhawks,Montreal Canadiens,2,3,0,401802382
+2025-10-12T00:00:00Z,2026,nhl,Nashville Predators,Utah Mammoth,2,3,0,401802383
+2025-10-12T00:00:00Z,2026,nhl,Minnesota Wild,Columbus Blue Jackets,4,7,0,401802384
+2025-10-12T01:00:00Z,2026,nhl,Colorado Avalanche,Dallas Stars,4,5,0,401802385
+2025-10-12T02:00:00Z,2026,nhl,Edmonton Oilers,Vancouver Canucks,3,1,0,401802386
+2025-10-12T02:00:00Z,2026,nhl,San Jose Sharks,Anaheim Ducks,6,7,0,401802387
+2025-10-12T02:00:00Z,2026,nhl,Seattle Kraken,Vegas Golden Knights,2,1,0,401802388
+2025-10-12T23:00:00Z,2026,nhl,New York Rangers,Washington Capitals,0,1,0,401802389
+2025-10-13T16:30:00Z,2026,nhl,Buffalo Sabres,Colorado Avalanche,1,3,0,401802390
+2025-10-13T17:00:00Z,2026,nhl,Boston Bruins,Tampa Bay Lightning,3,4,0,401802391
+2025-10-13T17:00:00Z,2026,nhl,Ottawa Senators,Nashville Predators,1,4,0,401802392
+2025-10-13T17:00:00Z,2026,nhl,New York Islanders,Winnipeg Jets,2,5,0,401802393
+2025-10-13T18:00:00Z,2026,nhl,Toronto Maple Leafs,Detroit Red Wings,2,3,0,401802394
+2025-10-13T23:00:00Z,2026,nhl,Philadelphia Flyers,Florida Panthers,5,2,0,401802395
+2025-10-13T23:00:00Z,2026,nhl,Columbus Blue Jackets,New Jersey Devils,2,3,0,401802396
+2025-10-13T23:30:00Z,2026,nhl,Vancouver Canucks,St. Louis Blues,2,5,0,401802397
+2025-10-14T00:00:00Z,2026,nhl,Minnesota Wild,Los Angeles Kings,4,3,0,401802398
+2025-10-14T00:30:00Z,2026,nhl,Chicago Blackhawks,Utah Mammoth,3,1,0,401802399
+2025-10-14T23:00:00Z,2026,nhl,Toronto Maple Leafs,Nashville Predators,7,4,0,401802400
+2025-10-14T23:00:00Z,2026,nhl,Montreal Canadiens,Seattle Kraken,5,4,0,401802401
+2025-10-14T23:00:00Z,2026,nhl,New York Rangers,Edmonton Oilers,0,2,0,401802402
+2025-10-14T23:00:00Z,2026,nhl,Washington Capitals,Tampa Bay Lightning,3,2,0,401802403
+2025-10-15T01:00:00Z,2026,nhl,Calgary Flames,Vegas Golden Knights,2,4,0,401802404
+2025-10-15T01:50:00Z,2026,nhl,Dallas Stars,Minnesota Wild,5,2,0,401802405
+2025-10-15T02:00:00Z,2026,nhl,San Jose Sharks,Carolina Hurricanes,1,5,0,401802406
+2025-10-15T02:30:00Z,2026,nhl,Anaheim Ducks,Pittsburgh Penguins,4,3,0,401802407
+2025-10-15T23:00:00Z,2026,nhl,Buffalo Sabres,Ottawa Senators,8,4,0,401802408
+2025-10-15T23:00:00Z,2026,nhl,Detroit Red Wings,Florida Panthers,4,1,0,401802409
+2025-10-16T01:30:00Z,2026,nhl,St. Louis Blues,Chicago Blackhawks,3,8,0,401802410
+2025-10-16T01:30:00Z,2026,nhl,Utah Mammoth,Calgary Flames,3,1,0,401802411
+2025-10-16T23:00:00Z,2026,nhl,Toronto Maple Leafs,New York Rangers,2,1,0,401802412
+2025-10-16T23:00:00Z,2026,nhl,Montreal Canadiens,Nashville Predators,3,2,0,401802413
+2025-10-16T23:00:00Z,2026,nhl,Ottawa Senators,Seattle Kraken,4,3,0,401802414
+2025-10-16T23:00:00Z,2026,nhl,New Jersey Devils,Florida Panthers,3,1,0,401802415
+2025-10-16T23:00:00Z,2026,nhl,Philadelphia Flyers,Winnipeg Jets,2,5,0,401802417
+2025-10-16T23:00:00Z,2026,nhl,Columbus Blue Jackets,Colorado Avalanche,1,4,0,401802418
+2025-10-16T23:30:00Z,2026,nhl,New York Islanders,Edmonton Oilers,4,2,0,401802416
+2025-10-17T00:00:00Z,2026,nhl,Dallas Stars,Vancouver Canucks,3,5,0,401802419
+2025-10-17T02:00:00Z,2026,nhl,Vegas Golden Knights,Boston Bruins,6,5,0,401802420
+2025-10-17T02:00:00Z,2026,nhl,Anaheim Ducks,Carolina Hurricanes,1,4,0,401802421
+2025-10-17T02:00:00Z,2026,nhl,Los Angeles Kings,Pittsburgh Penguins,2,4,0,401802422
+2025-10-17T23:00:00Z,2026,nhl,Detroit Red Wings,Tampa Bay Lightning,2,1,0,401802423
+2025-10-17T23:00:00Z,2026,nhl,Washington Capitals,Minnesota Wild,5,1,0,401802424
+2025-10-18T00:30:00Z,2026,nhl,Chicago Blackhawks,Vancouver Canucks,2,3,0,401802425
+2025-10-18T01:00:00Z,2026,nhl,Utah Mammoth,San Jose Sharks,6,3,0,401802426
+2025-10-18T17:00:00Z,2026,nhl,Buffalo Sabres,Florida Panthers,3,0,0,401802427
+2025-10-18T19:00:00Z,2026,nhl,Ottawa Senators,New York Islanders,4,5,0,401802428
+2025-10-18T19:30:00Z,2026,nhl,New Jersey Devils,Edmonton Oilers,5,3,0,401802429
+2025-10-18T23:00:00Z,2026,nhl,Toronto Maple Leafs,Seattle Kraken,3,4,0,401802430
+2025-10-18T23:00:00Z,2026,nhl,Montreal Canadiens,New York Rangers,3,4,0,401802431
+2025-10-18T23:00:00Z,2026,nhl,Philadelphia Flyers,Minnesota Wild,2,1,0,401802432
+2025-10-18T23:00:00Z,2026,nhl,Columbus Blue Jackets,Tampa Bay Lightning,3,2,0,401802433
+2025-10-18T23:00:00Z,2026,nhl,St. Louis Blues,Dallas Stars,3,1,0,401802434
+2025-10-18T23:00:00Z,2026,nhl,Winnipeg Jets,Nashville Predators,4,1,0,401802435
+2025-10-19T01:00:00Z,2026,nhl,Colorado Avalanche,Boston Bruins,4,1,0,401802436
+2025-10-19T01:00:00Z,2026,nhl,Los Angeles Kings,Carolina Hurricanes,3,4,0,401802437
+2025-10-19T02:00:00Z,2026,nhl,Vegas Golden Knights,Calgary Flames,6,1,0,401802438
+2025-10-19T02:00:00Z,2026,nhl,San Jose Sharks,Pittsburgh Penguins,0,3,0,401802439
+2025-10-19T16:30:00Z,2026,nhl,Washington Capitals,Vancouver Canucks,3,4,0,401802440
+2025-10-19T19:00:00Z,2026,nhl,Detroit Red Wings,Edmonton Oilers,4,2,0,401802441
+2025-10-19T23:00:00Z,2026,nhl,Chicago Blackhawks,Anaheim Ducks,2,1,0,401802442
+2025-10-19T23:00:00Z,2026,nhl,Utah Mammoth,Boston Bruins,3,2,0,401802443
+2025-10-20T23:00:00Z,2026,nhl,New York Rangers,Minnesota Wild,1,3,0,401802444
+2025-10-20T23:00:00Z,2026,nhl,Philadelphia Flyers,Seattle Kraken,5,2,0,401802445
+2025-10-20T23:30:00Z,2026,nhl,Montreal Canadiens,Buffalo Sabres,4,2,0,401802446
+2025-10-21T01:30:00Z,2026,nhl,Calgary Flames,Winnipeg Jets,1,2,0,401802447
+2025-10-21T02:00:00Z,2026,nhl,Vegas Golden Knights,Carolina Hurricanes,4,1,0,401802448
+2025-10-21T23:00:00Z,2026,nhl,Toronto Maple Leafs,New Jersey Devils,2,5,0,401802449
+2025-10-21T23:00:00Z,2026,nhl,Ottawa Senators,Edmonton Oilers,2,3,0,401802450
+2025-10-21T23:00:00Z,2026,nhl,New York Islanders,San Jose Sharks,4,3,0,401802451
+2025-10-21T23:00:00Z,2026,nhl,Pittsburgh Penguins,Vancouver Canucks,5,1,0,401802452
+2025-10-21T23:00:00Z,2026,nhl,Washington Capitals,Seattle Kraken,4,1,0,401802453
+2025-10-21T23:30:00Z,2026,nhl,Boston Bruins,Florida Panthers,3,4,0,401802454
+2025-10-22T00:00:00Z,2026,nhl,St. Louis Blues,Los Angeles Kings,1,2,0,401802455
+2025-10-22T00:00:00Z,2026,nhl,Nashville Predators,Anaheim Ducks,2,5,0,401802456
+2025-10-22T00:00:00Z,2026,nhl,Dallas Stars,Columbus Blue Jackets,1,5,0,401802457
+2025-10-22T02:00:00Z,2026,nhl,Utah Mammoth,Colorado Avalanche,4,3,0,401802458
+2025-10-22T23:00:00Z,2026,nhl,New Jersey Devils,Minnesota Wild,4,1,0,401802459
+2025-10-22T23:30:00Z,2026,nhl,Buffalo Sabres,Detroit Red Wings,4,2,0,401802460
+2025-10-23T00:30:00Z,2026,nhl,Calgary Flames,Montreal Canadiens,1,2,0,401802461
+2025-10-23T22:45:00Z,2026,nhl,Tampa Bay Lightning,Chicago Blackhawks,2,3,0,401802464
+2025-10-23T23:00:00Z,2026,nhl,Boston Bruins,Anaheim Ducks,5,7,0,401802462
+2025-10-23T23:00:00Z,2026,nhl,Ottawa Senators,Philadelphia Flyers,2,1,0,401802463
+2025-10-23T23:00:00Z,2026,nhl,Florida Panthers,Pittsburgh Penguins,3,5,0,401802465
+2025-10-23T23:00:00Z,2026,nhl,New York Islanders,Detroit Red Wings,7,2,0,401802466
+2025-10-23T23:00:00Z,2026,nhl,New York Rangers,San Jose Sharks,5,6,0,401802467
+2025-10-24T00:00:00Z,2026,nhl,St. Louis Blues,Utah Mammoth,4,7,0,401802468
+2025-10-24T00:00:00Z,2026,nhl,Nashville Predators,Vancouver Canucks,2,1,0,401802469
+2025-10-24T00:00:00Z,2026,nhl,Winnipeg Jets,Seattle Kraken,0,3,0,401802471
+2025-10-24T01:00:00Z,2026,nhl,Dallas Stars,Los Angeles Kings,2,3,0,401802470
+2025-10-24T01:00:00Z,2026,nhl,Colorado Avalanche,Carolina Hurricanes,4,5,0,401802472
+2025-10-24T01:00:00Z,2026,nhl,Edmonton Oilers,Montreal Canadiens,6,5,0,401802473
+2025-10-24T23:00:00Z,2026,nhl,Buffalo Sabres,Toronto Maple Leafs,5,3,0,401802474
+2025-10-24T23:00:00Z,2026,nhl,New Jersey Devils,San Jose Sharks,3,1,0,401802475
+2025-10-24T23:00:00Z,2026,nhl,Columbus Blue Jackets,Washington Capitals,1,5,0,401802476
+2025-10-25T00:00:00Z,2026,nhl,Winnipeg Jets,Calgary Flames,5,3,0,401802477
+2025-10-25T16:30:00Z,2026,nhl,Philadelphia Flyers,New York Islanders,4,3,0,401802478
+2025-10-25T19:00:00Z,2026,nhl,Boston Bruins,Colorado Avalanche,3,2,0,401802479
+2025-10-25T21:00:00Z,2026,nhl,Tampa Bay Lightning,Anaheim Ducks,4,3,0,401802480
+2025-10-25T21:00:00Z,2026,nhl,Toronto Maple Leafs,Buffalo Sabres,4,3,0,401802483
+2025-10-25T22:00:00Z,2026,nhl,Florida Panthers,Vegas Golden Knights,3,0,0,401802481
+2025-10-25T22:00:00Z,2026,nhl,Minnesota Wild,Utah Mammoth,2,6,0,401802482
+2025-10-25T23:00:00Z,2026,nhl,Detroit Red Wings,St. Louis Blues,6,4,0,401802484
+2025-10-25T23:00:00Z,2026,nhl,Pittsburgh Penguins,Columbus Blue Jackets,4,5,0,401802485
+2025-10-25T23:00:00Z,2026,nhl,Washington Capitals,Ottawa Senators,1,7,0,401802486
+2025-10-25T23:00:00Z,2026,nhl,Vancouver Canucks,Montreal Canadiens,3,4,0,401802487
+2025-10-26T00:00:00Z,2026,nhl,Nashville Predators,Los Angeles Kings,5,4,0,401802488
+2025-10-26T00:00:00Z,2026,nhl,Dallas Stars,Carolina Hurricanes,3,2,0,401802489
+2025-10-26T02:00:00Z,2026,nhl,Seattle Kraken,Edmonton Oilers,3,2,0,401802490
+2025-10-26T17:00:00Z,2026,nhl,New Jersey Devils,Colorado Avalanche,4,3,0,401802491
+2025-10-26T21:00:00Z,2026,nhl,Tampa Bay Lightning,Vegas Golden Knights,2,1,0,401802492
+2025-10-26T22:00:00Z,2026,nhl,Minnesota Wild,San Jose Sharks,5,6,0,401802493
+2025-10-26T22:00:00Z,2026,nhl,Winnipeg Jets,Utah Mammoth,2,3,0,401802494
+2025-10-26T23:00:00Z,2026,nhl,Chicago Blackhawks,Los Angeles Kings,1,3,0,401802495
+2025-10-26T23:00:00Z,2026,nhl,Nashville Predators,Dallas Stars,2,3,0,401802496
+2025-10-27T00:00:00Z,2026,nhl,Calgary Flames,New York Rangers,5,1,0,401802497
+2025-10-27T02:00:00Z,2026,nhl,Vancouver Canucks,Edmonton Oilers,4,3,0,401802498
+2025-10-27T23:00:00Z,2026,nhl,Pittsburgh Penguins,St. Louis Blues,6,3,0,401802499
+2025-10-27T23:30:00Z,2026,nhl,Ottawa Senators,Boston Bruins,7,2,0,401802500
+2025-10-28T22:00:00Z,2026,nhl,Philadelphia Flyers,Pittsburgh Penguins,3,2,0,401802501
+2025-10-28T22:00:00Z,2026,nhl,Toronto Maple Leafs,Calgary Flames,4,3,0,401802502
+2025-10-28T22:30:00Z,2026,nhl,Carolina Hurricanes,Vegas Golden Knights,3,6,0,401802506
+2025-10-28T22:45:00Z,2026,nhl,Buffalo Sabres,Columbus Blue Jackets,3,4,0,401802503
+2025-10-28T23:00:00Z,2026,nhl,Florida Panthers,Anaheim Ducks,2,3,0,401802504
+2025-10-28T23:15:00Z,2026,nhl,Boston Bruins,New York Islanders,5,2,0,401802505
+2025-10-28T23:45:00Z,2026,nhl,Nashville Predators,Tampa Bay Lightning,2,5,0,401802507
+2025-10-29T00:00:00Z,2026,nhl,Minnesota Wild,Winnipeg Jets,3,4,0,401802508
+2025-10-29T00:15:00Z,2026,nhl,St. Louis Blues,Detroit Red Wings,2,5,0,401802509
+2025-10-29T00:45:00Z,2026,nhl,Chicago Blackhawks,Ottawa Senators,7,3,0,401802511
+2025-10-29T00:50:00Z,2026,nhl,Dallas Stars,Washington Capitals,1,0,0,401802510
+2025-10-29T01:00:00Z,2026,nhl,Colorado Avalanche,New Jersey Devils,8,4,0,401802512
+2025-10-29T01:30:00Z,2026,nhl,Edmonton Oilers,Utah Mammoth,6,3,0,401802513
+2025-10-29T02:00:00Z,2026,nhl,Vancouver Canucks,New York Rangers,0,2,0,401802514
+2025-10-29T02:30:00Z,2026,nhl,Seattle Kraken,Montreal Canadiens,3,4,0,401802515
+2025-10-29T03:00:00Z,2026,nhl,San Jose Sharks,Los Angeles Kings,3,4,0,401802516
+2025-10-29T23:30:00Z,2026,nhl,Columbus Blue Jackets,Toronto Maple Leafs,6,3,0,401802517
+2025-10-30T23:00:00Z,2026,nhl,Boston Bruins,Buffalo Sabres,4,3,0,401802518
+2025-10-30T23:00:00Z,2026,nhl,Ottawa Senators,Calgary Flames,4,3,0,401802519
+2025-10-30T23:00:00Z,2026,nhl,Tampa Bay Lightning,Dallas Stars,2,1,0,401802520
+2025-10-30T23:00:00Z,2026,nhl,Philadelphia Flyers,Nashville Predators,4,1,0,401802521
+2025-10-30T23:30:00Z,2026,nhl,Carolina Hurricanes,New York Islanders,6,2,0,401802522
+2025-10-31T00:00:00Z,2026,nhl,St. Louis Blues,Vancouver Canucks,3,4,0,401802523
+2025-10-31T00:00:00Z,2026,nhl,Minnesota Wild,Pittsburgh Penguins,1,4,0,401802524
+2025-10-31T00:00:00Z,2026,nhl,Winnipeg Jets,Chicago Blackhawks,6,3,0,401802525
+2025-10-31T01:00:00Z,2026,nhl,Edmonton Oilers,New York Rangers,3,4,0,401802526
+2025-10-31T02:00:00Z,2026,nhl,San Jose Sharks,New Jersey Devils,5,2,0,401802527
+2025-10-31T02:30:00Z,2026,nhl,Los Angeles Kings,Detroit Red Wings,3,4,0,401802528
+2025-10-31T20:00:00Z,2026,nhl,Vegas Golden Knights,Colorado Avalanche,2,4,0,401802529
+2025-10-31T23:00:00Z,2026,nhl,Washington Capitals,New York Islanders,1,3,0,401802530
+2025-11-01T02:00:00Z,2026,nhl,Anaheim Ducks,Detroit Red Wings,5,2,0,401802531
+2025-11-01T17:00:00Z,2026,nhl,Boston Bruins,Carolina Hurricanes,2,1,0,401802532
+2025-11-01T19:00:00Z,2026,nhl,Winnipeg Jets,Pittsburgh Penguins,5,2,0,401802533
+2025-11-01T19:30:00Z,2026,nhl,Nashville Predators,Calgary Flames,4,2,0,401802534
+2025-11-01T20:00:00Z,2026,nhl,San Jose Sharks,Colorado Avalanche,3,2,0,401802535
+2025-11-01T22:00:00Z,2026,nhl,Florida Panthers,Dallas Stars,4,3,0,401802536
+2025-11-01T23:00:00Z,2026,nhl,Buffalo Sabres,Washington Capitals,4,3,0,401802537
+2025-11-01T23:00:00Z,2026,nhl,Montreal Canadiens,Ottawa Senators,4,3,0,401802538
+2025-11-01T23:00:00Z,2026,nhl,Philadelphia Flyers,Toronto Maple Leafs,2,5,0,401802539
+2025-11-01T23:00:00Z,2026,nhl,Columbus Blue Jackets,St. Louis Blues,3,2,0,401802540
+2025-11-01T23:00:00Z,2026,nhl,Minnesota Wild,Vancouver Canucks,5,2,0,401802541
+2025-11-02T01:00:00Z,2026,nhl,Los Angeles Kings,New Jersey Devils,1,4,0,401802542
+2025-11-02T02:00:00Z,2026,nhl,Edmonton Oilers,Chicago Blackhawks,3,2,0,401802543
+2025-11-02T02:00:00Z,2026,nhl,Seattle Kraken,New York Rangers,2,3,0,401802544
+2025-11-02T20:30:00Z,2026,nhl,Utah Mammoth,Tampa Bay Lightning,2,4,0,401802545
+2025-11-02T22:00:00Z,2026,nhl,New York Islanders,Columbus Blue Jackets,3,2,0,401802546
+2025-11-03T00:00:00Z,2026,nhl,Philadelphia Flyers,Calgary Flames,1,2,0,401802547
+2025-11-03T01:00:00Z,2026,nhl,Anaheim Ducks,New Jersey Devils,4,1,0,401802548
+2025-11-03T01:00:00Z,2026,nhl,San Jose Sharks,Detroit Red Wings,2,3,0,401802549
+2025-11-04T00:30:00Z,2026,nhl,Toronto Maple Leafs,Pittsburgh Penguins,4,3,0,401802550
+2025-11-04T01:30:00Z,2026,nhl,St. Louis Blues,Edmonton Oilers,3,2,0,401802551
+2025-11-04T01:30:00Z,2026,nhl,Nashville Predators,Vancouver Canucks,4,5,0,401802552
+2025-11-04T03:00:00Z,2026,nhl,Seattle Kraken,Chicago Blackhawks,3,1,0,401802553
+2025-11-05T00:00:00Z,2026,nhl,Buffalo Sabres,Utah Mammoth,1,2,0,401802554
+2025-11-05T00:00:00Z,2026,nhl,Montreal Canadiens,Philadelphia Flyers,4,5,0,401802555
+2025-11-05T00:00:00Z,2026,nhl,New York Islanders,Boston Bruins,3,4,0,401802556
+2025-11-05T00:00:00Z,2026,nhl,New York Rangers,Carolina Hurricanes,0,3,0,401802557
+2025-11-05T01:00:00Z,2026,nhl,Dallas Stars,Edmonton Oilers,4,3,0,401802558
+2025-11-05T01:00:00Z,2026,nhl,Minnesota Wild,Nashville Predators,3,2,0,401802559
+2025-11-05T02:30:00Z,2026,nhl,Colorado Avalanche,Tampa Bay Lightning,3,2,0,401802560
+2025-11-05T03:00:00Z,2026,nhl,Vegas Golden Knights,Detroit Red Wings,1,0,0,401802561
+2025-11-05T03:00:00Z,2026,nhl,Anaheim Ducks,Florida Panthers,7,3,0,401802562
+2025-11-05T03:30:00Z,2026,nhl,Los Angeles Kings,Winnipeg Jets,3,0,0,401802563
+2025-11-06T00:00:00Z,2026,nhl,Toronto Maple Leafs,Utah Mammoth,5,3,0,401802564
+2025-11-06T00:30:00Z,2026,nhl,Washington Capitals,St. Louis Blues,6,1,0,401802565
+2025-11-06T02:30:00Z,2026,nhl,Calgary Flames,Columbus Blue Jackets,5,1,0,401802566
+2025-11-06T03:00:00Z,2026,nhl,Vancouver Canucks,Chicago Blackhawks,2,5,0,401802567
+2025-11-06T03:00:00Z,2026,nhl,Seattle Kraken,San Jose Sharks,1,6,0,401802568
+2025-11-07T00:00:00Z,2026,nhl,Boston Bruins,Ottawa Senators,3,2,0,401802569
+2025-11-07T00:00:00Z,2026,nhl,Buffalo Sabres,St. Louis Blues,0,3,0,401802570
+2025-11-07T00:00:00Z,2026,nhl,New Jersey Devils,Montreal Canadiens,4,3,0,401802571
+2025-11-07T00:00:00Z,2026,nhl,Carolina Hurricanes,Minnesota Wild,4,3,0,401802573
+2025-11-07T00:30:00Z,2026,nhl,Pittsburgh Penguins,Washington Capitals,5,3,0,401802572
+2025-11-07T01:00:00Z,2026,nhl,Nashville Predators,Philadelphia Flyers,1,3,0,401802574
+2025-11-07T01:00:00Z,2026,nhl,Dallas Stars,Anaheim Ducks,5,7,0,401802575
+2025-11-07T03:00:00Z,2026,nhl,Vegas Golden Knights,Tampa Bay Lightning,3,6,0,401802576
+2025-11-07T03:00:00Z,2026,nhl,Los Angeles Kings,Florida Panthers,2,5,0,401802577
+2025-11-08T00:00:00Z,2026,nhl,Detroit Red Wings,New York Rangers,1,4,0,401802578
+2025-11-08T00:00:00Z,2026,nhl,New York Islanders,Minnesota Wild,2,5,0,401802579
+2025-11-08T02:00:00Z,2026,nhl,Calgary Flames,Chicago Blackhawks,0,4,0,401802580
+2025-11-08T03:00:00Z,2026,nhl,San Jose Sharks,Winnipeg Jets,2,1,0,401802581
+2025-11-08T17:30:00Z,2026,nhl,New Jersey Devils,Pittsburgh Penguins,2,1,0,401802582
+2025-11-08T18:00:00Z,2026,nhl,Philadelphia Flyers,Ottawa Senators,2,3,0,401802583
+2025-11-08T20:30:00Z,2026,nhl,Nashville Predators,Dallas Stars,4,5,0,401802584
+2025-11-09T00:00:00Z,2026,nhl,Toronto Maple Leafs,Boston Bruins,3,5,0,401802585
+2025-11-09T00:00:00Z,2026,nhl,Montreal Canadiens,Utah Mammoth,6,2,0,401802586
+2025-11-09T00:00:00Z,2026,nhl,Tampa Bay Lightning,Washington Capitals,3,2,0,401802587
+2025-11-09T00:00:00Z,2026,nhl,New York Rangers,New York Islanders,0,5,0,401802588
+2025-11-09T00:00:00Z,2026,nhl,Carolina Hurricanes,Buffalo Sabres,6,3,0,401802589
+2025-11-09T00:00:00Z,2026,nhl,St. Louis Blues,Seattle Kraken,3,4,0,401802590
+2025-11-09T03:00:00Z,2026,nhl,Edmonton Oilers,Colorado Avalanche,1,9,0,401802591
+2025-11-09T03:00:00Z,2026,nhl,Vancouver Canucks,Columbus Blue Jackets,4,3,0,401802592
+2025-11-09T03:00:00Z,2026,nhl,Vegas Golden Knights,Anaheim Ducks,3,4,0,401802593
+2025-11-09T03:00:00Z,2026,nhl,San Jose Sharks,Florida Panthers,3,1,0,401802594
+2025-11-09T18:00:00Z,2026,nhl,Detroit Red Wings,Chicago Blackhawks,1,5,0,401802595
+2025-11-09T19:00:00Z,2026,nhl,Pittsburgh Penguins,Los Angeles Kings,2,3,0,401802596
+2025-11-10T00:00:00Z,2026,nhl,Toronto Maple Leafs,Carolina Hurricanes,4,5,0,401802597
+2025-11-10T00:00:00Z,2026,nhl,Ottawa Senators,Utah Mammoth,4,2,0,401802598
+2025-11-10T00:00:00Z,2026,nhl,Dallas Stars,Seattle Kraken,2,1,0,401802599
+2025-11-10T01:00:00Z,2026,nhl,Minnesota Wild,Calgary Flames,2,0,0,401802600
+2025-11-10T03:00:00Z,2026,nhl,Vancouver Canucks,Colorado Avalanche,4,5,0,401802601
+2025-11-10T03:00:00Z,2026,nhl,Anaheim Ducks,Winnipeg Jets,4,1,0,401802602
+2025-11-11T00:00:00Z,2026,nhl,New Jersey Devils,New York Islanders,2,3,0,401802603
+2025-11-11T00:00:00Z,2026,nhl,New York Rangers,Nashville Predators,6,3,0,401802604
+2025-11-11T01:30:00Z,2026,nhl,Edmonton Oilers,Columbus Blue Jackets,5,4,0,401802605
+2025-11-11T03:00:00Z,2026,nhl,Vegas Golden Knights,Florida Panthers,2,3,0,401802606
+2025-11-12T00:00:00Z,2026,nhl,Boston Bruins,Toronto Maple Leafs,5,3,0,401802607
+2025-11-12T00:00:00Z,2026,nhl,Montreal Canadiens,Los Angeles Kings,1,5,0,401802608
+2025-11-12T00:00:00Z,2026,nhl,Ottawa Senators,Dallas Stars,2,3,0,401802609
+2025-11-12T00:00:00Z,2026,nhl,Carolina Hurricanes,Washington Capitals,1,4,0,401802610
+2025-11-12T01:00:00Z,2026,nhl,St. Louis Blues,Calgary Flames,3,2,0,401802611
+2025-11-12T01:00:00Z,2026,nhl,Minnesota Wild,San Jose Sharks,1,2,0,401802612
+2025-11-12T02:30:00Z,2026,nhl,Colorado Avalanche,Anaheim Ducks,4,1,0,401802613
+2025-11-12T03:00:00Z,2026,nhl,Vancouver Canucks,Winnipeg Jets,3,5,0,401802614
+2025-11-12T03:00:00Z,2026,nhl,Seattle Kraken,Columbus Blue Jackets,1,2,0,401802615
+2025-11-13T00:00:00Z,2026,nhl,Tampa Bay Lightning,New York Rangers,3,7,0,401802616
+2025-11-13T00:30:00Z,2026,nhl,Philadelphia Flyers,Edmonton Oilers,1,2,0,401802617
+2025-11-13T02:00:00Z,2026,nhl,Utah Mammoth,Buffalo Sabres,5,2,0,401802618
+2025-11-13T02:30:00Z,2026,nhl,Chicago Blackhawks,New Jersey Devils,3,4,0,401802619
+2025-11-14T00:00:00Z,2026,nhl,Toronto Maple Leafs,Los Angeles Kings,3,4,0,401802620
+2025-11-14T00:00:00Z,2026,nhl,Montreal Canadiens,Dallas Stars,0,7,0,401802621
+2025-11-14T00:00:00Z,2026,nhl,Ottawa Senators,Boston Bruins,5,3,0,401802622
+2025-11-14T00:00:00Z,2026,nhl,Detroit Red Wings,Anaheim Ducks,6,3,0,401802623
+2025-11-14T00:00:00Z,2026,nhl,Florida Panthers,Washington Capitals,6,3,0,401802624
+2025-11-14T00:30:00Z,2026,nhl,Columbus Blue Jackets,Edmonton Oilers,5,4,0,401802625
+2025-11-14T02:00:00Z,2026,nhl,Colorado Avalanche,Buffalo Sabres,6,3,0,401802626
+2025-11-14T02:00:00Z,2026,nhl,Calgary Flames,San Jose Sharks,2,0,0,401802627
+2025-11-14T03:00:00Z,2026,nhl,Vegas Golden Knights,New York Islanders,3,4,0,401802628
+2025-11-14T03:00:00Z,2026,nhl,Seattle Kraken,Winnipeg Jets,5,3,0,401802629
+2025-11-14T19:00:00Z,2026,nhl,Nashville Predators,Pittsburgh Penguins,2,1,1,401802630
+2025-11-15T00:00:00Z,2026,nhl,Carolina Hurricanes,Vancouver Canucks,4,3,0,401802631
+2025-11-15T01:00:00Z,2026,nhl,St. Louis Blues,Philadelphia Flyers,5,6,0,401802632
+2025-11-15T02:00:00Z,2026,nhl,Utah Mammoth,New York Islanders,2,3,0,401802633
+2025-11-15T22:00:00Z,2026,nhl,Florida Panthers,Tampa Bay Lightning,1,3,0,401802634
+2025-11-15T23:00:00Z,2026,nhl,Minnesota Wild,Anaheim Ducks,2,0,0,401802635
+2025-11-16T00:00:00Z,2026,nhl,Montreal Canadiens,Boston Bruins,2,3,0,401802636
+2025-11-16T00:00:00Z,2026,nhl,Ottawa Senators,Los Angeles Kings,0,1,0,401802637
+2025-11-16T00:00:00Z,2026,nhl,Detroit Red Wings,Buffalo Sabres,4,5,0,401802638
+2025-11-16T00:00:00Z,2026,nhl,Washington Capitals,New Jersey Devils,2,3,0,401802639
+2025-11-16T00:00:00Z,2026,nhl,Carolina Hurricanes,Edmonton Oilers,3,4,0,401802640
+2025-11-16T00:00:00Z,2026,nhl,Columbus Blue Jackets,New York Rangers,1,2,0,401802641
+2025-11-16T00:00:00Z,2026,nhl,Chicago Blackhawks,Toronto Maple Leafs,3,2,0,401802642
+2025-11-16T01:00:00Z,2026,nhl,St. Louis Blues,Vegas Golden Knights,1,4,0,401802643
+2025-11-16T01:00:00Z,2026,nhl,Dallas Stars,Philadelphia Flyers,5,1,0,401802644
+2025-11-16T03:00:00Z,2026,nhl,Calgary Flames,Winnipeg Jets,3,4,0,401802645
+2025-11-16T03:00:00Z,2026,nhl,Seattle Kraken,San Jose Sharks,4,1,0,401802646
+2025-11-16T14:00:00Z,2026,nhl,Pittsburgh Penguins,Nashville Predators,4,0,1,401802647
+2025-11-16T22:00:00Z,2026,nhl,Tampa Bay Lightning,Vancouver Canucks,2,6,0,401802648
+2025-11-16T23:00:00Z,2026,nhl,Minnesota Wild,Vegas Golden Knights,3,2,0,401802649
+2025-11-17T00:00:00Z,2026,nhl,New York Rangers,Detroit Red Wings,1,2,0,401802650
+2025-11-17T02:00:00Z,2026,nhl,Colorado Avalanche,New York Islanders,4,1,0,401802651
+2025-11-18T00:00:00Z,2026,nhl,Boston Bruins,Carolina Hurricanes,1,3,0,401802652
+2025-11-18T00:00:00Z,2026,nhl,Buffalo Sabres,Edmonton Oilers,5,1,0,401802653
+2025-11-18T00:00:00Z,2026,nhl,Florida Panthers,Vancouver Canucks,8,5,0,401802654
+2025-11-18T00:00:00Z,2026,nhl,Washington Capitals,Los Angeles Kings,2,1,0,401802655
+2025-11-18T00:30:00Z,2026,nhl,Columbus Blue Jackets,Montreal Canadiens,4,3,0,401802656
+2025-11-18T03:00:00Z,2026,nhl,Anaheim Ducks,Utah Mammoth,3,2,0,401802657
+2025-11-19T00:00:00Z,2026,nhl,Toronto Maple Leafs,St. Louis Blues,3,2,0,401802658
+2025-11-19T00:00:00Z,2026,nhl,Detroit Red Wings,Seattle Kraken,4,2,0,401802659
+2025-11-19T00:00:00Z,2026,nhl,Tampa Bay Lightning,New Jersey Devils,5,1,0,401802660
+2025-11-19T01:00:00Z,2026,nhl,Dallas Stars,New York Islanders,2,3,0,401802661
+2025-11-19T01:00:00Z,2026,nhl,Winnipeg Jets,Columbus Blue Jackets,5,2,0,401802662
+2025-11-19T01:30:00Z,2026,nhl,Chicago Blackhawks,Calgary Flames,5,2,0,401802663
+2025-11-19T03:00:00Z,2026,nhl,Vegas Golden Knights,New York Rangers,3,2,0,401802664
+2025-11-19T03:00:00Z,2026,nhl,San Jose Sharks,Utah Mammoth,3,2,0,401802665
+2025-11-20T00:00:00Z,2026,nhl,Washington Capitals,Edmonton Oilers,7,4,0,401802666
+2025-11-20T00:30:00Z,2026,nhl,Buffalo Sabres,Calgary Flames,2,6,0,401802667
+2025-11-20T02:30:00Z,2026,nhl,Minnesota Wild,Carolina Hurricanes,4,3,0,401802668
+2025-11-20T03:00:00Z,2026,nhl,Anaheim Ducks,Boston Bruins,4,3,0,401802669
+2025-11-21T00:00:00Z,2026,nhl,Toronto Maple Leafs,Columbus Blue Jackets,2,3,0,401802670
+2025-11-21T00:00:00Z,2026,nhl,Montreal Canadiens,Washington Capitals,4,8,0,401802671
+2025-11-21T00:00:00Z,2026,nhl,Detroit Red Wings,New York Islanders,0,5,0,401802672
+2025-11-21T00:00:00Z,2026,nhl,Florida Panthers,New Jersey Devils,1,0,0,401802674
+2025-11-21T00:00:00Z,2026,nhl,Philadelphia Flyers,St. Louis Blues,3,2,0,401802675
+2025-11-21T00:30:00Z,2026,nhl,Tampa Bay Lightning,Edmonton Oilers,2,1,0,401802673
+2025-11-21T01:00:00Z,2026,nhl,Chicago Blackhawks,Seattle Kraken,2,3,0,401802676
+2025-11-21T02:00:00Z,2026,nhl,Colorado Avalanche,New York Rangers,6,3,0,401802677
+2025-11-21T02:00:00Z,2026,nhl,Utah Mammoth,Vegas Golden Knights,1,4,0,401802678
+2025-11-21T03:00:00Z,2026,nhl,Vancouver Canucks,Dallas Stars,2,4,0,401802679
+2025-11-21T03:00:00Z,2026,nhl,Anaheim Ducks,Ottawa Senators,2,3,0,401802680
+2025-11-21T03:00:00Z,2026,nhl,San Jose Sharks,Los Angeles Kings,4,3,0,401802681
+2025-11-22T00:00:00Z,2026,nhl,Buffalo Sabres,Chicago Blackhawks,9,3,0,401802682
+2025-11-22T00:00:00Z,2026,nhl,Pittsburgh Penguins,Minnesota Wild,0,5,0,401802683
+2025-11-22T01:00:00Z,2026,nhl,Winnipeg Jets,Carolina Hurricanes,3,4,0,401802684
+2025-11-22T03:30:00Z,2026,nhl,Los Angeles Kings,Boston Bruins,1,2,0,401802685
+2025-11-22T18:00:00Z,2026,nhl,Detroit Red Wings,Columbus Blue Jackets,4,3,0,401802686
+2025-11-22T20:30:00Z,2026,nhl,New York Islanders,St. Louis Blues,1,2,0,401802687
+2025-11-23T00:00:00Z,2026,nhl,Montreal Canadiens,Toronto Maple Leafs,5,2,0,401802688
+2025-11-23T00:00:00Z,2026,nhl,Florida Panthers,Edmonton Oilers,3,6,0,401802689
+2025-11-23T00:00:00Z,2026,nhl,Philadelphia Flyers,New Jersey Devils,6,3,0,401802690
+2025-11-23T00:00:00Z,2026,nhl,Pittsburgh Penguins,Seattle Kraken,2,3,0,401802691
+2025-11-23T00:00:00Z,2026,nhl,Washington Capitals,Tampa Bay Lightning,3,5,0,401802692
+2025-11-23T00:00:00Z,2026,nhl,San Jose Sharks,Ottawa Senators,2,3,0,401802693
+2025-11-23T01:00:00Z,2026,nhl,Nashville Predators,Colorado Avalanche,0,3,0,401802694
+2025-11-23T02:00:00Z,2026,nhl,Utah Mammoth,New York Rangers,3,2,0,401802695
+2025-11-23T03:00:00Z,2026,nhl,Calgary Flames,Dallas Stars,3,2,0,401802696
+2025-11-23T03:00:00Z,2026,nhl,Anaheim Ducks,Vegas Golden Knights,4,3,0,401802697
+2025-11-23T18:00:00Z,2026,nhl,Buffalo Sabres,Carolina Hurricanes,4,1,0,401802698
+2025-11-23T21:00:00Z,2026,nhl,Winnipeg Jets,Minnesota Wild,0,3,0,401802699
+2025-11-23T22:00:00Z,2026,nhl,New York Islanders,Seattle Kraken,1,0,0,401802700
+2025-11-24T00:00:00Z,2026,nhl,Chicago Blackhawks,Colorado Avalanche,0,1,0,401802701
+2025-11-24T01:00:00Z,2026,nhl,San Jose Sharks,Boston Bruins,3,1,0,401802702
+2025-11-24T02:00:00Z,2026,nhl,Vancouver Canucks,Calgary Flames,2,5,0,401802703
+2025-11-25T00:00:00Z,2026,nhl,Tampa Bay Lightning,Philadelphia Flyers,3,0,0,401802704
+2025-11-25T00:00:00Z,2026,nhl,New Jersey Devils,Detroit Red Wings,4,3,0,401802705
+2025-11-25T00:00:00Z,2026,nhl,New York Rangers,St. Louis Blues,3,2,0,401802706
+2025-11-25T00:00:00Z,2026,nhl,Washington Capitals,Columbus Blue Jackets,5,1,0,401802707
+2025-11-25T01:00:00Z,2026,nhl,Nashville Predators,Florida Panthers,3,8,0,401802708
+2025-11-25T02:00:00Z,2026,nhl,Utah Mammoth,Vegas Golden Knights,5,1,0,401802709
+2025-11-25T02:00:00Z,2026,nhl,Los Angeles Kings,Ottawa Senators,2,1,0,401802710
+2025-11-26T02:00:00Z,2026,nhl,Edmonton Oilers,Dallas Stars,3,8,0,401802711
+2025-11-27T00:00:00Z,2026,nhl,Detroit Red Wings,Nashville Predators,3,6,0,401802712
+2025-11-27T00:00:00Z,2026,nhl,Tampa Bay Lightning,Calgary Flames,5,1,0,401802713
+2025-11-27T00:00:00Z,2026,nhl,Florida Panthers,Philadelphia Flyers,2,4,0,401802714
+2025-11-27T00:00:00Z,2026,nhl,New Jersey Devils,St. Louis Blues,3,2,0,401802715
+2025-11-27T00:00:00Z,2026,nhl,New York Islanders,Boston Bruins,1,3,0,401802716
+2025-11-27T00:00:00Z,2026,nhl,Pittsburgh Penguins,Buffalo Sabres,4,2,0,401802717
+2025-11-27T00:00:00Z,2026,nhl,Washington Capitals,Winnipeg Jets,4,3,0,401802718
+2025-11-27T00:00:00Z,2026,nhl,Carolina Hurricanes,New York Rangers,2,4,0,401802719
+2025-11-27T00:00:00Z,2026,nhl,Columbus Blue Jackets,Toronto Maple Leafs,1,2,0,401802720
+2025-11-27T01:30:00Z,2026,nhl,Chicago Blackhawks,Minnesota Wild,3,4,0,401802721
+2025-11-27T02:00:00Z,2026,nhl,Colorado Avalanche,San Jose Sharks,6,0,0,401802722
+2025-11-27T02:30:00Z,2026,nhl,Utah Mammoth,Montreal Canadiens,3,4,0,401802723
+2025-11-27T03:00:00Z,2026,nhl,Vegas Golden Knights,Ottawa Senators,3,4,0,401802724
+2025-11-27T03:00:00Z,2026,nhl,Anaheim Ducks,Vancouver Canucks,4,5,0,401802725
+2025-11-27T03:00:00Z,2026,nhl,Seattle Kraken,Dallas Stars,2,3,0,401802726
+2025-11-28T17:00:00Z,2026,nhl,Detroit Red Wings,Tampa Bay Lightning,3,6,0,401802728
+2025-11-28T18:00:00Z,2026,nhl,Boston Bruins,New York Rangers,2,6,0,401802727
+2025-11-28T20:30:00Z,2026,nhl,Minnesota Wild,Colorado Avalanche,3,2,0,401802729
+2025-11-28T21:00:00Z,2026,nhl,Buffalo Sabres,New Jersey Devils,0,5,0,401802730
+2025-11-28T21:00:00Z,2026,nhl,Florida Panthers,Calgary Flames,3,5,0,401802731
+2025-11-28T21:00:00Z,2026,nhl,New York Islanders,Philadelphia Flyers,3,4,0,401802732
+2025-11-28T21:00:00Z,2026,nhl,St. Louis Blues,Ottawa Senators,4,3,0,401802733
+2025-11-28T21:00:00Z,2026,nhl,Vegas Golden Knights,Montreal Canadiens,1,4,0,401802734
+2025-11-28T21:00:00Z,2026,nhl,Anaheim Ducks,Los Angeles Kings,5,4,0,401802735
+2025-11-28T21:00:00Z,2026,nhl,San Jose Sharks,Vancouver Canucks,3,2,0,401802736
+2025-11-28T22:00:00Z,2026,nhl,Washington Capitals,Toronto Maple Leafs,4,2,0,401802737
+2025-11-28T22:00:00Z,2026,nhl,Carolina Hurricanes,Winnipeg Jets,5,1,0,401802738
+2025-11-29T00:00:00Z,2026,nhl,Columbus Blue Jackets,Pittsburgh Penguins,3,4,0,401802739
+2025-11-29T01:00:00Z,2026,nhl,Chicago Blackhawks,Nashville Predators,3,4,0,401802740
+2025-11-29T01:00:00Z,2026,nhl,Dallas Stars,Utah Mammoth,4,3,0,401802741
+2025-11-29T19:00:00Z,2026,nhl,New York Rangers,Tampa Bay Lightning,1,4,0,401802742
+2025-11-29T20:00:00Z,2026,nhl,Colorado Avalanche,Montreal Canadiens,7,2,0,401802743
+2025-11-29T21:00:00Z,2026,nhl,Seattle Kraken,Edmonton Oilers,0,4,0,401802744
+2025-11-30T00:00:00Z,2026,nhl,Boston Bruins,Detroit Red Wings,3,2,0,401802745
+2025-11-30T00:00:00Z,2026,nhl,New Jersey Devils,Philadelphia Flyers,3,5,0,401802746
+2025-11-30T00:00:00Z,2026,nhl,Pittsburgh Penguins,Toronto Maple Leafs,2,7,0,401802747
+2025-11-30T00:00:00Z,2026,nhl,Nashville Predators,Winnipeg Jets,2,5,0,401802748
+2025-11-30T01:00:00Z,2026,nhl,St. Louis Blues,Utah Mammoth,1,0,0,401802749
+2025-11-30T01:00:00Z,2026,nhl,Minnesota Wild,Buffalo Sabres,2,3,0,401802750
+2025-11-30T03:00:00Z,2026,nhl,Vegas Golden Knights,San Jose Sharks,4,3,0,401802751
+2025-11-30T03:00:00Z,2026,nhl,Los Angeles Kings,Vancouver Canucks,2,1,0,401802752
+2025-11-30T18:00:00Z,2026,nhl,New York Islanders,Washington Capitals,1,4,0,401802753
+2025-11-30T20:30:00Z,2026,nhl,Chicago Blackhawks,Anaheim Ducks,5,3,0,401802754
+2025-11-30T22:00:00Z,2026,nhl,Carolina Hurricanes,Calgary Flames,1,0,0,401802755
+2025-11-30T23:00:00Z,2026,nhl,Dallas Stars,Ottawa Senators,6,1,0,401802756
+2025-12-02T00:00:00Z,2026,nhl,New Jersey Devils,Columbus Blue Jackets,3,5,0,401802757
+2025-12-02T00:00:00Z,2026,nhl,Philadelphia Flyers,Pittsburgh Penguins,1,5,0,401802758
+2025-12-02T00:30:00Z,2026,nhl,Buffalo Sabres,Winnipeg Jets,5,1,0,401802759
+2025-12-02T01:00:00Z,2026,nhl,St. Louis Blues,Anaheim Ducks,1,4,0,401802760
+2025-12-02T03:00:00Z,2026,nhl,San Jose Sharks,Utah Mammoth,6,3,0,401802761
+2025-12-03T00:00:00Z,2026,nhl,Montreal Canadiens,Ottawa Senators,2,5,0,401802762
+2025-12-03T00:00:00Z,2026,nhl,Detroit Red Wings,Boston Bruins,5,4,0,401802763
+2025-12-03T00:00:00Z,2026,nhl,New York Islanders,Tampa Bay Lightning,2,1,0,401802765
+2025-12-03T00:00:00Z,2026,nhl,New York Rangers,Dallas Stars,3,2,0,401802766
+2025-12-03T00:30:00Z,2026,nhl,Florida Panthers,Toronto Maple Leafs,1,4,0,401802764
+2025-12-03T01:00:00Z,2026,nhl,Nashville Predators,Calgary Flames,5,1,0,401802767
+2025-12-03T02:00:00Z,2026,nhl,Colorado Avalanche,Vancouver Canucks,3,1,0,401802768
+2025-12-03T02:00:00Z,2026,nhl,Edmonton Oilers,Minnesota Wild,0,1,0,401802769
+2025-12-03T03:00:00Z,2026,nhl,Vegas Golden Knights,Chicago Blackhawks,4,3,0,401802770
+2025-12-03T03:30:00Z,2026,nhl,Los Angeles Kings,Washington Capitals,1,3,0,401802771
+2025-12-04T00:00:00Z,2026,nhl,New Jersey Devils,Dallas Stars,0,3,0,401802772
+2025-12-04T00:30:00Z,2026,nhl,Montreal Canadiens,Winnipeg Jets,3,2,0,401802773
+2025-12-04T00:30:00Z,2026,nhl,Philadelphia Flyers,Buffalo Sabres,5,2,0,401802774
+2025-12-04T03:00:00Z,2026,nhl,Anaheim Ducks,Utah Mammoth,0,7,0,401802775
+2025-12-04T03:00:00Z,2026,nhl,San Jose Sharks,Washington Capitals,1,7,0,401802776
+2025-12-05T00:00:00Z,2026,nhl,Boston Bruins,St. Louis Blues,5,2,0,401802777
+2025-12-05T00:00:00Z,2026,nhl,Ottawa Senators,New York Rangers,2,4,0,401802778
+2025-12-05T00:00:00Z,2026,nhl,Tampa Bay Lightning,Pittsburgh Penguins,3,4,0,401802779
+2025-12-05T00:00:00Z,2026,nhl,Florida Panthers,Nashville Predators,1,2,0,401802780
+2025-12-05T00:00:00Z,2026,nhl,New York Islanders,Colorado Avalanche,6,3,0,401802781
+2025-12-05T00:00:00Z,2026,nhl,Carolina Hurricanes,Toronto Maple Leafs,1,5,0,401802782
+2025-12-05T00:30:00Z,2026,nhl,Columbus Blue Jackets,Detroit Red Wings,6,5,0,401802783
+2025-12-05T02:00:00Z,2026,nhl,Calgary Flames,Minnesota Wild,4,1,0,401802784
+2025-12-05T02:00:00Z,2026,nhl,Edmonton Oilers,Seattle Kraken,9,4,0,401802785
+2025-12-05T03:00:00Z,2026,nhl,Los Angeles Kings,Chicago Blackhawks,1,2,0,401802786
+2025-12-06T00:00:00Z,2026,nhl,New Jersey Devils,Vegas Golden Knights,0,3,0,401802787
+2025-12-06T00:00:00Z,2026,nhl,Winnipeg Jets,Buffalo Sabres,4,1,0,401802788
+2025-12-06T01:00:00Z,2026,nhl,Dallas Stars,San Jose Sharks,4,1,0,401802789
+2025-12-06T02:00:00Z,2026,nhl,Vancouver Canucks,Utah Mammoth,1,4,0,401802790
+2025-12-06T03:00:00Z,2026,nhl,Anaheim Ducks,Washington Capitals,4,3,0,401802791
+2025-12-06T17:30:00Z,2026,nhl,New York Rangers,Colorado Avalanche,2,3,0,401802792
+2025-12-06T20:30:00Z,2026,nhl,Florida Panthers,Columbus Blue Jackets,7,6,0,401802793
+2025-12-07T00:00:00Z,2026,nhl,Boston Bruins,New Jersey Devils,4,1,0,401802794
+2025-12-07T00:00:00Z,2026,nhl,Toronto Maple Leafs,Montreal Canadiens,1,2,0,401802795
+2025-12-07T00:00:00Z,2026,nhl,Ottawa Senators,St. Louis Blues,1,2,0,401802796
+2025-12-07T00:00:00Z,2026,nhl,Tampa Bay Lightning,New York Islanders,0,2,0,401802797
+2025-12-07T00:00:00Z,2026,nhl,Carolina Hurricanes,Nashville Predators,6,3,0,401802798
+2025-12-07T00:00:00Z,2026,nhl,Calgary Flames,Utah Mammoth,2,0,0,401802799
+2025-12-07T02:00:00Z,2026,nhl,Los Angeles Kings,Chicago Blackhawks,6,0,0,401802800
+2025-12-07T03:00:00Z,2026,nhl,Edmonton Oilers,Winnipeg Jets,6,2,0,401802801
+2025-12-07T03:00:00Z,2026,nhl,Vancouver Canucks,Minnesota Wild,4,2,0,401802802
+2025-12-07T03:00:00Z,2026,nhl,Seattle Kraken,Detroit Red Wings,3,4,0,401802803
+2025-12-07T18:00:00Z,2026,nhl,Philadelphia Flyers,Colorado Avalanche,2,3,0,401802804
+2025-12-07T22:00:00Z,2026,nhl,Florida Panthers,New York Islanders,4,1,0,401802805
+2025-12-07T22:00:00Z,2026,nhl,Carolina Hurricanes,San Jose Sharks,1,4,0,401802806
+2025-12-07T23:00:00Z,2026,nhl,Dallas Stars,Pittsburgh Penguins,3,2,0,401802807
+2025-12-08T00:00:00Z,2026,nhl,Montreal Canadiens,St. Louis Blues,3,4,0,401802808
+2025-12-08T00:00:00Z,2026,nhl,New York Rangers,Vegas Golden Knights,2,3,0,401802809
+2025-12-08T00:00:00Z,2026,nhl,Washington Capitals,Columbus Blue Jackets,2,0,0,401802810
+2025-12-08T01:00:00Z,2026,nhl,Anaheim Ducks,Chicago Blackhawks,7,1,0,401802811
+2025-12-09T00:30:00Z,2026,nhl,Toronto Maple Leafs,Tampa Bay Lightning,2,0,0,401802812
+2025-12-09T02:00:00Z,2026,nhl,Utah Mammoth,Los Angeles Kings,2,4,0,401802813
+2025-12-09T02:00:00Z,2026,nhl,Calgary Flames,Buffalo Sabres,7,4,0,401802814
+2025-12-09T03:00:00Z,2026,nhl,Vancouver Canucks,Detroit Red Wings,0,4,0,401802815
+2025-12-09T03:00:00Z,2026,nhl,Seattle Kraken,Minnesota Wild,1,4,0,401802816
+2025-12-10T00:00:00Z,2026,nhl,Montreal Canadiens,Tampa Bay Lightning,1,6,0,401802817
+2025-12-10T00:00:00Z,2026,nhl,Ottawa Senators,New Jersey Devils,3,4,0,401802818
+2025-12-10T00:00:00Z,2026,nhl,New York Islanders,Vegas Golden Knights,5,4,0,401802819
+2025-12-10T00:00:00Z,2026,nhl,Philadelphia Flyers,San Jose Sharks,4,1,0,401802820
+2025-12-10T00:00:00Z,2026,nhl,Pittsburgh Penguins,Anaheim Ducks,3,4,0,401802821
+2025-12-10T00:30:00Z,2026,nhl,Carolina Hurricanes,Columbus Blue Jackets,4,1,0,401802822
+2025-12-10T01:00:00Z,2026,nhl,St. Louis Blues,Boston Bruins,2,5,0,401802823
+2025-12-10T01:00:00Z,2026,nhl,Winnipeg Jets,Dallas Stars,3,4,0,401802824
+2025-12-10T02:00:00Z,2026,nhl,Edmonton Oilers,Buffalo Sabres,3,4,0,401802825
+2025-12-10T02:30:00Z,2026,nhl,Nashville Predators,Colorado Avalanche,4,3,0,401802826
+2025-12-11T00:30:00Z,2026,nhl,Chicago Blackhawks,New York Rangers,3,0,0,401802827
+2025-12-11T01:30:00Z,2026,nhl,Calgary Flames,Detroit Red Wings,3,4,0,401802828
+2025-12-11T02:00:00Z,2026,nhl,Utah Mammoth,Florida Panthers,3,4,0,401802829
+2025-12-11T03:00:00Z,2026,nhl,Seattle Kraken,Los Angeles Kings,3,2,0,401802830
+2025-12-12T00:00:00Z,2026,nhl,Toronto Maple Leafs,San Jose Sharks,2,3,0,401802831
+2025-12-12T00:00:00Z,2026,nhl,New Jersey Devils,Tampa Bay Lightning,4,8,0,401802832
+2025-12-12T00:00:00Z,2026,nhl,New York Islanders,Anaheim Ducks,5,2,0,401802833
+2025-12-12T00:00:00Z,2026,nhl,Philadelphia Flyers,Vegas Golden Knights,2,3,0,401802834
+2025-12-12T00:00:00Z,2026,nhl,Washington Capitals,Carolina Hurricanes,2,3,0,401802836
+2025-12-12T00:00:00Z,2026,nhl,Columbus Blue Jackets,Ottawa Senators,3,6,0,401802837
+2025-12-12T00:30:00Z,2026,nhl,Pittsburgh Penguins,Montreal Canadiens,2,4,0,401802835
+2025-12-12T01:00:00Z,2026,nhl,Nashville Predators,St. Louis Blues,7,2,0,401802838
+2025-12-12T01:00:00Z,2026,nhl,Minnesota Wild,Dallas Stars,5,2,0,401802839
+2025-12-12T01:00:00Z,2026,nhl,Winnipeg Jets,Boston Bruins,3,6,0,401802840
+2025-12-12T02:00:00Z,2026,nhl,Edmonton Oilers,Detroit Red Wings,4,1,0,401802842
+2025-12-12T02:30:00Z,2026,nhl,Colorado Avalanche,Florida Panthers,6,2,0,401802841
+2025-12-12T03:00:00Z,2026,nhl,Vancouver Canucks,Buffalo Sabres,2,3,0,401802843
+2025-12-13T01:00:00Z,2026,nhl,St. Louis Blues,Chicago Blackhawks,3,2,0,401802844
+2025-12-13T02:00:00Z,2026,nhl,Utah Mammoth,Seattle Kraken,5,3,0,401802845
+2025-12-13T17:30:00Z,2026,nhl,New Jersey Devils,Anaheim Ducks,4,1,0,401802846
+2025-12-13T19:00:00Z,2026,nhl,Minnesota Wild,Ottawa Senators,3,2,0,401802847
+2025-12-13T20:00:00Z,2026,nhl,Pittsburgh Penguins,San Jose Sharks,5,6,0,401802848
+2025-12-13T20:30:00Z,2026,nhl,New York Islanders,Tampa Bay Lightning,3,2,0,401802849
+2025-12-14T00:00:00Z,2026,nhl,Toronto Maple Leafs,Edmonton Oilers,3,6,0,401802850
+2025-12-14T00:00:00Z,2026,nhl,New York Rangers,Montreal Canadiens,5,4,0,401802851
+2025-12-14T00:00:00Z,2026,nhl,Philadelphia Flyers,Carolina Hurricanes,3,4,0,401802852
+2025-12-14T00:00:00Z,2026,nhl,Columbus Blue Jackets,Vegas Golden Knights,2,3,0,401802853
+2025-12-14T00:00:00Z,2026,nhl,Winnipeg Jets,Washington Capitals,5,1,0,401802854
+2025-12-14T01:00:00Z,2026,nhl,Chicago Blackhawks,Detroit Red Wings,0,4,0,401802855
+2025-12-14T01:00:00Z,2026,nhl,Dallas Stars,Florida Panthers,0,4,0,401802856
+2025-12-14T02:00:00Z,2026,nhl,Colorado Avalanche,Nashville Predators,4,2,0,401802857
+2025-12-14T03:00:00Z,2026,nhl,Los Angeles Kings,Calgary Flames,1,2,0,401802858
+2025-12-14T17:30:00Z,2026,nhl,New Jersey Devils,Vancouver Canucks,1,2,0,401802859
+2025-12-14T20:00:00Z,2026,nhl,Pittsburgh Penguins,Utah Mammoth,4,5,0,401802860
+2025-12-14T22:00:00Z,2026,nhl,Carolina Hurricanes,Philadelphia Flyers,3,2,0,401802861
+2025-12-14T23:00:00Z,2026,nhl,Minnesota Wild,Boston Bruins,6,2,0,401802862
+2025-12-15T00:00:00Z,2026,nhl,Montreal Canadiens,Edmonton Oilers,4,1,0,401802863
+2025-12-15T01:00:00Z,2026,nhl,Seattle Kraken,Buffalo Sabres,1,3,0,401802864
+2025-12-16T00:00:00Z,2026,nhl,Tampa Bay Lightning,Florida Panthers,2,5,0,401802865
+2025-12-16T00:00:00Z,2026,nhl,New York Rangers,Anaheim Ducks,1,4,0,401802866
+2025-12-16T00:30:00Z,2026,nhl,Winnipeg Jets,Ottawa Senators,2,3,0,401802867
+2025-12-16T01:00:00Z,2026,nhl,St. Louis Blues,Nashville Predators,2,5,0,401802868
+2025-12-16T01:00:00Z,2026,nhl,Dallas Stars,Los Angeles Kings,4,1,0,401802869
+2025-12-17T00:00:00Z,2026,nhl,Boston Bruins,Utah Mammoth,4,1,0,401802870
+2025-12-17T00:00:00Z,2026,nhl,Toronto Maple Leafs,Chicago Blackhawks,3,2,0,401802871
+2025-12-17T00:00:00Z,2026,nhl,Montreal Canadiens,Philadelphia Flyers,1,4,0,401802872
+2025-12-17T00:00:00Z,2026,nhl,Detroit Red Wings,New York Islanders,3,2,0,401802873
+2025-12-17T00:00:00Z,2026,nhl,New York Rangers,Vancouver Canucks,0,3,0,401802874
+2025-12-17T00:00:00Z,2026,nhl,Columbus Blue Jackets,Anaheim Ducks,4,3,0,401802876
+2025-12-17T00:30:00Z,2026,nhl,Pittsburgh Penguins,Edmonton Oilers,4,6,0,401802875
+2025-12-17T01:00:00Z,2026,nhl,Minnesota Wild,Washington Capitals,5,0,0,401802877
+2025-12-17T03:00:00Z,2026,nhl,San Jose Sharks,Calgary Flames,6,3,0,401802878
+2025-12-17T03:00:00Z,2026,nhl,Seattle Kraken,Colorado Avalanche,3,5,0,401802879
+2025-12-18T00:00:00Z,2026,nhl,Florida Panthers,Los Angeles Kings,3,2,0,401802880
+2025-12-18T00:30:00Z,2026,nhl,Detroit Red Wings,Utah Mammoth,1,4,0,401802881
+2025-12-18T01:00:00Z,2026,nhl,St. Louis Blues,Winnipeg Jets,1,0,0,401802882
+2025-12-18T01:00:00Z,2026,nhl,Nashville Predators,Carolina Hurricanes,1,4,0,401802883
+2025-12-18T03:00:00Z,2026,nhl,Vegas Golden Knights,New Jersey Devils,1,2,0,401802884
+2025-12-19T00:00:00Z,2026,nhl,Boston Bruins,Edmonton Oilers,1,3,0,401802885
+2025-12-19T00:00:00Z,2026,nhl,Montreal Canadiens,Chicago Blackhawks,4,1,0,401802887
+2025-12-19T00:00:00Z,2026,nhl,Ottawa Senators,Pittsburgh Penguins,4,0,0,401802888
+2025-12-19T00:00:00Z,2026,nhl,Tampa Bay Lightning,Los Angeles Kings,1,2,0,401802889
+2025-12-19T00:00:00Z,2026,nhl,Washington Capitals,Toronto Maple Leafs,4,0,0,401802890
+2025-12-19T00:00:00Z,2026,nhl,Columbus Blue Jackets,Minnesota Wild,2,5,0,401802891
+2025-12-19T00:30:00Z,2026,nhl,Buffalo Sabres,Philadelphia Flyers,5,3,0,401802886
+2025-12-19T01:00:00Z,2026,nhl,St. Louis Blues,New York Rangers,1,2,0,401802892
+2025-12-19T02:00:00Z,2026,nhl,Calgary Flames,Seattle Kraken,4,2,0,401802893
+2025-12-19T03:00:00Z,2026,nhl,San Jose Sharks,Dallas Stars,3,5,0,401802894
+2025-12-20T00:00:00Z,2026,nhl,Florida Panthers,Carolina Hurricanes,4,3,0,401802895
+2025-12-20T00:00:00Z,2026,nhl,New York Islanders,Vancouver Canucks,1,4,0,401802896
+2025-12-20T02:00:00Z,2026,nhl,Colorado Avalanche,Winnipeg Jets,3,2,0,401802897
+2025-12-20T02:00:00Z,2026,nhl,Utah Mammoth,New Jersey Devils,1,2,0,401802898
+2025-12-20T03:00:00Z,2026,nhl,Anaheim Ducks,Dallas Stars,3,8,0,401802899
+2025-12-20T17:30:00Z,2026,nhl,New York Rangers,Philadelphia Flyers,5,4,0,401802900
+2025-12-20T17:30:00Z,2026,nhl,Washington Capitals,Detroit Red Wings,2,5,0,401802901
+2025-12-20T20:00:00Z,2026,nhl,Ottawa Senators,Chicago Blackhawks,6,4,0,401802902
+2025-12-20T20:00:00Z,2026,nhl,Minnesota Wild,Edmonton Oilers,5,2,0,401802903
+2025-12-20T22:00:00Z,2026,nhl,Buffalo Sabres,New York Islanders,3,2,0,401802904
+2025-12-20T23:00:00Z,2026,nhl,Florida Panthers,St. Louis Blues,2,6,0,401802905
+2025-12-21T00:00:00Z,2026,nhl,Boston Bruins,Vancouver Canucks,4,5,0,401802906
+2025-12-21T00:00:00Z,2026,nhl,Montreal Canadiens,Pittsburgh Penguins,4,0,0,401802907
+2025-12-21T00:00:00Z,2026,nhl,Tampa Bay Lightning,Carolina Hurricanes,6,4,0,401802908
+2025-12-21T00:00:00Z,2026,nhl,Nashville Predators,Toronto Maple Leafs,5,3,0,401802909
+2025-12-21T03:00:00Z,2026,nhl,Calgary Flames,Vegas Golden Knights,6,3,0,401802910
+2025-12-21T03:00:00Z,2026,nhl,Anaheim Ducks,Columbus Blue Jackets,4,3,0,401802911
+2025-12-21T03:00:00Z,2026,nhl,San Jose Sharks,Seattle Kraken,2,4,0,401802912
+2025-12-21T18:00:00Z,2026,nhl,Detroit Red Wings,Washington Capitals,3,2,0,401802913
+2025-12-21T23:00:00Z,2026,nhl,Minnesota Wild,Colorado Avalanche,1,5,0,401802914
+2025-12-22T00:00:00Z,2026,nhl,Boston Bruins,Ottawa Senators,2,6,0,401802915
+2025-12-22T00:00:00Z,2026,nhl,New Jersey Devils,Buffalo Sabres,1,3,0,401802916
+2025-12-22T00:00:00Z,2026,nhl,Pittsburgh Penguins,Montreal Canadiens,4,3,0,401802917
+2025-12-22T00:00:00Z,2026,nhl,Nashville Predators,New York Rangers,2,1,0,401802918
+2025-12-22T00:00:00Z,2026,nhl,Dallas Stars,Toronto Maple Leafs,5,1,0,401802919
+2025-12-22T00:00:00Z,2026,nhl,Utah Mammoth,Winnipeg Jets,4,3,0,401802920
+2025-12-22T01:00:00Z,2026,nhl,Edmonton Oilers,Vegas Golden Knights,4,3,0,401802921
+2025-12-23T00:00:00Z,2026,nhl,Tampa Bay Lightning,St. Louis Blues,4,1,0,401802922
+2025-12-23T00:30:00Z,2026,nhl,Philadelphia Flyers,Vancouver Canucks,5,2,0,401802923
+2025-12-23T03:00:00Z,2026,nhl,Anaheim Ducks,Seattle Kraken,1,3,0,401802924
+2025-12-23T03:00:00Z,2026,nhl,Los Angeles Kings,Columbus Blue Jackets,1,3,0,401802925
+2025-12-23T21:00:00Z,2026,nhl,Toronto Maple Leafs,Pittsburgh Penguins,6,3,0,401802926
+2025-12-23T23:30:00Z,2026,nhl,Detroit Red Wings,Dallas Stars,4,3,0,401802930
+2025-12-24T00:00:00Z,2026,nhl,Washington Capitals,New York Rangers,3,7,0,401802927
+2025-12-24T00:00:00Z,2026,nhl,Boston Bruins,Montreal Canadiens,2,6,0,401802928
+2025-12-24T00:00:00Z,2026,nhl,Ottawa Senators,Buffalo Sabres,2,3,0,401802929
+2025-12-24T00:00:00Z,2026,nhl,New York Islanders,New Jersey Devils,2,1,0,401802931
+2025-12-24T00:00:00Z,2026,nhl,Carolina Hurricanes,Florida Panthers,2,5,0,401802932
+2025-12-24T01:00:00Z,2026,nhl,Minnesota Wild,Nashville Predators,2,3,0,401802933
+2025-12-24T02:00:00Z,2026,nhl,Chicago Blackhawks,Philadelphia Flyers,1,3,0,401802934
+2025-12-24T02:00:00Z,2026,nhl,Colorado Avalanche,Utah Mammoth,1,0,0,401802935
+2025-12-24T02:00:00Z,2026,nhl,Edmonton Oilers,Calgary Flames,5,1,0,401802936
+2025-12-24T03:00:00Z,2026,nhl,Vegas Golden Knights,San Jose Sharks,7,2,0,401802937
+2025-12-24T03:00:00Z,2026,nhl,Los Angeles Kings,Seattle Kraken,2,3,0,401802938
+2025-12-27T23:00:00Z,2026,nhl,New York Islanders,New York Rangers,2,0,0,401802939
+2025-12-28T00:00:00Z,2026,nhl,Buffalo Sabres,Boston Bruins,4,1,0,401802940
+2025-12-28T00:00:00Z,2026,nhl,Toronto Maple Leafs,Ottawa Senators,7,5,0,401802941
+2025-12-28T00:00:00Z,2026,nhl,Florida Panthers,Tampa Bay Lightning,2,4,0,401802942
+2025-12-28T00:00:00Z,2026,nhl,New Jersey Devils,Washington Capitals,3,4,0,401802943
+2025-12-28T00:00:00Z,2026,nhl,Carolina Hurricanes,Detroit Red Wings,5,2,0,401802944
+2025-12-28T00:00:00Z,2026,nhl,Winnipeg Jets,Minnesota Wild,3,4,0,401802945
+2025-12-28T01:00:00Z,2026,nhl,St. Louis Blues,Nashville Predators,3,2,0,401802946
+2025-12-28T01:00:00Z,2026,nhl,Dallas Stars,Chicago Blackhawks,3,4,0,401802947
+2025-12-28T02:00:00Z,2026,nhl,Los Angeles Kings,Anaheim Ducks,6,1,0,401802948
+2025-12-28T03:00:00Z,2026,nhl,Calgary Flames,Edmonton Oilers,3,2,0,401802949
+2025-12-28T03:00:00Z,2026,nhl,Vancouver Canucks,San Jose Sharks,3,6,0,401802950
+2025-12-28T03:00:00Z,2026,nhl,Vegas Golden Knights,Colorado Avalanche,5,6,0,401802951
+2025-12-28T22:00:00Z,2026,nhl,Tampa Bay Lightning,Montreal Canadiens,5,4,0,401802953
+2025-12-28T22:00:00Z,2026,nhl,Columbus Blue Jackets,New York Islanders,4,2,0,401802954
+2025-12-29T00:00:00Z,2026,nhl,Detroit Red Wings,Toronto Maple Leafs,3,2,0,401802952
+2025-12-29T00:00:00Z,2026,nhl,Chicago Blackhawks,Pittsburgh Penguins,3,7,0,401802955
+2025-12-29T01:00:00Z,2026,nhl,Seattle Kraken,Philadelphia Flyers,4,1,0,401802956
+2025-12-30T00:00:00Z,2026,nhl,Florida Panthers,Washington Capitals,5,3,0,401802958
+2025-12-30T00:00:00Z,2026,nhl,Carolina Hurricanes,New York Rangers,3,2,0,401802959
+2025-12-30T00:30:00Z,2026,nhl,Ottawa Senators,Columbus Blue Jackets,1,4,0,401802957
+2025-12-30T00:30:00Z,2026,nhl,Winnipeg Jets,Edmonton Oilers,1,3,0,401802960
+2025-12-30T01:00:00Z,2026,nhl,St. Louis Blues,Buffalo Sabres,2,4,0,401802961
+2025-12-30T02:00:00Z,2026,nhl,Colorado Avalanche,Los Angeles Kings,5,2,0,401802962
+2025-12-30T02:00:00Z,2026,nhl,Utah Mammoth,Nashville Predators,3,4,0,401802963
+2025-12-30T02:00:00Z,2026,nhl,Calgary Flames,Boston Bruins,2,1,0,401802964
+2025-12-30T03:00:00Z,2026,nhl,Vegas Golden Knights,Minnesota Wild,2,5,0,401802965
+2025-12-30T03:00:00Z,2026,nhl,Anaheim Ducks,San Jose Sharks,4,5,0,401802966
+2025-12-30T03:00:00Z,2026,nhl,Seattle Kraken,Vancouver Canucks,2,3,0,401802967
+2025-12-31T00:00:00Z,2026,nhl,Toronto Maple Leafs,New Jersey Devils,4,0,0,401802968
+2025-12-31T00:00:00Z,2026,nhl,Florida Panthers,Montreal Canadiens,2,3,0,401802969
+2025-12-31T00:00:00Z,2026,nhl,Pittsburgh Penguins,Carolina Hurricanes,5,1,0,401802970
+2025-12-31T01:30:00Z,2026,nhl,Chicago Blackhawks,New York Islanders,2,3,0,401802971
+2025-12-31T03:00:00Z,2026,nhl,Vancouver Canucks,Philadelphia Flyers,3,6,0,401802972
+2025-12-31T17:30:00Z,2026,nhl,Washington Capitals,New York Rangers,6,3,0,401802973
+2025-12-31T20:00:00Z,2026,nhl,Vegas Golden Knights,Nashville Predators,2,4,0,401802974
+2025-12-31T21:00:00Z,2026,nhl,Anaheim Ducks,Tampa Bay Lightning,3,4,0,401802975
+2025-12-31T21:00:00Z,2026,nhl,San Jose Sharks,Minnesota Wild,4,3,0,401802976
+2025-12-31T23:30:00Z,2026,nhl,Detroit Red Wings,Winnipeg Jets,2,1,0,401802977

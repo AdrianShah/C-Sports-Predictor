@@ -1,0 +1,25 @@
+date,season,league,home,away,home_score,away_score,neutral,espn_id
+2025-10-22T00:00:00Z,2026,nba,Toronto Raptors,Miami Heat,112,104,0,s0
+2025-10-23T00:00:00Z,2026,nba,Toronto Raptors,Boston Celtics,99,108,0,s1
+2025-10-24T00:00:00Z,2026,nba,Toronto Raptors,New York Knicks,120,101,0,s2
+2025-10-25T00:00:00Z,2026,nba,Miami Heat,Toronto Raptors,95,97,0,s3
+2025-10-26T00:00:00Z,2026,nba,Miami Heat,Boston Celtics,118,110,0,s4
+2025-10-27T00:00:00Z,2026,nba,Miami Heat,New York Knicks,101,99,0,s5
+2025-10-28T00:00:00Z,2026,nba,Boston Celtics,Toronto Raptors,108,114,0,s6
+2025-10-29T00:00:00Z,2026,nba,Boston Celtics,Miami Heat,125,119,0,s7
+2025-10-30T00:00:00Z,2026,nba,Boston Celtics,New York Knicks,97,103,0,s8
+2025-10-31T00:00:00Z,2026,nba,New York Knicks,Toronto Raptors,111,100,0,s9
+2025-11-01T00:00:00Z,2026,nba,New York Knicks,Miami Heat,104,109,0,s10
+2025-11-02T00:00:00Z,2026,nba,New York Knicks,Boston Celtics,116,98,0,s11
+2025-11-03T00:00:00Z,2026,nba,Toronto Raptors,Miami Heat,112,104,0,s12
+2025-11-04T00:00:00Z,2026,nba,Toronto Raptors,Boston Celtics,99,108,0,s13
+2025-11-05T00:00:00Z,2026,nba,Toronto Raptors,New York Knicks,120,101,0,s14
+2025-11-06T00:00:00Z,2026,nba,Miami Heat,Toronto Raptors,95,97,0,s15
+2025-11-07T00:00:00Z,2026,nba,Miami Heat,Boston Celtics,118,110,0,s16
+2025-11-08T00:00:00Z,2026,nba,Miami Heat,New York Knicks,101,99,0,s17
+2025-11-09T00:00:00Z,2026,nba,Boston Celtics,Toronto Raptors,108,114,0,s18
+2025-11-10T00:00:00Z,2026,nba,Boston Celtics,Miami Heat,125,119,0,s19
+2025-11-11T00:00:00Z,2026,nba,Boston Celtics,New York Knicks,97,103,0,s20
+2025-11-12T00:00:00Z,2026,nba,New York Knicks,Toronto Raptors,111,100,0,s21
+2025-11-13T00:00:00Z,2026,nba,New York Knicks,Miami Heat,104,109,0,s22
+2025-11-14T00:00:00Z,2026,nba,New York Knicks,Boston Celtics,116,98,0,s23

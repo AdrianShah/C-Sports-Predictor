@@ -1,0 +1,11 @@
+build/
+build-*/
+out/
+cmake-build-*/
+.vs/
+.vscode/
+.idea/
+*.tmp
+backfill.log
+backtest.json
+model_picks.json
