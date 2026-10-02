@@ -5,6 +5,8 @@
 opponent: a small C++20 program that rates every team from past results and
 picks the same games, under the same rules, before kickoff.
 
+**[Live dashboard: every prediction the model makes →](https://c-sports-predictor.vercel.app)**
+
 ```mermaid
 flowchart LR
   ESPN[(ESPN scoreboards)] -->|tools/backfill.mjs<br/>daily Action| H[history/*.csv]
@@ -129,6 +131,7 @@ include/picks/   public headers
 src/             models, parsing, backtest, CLI (main.cpp)
 tests/           unit tests + CLI smoke tests on tests/data
 tools/           backfill.mjs (ESPN → history/*.csv)
+dashboard/       static site on Vercel; reads model_picks.json / model_results.json live from the profile repo
 history/         <sport>/<year>.csv, one row per finished game
 config/          competition filter, ESPN league-name cache
 ```

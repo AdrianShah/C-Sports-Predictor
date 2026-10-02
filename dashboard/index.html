@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>C-Sports-Predictor</title>
+  <meta name="description" content="Every soccer, NBA and NHL pick made by a C++ rating model, locked before kickoff and scored automatically." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect x='3' y='17' width='7' height='12' rx='2' fill='%232a78d6'/><rect x='12.5' y='9' width='7' height='20' rx='2' fill='%232a78d6'/><rect x='22' y='3' width='7' height='26' rx='2' fill='%23e34948'/></svg>" />
+  <link rel="stylesheet" href="styles.css" />
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <main class="page">
+    <header class="masthead">
+      <div>
+        <h1>C-Sports-Predictor</h1>
+        <p class="lede">
+          Every soccer, NBA and NHL game a C++ rating model picks: Dixon–Coles goals for soccer, Elo for
+          basketball and hockey. Picks are committed to git before kickoff and scored automatically.
+        </p>
+      </div>
+      <nav class="links">
+        <a href="https://github.com/AdrianShah/C-Sports-Predictor">Model source</a>
+        <a href="https://github.com/AdrianShah">Adrian vs the model</a>
+      </nav>
+    </header>
+
+    <section class="tiles" id="tiles" aria-label="Summary"></section>
+
+    <div class="filters" role="toolbar" aria-label="Filters">
+      <div class="seg" id="view" role="tablist" aria-label="View">
+        <button role="tab" data-value="upcoming" aria-selected="true">Upcoming</button>
+        <button role="tab" data-value="results" aria-selected="false">Results</button>
+      </div>
+      <div class="seg" id="sport" role="radiogroup" aria-label="Sport">
+        <button role="radio" data-value="all" aria-checked="true">All</button>
+        <button role="radio" data-value="soccer" aria-checked="false">Soccer</button>
+        <button role="radio" data-value="nba" aria-checked="false">NBA</button>
+        <button role="radio" data-value="nhl" aria-checked="false">NHL</button>
+      </div>
+      <input id="search" type="search" placeholder="Team or competition" aria-label="Search teams or competitions" />
+      <select id="sort" aria-label="Sort">
+        <option value="time">Sort by kickoff</option>
+        <option value="confidence">Sort by confidence</option>
+      </select>
+      <label class="check"><input id="adrian" type="checkbox" /> Adrian's games only</label>
+    </div>
+
+    <div class="legend" aria-hidden="true">
+      <span><i class="key home"></i>Home win</span>
+      <span><i class="key draw"></i>Draw</span>
+      <span><i class="key away"></i>Away win</span>
+    </div>
+
+    <section id="list" class="list" aria-live="polite"></section>
+    <div class="more"><button id="more" hidden>Show more</button></div>
+
+    <section class="card" aria-labelledby="calib-title">
+      <h2 id="calib-title">Is it well calibrated?</h2>
+      <p class="sub">
+        Decided picks grouped by how confident the model was. A well-calibrated model wins about as
+        often as it says it will, so each column should reach its dot.
+      </p>
+      <div class="legend inline" aria-hidden="true">
+        <span><i class="key home"></i>Actual hit rate</span>
+        <span><i class="key dot"></i>Model's average confidence</span>
+      </div>
+      <div id="calibration" class="chart"></div>
+      <details>
+        <summary>Show as a table</summary>
+        <div id="calib-table"></div>
+      </details>
+    </section>
+
+    <section class="card" aria-labelledby="sports-title">
+      <h2 id="sports-title">By sport</h2>
+      <div id="sports-table"></div>
+    </section>
+
+    <footer class="foot">
+      <p>
+        Brier score is the multi-class form: 0 is perfect, and always saying 50/50 on a two-way game
+        scores 0.5. Knockout games count the winner after extra time and penalties. Cancelled and
+        unresolved games are void. Times are Toronto time.
+      </p>
+      <p id="updated"></p>
+    </footer>
+  </main>
+  <div id="tooltip" class="tooltip" role="tooltip" hidden></div>
+</body>
+</html>

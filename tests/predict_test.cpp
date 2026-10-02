@@ -105,14 +105,18 @@ TEST_CASE(model_picks_round_trip) {
   std::vector<ModelPick> picks = {pick("espn:basketball:nba:1", "2026-01-03T00:00:00Z",
                                        "2026-01-01T00:00:00Z", "Raptors")};
   picks[0].probs = {0.61234, 0.0, 0.38766};
+  picks[0].home_logo = "https://a.espncdn.com/tor.png";
   const std::string text = write_model_picks(picks, at("2026-01-01T00:00:00Z"));
   CHECK(text.find("\"pA\":0.6123") != std::string::npos);
   CHECK(text.find("pDraw") == std::string::npos);  // two-way sports have no draw column
+  CHECK(text.find("\"aLogo\":\"https://a.espncdn.com/tor.png\"") != std::string::npos);
+  CHECK(text.find("bLogo") == std::string::npos);  // empty logos are left out
 
   const auto back = read_model_picks(Json::parse(text));
   CHECK_EQ(back.size(), std::size_t{1});
   CHECK_EQ(back[0].pick, std::string("Raptors"));
   CHECK_EQ(back[0].scheduled_at, picks[0].scheduled_at);
   CHECK_NEAR(back[0].probs.home, 0.6123, 1e-9);
+  CHECK_EQ(back[0].home_logo, picks[0].home_logo);
   CHECK_THROWS(read_model_picks(Json::parse(R"({"picks":[{"eventId":"x"}]})")), JsonError);
 }

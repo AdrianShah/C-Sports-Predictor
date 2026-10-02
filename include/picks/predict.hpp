@@ -20,6 +20,8 @@ struct Fixture {
   std::string away;
   Timestamp start = 0;
   std::string status;
+  std::string home_logo;  ///< optional; passed through to the output for display
+  std::string away_logo;
 };
 
 /// Events of supported sports; others (and events with bad timestamps) are skipped.
@@ -37,6 +39,8 @@ struct ModelPick {
   Timestamp locked_at = 0;
   std::string pick;
   Probs probs;
+  std::string home_logo;
+  std::string away_logo;
 };
 
 std::vector<ModelPick> read_model_picks(const Json& doc);

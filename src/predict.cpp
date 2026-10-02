@@ -36,7 +36,9 @@ std::vector<Fixture> read_fixtures(const Json& doc) {
               .home = e.get_string("a"),
               .away = e.get_string("b"),
               .start = *start,
-              .status = e.get_string("status")};
+              .status = e.get_string("status"),
+              .home_logo = e.get_string("aLogo"),
+              .away_logo = e.get_string("bLogo")};
     if (f.id.empty() || f.home.empty() || f.away.empty()) continue;
     out.push_back(std::move(f));
   }
@@ -56,6 +58,8 @@ std::vector<ModelPick> read_model_picks(const Json& doc) {
     m.home = p.get_string("a");
     m.away = p.get_string("b");
     m.pick = p.get_string("pick");
+    m.home_logo = p.get_string("aLogo");
+    m.away_logo = p.get_string("bLogo");
     const auto scheduled = parse_iso8601(p.get_string("scheduledAt"));
     const auto locked = parse_iso8601(p.get_string("lockedAt"));
     if (m.event_id.empty() || m.pick.empty() || !scheduled || !locked) {
@@ -88,6 +92,8 @@ std::string write_model_picks(const std::vector<ModelPick>& picks, Timestamp gen
     };
     if (p.sport == "soccer") o.emplace_back("pDraw", round4(p.probs.draw));
     o.emplace_back("pB", round4(p.probs.away));
+    if (!p.home_logo.empty()) o.emplace_back("aLogo", p.home_logo);
+    if (!p.away_logo.empty()) o.emplace_back("bLogo", p.away_logo);
     out += i == 0 ? "\n" : ",\n";
     out += Json(std::move(o)).dump();
   }
@@ -125,7 +131,9 @@ std::vector<ModelPick> predict_fixtures(const Predictor& model, Sport sport,
                    .scheduled_at = f.start,
                    .locked_at = options.now,
                    .pick = std::move(pick),
-                   .probs = probs});
+                   .probs = probs,
+                   .home_logo = f.home_logo,
+                   .away_logo = f.away_logo});
     ++stats.picked;
   }
   return out;
