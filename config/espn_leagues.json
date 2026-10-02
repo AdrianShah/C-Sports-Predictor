@@ -807,6 +807,10 @@
     "name": "FIFA Women's Champions Cup",
     "slug": "fifa.w.champions_cup"
   },
+  "24220": {
+    "name": "Mexican Liga BBVA MX Femenil",
+    "slug": "mex.w.1"
+  },
   "24405": {
     "name": "English Women's Super League Promotion/Relegation Playoff",
     "slug": "eng.w.promotion.relegation"
