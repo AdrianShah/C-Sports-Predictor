@@ -832,3 +832,7 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-10-09T00:00:00Z,2027,nhl,St. Louis Blues,San Jose Sharks,2,3,0,401891825
 2026-10-09T01:00:00Z,2027,nhl,Calgary Flames,Colorado Avalanche,3,7,0,401892463
 2026-10-09T02:00:00Z,2027,nhl,Vegas Golden Knights,Toronto Maple Leafs,4,3,0,401892464
+2026-10-09T23:00:00Z,2027,nhl,Detroit Red Wings,Seattle Kraken,3,6,0,401892465
+2026-10-09T23:00:00Z,2027,nhl,Washington Capitals,New York Rangers,3,1,0,401892466
+2026-10-09T23:00:00Z,2027,nhl,Columbus Blue Jackets,Pittsburgh Penguins,3,2,0,401892467
+2026-10-10T00:00:00Z,2027,nhl,Winnipeg Jets,Anaheim Ducks,1,5,0,401892468
