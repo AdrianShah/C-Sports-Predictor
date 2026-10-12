@@ -18956,7 +18956,7 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-10-09T10:00:00Z,2026,jpn.1,Kashiwa Reysol,Vissel Kobe,4,2,0,401877609
 2026-10-09T10:00:00Z,2026,jpn.1,Kashima Antlers,Gamba Osaka,2,0,0,401877610
 2026-10-09T11:35:00Z,2026,chn.1,Shenzhen Xinpengcheng,Henan,2,2,0,401861471
-2026-10-09T11:35:00Z,2026,chn.1,Qingdao Hainiu,BEIJING GUOAN,0,3,0,401861475
+2026-10-09T11:35:00Z,2026,chn.1,Qingdao Hainiu,Beijing Guoan,0,3,0,401861475
 2026-10-09T12:00:00Z,2026,chn.1,Zhejiang Professional FC,Shanghai Port,2,4,0,401861472
 2026-10-09T13:50:00Z,2026,ksa.1,Al Kholood,Al Qadsiah,0,5,0,401900908
 2026-10-09T14:55:00Z,2026,ksa.1,Al Fateh,Al Ahli,0,4,0,401900912
@@ -19237,3 +19237,149 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-10-11T02:30:00Z,2026,usa.usl.l1,AV Alta FC,Greenville Triumph,2,2,0,401842205
 2026-10-11T02:30:00Z,2026,usa.1,LAFC,Vancouver Whitecaps,1,1,0,761858
 2026-10-11T03:10:00Z,2026,mex.1,América,Monterrey,1,1,0,401876950
+2026-10-11T05:00:00Z,2026,jpn.1,JEF United Ichihara-Chiba,V-Varen Nagasaki,1,1,0,401877576
+2026-10-11T06:00:00Z,2026,jpn.1,Tokyo Verdy 1969,Sanfrecce Hiroshima,0,2,0,401877574
+2026-10-11T06:00:00Z,2026,jpn.1,Mito Hollyhock,Shimizu S-Pulse,1,2,0,401877618
+2026-10-11T07:00:00Z,2026,jpn.1,Kawasaki Frontale,Nagoya Grampus,1,2,0,401877608
+2026-10-11T10:00:00Z,2026,chn.1,Qingdao West Coast,Dalian Yingbo,0,4,0,401861476
+2026-10-11T10:15:00Z,2026,ned.1,FC Utrecht,Willem II,3,1,0,401875587
+2026-10-11T10:30:00Z,2026,ita.1,Como,AS Roma,0,0,0,401874940
+2026-10-11T10:30:00Z,2026,tur.1,Konyaspor,Istanbul Basaksehir,0,0,0,401888281
+2026-10-11T11:00:00Z,2026,sco.1,Motherwell,Celtic,0,2,0,401878370
+2026-10-11T11:00:00Z,2026,rus.1,Akhmat Grozny,FC Baltika Kaliningrad,0,0,0,401879843
+2026-10-11T11:00:00Z,2026,eng.2,Southampton,Portsmouth,1,0,0,401880237
+2026-10-11T11:00:00Z,2026,esp.copa_del_rey,Atlético Unión Güímar,Sporting Hortaleza,3,3,0,401918758
+2026-10-11T11:30:00Z,2026,bel.1,Standard Liege,Royal Charleroi SC,0,1,0,401878971
+2026-10-11T11:30:00Z,2026,ger.2,VfL Bochum,Arminia Bielefeld,0,1,0,401885096
+2026-10-11T11:30:00Z,2026,ger.2,Hertha Berlin,SpVgg Greuther Fürth,2,1,0,401885098
+2026-10-11T11:30:00Z,2026,ger.2,St. Pauli,Karlsruher SC,2,0,0,401885101
+2026-10-11T11:30:00Z,2026,ind.1,Inter Kashi,Kerala Blasters FC,0,2,0,401925438
+2026-10-11T11:35:00Z,2026,chn.1,Liaoning Tieren,Wuhan Three Towns,1,1,0,401861508
+2026-10-11T11:35:00Z,2026,chn.1,Chongqing Tonglianglong,Shandong Taishan,1,1,0,401861509
+2026-10-11T12:00:00Z,2026,swe.1,Hammarby IF,Djurgården,0,1,0,401842837
+2026-10-11T12:00:00Z,2026,den.1,Randers FC,Viborg FF,0,2,0,401874724
+2026-10-11T12:00:00Z,2026,den.1,Silkeborg IF,AC Horsens,3,3,0,401874726
+2026-10-11T12:00:00Z,2026,esp.1,Elche,Celta Vigo,0,0,0,401882854
+2026-10-11T12:00:00Z,2026,esp.2,FC Andorra,Castellón,1,0,0,401883188
+2026-10-11T12:30:00Z,2026,nor.1,Fredrikstad,Tromso,1,1,0,401843454
+2026-10-11T12:30:00Z,2026,ned.1,Telstar,ADO Den Haag,2,2,0,401875585
+2026-10-11T12:30:00Z,2026,ned.1,PEC Zwolle,SC Cambuur,0,1,0,401875586
+2026-10-11T12:30:00Z,2026,aut.1,SC Rheindorf Altach,Wolfsberger,3,0,0,401881775
+2026-10-11T12:30:00Z,2026,aut.1,TSV Hartberg,Austria Lustenau,4,3,0,401881778
+2026-10-11T13:00:00Z,2026,ita.1,Lecce,Bologna,1,2,0,401874776
+2026-10-11T13:00:00Z,2026,ita.1,Lazio,Monza,3,1,0,401874951
+2026-10-11T13:00:00Z,2026,fra.1,Nice,Strasbourg,2,1,0,401876443
+2026-10-11T13:00:00Z,2026,sco.1,Aberdeen,St Johnstone,0,1,0,401878374
+2026-10-11T13:00:00Z,2026,eng.1,Hull City,Everton,2,2,0,401878774
+2026-10-11T13:00:00Z,2026,eng.1,Crystal Palace,Nottingham Forest,3,1,0,401879266
+2026-10-11T13:00:00Z,2026,tur.1,Gaziantep FK,Çorum FK,0,3,0,401888380
+2026-10-11T13:00:00Z,2026,ita.2,Catanzaro,Mantova,1,3,0,401899606
+2026-10-11T13:30:00Z,2026,rus.1,CSKA Moscow,Rodina Moscow,3,0,0,401879842
+2026-10-11T13:30:00Z,2026,ger.1,FC Cologne,Borussia Mönchengladbach,2,1,0,401884774
+2026-10-11T13:40:00Z,2026,ksa.1,Al Fayha,Al Riyadh,1,1,0,401900911
+2026-10-11T14:00:00Z,2026,den.1,Brøndby IF,Lyngby Boldklub,5,2,0,401874521
+2026-10-11T14:00:00Z,2026,bel.1,Union St.-Gilloise,OH Leuven,1,1,0,401878975
+2026-10-11T14:00:00Z,2026,gre.1,Kifisia,Panetolikos,2,0,0,401896751
+2026-10-11T14:00:00Z,2026,gre.1,Iraklis,Levadiakos,2,0,0,401896818
+2026-10-11T14:00:00Z,2026,esp.copa_del_rey,AE Prat,CF San Rafael,5,0,0,401918752
+2026-10-11T14:00:00Z,2026,ind.1,Churchill Brothers,Mumbai City FC,2,1,0,401925437
+2026-10-11T14:00:00Z,2026,uru.1,Juventud,Racing (Montevideo),2,0,0,401927422
+2026-10-11T14:15:00Z,2026,esp.1,Real Sociedad,Deportivo,3,2,0,401882847
+2026-10-11T14:15:00Z,2026,esp.2,Almería,Leganés,3,0,0,401883189
+2026-10-11T14:30:00Z,2026,swe.1,BK Häcken,Örgryte IS,3,0,0,401842836
+2026-10-11T14:30:00Z,2026,por.1,Rio Ave,C.D. Nacional,3,2,0,401885422
+2026-10-11T14:45:00Z,2026,ned.1,Excelsior,FC Groningen,1,5,0,401875584
+2026-10-11T15:00:00Z,2026,nor.1,Aalesund,Sarpsborg FK,2,4,0,401843457
+2026-10-11T15:00:00Z,2026,nor.1,IK Start,Hamarkameratene,2,4,0,401843458
+2026-10-11T15:00:00Z,2026,aut.1,LASK Linz,Rapid Vienna,0,2,0,401881779
+2026-10-11T15:15:00Z,2026,fra.1,Stade Rennais,AJ Auxerre,4,1,0,401876441
+2026-10-11T15:15:00Z,2026,ita.2,Padova,Carrarese,0,2,0,401899602
+2026-10-11T15:30:00Z,2026,chi.1,Everton CD,La Serena,3,2,0,401850665
+2026-10-11T15:30:00Z,2026,eng.1,Liverpool,Manchester City,0,3,0,401879264
+2026-10-11T15:30:00Z,2026,ger.1,SC Freiburg,Schalke 04,2,1,0,401884778
+2026-10-11T16:00:00Z,2026,den.1,FC Midtjylland,F.C. København,2,1,0,401874498
+2026-10-11T16:00:00Z,2026,ita.1,Sassuolo,AC Milan,1,1,0,401874789
+2026-10-11T16:00:00Z,2026,tur.1,Besiktas,Kocaelispor,2,1,0,401888279
+2026-10-11T16:00:00Z,2026,gre.1,Aris,Volos NFC,3,2,0,401896752
+2026-10-11T16:30:00Z,2026,bel.1,KVC Westerlo,Antwerp,5,1,0,401878970
+2026-10-11T16:30:00Z,2026,gua.1,Suchitepequez,Deportivo Mixco,3,3,0,401879574
+2026-10-11T16:30:00Z,2026,rus.1,Rubin Kazan,Dinamo Moscow,0,1,0,401879841
+2026-10-11T16:30:00Z,2026,esp.1,Real Betis,Osasuna,5,2,0,401882855
+2026-10-11T16:30:00Z,2026,esp.2,Mallorca,Las Palmas,3,1,0,401883183
+2026-10-11T16:30:00Z,2026,ecu.1,Universidad Católica (Quito),Macará,0,1,0,401921352
+2026-10-11T17:00:00Z,2026,por.1,Benfica,Vitória de Guimaraes,2,0,0,401885421
+2026-10-11T17:15:00Z,2026,nor.1,Lillestrom,Molde,2,2,0,401843452
+2026-10-11T17:15:00Z,2026,bel.1,KV Mechelen,Sint-Truidense,4,3,0,401878972
+2026-10-11T17:30:00Z,2026,ita.2,Modena,Hellas Verona,3,2,0,401899603
+2026-10-11T17:45:00Z,2026,arg.1,San Lorenzo,Deportivo Riestra,1,0,0,401841601
+2026-10-11T18:00:00Z,2026,arg.2,Atlanta,San Martín (Tucumán),1,0,0,401844202
+2026-10-11T18:00:00Z,2026,arg.2,Deportivo Madryn,Chaco For Ever,1,2,0,401844207
+2026-10-11T18:00:00Z,2026,arg.3,Argentino de Merlo,Sportivo Italiano,1,2,0,401845140
+2026-10-11T18:00:00Z,2026,chi.1,Coquimbo Unido,Colo Colo,5,2,0,401850661
+2026-10-11T18:00:00Z,2026,per.1,UTC,Sporting Cristal,0,1,0,401886172
+2026-10-11T18:00:00Z,2026,gre.1,Olympiacos,Panathinaikos,1,0,0,401896750
+2026-10-11T18:00:00Z,2026,ksa.1,Al Shabab,Al Taawoun,3,0,0,401900906
+2026-10-11T18:00:00Z,2026,uru.1,Cerro Largo,Albion FC,0,1,0,401927435
+2026-10-11T18:30:00Z,2026,arg.2,Estudiantes (Buenos Aires),Deportivo Morón,2,0,0,401844191
+2026-10-11T18:30:00Z,2026,arg.2,Almirante Brown,San Miguel,1,1,0,401844201
+2026-10-11T18:30:00Z,2026,arg.2,Defensores de Belgrano,Acassuso,0,3,0,401844206
+2026-10-11T18:45:00Z,2026,ita.1,Cagliari,Juventus,1,1,0,401874764
+2026-10-11T18:45:00Z,2026,fra.1,Troyes,Marseille,0,2,0,401876440
+2026-10-11T18:45:00Z,2026,ecu.1,Orense,Deportivo Cuenca,0,0,0,401921384
+2026-10-11T19:00:00Z,2026,bra.1,Atlético-MG,Santos,2,1,0,401841258
+2026-10-11T19:00:00Z,2026,usa.usl.l1,One Knoxville,Spokane Velocity FC,0,2,0,401842209
+2026-10-11T19:00:00Z,2026,arg.2,Gimnasia y Esgrima (Jujuy),Gimnasia y Tiro (Salta),2,2,0,401844193
+2026-10-11T19:00:00Z,2026,arg.2,Mitre (Santiago del Estero),Colón (Santa Fe),0,0,0,401844194
+2026-10-11T19:00:00Z,2026,arg.2,Patronato,Güemes,2,0,0,401844195
+2026-10-11T19:00:00Z,2026,arg.2,Temperley,Nueva Chicago,2,1,0,401844198
+2026-10-11T19:00:00Z,2026,bra.2,Juventude,São Bernardo,2,2,0,401860384
+2026-10-11T19:00:00Z,2026,esp.1,Racing Santander,Valencia,2,2,0,401882850
+2026-10-11T19:00:00Z,2026,esp.2,Cádiz,Sporting Gijón,0,1,0,401883186
+2026-10-11T19:00:00Z,2026,bol.1,Real Potosí,The Strongest,1,0,0,401906470
+2026-10-11T19:00:00Z,2026,col.copa,Independiente Santa Fe,Fortaleza CEIF,2,2,0,401913098
+2026-10-11T19:10:00Z,2026,bra.2,Atlético Goianiense,Sport,1,1,0,401860389
+2026-10-11T19:30:00Z,2026,por.1,Arouca,Estrela,1,0,0,401885428
+2026-10-11T20:00:00Z,2026,arg.1,Rosario Central,Independiente Rivadavia,5,0,0,401841602
+2026-10-11T20:00:00Z,2026,arg.1,Platense,Argentinos Juniors,1,1,0,401841605
+2026-10-11T20:00:00Z,2026,arg.2,Central Norte,Ferro Carril Oeste,1,1,0,401844203
+2026-10-11T20:00:00Z,2026,arg.2,Deportivo Maipú,San Martín (San Juan),1,1,0,401844208
+2026-10-11T20:00:00Z,2026,par.1,Rubio Ñú,Club Olimpia,0,0,0,401888655
+2026-10-11T20:00:00Z,2026,ven.1,Trujillanos,Academia Puerto Cabello,0,1,0,401903438
+2026-10-11T20:00:00Z,2026,ven.1,Anzoátegui FC,Carabobo,0,1,0,401903442
+2026-10-11T20:30:00Z,2026,bra.1,Palmeiras,Corinthians,4,1,0,401841261
+2026-10-11T20:30:00Z,2026,bra.1,Flamengo,Fluminense,1,0,0,401841263
+2026-10-11T20:30:00Z,2026,bra.1,Grêmio,Internacional,1,1,0,401841267
+2026-10-11T20:30:00Z,2026,chi.1,Deportes Concepcion,Unión La Calera,1,1,0,401850667
+2026-10-11T20:30:00Z,2026,bra.2,Náutico,Vila Nova,0,2,0,401860382
+2026-10-11T20:30:00Z,2026,per.1,Sport Boys,Alianza Atlético,1,3,0,401886180
+2026-10-11T21:00:00Z,2026,gua.1,Deportivo San Pedro,Comunicaciones,2,1,0,401879635
+2026-10-11T21:00:00Z,2026,slv.1,Águila,Isidro Metapán,3,0,0,401899706
+2026-10-11T21:00:00Z,2026,slv.1,Atletico Balboa,CD FAS,0,1,0,401899779
+2026-10-11T21:00:00Z,2026,hon.1,CD Estrella Roja,Real España,0,1,0,401915437
+2026-10-11T21:05:00Z,2026,col.1,Jaguares de Córdoba,Deportes Tolima,3,2,0,401877884
+2026-10-11T21:15:00Z,2026,bol.1,Aurora,Nacional Potosí,2,2,0,401906469
+2026-10-11T21:30:00Z,2026,bra.2,Cuiabá,Avaí,0,1,0,401860386
+2026-10-11T21:30:00Z,2026,bra.2,Operário PR,Goiás,0,2,0,401860391
+2026-10-11T21:30:00Z,2026,ven.1,Caracas FC,Zamora FC,4,1,0,401903441
+2026-10-11T21:30:00Z,2026,ecu.1,Liga de Quito,Barcelona SC,2,1,0,401921350
+2026-10-11T21:30:00Z,2026,uru.1,Central Español Fútbol Club,Nacional,0,1,0,401927436
+2026-10-11T22:00:00Z,2026,ven.1,Monagas SC,Estudiantes de Mérida,2,1,0,401903437
+2026-10-11T22:15:00Z,2026,arg.1,Racing Club,Belgrano (Córdoba),0,2,0,401841604
+2026-10-11T22:20:00Z,2026,par.1,Libertad,Guaraní,2,2,0,401888657
+2026-10-11T22:30:00Z,2026,bra.1,Bahia,Mirassol,1,0,0,401841266
+2026-10-11T22:30:00Z,2026,arg.2,Ciudad de Bolívar,San Telmo,1,0,0,401844204
+2026-10-11T23:00:00Z,2026,chi.1,Deportes Limache,Palestino,2,2,0,401850666
+2026-10-11T23:00:00Z,2026,crc.1,Escorpiones Belén,Saprissa,1,0,0,401876846
+2026-10-11T23:00:00Z,2026,mex.1,Atlético de San Luis,Santos,1,2,0,401876948
+2026-10-11T23:00:00Z,2026,gua.1,Municipal,Marquense,1,1,0,401879576
+2026-10-11T23:00:00Z,2026,usa.1,St. Louis CITY SC,LA Galaxy,6,2,0,761859
+2026-10-11T23:10:00Z,2026,mex.1,Pachuca,Necaxa,3,3,0,401876949
+2026-10-11T23:10:00Z,2026,col.1,Boyacá Chicó FC,Cúcuta Deportivo,0,1,0,401878056
+2026-10-11T23:15:00Z,2026,hon.1,Olancho FC,CA Independiente Siguatepeque,1,1,0,401915419
+2026-10-11T23:30:00Z,2026,per.1,Cusco FC,Alianza Lima,1,2,0,401886174
+2026-10-11T23:30:00Z,2026,slv.1,Alianza FC,Internacional Santa Tecla,2,2,0,401899664
+2026-10-11T23:30:00Z,2026,bol.1,Bolívar,Blooming,1,0,0,401906308
+2026-10-12T00:30:00Z,2026,arg.1,Talleres (Córdoba),Independiente,0,0,0,401841600
+2026-10-12T01:10:00Z,2026,gua.1,Antigua GFC,Cobán Imperial,2,1,0,401879575
+2026-10-12T01:15:00Z,2026,mex.1,Pumas UNAM,Cruz Azul,3,3,0,401876947
+2026-10-12T01:15:00Z,2026,col.1,América de Cali,Independiente Medellín,1,2,0,401877915
