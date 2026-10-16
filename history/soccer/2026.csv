@@ -19542,3 +19542,59 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-10-15T02:30:00Z,2026,usa.1,LAFC,Austin FC,3,1,0,761873
 2026-10-15T02:30:00Z,2026,usa.1,LA Galaxy,Portland Timbers,2,0,0,761874
 2026-10-15T03:00:00Z,2026,gua.1,Marquense,Deportivo Mixco,1,1,0,401879578
+2026-10-15T10:00:00Z,2026,afc.cup,Gangwon FC,Phnom Penh Crown,1,2,0,401912792
+2026-10-15T10:00:00Z,2026,afc.cup,Tai Po FC,Lion City Sailors FC,0,1,0,401912793
+2026-10-15T12:15:00Z,2026,afc.cup,Kuching City,Kitchee,1,1,0,401912788
+2026-10-15T12:15:00Z,2026,afc.cup,BG Tampines Rovers FC,Machida Zelvia,0,1,0,401912789
+2026-10-15T12:15:00Z,2026,afc.cup,Preah Khan Reach Svay Rieng FC,Shanghai Shenhua,0,0,0,401912790
+2026-10-15T12:15:00Z,2026,afc.cup,BG Pathum United,Adelaide United,1,2,0,401912791
+2026-10-15T13:40:00Z,2026,ksa.1,Al Faisaly,Al Kholood,3,2,0,401900450
+2026-10-15T14:50:00Z,2026,ksa.1,Al Khaleej,Al Fayha,2,0,0,401900902
+2026-10-15T15:15:00Z,2026,ksa.1,Al Hazem,Al Fateh,2,3,0,401900904
+2026-10-15T16:45:00Z,2026,uefa.europa,Lyon,Crystal Palace,3,2,0,401915566
+2026-10-15T16:45:00Z,2026,uefa.europa,Sparta Prague,Lillestrom,1,1,0,401915567
+2026-10-15T16:45:00Z,2026,uefa.europa,RB Salzburg,AC Milan,0,4,0,401915568
+2026-10-15T16:45:00Z,2026,uefa.europa,AZ Alkmaar,Hapoel Be'er,2,1,0,401915573
+2026-10-15T16:45:00Z,2026,uefa.europa,Union St.-Gilloise,Real Sociedad,1,1,0,401915574
+2026-10-15T16:45:00Z,2026,uefa.europa,Torreense,Sunderland,1,2,0,401915575
+2026-10-15T16:45:00Z,2026,uefa.europa,Lech Poznan,Bayer Leverkusen,0,4,0,401915576
+2026-10-15T16:45:00Z,2026,uefa.europa,NK Celje,Omonia Nicosia,0,3,0,401915577
+2026-10-15T16:45:00Z,2026,uefa.europa.conf,Riga FC,Kairat Almaty,1,1,0,401915747
+2026-10-15T16:45:00Z,2026,uefa.europa.conf,FC Lugano,Red Star Belgrade,3,2,0,401915748
+2026-10-15T16:45:00Z,2026,uefa.europa.conf,CSU Craiova,Getafe,1,1,0,401915854
+2026-10-15T16:45:00Z,2026,uefa.europa.conf,CSKA Sofia,AS Monaco,1,2,0,401915855
+2026-10-15T16:45:00Z,2026,uefa.europa.conf,Panathinaikos,Borac Banja Luka,2,1,0,401915856
+2026-10-15T16:45:00Z,2026,uefa.europa.conf,Mjällby AIF,Inter D'Escaldes,2,0,0,401915857
+2026-10-15T16:45:00Z,2026,uefa.europa.conf,KuPS Kuopio,Trabzonspor,2,4,0,401915858
+2026-10-15T16:45:00Z,2026,uefa.europa.conf,Egnatia,FC Midtjylland,1,1,0,401915859
+2026-10-15T16:45:00Z,2026,uefa.europa.conf,KAA Gent,AGF,1,0,0,401915860
+2026-10-15T16:45:00Z,2026,uefa.europa.conf,Hajduk Split,Ajax Amsterdam,2,1,0,401915861
+2026-10-15T18:00:00Z,2026,gua.1,Xelajú MC,CD Malacateco,2,1,0,401879577
+2026-10-15T19:00:00Z,2026,eng.3,Mansfield Town,Oxford United,1,1,0,401880798
+2026-10-15T19:00:00Z,2026,uefa.europa,Dinamo Zagreb,Anderlecht,1,0,0,401915549
+2026-10-15T19:00:00Z,2026,uefa.europa,Marseille,Olympiacos,0,1,0,401915550
+2026-10-15T19:00:00Z,2026,uefa.europa,Celta Vigo,Juventus,1,2,0,401915560
+2026-10-15T19:00:00Z,2026,uefa.europa,Jagiellonia Bialystok,Ararat-Armenia,3,1,0,401915561
+2026-10-15T19:00:00Z,2026,uefa.europa,Benfica,Celtic,4,1,0,401915562
+2026-10-15T19:00:00Z,2026,uefa.europa,TSG Hoffenheim,Besiktas,2,3,0,401915563
+2026-10-15T19:00:00Z,2026,uefa.europa,Ferencvaros,Viktoria Plzen,2,1,0,401915564
+2026-10-15T19:00:00Z,2026,uefa.europa,NEC Nijmegen,Levski Sofia,1,1,0,401915565
+2026-10-15T19:00:00Z,2026,uefa.europa,AFC Bournemouth,SK Sturm Graz,3,0,0,401915571
+2026-10-15T19:00:00Z,2026,uefa.europa,Stade Rennais,OFI Crete,2,1,0,401915572
+2026-10-15T19:00:00Z,2026,uefa.europa.conf,Atalanta,Pafos,3,1,0,401915746
+2026-10-15T19:00:00Z,2026,uefa.europa.conf,SK Brann,Lincoln Red Imps,2,1,0,401915847
+2026-10-15T19:00:00Z,2026,uefa.europa.conf,SC Freiburg,Jablonec,3,2,0,401915848
+2026-10-15T19:00:00Z,2026,uefa.europa.conf,Sint-Truidense,Iberia 1999,2,0,0,401915849
+2026-10-15T19:00:00Z,2026,uefa.europa.conf,Heart of Midlothian,FC Nordsjælland,1,1,0,401915850
+2026-10-15T19:00:00Z,2026,uefa.europa.conf,FC Twente,FC Thun,1,0,0,401915851
+2026-10-15T19:00:00Z,2026,uefa.europa.conf,F.C. København,Braga,3,0,0,401915852
+2026-10-15T19:00:00Z,2026,uefa.europa.conf,Brighton & Hove Albion,Kauno Zalgiris,4,0,0,401915853
+2026-10-15T21:00:00Z,2026,gua.1,Cobán Imperial,Municipal,2,1,0,401879580
+2026-10-15T23:00:00Z,2026,arg.1,Huracán,Gimnasia La Plata,1,2,0,401841622
+2026-10-15T23:00:00Z,2026,col.copa,Internacional de Bogotá,Llaneros FC,4,1,0,401929276
+2026-10-15T23:15:00Z,2026,hon.1,Club Deportivo Marathón,Olancho FC,2,1,0,401926753
+2026-10-16T00:30:00Z,2026,conmebol.libertadores,Estudiantes de La Plata,Flamengo,0,0,0,401912523
+2026-10-16T01:00:00Z,2026,gua.1,Suchitepequez,Deportivo San Pedro,1,1,0,401879636
+2026-10-16T01:00:00Z,2026,slv.1,Luis Ángel Firpo,Inca Aruba,2,0,0,401899778
+2026-10-16T01:30:00Z,2026,hon.1,Club Deportivo Olimpia,Real España,2,1,0,401926752
+2026-10-16T02:00:00Z,2026,crc.1,Saprissa,Sporting San José,6,0,0,401876842
