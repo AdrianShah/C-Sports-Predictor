@@ -833,3 +833,6 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-06-09T00:30:00Z,2026,nba,New York Knicks,San Antonio Spurs,111,115,0,401859965
 2026-06-11T00:30:00Z,2026,nba,New York Knicks,San Antonio Spurs,107,106,0,401859966
 2026-06-14T00:30:00Z,2026,nba,San Antonio Spurs,New York Knicks,90,94,0,401859967
+2026-10-20T19:00:00Z,2027,nba,Detroit Pistons,Boston Celtics,121,113,0,401909088
+2026-10-20T23:00:00Z,2027,nba,New York Knicks,Philadelphia 76ers,100,106,0,401909089
+2026-10-21T01:50:00Z,2027,nba,San Antonio Spurs,Oklahoma City Thunder,104,116,0,401909090
