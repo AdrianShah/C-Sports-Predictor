@@ -20782,3 +20782,91 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-10-27T00:00:00Z,2026,bol.1,Bolívar,Universitario de Vinto,2,1,0,401930015
 2026-10-27T00:15:00Z,2026,arg.1,Instituto (Córdoba),Deportivo Riestra,1,0,0,401841635
 2026-10-27T01:05:00Z,2026,col.1,Independiente Santa Fe,Atlético Bucaramanga,2,1,0,401877841
+2026-10-27T10:00:00Z,2026,afc.champions,Daejeon Hana Citizen FC,Vissel Kobe,0,1,0,401912636
+2026-10-27T10:00:00Z,2026,afc.champions,Kyoto Sanga,Newcastle Jets,5,2,0,401912637
+2026-10-27T10:00:00Z,2026,afc.champions,Johor Darul Ta'zim,Port FC,3,0,0,401912638
+2026-10-27T10:00:00Z,2026,afc.champions,Shanghai Port FC,Cong An Ha Noi,2,3,0,401912639
+2026-10-27T12:15:00Z,2026,afc.champions,Beijing Guoan,Jeonbuk Hyundai Motors,2,2,0,401912621
+2026-10-27T12:15:00Z,2026,afc.champions,Ratchaburi FC,Kashiwa Reysol,0,0,0,401912635
+2026-10-27T12:40:00Z,2026,ksa.1,Abha,Al Faisaly,0,1,0,401900914
+2026-10-27T16:00:00Z,2026,afc.champions,Shabab Al Ahli,Esteghlal FC,2,0,0,401912634
+2026-10-27T16:00:00Z,2026,afc.cup,Al-Seeb Club,East Bengal FC,0,0,0,401912787
+2026-10-27T17:00:00Z,2026,ger.dfb_pokal,Hamburg SV,Eintracht Frankfurt,1,3,0,401916920
+2026-10-27T17:00:00Z,2026,ger.dfb_pokal,Rot-Weiss Essen,RB Leipzig,1,2,0,401917027
+2026-10-27T17:00:00Z,2026,ger.dfb_pokal,SG Sonnenhof Großaspch,FC Augsburg,2,4,0,401917028
+2026-10-27T17:00:00Z,2026,ger.dfb_pokal,VfL Bochum,Mainz,2,0,0,401917029
+2026-10-27T17:30:00Z,2026,ita.1,Sassuolo,Lazio,2,6,0,401874980
+2026-10-27T17:30:00Z,2026,esp.copa_del_rey,CD Cuarte,Girona,0,2,0,401928493
+2026-10-27T17:45:00Z,2026,ned.cup,Excelsior '31,ADO Den Haag,1,1,0,401925175
+2026-10-27T18:00:00Z,2026,swe.1,AIK,IF Elfsborg,2,2,0,401842858
+2026-10-27T18:00:00Z,2026,ita.2,Benevento,Catanzaro,1,1,0,401899578
+2026-10-27T18:00:00Z,2026,eng.trophy,AFC Wimbledon,Arsenal U21,1,2,0,401906346
+2026-10-27T18:00:00Z,2026,esp.copa_del_rey,Sestao,Espanyol,4,3,0,401928495
+2026-10-27T18:00:00Z,2026,esp.copa_del_rey,Atlético Pinatarense,Elche,1,3,0,401928501
+2026-10-27T18:00:00Z,2026,esp.copa_del_rey,CF Calamocha,CE Europa,0,3,0,401928520
+2026-10-27T18:15:00Z,2026,afc.champions,Al-Shamal,Al Hilal,3,1,0,401912620
+2026-10-27T18:15:00Z,2026,afc.cup,Al-Shorta SC,Al-Hussein SC,1,1,0,401912786
+2026-10-27T18:45:00Z,2026,esp.copa_del_rey,UD Castellonense,Almería,1,2,0,401928521
+2026-10-27T19:00:00Z,2026,ita.2,Virtus Entella,US Avellino,1,1,0,401899570
+2026-10-27T19:00:00Z,2026,ita.2,Padova,Sudtirol,2,0,0,401899572
+2026-10-27T19:00:00Z,2026,ita.2,Mantova,Cremonese,0,2,0,401899573
+2026-10-27T19:00:00Z,2026,ita.2,Vicenza,Modena,1,2,0,401899574
+2026-10-27T19:00:00Z,2026,ita.2,Cesena,Empoli,2,1,0,401899576
+2026-10-27T19:00:00Z,2026,ita.2,Ascoli,Sampdoria,2,0,0,401899579
+2026-10-27T19:00:00Z,2026,eng.trophy,Shrewsbury Town,Everton U21,2,1,0,401906252
+2026-10-27T19:00:00Z,2026,eng.trophy,Port Vale,Manchester City U21,5,0,0,401906347
+2026-10-27T19:00:00Z,2026,eng.trophy,Blackpool,Aston Villa U21,3,2,0,401909640
+2026-10-27T19:00:00Z,2026,ned.cup,Rijnsburgse Boys,FC Den Bosch,3,5,0,401925180
+2026-10-27T19:00:00Z,2026,ned.cup,Telstar,Almere City,0,2,0,401925225
+2026-10-27T19:00:00Z,2026,ned.cup,BVV Barendrecht,RKC Waalwijk,2,2,0,401925226
+2026-10-27T19:00:00Z,2026,ned.cup,Kloetinge,SC Cambuur,0,2,0,401925230
+2026-10-27T19:00:00Z,2026,ned.cup,Helmond Sport,Willem II,3,4,0,401925235
+2026-10-27T19:00:00Z,2026,ned.cup,FC Eindhoven,FC Volendam,5,3,0,401925236
+2026-10-27T19:00:00Z,2026,ned.cup,Roda JC Kerkrade,De Graafschap,1,0,0,401925241
+2026-10-27T19:00:00Z,2026,esp.copa_del_rey,Gimnastica Segoviana,Cultural Leonesa,0,1,0,401928508
+2026-10-27T19:00:00Z,2026,esp.copa_del_rey,Atlético Tordesillas,Mirandés,3,3,0,401928509
+2026-10-27T19:00:00Z,2026,esp.copa_del_rey,Llanera,Ponferradina,1,1,0,401928510
+2026-10-27T19:00:00Z,2026,esp.copa_del_rey,Ciudad De Lucena,Rayo Majadahonda,0,1,0,401928534
+2026-10-27T19:00:00Z,2026,esp.copa_del_rey,Alcalá,Las Palmas,1,3,0,401928549
+2026-10-27T19:30:00Z,2026,esp.copa_del_rey,Manresa,Sant Andreu,2,2,0,401928502
+2026-10-27T19:30:00Z,2026,esp.copa_del_rey,Don Benito,CD Extremadura,2,4,0,401928553
+2026-10-27T19:45:00Z,2026,ita.1,AS Roma,Cagliari,4,2,0,401874780
+2026-10-27T19:45:00Z,2026,ita.1,Torino,Como,1,3,0,401874786
+2026-10-27T19:45:00Z,2026,sco.2,Stenhousemuir,Dunfermline Athletic,0,1,0,401878552
+2026-10-27T19:45:00Z,2026,eng.3,Sheffield Wednesday,Cambridge United,1,1,0,401880816
+2026-10-27T19:45:00Z,2026,eng.3,Oxford United,Stockport County,1,0,0,401880819
+2026-10-27T19:45:00Z,2026,eng.3,Luton Town,Doncaster Rovers,3,1,0,401880820
+2026-10-27T19:45:00Z,2026,eng.3,Milton Keynes Dons,Bromley,4,1,0,401880832
+2026-10-27T19:45:00Z,2026,eng.3,Leicester City,Wigan Athletic,3,0,0,401880834
+2026-10-27T19:45:00Z,2026,eng.4,Barnet,York City,3,1,0,401881347
+2026-10-27T19:45:00Z,2026,eng.5,Worthing,Southend United,3,3,0,401889227
+2026-10-27T19:45:00Z,2026,eng.5,Woking,Boreham Wood,1,2,0,401889228
+2026-10-27T19:45:00Z,2026,eng.5,Wealdstone,Solihull Moors,2,3,0,401889229
+2026-10-27T19:45:00Z,2026,eng.5,Tamworth,Scunthorpe United,4,1,0,401889230
+2026-10-27T19:45:00Z,2026,eng.5,FC Halifax Town,Barrow,2,3,0,401889231
+2026-10-27T19:45:00Z,2026,eng.5,Boston United,Gateshead,2,1,0,401889232
+2026-10-27T19:45:00Z,2026,eng.5,Altrincham,Kidderminster Harriers,0,0,0,401889233
+2026-10-27T19:45:00Z,2026,eng.5,AFC Fylde,Hartlepool United,3,1,0,401889234
+2026-10-27T19:45:00Z,2026,eng.5,AFC Hornchurch,Yeovil Town,1,2,0,401889420
+2026-10-27T19:45:00Z,2026,ger.dfb_pokal,SV Elversberg,SV Darmstadt 98,0,2,0,401916923
+2026-10-27T19:45:00Z,2026,ger.dfb_pokal,FC Cologne,1. FC Union Berlin,5,0,0,401917026
+2026-10-27T19:45:00Z,2026,ger.dfb_pokal,Borussia Dortmund,Werder Bremen,3,2,0,401917030
+2026-10-27T19:45:00Z,2026,ger.dfb_pokal,Borussia Mönchengladbach,Karlsruher SC,2,0,0,401917031
+2026-10-27T19:45:00Z,2026,eng.league_cup,Bradford City,Peterborough United,2,0,0,401921833
+2026-10-27T19:45:00Z,2026,sco.tennents,Penicuik,Clyde,1,1,0,401928436
+2026-10-27T20:00:00Z,2026,per.1,Juan Pablo II,Sport Huancayo,2,0,0,401886153
+2026-10-27T20:00:00Z,2026,eng.league_cup,Fleetwood Town,Arsenal,1,1,0,401921835
+2026-10-27T20:00:00Z,2026,ned.cup,Koninklijke HFC,Go Ahead Eagles,0,5,0,401925181
+2026-10-27T20:00:00Z,2026,esp.copa_del_rey,Arosa,Pontevedra,2,0,0,401928488
+2026-10-27T20:00:00Z,2026,esp.copa_del_rey,Sporting de Alcázar,Málaga,0,3,0,401928499
+2026-10-27T20:00:00Z,2026,esp.copa_del_rey,CD Tudelano,Real Zaragoza,0,4,0,401928503
+2026-10-27T20:00:00Z,2026,esp.copa_del_rey,Manacor,Villarreal,0,5,0,401928522
+2026-10-27T20:00:00Z,2026,esp.copa_del_rey,Recreativo Huelva,Rayo Vallecano,2,3,0,401928533
+2026-10-27T20:00:00Z,2026,esp.copa_del_rey,Atlético Paso,Córdoba,3,1,0,401928547
+2026-10-27T21:30:00Z,2026,ven.1,Academia Puerto Cabello,Caracas FC,0,1,0,401931015
+2026-10-27T22:00:00Z,2026,arg.1,Argentinos Juniors,Independiente Rivadavia,1,0,0,401841642
+2026-10-27T23:00:00Z,2026,bra.2,Ceará,Goiás,0,2,0,401860406
+2026-10-27T23:00:00Z,2026,col.1,Cúcuta Deportivo,Águilas Doradas,0,2,0,401877953
+2026-10-27T23:30:00Z,2026,ven.1,Deportivo Táchira,Monagas SC,2,0,0,401930974
+2026-10-28T01:05:00Z,2026,col.1,Boyacá Chicó FC,Atlético Junior,1,1,0,401877861
+2026-10-28T02:00:00Z,2026,concacaf.central.american.cup,Alianza FC,Club Deportivo Marathón,0,0,0,401922484
