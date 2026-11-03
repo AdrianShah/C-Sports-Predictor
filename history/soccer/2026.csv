@@ -21423,3 +21423,61 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-11-02T02:00:00Z,2026,gua.1,Comunicaciones,Deportivo Mixco,3,1,0,401879598
 2026-11-02T02:00:00Z,2026,usa.usl.1,Sacramento Republic FC,FC Tulsa,1,0,0,401931675
 2026-11-02T02:45:00Z,2026,usa.1,Portland Timbers,Houston Dynamo FC,3,1,0,761933
+2026-11-02T13:00:00Z,2026,esp.2,Tenerife,FC Andorra,2,2,0,401883144
+2026-11-02T13:45:00Z,2026,afc.champions,Pakhtakor,Al Nassr,2,6,0,401912631
+2026-11-02T15:00:00Z,2026,rus.1,Krylia Sovetov,Zenit St Petersburg,0,3,0,401879822
+2026-11-02T15:15:00Z,2026,esp.2,Real Oviedo,Las Palmas,2,3,0,401883146
+2026-11-02T16:00:00Z,2026,arg.2,All Boys,Estudiantes (Buenos Aires),1,0,0,401844260
+2026-11-02T16:00:00Z,2026,per.1,Sport Huancayo,Melgar,2,0,0,401886127
+2026-11-02T16:00:00Z,2026,gre.1,Atromitos,Volos NFC,3,0,0,401896739
+2026-11-02T16:00:00Z,2026,afc.champions,Al Wasl,Al-Quwa Al-Jawiya,4,3,0,401912618
+2026-11-02T16:00:00Z,2026,afc.champions,Tractor,Neftchi Fergana,2,2,0,401912619
+2026-11-02T16:00:00Z,2026,afc.champions,Al Sadd,Al Ahli,0,0,0,401912630
+2026-11-02T17:00:00Z,2026,tur.1,Genclerbirligi,Alanyaspor,5,0,0,401888260
+2026-11-02T17:30:00Z,2026,ita.1,Sassuolo,Fiorentina,2,4,0,401874963
+2026-11-02T17:30:00Z,2026,esp.2,Real Valladolid,Leganés,4,3,0,401883123
+2026-11-02T17:30:00Z,2026,gre.1,Kalamata,Iraklis,1,1,0,401896813
+2026-11-02T18:00:00Z,2026,swe.1,Mjällby AIF,Kalmar FF,0,0,0,401842867
+2026-11-02T18:00:00Z,2026,swe.1,GAIS,AIK,2,1,0,401842870
+2026-11-02T18:00:00Z,2026,arg.2,Chacarita Juniors,Nueva Chicago,2,0,0,401844257
+2026-11-02T18:00:00Z,2026,arg.2,Atletico Rafaela,Patronato,0,0,0,401844258
+2026-11-02T18:00:00Z,2026,arg.3,Argentino de Quilmes,Brown de Adrogué,0,1,0,401845164
+2026-11-02T18:00:00Z,2026,arg.3,San Martín (Burzaco),UAI Urquiza,2,3,0,401845166
+2026-11-02T18:00:00Z,2026,arg.3,Liniers,Ituzaingó,2,0,0,401845167
+2026-11-02T18:00:00Z,2026,arg.3,Defensores Unidos,Deportivo Laferrere,1,1,0,401845172
+2026-11-02T18:00:00Z,2026,arg.3,Comunicaciones,Talleres de Remedios,1,0,0,401845173
+2026-11-02T18:00:00Z,2026,den.1,Sønderjyske Fodbold,F.C. København,0,2,0,401874494
+2026-11-02T18:15:00Z,2026,per.1,UTC,Deportivo Garcilaso,2,3,0,401886147
+2026-11-02T18:15:00Z,2026,afc.champions,Al-Gharafa,Al Qadsiah,0,5,0,401912608
+2026-11-02T18:15:00Z,2026,afc.champions,Al Ittihad,Al Ain,1,4,0,401912629
+2026-11-02T19:00:00Z,2026,bra.2,Fortaleza,Atlético Goianiense,0,0,0,401860420
+2026-11-02T19:00:00Z,2026,ned.2,Jong PSV,NAC Breda,0,2,0,401875865
+2026-11-02T19:00:00Z,2026,ned.2,Jong FC Utrecht,FC Dordrecht,3,2,0,401875866
+2026-11-02T19:00:00Z,2026,ned.2,Jong Ajax,Vitesse,1,1,0,401875867
+2026-11-02T19:00:00Z,2026,ned.2,Heracles Almelo,TOP Oss,2,0,0,401875871
+2026-11-02T19:45:00Z,2026,ita.1,Atalanta,Parma,0,3,0,401874971
+2026-11-02T19:45:00Z,2026,fra.1,Lorient,Brest,0,2,0,401876419
+2026-11-02T19:45:00Z,2026,fra.2,Stade de Reims,Sochaux,2,0,0,401876702
+2026-11-02T19:45:00Z,2026,fra.2,Red Star FC 93,AS Nancy Lorraine,1,4,0,401876703
+2026-11-02T20:00:00Z,2026,eng.1,Newcastle United,Everton,0,1,0,401878762
+2026-11-02T20:00:00Z,2026,esp.1,Deportivo,Osasuna,2,1,0,401882824
+2026-11-02T20:00:00Z,2026,esp.2,Mallorca,Cádiz,2,1,0,401883147
+2026-11-02T20:15:00Z,2026,por.1,Benfica,Alverca,1,0,0,401885403
+2026-11-02T20:15:00Z,2026,por.1,Gil Vicente,Vitória de Guimaraes,0,0,0,401885407
+2026-11-02T20:30:00Z,2026,per.1,Sporting Cristal,FC Cajamarca,5,0,0,401886125
+2026-11-02T20:30:00Z,2026,ecu.1,Orense,Técnico Universitario,1,1,0,401921373
+2026-11-02T21:00:00Z,2026,chi.1,Deportes Limache,Audax Italiano,2,0,0,401850678
+2026-11-02T21:00:00Z,2026,bra.2,Athletic,Ceará,2,1,0,401860412
+2026-11-02T21:05:00Z,2026,col.1,Águilas Doradas,Fortaleza CEIF,1,0,0,401877772
+2026-11-02T21:15:00Z,2026,bol.1,Real Tomayapo,Blooming,1,2,0,401930019
+2026-11-02T22:00:00Z,2026,arg.1,Platense,Central Córdoba (Santiago del Estero),2,0,0,401841649
+2026-11-02T22:00:00Z,2026,arg.1,Defensa y Justicia,Independiente,1,1,0,401841657
+2026-11-02T22:00:00Z,2026,chi.copa_chi,Colo Colo,Puerto Montt,3,0,0,401925581
+2026-11-02T23:00:00Z,2026,bra.1,Red Bull Bragantino,Santos,2,1,0,401841299
+2026-11-02T23:00:00Z,2026,uru.1,Albion FC,Deportivo Maldonado,0,0,0,401931236
+2026-11-02T23:30:00Z,2026,chi.1,Deportes Concepcion,Palestino,1,0,0,401850679
+2026-11-02T23:30:00Z,2026,bra.2,Goiás,CRB,2,1,0,401860419
+2026-11-03T00:15:00Z,2026,arg.1,Atlético Tucumán,Argentinos Juniors,1,2,0,401841644
+2026-11-03T00:15:00Z,2026,arg.1,Independiente Rivadavia,Banfield,3,1,0,401841652
+2026-11-03T01:15:00Z,2026,col.1,Atlético Bucaramanga,Atlético Nacional,1,1,0,401877914
+2026-11-03T02:00:00Z,2026,gua.1,Suchitepequez,CD Malacateco,1,0,0,401879596

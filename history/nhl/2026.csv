@@ -998,3 +998,7 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-11-01T21:00:00Z,2027,nhl,Philadelphia Flyers,Utah Mammoth,6,3,0,401892626
 2026-11-01T23:00:00Z,2027,nhl,New York Rangers,Edmonton Oilers,1,4,0,401892627
 2026-11-02T01:00:00Z,2027,nhl,Anaheim Ducks,Ottawa Senators,6,3,0,401892628
+2026-11-03T00:00:00Z,2027,nhl,Boston Bruins,Vegas Golden Knights,3,2,0,401892629
+2026-11-03T00:00:00Z,2027,nhl,Florida Panthers,Detroit Red Wings,3,5,0,401892630
+2026-11-03T01:00:00Z,2027,nhl,Chicago Blackhawks,Colorado Avalanche,2,5,0,401892631
+2026-11-03T02:00:00Z,2027,nhl,San Jose Sharks,Calgary Flames,1,2,0,401892632
