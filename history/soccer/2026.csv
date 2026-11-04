@@ -21481,3 +21481,69 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-11-03T00:15:00Z,2026,arg.1,Independiente Rivadavia,Banfield,3,1,0,401841652
 2026-11-03T01:15:00Z,2026,col.1,Atlético Bucaramanga,Atlético Nacional,1,1,0,401877914
 2026-11-03T02:00:00Z,2026,gua.1,Suchitepequez,CD Malacateco,1,0,0,401879596
+2026-11-03T07:45:00Z,2026,afc.champions,Newcastle Jets,Shanghai Port FC,2,4,0,401912606
+2026-11-03T10:00:00Z,2026,afc.champions,Kashiwa Reysol,Daejeon Hana Citizen FC,2,0,0,401912604
+2026-11-03T10:00:00Z,2026,afc.champions,Vissel Kobe,Ratchaburi FC,3,2,0,401912605
+2026-11-03T10:00:00Z,2026,afc.champions,Jeonbuk Hyundai Motors,Johor Darul Ta'zim,2,0,0,401912617
+2026-11-03T12:15:00Z,2026,afc.champions,Cong An Ha Noi,Kyoto Sanga,0,0,0,401912615
+2026-11-03T12:15:00Z,2026,afc.champions,Port FC,Beijing Guoan,7,4,0,401912616
+2026-11-03T13:45:00Z,2026,afc.cup,East Bengal FC,Al-Seeb Club,0,2,0,401912771
+2026-11-03T16:00:00Z,2026,afc.champions,Esteghlal FC,Al-Shamal,1,0,0,401912607
+2026-11-03T16:00:00Z,2026,afc.cup,Al-Hussein SC,Al-Shorta SC,0,3,0,401912770
+2026-11-03T17:45:00Z,2026,uefa.champions,Shakhtar Donetsk,Sporting CP,0,1,0,401915310
+2026-11-03T17:45:00Z,2026,uefa.champions,Galatasaray,VfB Stuttgart,2,0,0,401915311
+2026-11-03T18:00:00Z,2026,swe.1,IK Sirius,Halmstads BK,2,0,0,401842866
+2026-11-03T18:15:00Z,2026,afc.champions,Al Hilal,Shabab Al Ahli,2,0,0,401912603
+2026-11-03T19:00:00Z,2026,eng.trophy,Cambridge United,Brighton & Hove Albion U21,6,0,0,401906342
+2026-11-03T19:00:00Z,2026,eng.trophy,Newport County,Crystal Palace U21,1,2,0,401906343
+2026-11-03T19:00:00Z,2026,eng.trophy,Rochdale,Doncaster Rovers,1,4,0,401906344
+2026-11-03T19:00:00Z,2026,eng.trophy,Rotherham United,Newcastle United U21,0,1,0,401906345
+2026-11-03T19:45:00Z,2026,eng.2,Charlton Athletic,Bolton Wanderers,0,1,0,401880174
+2026-11-03T19:45:00Z,2026,eng.2,Watford,Lincoln City,1,0,0,401880178
+2026-11-03T19:45:00Z,2026,eng.2,Queens Park Rangers,Burnley,1,1,0,401880179
+2026-11-03T19:45:00Z,2026,eng.2,Preston North End,Sheffield United,2,3,0,401880180
+2026-11-03T19:45:00Z,2026,eng.2,Portsmouth,Swansea City,3,1,0,401880181
+2026-11-03T19:45:00Z,2026,eng.2,Derby County,Norwich City,0,4,0,401880182
+2026-11-03T19:45:00Z,2026,eng.2,Blackburn Rovers,Stoke City,1,2,0,401880183
+2026-11-03T19:45:00Z,2026,eng.3,Wigan Athletic,Mansfield Town,0,0,0,401880815
+2026-11-03T19:45:00Z,2026,eng.3,Huddersfield Town,Luton Town,1,1,0,401880835
+2026-11-03T19:45:00Z,2026,eng.4,Northampton Town,Oldham Athletic,0,1,0,401881340
+2026-11-03T19:45:00Z,2026,sco.challenge,Bonnyrigg Rose,Dunfermline Athletic,2,4,0,401930408
+2026-11-03T19:45:00Z,2026,sco.challenge,Hamilton Academical,Raith Rovers,1,1,0,401930409
+2026-11-03T19:45:00Z,2026,sco.challenge,Formartine United,Cove Rangers,0,2,0,401930410
+2026-11-03T19:45:00Z,2026,sco.challenge,Edinburgh City,Partick Thistle,0,3,0,401930411
+2026-11-03T19:45:00Z,2026,sco.challenge,Clydebank,Alloa Athletic,1,0,0,401930412
+2026-11-03T19:45:00Z,2026,sco.challenge,St Mirren B,Peterhead,1,2,0,401930413
+2026-11-03T19:45:00Z,2026,sco.challenge,East Kilbride,Stirling Albion,7,3,0,401930414
+2026-11-03T19:45:00Z,2026,sco.challenge,Greenock Morton,Kelty Hearts,0,1,0,401930415
+2026-11-03T19:45:00Z,2026,sco.challenge,Ross County,Celtic B,2,0,0,401930416
+2026-11-03T19:45:00Z,2026,sco.challenge,Inverness Caledonian Thistle,Montrose,1,0,0,401930417
+2026-11-03T19:45:00Z,2026,sco.challenge,Airdrieonians,Elgin City,5,0,0,401930418
+2026-11-03T19:45:00Z,2026,sco.challenge,Spartans FC,Livingston,0,2,0,401930419
+2026-11-03T19:45:00Z,2026,sco.challenge,Annan Athletic,Ayr United,0,2,0,401930420
+2026-11-03T19:45:00Z,2026,sco.challenge,Arbroath,Queen of the South,1,0,0,401930421
+2026-11-03T19:45:00Z,2026,sco.challenge,Aberdeen B,Queen's Park,1,1,0,401930422
+2026-11-03T19:45:00Z,2026,sco.challenge,Stenhousemuir,Berwick Rangers,4,1,0,401930435
+2026-11-03T20:00:00Z,2026,eng.2,West Bromwich Albion,Southampton,1,1,0,401880177
+2026-11-03T20:00:00Z,2026,eng.2,Birmingham City,Millwall,3,0,0,401880184
+2026-11-03T20:00:00Z,2026,per.1,Comerciantes Unidos,ADT,2,2,0,401886128
+2026-11-03T20:00:00Z,2026,par.1,2 de Mayo,Sportivo Trinidense,0,0,0,401888650
+2026-11-03T20:00:00Z,2026,uefa.champions,Feyenoord Rotterdam,Internazionale,0,3,0,401915307
+2026-11-03T20:00:00Z,2026,uefa.champions,Manchester United,AS Roma,3,2,0,401915308
+2026-11-03T20:00:00Z,2026,uefa.champions,Villarreal,Paris Saint-Germain,0,6,0,401915309
+2026-11-03T20:00:00Z,2026,uefa.champions,Bodo/Glimt,Lille,0,0,0,401915384
+2026-11-03T20:00:00Z,2026,uefa.champions,LASK Linz,Slovan Bratislava,4,0,0,401915385
+2026-11-03T20:00:00Z,2026,uefa.champions,Atlético Madrid,Bayern Munich,0,2,0,401915386
+2026-11-03T20:00:00Z,2026,uefa.champions,Barcelona,Aston Villa,3,0,0,401915387
+2026-11-03T20:30:00Z,2026,col.1,Deportivo Pereira,Deportes Tolima,1,3,0,401877912
+2026-11-03T20:30:00Z,2026,ecu.1,Mushuc Runa,Manta F.C.,2,3,0,401921372
+2026-11-03T21:00:00Z,2026,gua.1,Xelajú MC,Marquense,2,0,0,401879601
+2026-11-03T21:30:00Z,2026,ven.1,Monagas SC,Caracas FC,0,2,0,401930972
+2026-11-03T22:30:00Z,2026,bra.1,Chapecoense,Mirassol,1,2,0,401841304
+2026-11-03T22:30:00Z,2026,par.1,Nacional Asunción,Sportivo San Lorenzo,0,2,0,401888569
+2026-11-03T23:00:00Z,2026,bol.copa,Aurora,Independiente Petrolero,3,2,0,401929986
+2026-11-03T23:20:00Z,2026,col.1,Deportivo Pasto,Jaguares de Córdoba,2,0,0,401877896
+2026-11-03T23:30:00Z,2026,ven.1,Deportivo Táchira,Academia Puerto Cabello,3,2,0,401930971
+2026-11-04T00:30:00Z,2026,bra.1,Internacional,Coritiba,1,0,0,401841301
+2026-11-04T01:00:00Z,2026,crc.1,Sporting San José,Pérez Zeledón,3,1,0,401876824
+2026-11-04T01:00:00Z,2026,per.1,Alianza Lima,Cienciano del Cusco,1,0,0,401886148
