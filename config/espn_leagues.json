@@ -563,6 +563,10 @@
     "name": "Brazilian Supercopa Rei",
     "slug": "bra.supercopa_do_brazil"
   },
+  "19725": {
+    "name": "Non-FIFA Friendly",
+    "slug": "nonfifa"
+  },
   "19727": {
     "name": "CONMEBOL Pre-Olympic Tournament",
     "slug": "fifa.conmebol.olympicsq"
