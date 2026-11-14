@@ -22065,7 +22065,7 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-11-10T12:00:00Z,2026,club.friendly,SC Paderborn 07,TSV Eintracht Braunschweig,4,1,0,401933765
 2026-11-10T18:00:00Z,2026,esp.copa_del_rey,Anaitasuna,Alavés,1,6,0,401928514
 2026-11-10T18:00:00Z,2026,esp.copa_del_rey,CD Pamplona,Eibar,0,3,0,401928516
-2026-11-10T18:30:00Z,2026,club.friendly,SV Bergisch Gladbach 09,SV SCHLEBUSCH,4,1,0,401933840
+2026-11-10T18:30:00Z,2026,club.friendly,SV Bergisch Gladbach 09,SV Schlebusch,4,1,0,401933840
 2026-11-10T19:00:00Z,2026,eng.trophy,Stevenage,Fulham U21,2,2,0,401906250
 2026-11-10T19:00:00Z,2026,eng.trophy,Crewe Alexandra,Wigan Athletic,1,2,0,401906251
 2026-11-10T19:00:00Z,2026,eng.trophy,Northampton Town,Gillingham,1,2,0,401906328
@@ -22169,3 +22169,75 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-11-13T00:00:00Z,2026,col.1,Llaneros FC,Boyacá Chicó FC,0,0,0,401877890
 2026-11-13T00:30:00Z,2026,concacaf.nations.league,Curaçao,Panama,0,0,0,401929776
 2026-11-13T02:00:00Z,2026,mex.2,Club Atlético Morelia,Leones Negros,1,0,0,401931922
+2026-11-13T10:00:00Z,2026,club.friendly,Schwarz-Weiß Bregenz,SC Rheindorf Altach,1,5,0,401933780
+2026-11-13T10:00:00Z,2026,club.friendly,FC Sellier & Bellot Vla'im,Kladno,1,2,0,401934215
+2026-11-13T10:00:00Z,2026,club.friendly,Universitatea Cluj,CSC 1599 Selimbar,1,3,0,401934230
+2026-11-13T11:00:00Z,2026,club.friendly,Västerås SK,IF Brommapojkarna,1,1,0,401928130
+2026-11-13T11:00:00Z,2026,club.friendly,NK Nafta 1903 Lendava,Slaven Belupo Koprivnica,1,1,0,401934262
+2026-11-13T11:30:00Z,2026,club.friendly,TPS,FC Ilves,2,1,0,401930883
+2026-11-13T11:30:00Z,2026,club.friendly,TSV Hartberg,Floridsdorfer AC,1,1,0,401933779
+2026-11-13T12:00:00Z,2026,fifa.friendly,Singapore,Paraguay,1,4,0,401916338
+2026-11-13T12:00:00Z,2026,club.friendly,Dynamo Dresden,Dukla Prague,2,0,0,401933125
+2026-11-13T12:00:00Z,2026,club.friendly,SV Kapfenberg,NK Uljanik,2,1,0,401933767
+2026-11-13T12:00:00Z,2026,club.friendly,NK Istra 1961 Pula,NK Radomlje,2,5,0,401934146
+2026-11-13T12:00:00Z,2026,club.friendly,Petrolul Ploiesti,AFC Metalul Buzau,2,0,0,401934223
+2026-11-13T13:00:00Z,2026,caf.nations_qual,Mozambique,Ethiopia,0,1,0,401927187
+2026-11-13T13:00:00Z,2026,caf.nations_qual,Zambia,Burundi,1,1,0,401927203
+2026-11-13T13:00:00Z,2026,caf.nations_qual,Comoros,Congo,0,0,0,401927206
+2026-11-13T13:00:00Z,2026,ind.2,Shillong Lajong FC,Sreenidi Deccan FC,2,1,0,401930699
+2026-11-13T13:00:00Z,2026,fifa.friendly_u21,Bosnia-Herzegovina U21,Montenegro U21,3,1,0,401934052
+2026-11-13T13:00:00Z,2026,club.friendly,NK Varazdin,NK Maribor,0,3,0,401934163
+2026-11-13T13:00:00Z,2026,club.friendly,SSV Jahn Regensburg,FC Blau-Weiß Linz,2,0,0,401934261
+2026-11-13T13:30:00Z,2026,club.friendly,Raków Czestochowa,Lechia Gdansk,0,0,0,401933865
+2026-11-13T14:10:00Z,2026,fifa.friendly,United Arab Emirates,Honduras,3,1,0,401931957
+2026-11-13T14:30:00Z,2026,fifa.friendly,Saudi Arabia,South Korea,3,2,0,401931476
+2026-11-13T14:45:00Z,2026,fifa.friendly,Qatar,Australia,0,3,0,401919978
+2026-11-13T15:00:00Z,2026,fifa.friendly,Iraq,Lebanon,0,0,0,401933636
+2026-11-13T16:00:00Z,2026,caf.nations_qual,Nigeria,Tanzania,3,1,0,401927183
+2026-11-13T16:00:00Z,2026,caf.nations_qual,Cape Verde,Liberia,4,2,0,401927186
+2026-11-13T16:00:00Z,2026,caf.nations_qual,Gabon,Lesotho,2,0,0,401927192
+2026-11-13T16:00:00Z,2026,caf.nations_qual,Tunisia,Libya,0,2,0,401927205
+2026-11-13T16:00:00Z,2026,caf.nations_qual,Burkina Faso,Mauritania,1,0,0,401927208
+2026-11-13T16:00:00Z,2026,caf.nations_qual,South Africa,Kenya,2,2,0,401927212
+2026-11-13T16:00:00Z,2025,uefa.euro_u21_qual,Türkiye U21,Czechia U21,0,1,0,401929699
+2026-11-13T16:15:00Z,2025,uefa.euro_u21_qual,Finland U21,Republic of Ireland U21,1,0,0,401929700
+2026-11-13T16:30:00Z,2026,fifa.friendly,Kuwait,Syria,3,0,0,401931978
+2026-11-13T16:30:00Z,2026,fifa.friendly_u21,Poland U21,Norway U21,2,0,0,401933437
+2026-11-13T16:30:00Z,2026,club.friendly,Austria Vienna II,SR Donaufeld,3,2,0,401933777
+2026-11-13T17:00:00Z,2026,uefa.nations,Moldova,Kazakhstan,2,1,0,401861162
+2026-11-13T17:00:00Z,2026,fifa.friendly_u21,Germany U21,Belgium U21,1,2,0,401932567
+2026-11-13T17:00:00Z,2026,club.friendly,Rapid Vienna II,SV Donau,4,2,0,401933776
+2026-11-13T17:30:00Z,2025,uefa.euro_u21_qual,Denmark U21,Netherlands U21,0,3,0,401929702
+2026-11-13T17:30:00Z,2026,fifa.friendly_u21,France U21,Italy U21,1,2,0,401931777
+2026-11-13T18:00:00Z,2026,fifa.friendly_u21,Albania U21,Luxembourg U21,3,1,0,401933056
+2026-11-13T18:00:00Z,2026,fifa.friendly_u21,Spain U21,Japan U21,2,0,0,401933835
+2026-11-13T19:00:00Z,2026,caf.nations_qual,Mali,Rwanda,3,2,0,401927185
+2026-11-13T19:00:00Z,2026,caf.nations_qual,Egypt,Malawi,5,0,0,401927190
+2026-11-13T19:00:00Z,2026,concacaf.nations.league,Grenada,St. Kitts and Nevis,3,2,0,401929713
+2026-11-13T19:00:00Z,2026,concacaf.nations.league,Bermuda,St. Lucia,1,2,0,401929714
+2026-11-13T19:00:00Z,2026,concacaf.nations.league,Puerto Rico,Dominica,4,2,0,401929795
+2026-11-13T19:00:00Z,2026,fra.coupe_de_france,Dijon FCO,Orléans,1,2,0,401932838
+2026-11-13T19:00:00Z,2026,fra.coupe_de_france,Neuvillette-Jamin,Valenciennes,2,2,0,401932841
+2026-11-13T19:00:00Z,2026,fra.coupe_de_france,US Saint-Philbert-de-Grand-Lieu,La Roche-sur-Yon,1,3,0,401932845
+2026-11-13T19:30:00Z,2026,esp.2,Leganés,Burgos,3,1,0,401883136
+2026-11-13T19:30:00Z,2026,fifa.friendly_u21,England U21,Portugal U21,0,1,0,401930176
+2026-11-13T19:30:00Z,2026,uru.1,Montevideo City Torque,Racing (Montevideo),2,2,0,401933237
+2026-11-13T19:45:00Z,2026,uefa.nations,Liechtenstein,Azerbaijan,0,1,0,401861153
+2026-11-13T19:45:00Z,2026,uefa.nations,Luxembourg,Estonia,0,1,0,401861154
+2026-11-13T19:45:00Z,2026,uefa.nations,Andorra,Gibraltar,2,0,0,401861155
+2026-11-13T19:45:00Z,2026,uefa.nations,Slovenia,Switzerland,0,0,0,401861156
+2026-11-13T19:45:00Z,2026,uefa.nations,Bulgaria,Iceland,0,5,0,401861157
+2026-11-13T19:45:00Z,2026,uefa.nations,Serbia,Germany,1,3,0,401861158
+2026-11-13T19:45:00Z,2026,uefa.nations,Netherlands,Greece,7,0,0,401861159
+2026-11-13T19:45:00Z,2026,uefa.nations,Slovakia,Faroe Islands,2,2,0,401861160
+2026-11-13T19:45:00Z,2026,uefa.nations,Scotland,North Macedonia,2,1,0,401861161
+2026-11-13T20:00:00Z,2026,caf.nations_qual,Morocco,Niger,5,1,0,401927191
+2026-11-13T20:00:00Z,2026,esp.copa_del_rey,Salamanca UDS,Celta Vigo,0,5,0,401928487
+2026-11-13T23:00:00Z,2026,concacaf.nations.league,St. Martin,El Salvador,0,2,0,401929712
+2026-11-13T23:00:00Z,2026,fifa.friendly,Argentina,Uruguay,1,2,0,401930876
+2026-11-14T00:00:00Z,2026,fifa.friendly,Colombia,Chile,1,0,0,401921325
+2026-11-14T00:00:00Z,2026,concacaf.nations.league,Montserrat,Nicaragua,1,2,0,401929775
+2026-11-14T00:00:00Z,2026,fifa.friendly,Ecuador,Costa Rica,2,0,0,401930898
+2026-11-14T01:00:00Z,2026,fifa.friendly,Peru,Bolivia,2,0,0,401930878
+2026-11-14T01:30:00Z,2026,col.1,Internacional de Bogotá,Independiente Santa Fe,0,2,0,401877838
+2026-11-14T02:00:00Z,2026,concacaf.nations.league,Guatemala,Canada,2,3,0,401929711
