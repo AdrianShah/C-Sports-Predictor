@@ -22241,6 +22241,7 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-11-14T01:00:00Z,2026,fifa.friendly,Peru,Bolivia,2,0,0,401930878
 2026-11-14T01:30:00Z,2026,col.1,Internacional de Bogotá,Independiente Santa Fe,0,2,0,401877838
 2026-11-14T02:00:00Z,2026,concacaf.nations.league,Guatemala,Canada,2,3,0,401929711
+2026-11-14T03:00:00Z,2026,club.friendly,Nagoya Grampus,WYVERN,7,2,0,401934456
 2026-11-14T05:30:00Z,2026,fifa.friendly,Tahiti,Cook Islands,4,0,0,401933864
 2026-11-14T06:00:00Z,2026,fifa.friendly,Bahrain,Yemen,3,1,0,401930879
 2026-11-14T09:00:00Z,2026,club.friendly,ACS Poli Timisoara,CSC Dumbravita,4,1,0,401934157
@@ -22418,3 +22419,73 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-11-15T03:00:00Z,2026,fifa.friendly,New Zealand,India,3,0,0,401906463
 2026-11-15T03:00:00Z,2026,mex.2,Club Atlético La Paz,Piratas,1,1,0,401931905
 2026-11-15T04:00:00Z,2026,fra.coupe_de_france,AS Tefana,Thionville,0,0,0,401933039
+2026-11-15T09:00:00Z,2026,fifa.friendly_u21,Kazakhstan U21,Belarus U21,1,2,0,401933960
+2026-11-15T10:00:00Z,2026,club.friendly,Chindia Targoviste,FCSB,1,2,0,401934228
+2026-11-15T10:30:00Z,2026,ind.2,Dempo Sports Club,Chanmari FC,1,2,0,401930696
+2026-11-15T12:00:00Z,2026,club.friendly,FC Kolos Kovalivka,Polissya Zhitomir,0,0,0,401933859
+2026-11-15T12:00:00Z,2026,club.friendly,Krasnodar,Druzhba Maikop,3,1,0,401933956
+2026-11-15T13:00:00Z,2026,esp.2,Tenerife,Ceuta,2,0,0,401883113
+2026-11-15T13:00:00Z,2026,ind.2,Samaleswari SC,Rajasthan United FC,0,2,0,401930695
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Veauche,St Paul en Jarez,1,3,0,401932739
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Riom,FC Limonest,0,4,0,401932741
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Massay,Montlouis,2,2,0,401932755
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Violaines,Vermelles,0,1,0,401932756
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Racing Chambery,Chamois Niortais FC,2,2,0,401932759
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Val Yerres Crosne,Union Cosnoise,2,2,0,401932766
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Montreuil FC,Loon Plage FC,0,3,0,401932767
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Verson,Calais,1,5,0,401932769
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Neslois,Furiani-Agliani,1,4,0,401932770
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Vandruvre,Epinal,0,3,0,401932771
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Montigny-Les-Metz,Pontarlier,0,5,0,401932772
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,ESAP Metz,Reipertswiller,0,1,0,401932773
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Talange,Baume-Les-Dames,2,0,0,401932775
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Stade Pontivy,Plabennec,0,0,0,401932795
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Tremblay,Maisons-Alfort,2,0,0,401932796
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Paris 13 Atletico,Red Star FC 93,0,2,0,401932797
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Sedan,Bourges Foot,2,0,0,401932798
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Olympique Charleville Prix AM,Olympique Marcquois,2,0,0,401932800
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Rochefort FC,Juventus Papus,2,2,0,401932805
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Senlis,Saint-Pryvé Saint Hilaire,0,2,0,401932807
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Rives 82,Trelissac FC,2,1,0,401932819
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,US Marseille Endoume,SC Toulon,2,1,0,401932820
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Seyssinet,Nimes,0,2,0,401932821
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Chatou,Les Ulis,0,0,0,401932823
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Stade Castelbourgeois,Nantes,1,9,0,401932855
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Saint-Die Kellermann,Metz,1,0,0,401932859
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,Saint-Renan,Stade Laval,1,2,0,401932860
+2026-11-15T13:00:00Z,2026,fra.coupe_de_france,St Martin Tatinghem,Racing Club de France,1,2,0,401933040
+2026-11-15T13:30:00Z,2026,ned.2,MVV Maastricht,Vitesse,2,1,0,401875847
+2026-11-15T13:30:00Z,2026,fra.coupe_de_france,Perros-Louannec,Vannes OC,0,7,0,401932774
+2026-11-15T13:30:00Z,2026,fra.coupe_de_france,Stade Sotteville,USF Fecamp,0,0,0,401932799
+2026-11-15T14:00:00Z,2026,uefa.nations,Latvia,Armenia,0,0,0,401861171
+2026-11-15T14:00:00Z,2026,uefa.nations,Cyprus,Montenegro,1,4,0,401861172
+2026-11-15T14:00:00Z,2026,fra.coupe_de_france,Rumilly Vallières,Saint-Étienne,1,2,0,401932735
+2026-11-15T14:00:00Z,2026,fra.coupe_de_france,Atlas Paillade,AS Cannes,0,2,0,401932736
+2026-11-15T14:00:00Z,2026,club.friendly,Zenit St Petersburg,Trabzonspor,3,0,0,401933959
+2026-11-15T14:00:00Z,2026,club.friendly,Hamburg SV,Hajduk Split,1,1,0,401934145
+2026-11-15T14:45:00Z,2026,fra.coupe_de_france,Saint-Pauloise FC,La Tamponnaise,1,2,0,401933096
+2026-11-15T15:15:00Z,2026,esp.2,Granada,Las Palmas,1,0,0,401883116
+2026-11-15T17:00:00Z,2026,uefa.nations,Belarus,Albania,0,2,0,401861173
+2026-11-15T17:00:00Z,2026,uefa.nations,Finland,San Marino,7,2,0,401861174
+2026-11-15T17:00:00Z,2026,fifa.friendly,Suriname,Eswatini,4,0,0,401933837
+2026-11-15T17:30:00Z,2026,esp.2,Eibar,Cádiz,1,1,0,401883117
+2026-11-15T17:30:00Z,2026,esp.2,Eldense,CD Sabadell,2,0,0,401883137
+2026-11-15T18:00:00Z,2026,per.1,Comerciantes Unidos,Sport Boys,3,3,0,401886113
+2026-11-15T18:00:00Z,2026,mex.2,Leones Negros,Club Atlético Morelia,0,0,0,401931918
+2026-11-15T18:00:00Z,2026,arg.2,Deportivo Morón,Colegiales,1,1,0,401932764
+2026-11-15T19:00:00Z,2026,bol.copa,Always Ready,Independiente Petrolero,2,0,0,401930228
+2026-11-15T19:30:00Z,2026,uru.1,Danubio,Liverpool,1,2,0,401933255
+2026-11-15T19:45:00Z,2026,uefa.nations,Spain,England,2,3,0,401861175
+2026-11-15T19:45:00Z,2026,uefa.nations,Belgium,Italy,4,1,0,401861176
+2026-11-15T19:45:00Z,2026,uefa.nations,France,Türkiye,2,1,0,401861177
+2026-11-15T19:45:00Z,2026,uefa.nations,Croatia,Czechia,2,1,0,401861178
+2026-11-15T20:00:00Z,2026,arg.2,Godoy Cruz Antonio Tomba,Tristán Suárez,3,1,0,401932779
+2026-11-15T20:15:00Z,2026,per.1,Juan Pablo II,Deportivo Garcilaso,2,2,0,401886137
+2026-11-15T21:00:00Z,2026,gua.1,Deportivo San Pedro,Marquense,2,0,0,401879641
+2026-11-15T21:00:00Z,2026,slv.1,C.D. Platense,Atletico Balboa,1,2,0,401899769
+2026-11-15T21:30:00Z,2026,bol.copa,Nacional Potosí,Real Potosí,0,2,0,401930229
+2026-11-15T23:00:00Z,2026,slv.1,Inca Aruba,Águila,0,1,0,401899768
+2026-11-15T23:00:00Z,2026,concacaf.nations.league,Panama,Curaçao,2,0,0,401929709
+2026-11-15T23:00:00Z,2026,uru.1,Defensor Sporting,Peñarol,1,1,0,401933376
+2026-11-15T23:05:00Z,2026,gua.1,Suchitepequez,Antigua GFC,1,1,0,401879611
+2026-11-15T23:30:00Z,2026,arg.2,Ferro Carril Oeste,Gimnasia y Tiro (Salta),0,1,0,401932782
