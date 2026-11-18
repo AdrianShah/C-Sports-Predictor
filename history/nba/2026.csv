@@ -1038,3 +1038,8 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-11-17T01:00:00Z,2027,nba,Minnesota Timberwolves,Portland Trail Blazers,106,98,0,401909999
 2026-11-17T01:00:00Z,2027,nba,New Orleans Pelicans,Golden State Warriors,115,94,0,401910000
 2026-11-17T02:00:00Z,2027,nba,Denver Nuggets,Phoenix Suns,105,117,0,401910001
+2026-11-18T00:30:00Z,2027,nba,Toronto Raptors,New York Knicks,102,111,0,401910002
+2026-11-18T01:00:00Z,2027,nba,Minnesota Timberwolves,Portland Trail Blazers,106,105,0,401910003
+2026-11-18T01:00:00Z,2027,nba,San Antonio Spurs,Detroit Pistons,93,105,0,401910004
+2026-11-18T03:30:00Z,2027,nba,LA Clippers,Utah Jazz,107,132,0,401910006
+2026-11-18T04:00:00Z,2027,nba,Los Angeles Lakers,Charlotte Hornets,118,114,0,401910005

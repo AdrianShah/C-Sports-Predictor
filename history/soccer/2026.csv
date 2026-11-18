@@ -22523,3 +22523,68 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-11-17T00:00:00Z,2026,concacaf.nations.league,Martinique,Aruba,1,1,0,401929706
 2026-11-17T01:00:00Z,2026,concacaf.nations.league,Canada,Guatemala,4,1,0,401929770
 2026-11-17T02:00:00Z,2026,usa.usl.1,New Mexico United,Sacramento Republic FC,1,2,0,401933617
+2026-11-17T05:30:00Z,2026,fifa.friendly,Tahiti,Cook Islands,3,3,0,401933879
+2026-11-17T06:00:00Z,2026,fifa.friendly,Malaysia,Yemen,2,1,0,401930237
+2026-11-17T10:00:00Z,2026,fifa.friendly,Singapore,Brazil,0,7,0,401916335
+2026-11-17T12:00:00Z,2026,fifa.friendly,Kyrgyz Republic,Vietnam,2,1,0,401930242
+2026-11-17T12:00:00Z,2026,fifa.friendly,China,Bahrain,2,2,0,401930880
+2026-11-17T13:00:00Z,2026,caf.nations_qual,Tanzania,Nigeria,0,0,0,401927165
+2026-11-17T13:00:00Z,2026,caf.nations_qual,Ethiopia,Mozambique,0,1,0,401927168
+2026-11-17T13:00:00Z,2026,caf.nations_qual,Burundi,Zambia,1,1,0,401927169
+2026-11-17T13:00:00Z,2026,caf.nations_qual,South Sudan,Angola,0,1,0,401927178
+2026-11-17T13:00:00Z,2026,caf.nations_qual,Malawi,Egypt,0,0,0,401927179
+2026-11-17T13:00:00Z,2026,caf.nations_qual,Lesotho,Gabon,2,1,0,401927181
+2026-11-17T13:00:00Z,2026,fifa.friendly,Lebanon,Palestine,0,0,0,401933635
+2026-11-17T13:10:00Z,2026,fifa.friendly,Japan,Paraguay,1,2,0,401916336
+2026-11-17T14:00:00Z,2026,fifa.friendly,Qatar,South Korea,0,1,0,401931477
+2026-11-17T14:00:00Z,2026,afc.saff.championship,India,Pakistan,2,1,0,401934455
+2026-11-17T14:10:00Z,2026,fifa.friendly,United Arab Emirates,Syria,4,2,0,401932718
+2026-11-17T15:30:00Z,2026,fifa.friendly,Saudi Arabia,Uzbekistan,1,2,0,401931495
+2026-11-17T16:00:00Z,2026,fifa.friendly,Jordan,Australia,2,0,0,401919974
+2026-11-17T16:00:00Z,2026,caf.nations_qual,Togo,Algeria,3,0,0,401927136
+2026-11-17T16:00:00Z,2026,caf.nations_qual,Libya,Tunisia,1,1,0,401927137
+2026-11-17T16:00:00Z,2026,caf.nations_qual,Guinea-Bissau,Madagascar,2,0,0,401927166
+2026-11-17T16:00:00Z,2026,caf.nations_qual,Sierra Leone,Congo DR,1,1,0,401927174
+2026-11-17T16:00:00Z,2026,caf.nations_qual,Kenya,South Africa,1,2,0,401927175
+2026-11-17T16:00:00Z,2026,caf.nations_qual,Gambia,Ivory Coast,2,2,0,401927182
+2026-11-17T16:00:00Z,2025,uefa.euro_u21_qual,Czechia U21,Türkiye U21,1,1,0,401929695
+2026-11-17T16:00:00Z,2026,fifa.friendly,Russia,Venezuela,2,0,0,401930978
+2026-11-17T16:00:00Z,2026,fifa.friendly_u21,Egypt U21,Japan U21,0,0,0,401934336
+2026-11-17T16:15:00Z,2026,fifa.friendly,Iraq,Iran,1,1,0,401933615
+2026-11-17T16:30:00Z,2026,fifa.friendly,Kuwait,Honduras,0,2,0,401931956
+2026-11-17T17:00:00Z,2026,fifa.friendly_u21,Croatia U21,Germany U21,3,2,0,401931797
+2026-11-17T17:00:00Z,2026,fifa.friendly_u21,Poland U21,Serbia U21,1,0,0,401933436
+2026-11-17T17:30:00Z,2025,uefa.euro_u21_qual,Netherlands U21,Denmark U21,2,3,0,401929698
+2026-11-17T17:30:00Z,2026,fifa.friendly_u21,Portugal U21,Norway U21,1,0,0,401931799
+2026-11-17T17:45:00Z,2025,uefa.euro_u21_qual,Republic of Ireland U21,Finland U21,2,2,0,401929696
+2026-11-17T18:00:00Z,2026,fifa.friendly_u21,Albania U21,Spain U21,0,0,0,401932217
+2026-11-17T19:00:00Z,2026,eng.trophy,Luton Town,Peterborough United,3,0,0,401906326
+2026-11-17T19:00:00Z,2026,caf.nations_qual,Rwanda,Mali,0,2,0,401927134
+2026-11-17T19:00:00Z,2026,caf.nations_qual,Botswana,Uganda,1,1,0,401927138
+2026-11-17T19:00:00Z,2026,caf.nations_qual,Congo,Comoros,0,1,0,401927139
+2026-11-17T19:00:00Z,2026,caf.nations_qual,Liberia,Cape Verde,2,0,0,401927167
+2026-11-17T19:00:00Z,2026,caf.nations_qual,Mauritania,Burkina Faso,1,3,0,401927171
+2026-11-17T19:00:00Z,2026,concacaf.nations.league,Belize,Sint Maarten,1,2,0,401929704
+2026-11-17T19:00:00Z,2026,concacaf.nations.league,St. Kitts and Nevis,Bonaire,3,2,0,401929767
+2026-11-17T19:00:00Z,2026,concacaf.nations.league,St. Lucia,Barbados,2,0,0,401929768
+2026-11-17T19:00:00Z,2026,concacaf.nations.league,Dominica,Cayman Islands,5,0,0,401929769
+2026-11-17T19:45:00Z,2026,uefa.nations,Wales,Portugal,2,3,0,401861189
+2026-11-17T19:45:00Z,2026,uefa.nations,Ukraine,Georgia,1,0,0,401861190
+2026-11-17T19:45:00Z,2026,uefa.nations,Hungary,Northern Ireland,1,1,0,401861191
+2026-11-17T19:45:00Z,2026,uefa.nations,Republic of Ireland,Kosovo,3,0,0,401861192
+2026-11-17T19:45:00Z,2026,uefa.nations,Israel,Austria,1,1,0,401861193
+2026-11-17T19:45:00Z,2026,uefa.nations,Denmark,Norway,2,3,0,401861194
+2026-11-17T19:45:00Z,2026,uefa.nations,Poland,Sweden,1,1,0,401861195
+2026-11-17T19:45:00Z,2026,uefa.nations,Bosnia-Herzegovina,Romania,2,1,0,401861196
+2026-11-17T20:00:00Z,2026,caf.nations_qual,Niger,Morocco,0,1,0,401927180
+2026-11-17T23:00:00Z,2026,fifa.friendly,Chile,Colombia,0,0,0,401921304
+2026-11-17T23:00:00Z,2026,fifa.friendly,Argentina,Costa Rica,7,0,0,401930895
+2026-11-17T23:30:00Z,2026,fifa.friendly,Ecuador,Bolivia,2,0,0,401930899
+2026-11-17T23:30:00Z,2026,fifa.friendly,Uruguay,Dominican Republic,5,0,0,401932215
+2026-11-17T23:30:00Z,2026,col.copa,Atlético Nacional,Once Caldas,2,2,0,401933183
+2026-11-18T00:00:00Z,2026,concacaf.nations.league,French Guiana,St. Vincent and the Grenadines,1,0,0,401929765
+2026-11-18T00:00:00Z,2026,concacaf.nations.league,United States,Haiti,2,0,0,401929766
+2026-11-18T01:00:00Z,2026,concacaf.nations.league,El Salvador,St. Martin,3,1,0,401929764
+2026-11-18T01:30:00Z,2026,col.copa,América de Cali,Internacional de Bogotá,1,1,0,401933121
+2026-11-18T02:30:00Z,2026,concacaf.nations.league,Mexico,Jamaica,1,0,0,401929763
+2026-11-18T03:00:00Z,2026,concacaf.nations.league,Nicaragua,Montserrat,2,0,0,401929703
