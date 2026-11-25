@@ -1091,3 +1091,6 @@ date,season,league,home,away,home_score,away_score,neutral,espn_id
 2026-11-24T01:30:00Z,2027,nba,Houston Rockets,LA Clippers,116,104,0,401910043
 2026-11-24T03:00:00Z,2027,nba,Los Angeles Lakers,Utah Jazz,109,94,0,401910044
 2026-11-24T03:00:00Z,2027,nba,Sacramento Kings,San Antonio Spurs,107,123,0,401910045
+2026-11-25T00:00:00Z,2027,nba,Orlando Magic,Detroit Pistons,86,104,0,401909314
+2026-11-25T01:00:00Z,2027,nba,Washington Wizards,Boston Celtics,116,131,0,401909315
+2026-11-25T03:00:00Z,2027,nba,Denver Nuggets,Dallas Mavericks,101,120,0,401909316
